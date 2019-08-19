@@ -23,11 +23,16 @@
     ],
     "ware": [],
     "morph_traits": [],
-    "common_extras": ["Many have the Genetic Defect trait."],
+    "common_extras": [
+      "Many have the Genetic Defect trait."
+    ],
     "notes": [],
     "common_shape_adjustments": [],
     "image": "flat.png",
-    "description": "Flats are baseline unmodified humans, born with all of the natural defects, hereditary diseases, and other genetic mutations that evolution so lovingly applies. Flats are increasingly rare outside bioconservative enclaves — most died off with the rest of humanity during the Fall."
+    "description": "Flats are baseline unmodified humans, born with all of the natural defects, hereditary diseases, and other genetic mutations that evolution so lovingly applies. Flats are increasingly rare outside bioconservative enclaves - most died off with the rest of humanity during the Fall.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "09f95665-f897-4abc-bf5d-9250aa473a20"
   },
   {
     "name": "Splicer",
@@ -51,13 +56,20 @@
         "full": 20
       }
     ],
-    "ware": ["Biomods", "Cortical Stack", "Mesh Inserts"],
+    "ware": [
+      "Biomods",
+      "Cortical Stack",
+      "Mesh Inserts"
+    ],
     "morph_traits": [],
     "common_extras": [],
     "notes": [],
     "common_shape_adjustments": [],
     "image": "splicer.png",
-    "description": "Splicers are genefixed humans. Their genome cleansed of hereditary diseases and optimized for looks and health, but not otherwise substantially upgraded. Splicers make up the majority of transhumanity."
+    "description": "Splicers are genefixed humans. Their genome cleansed of hereditary diseases and optimized for looks and health, but not otherwise substantially upgraded. Splicers make up the majority of transhumanity.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "d06d9ade-35cd-458b-9f57-fdff1879e6f5"
   },
   {
     "name": "Exalt",
@@ -81,13 +93,20 @@
         "full": 20
       }
     ],
-    "ware": ["Biomods", "Cortical Stack", "Mesh Inserts"],
+    "ware": [
+      "Biomods",
+      "Cortical Stack",
+      "Mesh Inserts"
+    ],
     "morph_traits": [],
     "common_extras": [],
     "notes": [],
     "common_shape_adjustments": [],
     "image": null,
-    "description": "Exalts are the common, non-specialized “enhanced human” model. They are genetically upgraded to make them healthier, smarter, and more attractive (based on everevolving beauty standards). A modified metabolism keeps them fit and athletic for the duration of an extended lifespan."
+    "description": "Exalts are the common, non-specialized 'enhanced human' model. They are genetically upgraded to make them healthier, smarter, and more attractive (based on everevolving beauty standards). A modified metabolism keeps them fit and athletic for the duration of an extended lifespan.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "b3cc63b1-91f4-43ec-bc01-2ef09383be53"
   },
   {
     "name": "Neotenic",
@@ -124,10 +143,15 @@
       }
     ],
     "common_extras": [],
-    "notes": ["Small size"],
+    "notes": [
+      "Small size"
+    ],
     "common_shape_adjustments": [],
     "image": "neotenic.png",
-    "description": "Neotenics are transhumans modified to retain a child-like form. They are smaller, more agile, inquisitive, and less resource-depleting, making them ideal for habitat living and spacecraft. Some people find neotenic sleeves distasteful, especially when employed in certain media and sex work capacities, but most are designed to be neuter-gendered."
+    "description": "Neotenics are transhumans modified to retain a child-like form. They are smaller, more agile, inquisitive, and less resource-depleting, making them ideal for habitat living and spacecraft. Some people find neotenic sleeves distasteful, especially when employed in certain media and sex work capacities, but most are designed to be neuter-gendered.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "cd16c444-82d0-48ab-a82c-da804e0cd534"
   },
   {
     "name": "Ruster",
@@ -160,11 +184,16 @@
       "radiation Sense"
     ],
     "morph_traits": [],
-    "common_extras": ["Many have the Planned Obsolescence trait."],
+    "common_extras": [
+      "Many have the Planned Obsolescence trait."
+    ],
     "notes": [],
     "common_shape_adjustments": [],
     "image": "ruster.png",
-    "description": "Adapted for survival with minimum gear in the not-fully-terraformed Martian environment, these transgenic morphs feature insulated skin for more effective thermoregulation and respiratory system improvements to require less oxygen and filter carbon dioxide, among other mods."
+    "description": "Adapted for survival with minimum gear in the not-fully-terraformed Martian environment, these transgenic morphs feature insulated skin for more effective thermoregulation and respiratory system improvements to require less oxygen and filter carbon dioxide, among other mods.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "3c711940-43b2-42f3-8115-5f3e1f147fd7"
   },
   {
     "name": "Bouncer",
@@ -207,7 +236,10 @@
     "notes": [],
     "common_shape_adjustments": [],
     "image": "bouncer.png",
-    "description": "Bouncers are genetically adapted for microgravity. Their legs are more limber and their feet can grasp as well as their hands. They can tolerate the cold temperatures of beehive tunnels and have an oxygen reserve in case they are exposed to vacuum. Bouncers are very common in the outer system and zero-g habitats."
+    "description": "Bouncers are genetically adapted for microgravity. Their legs are more limber and their feet can grasp as well as their hands. They can tolerate the cold temperatures of beehive tunnels and have an oxygen reserve in case they are exposed to vacuum. Bouncers are very common in the outer system and zero-g habitats.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "3bc79509-f8f4-4275-8155-b4f4590d8d2e"
   },
   {
     "name": "Futura",
@@ -231,13 +263,20 @@
         "full": 20
       }
     ],
-    "ware": ["Biomods", "Cortical Stack", "Mesh Inserts"],
+    "ware": [
+      "Biomods",
+      "Cortical Stack",
+      "Mesh Inserts"
+    ],
     "morph_traits": [],
     "common_extras": [],
     "notes": [],
     "common_shape_adjustments": [],
     "image": "futura.png",
-    "description": "Futura morphs were specially crafted for the “Lost Generation” of accelerated-growth children. Adjusted for confidence, self-reliance, and adaptability, futuras were intended to help transhumanity regain its foothold. These programs proved disastrous and the line was discontinued, but some models and various spin-offs remain, viewed by some with distaste and others as collectibles or exotic oddities."
+    "description": "Futura morphs were specially crafted for the 'Lost Generation' of accelerated-growth children. Adjusted for confidence, self-reliance, and adaptability, futuras were intended to help transhumanity regain its foothold. These programs proved disastrous and the line was discontinued, but some models and various spin-offs remain, viewed by some with distaste and others as collectibles or exotic oddities.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "5e6185bb-31cc-47c7-bb29-7639d4a2b48a"
   },
   {
     "name": "Hibernoid",
@@ -275,7 +314,10 @@
     "notes": [],
     "common_shape_adjustments": [],
     "image": "hibernoid.png",
-    "description": "Hibernoids are transgenic-modified humans with heavily altered sleep patterns and metabolic processes. Hibernoids have a decreased need for sleep, requiring only 1–2 hours a day on average. They can also trigger a form of voluntary hibernation, effectively halting their metabolism and need for oxygen. Hibernoids make excellent long-duration space travelers, but these morphs are also favored by personal aides and hypercapitalists with non-stop lifestyles."
+    "description": "Hibernoids are transgenic-modified humans with heavily altered sleep patterns and metabolic processes. Hibernoids have a decreased need for sleep, requiring only 1-2 hours a day on average. They can also trigger a form of voluntary hibernation, effectively halting their metabolism and need for oxygen. Hibernoids make excellent long-duration space travelers, but these morphs are also favored by personal aides and hypercapitalists with non-stop lifestyles.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "804635d3-f5fa-4fe8-850c-a1fb708d5fe7"
   },
   {
     "name": "Menton",
@@ -299,13 +341,21 @@
         "full": 20
       }
     ],
-    "ware": ["Biomods", "Cortical Stack", "Mesh Inserts", "Mnemonics"],
+    "ware": [
+      "Biomods",
+      "Cortical Stack",
+      "Mesh Inserts",
+      "Mnemonics"
+    ],
     "morph_traits": [],
     "common_extras": [],
     "notes": [],
     "common_shape_adjustments": [],
     "image": null,
-    "description": "Mentons are genetically modified to increase cognitive abilities, particularly learning ability, creativity, attentiveness, and memory. They are favored by academics, intellectuals, scientists, and engineers."
+    "description": "Mentons are genetically modified to increase cognitive abilities, particularly learning ability, creativity, attentiveness, and memory. They are favored by academics, intellectuals, scientists, and engineers.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "9148d9d5-60fe-4642-a9ce-8213c024e031"
   },
   {
     "name": "Olympian",
@@ -329,13 +379,20 @@
         "full": 20
       }
     ],
-    "ware": ["Biomods", "Cortical Stack", "Mesh Inserts"],
+    "ware": [
+      "Biomods",
+      "Cortical Stack",
+      "Mesh Inserts"
+    ],
     "morph_traits": [],
     "common_extras": [],
     "notes": [],
     "common_shape_adjustments": [],
     "image": "olympian.png",
-    "description": "Olympians are human upgrades with improved athletic capabilities like endurance, hand-eye coordination, and cardiovascular functions. Olympians are common among athletes, dancers, freerunners, gatecrashers, and soldiers."
+    "description": "Olympians are human upgrades with improved athletic capabilities like endurance, hand-eye coordination, and cardiovascular functions. Olympians are common among athletes, dancers, freerunners, gatecrashers, and soldiers.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "b39a0179-daa6-43a8-a8df-3eae7a6255bd"
   },
   {
     "name": "Sylph",
@@ -367,11 +424,16 @@
       "mesh Inserts"
     ],
     "morph_traits": [],
-    "common_extras": ["Many have the Striking Looks trait."],
+    "common_extras": [
+      "Many have the Striking Looks trait."
+    ],
     "notes": [],
     "common_shape_adjustments": [],
     "image": null,
-    "description": "Sylph morphs are ideal for media icons, elite socialites, XP stars, models, and narcissists. Sylph gene sequences are tailored for distinctive good looks, ethereal and elfin features, and slim and lithe bodies. Their metabolism has also been sanitized to eliminate unpleasant bodily odors and their pheromones adjusted for universal appeal."
+    "description": "Sylph morphs are ideal for media icons, elite socialites, XP stars, models, and narcissists. Sylph gene sequences are tailored for distinctive good looks, ethereal and elfin features, and slim and lithe bodies. Their metabolism has also been sanitized to eliminate unpleasant bodily odors and their pheromones adjusted for universal appeal.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "92e09642-b0a0-4712-b483-9b1757aa8f4a"
   },
   {
     "name": "Fury",
@@ -419,7 +481,10 @@
     "notes": [],
     "common_shape_adjustments": [],
     "image": "fury.png",
-    "description": "Furies are combat morphs. These transgenic humans are upgraded for endurance, strength, reflexes, and capacity to handle physical trauma. Behavioral modifications for aggressiveness are offset by gene sequences promoting pack mentalities and cooperation, and they tend to be biologically female."
+    "description": "Furies are combat morphs. These transgenic humans are upgraded for endurance, strength, reflexes, and capacity to handle physical trauma. Behavioral modifications for aggressiveness are offset by gene sequences promoting pack mentalities and cooperation, and they tend to be biologically female.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "f5855d81-fab4-419a-8112-be3002f44942"
   },
   {
     "name": "Ghost",
@@ -456,11 +521,16 @@
         "level": 2
       }
     ],
-    "common_extras": ["Many are equipped with adrenal surge, skinflex."],
+    "common_extras": [
+      "Many are equipped with adrenal surge, skinflex."
+    ],
     "notes": [],
     "common_shape_adjustments": [],
     "image": "ghost.png",
-    "description": "Ghosts are partially designed for combat applications, but their primary focus is stealth and infiltration. Their genetic profile encourages speed, agility, and reflexes, and their minds are modified for patience and problem-solving."
+    "description": "Ghosts are partially designed for combat applications, but their primary focus is stealth and infiltration. Their genetic profile encourages speed, agility, and reflexes, and their minds are modified for patience and problem-solving.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "32d44b9a-e3f3-4dae-b772-69468339620c"
   },
   {
     "name": "Remade",
@@ -504,7 +574,10 @@
     "notes": [],
     "common_shape_adjustments": [],
     "image": "remade.png",
-    "description": "The remade are completely redesigned: humans 2.0. Their cardiovascular system is stronger, their digestive tract sanitized and restructured, and they have been optimized for health, intelligence, and longevity with numerous transgenic mods. They look close to human, but are different in very noticeable and sometimes eerie ways: taller, lack of hair, slightly larger craniums, wider eyes, smaller noses, smaller teeth, and elongated digits. The remade are popular with the Ultimates faction."
+    "description": "The remade are completely redesigned: humans 2.0. Their cardiovascular system is stronger, their digestive tract sanitized and restructured, and they have been optimized for health, intelligence, and longevity with numerous transgenic mods. They look close to human, but are different in very noticeable and sometimes eerie ways: taller, lack of hair, slightly larger craniums, wider eyes, smaller noses, smaller teeth, and elongated digits. The remade are popular with the Ultimates faction.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "3e37e71e-453b-454a-a725-11d4d065e0cb"
   },
   {
     "name": "Basic Pod",
@@ -547,7 +620,10 @@
     "notes": [],
     "common_shape_adjustments": [],
     "image": "basicpod.png",
-    "description": "These original general-purpose models are designed to keep the buyer/user dependent on the manufacturer."
+    "description": "These original general-purpose models are designed to keep the buyer/user dependent on the manufacturer.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "2b427f89-aedd-436e-963a-b964e668304d"
   },
   {
     "name": "Worker Pod",
@@ -590,7 +666,10 @@
     "notes": [],
     "common_shape_adjustments": [],
     "image": "workerpod.png",
-    "description": "These original general-purpose models are designed to keep the buyer/user dependent on the manufacturer."
+    "description": "These original general-purpose models are designed to keep the buyer/user dependent on the manufacturer.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "f957a4e9-51dd-44b4-b977-8e6488f4e79a"
   },
   {
     "name": "Novacrab",
@@ -640,10 +719,15 @@
       }
     ],
     "common_extras": [],
-    "notes": ["Claw Attack (DV 2d10)"],
+    "notes": [
+      "Claw Attack (DV 2d10)"
+    ],
     "common_shape_adjustments": [],
     "image": "novacrab.png",
-    "description": "Bioengineered from coconut crab and spider crab stock and grown to a larger (human) size, novacrabs are ideal for hazardous work environments as well as vacworker, police, or bodyguard duties. They climb and handle microgravity well and can withstand a wide range of atmospheric pressure (and sudden pressure changes) from vacuum to deep sea. They are equipped with ten 2-meter long legs, massive claws, chitinous armor, compound eyes (with human-equivalent image resolution), gills, dexterous manipu- latory digits on their fifth set of limbs, and transgenic vocal cords."
+    "description": "Bioengineered from coconut crab and spider crab stock and grown to a larger (human) size, novacrabs are ideal for hazardous work environments as well as vacworker, police, or bodyguard duties. They climb and handle microgravity well and can withstand a wide range of atmospheric pressure (and sudden pressure changes) from vacuum to deep sea. They are equipped with ten 2-meter long legs, massive claws, chitinous armor, compound eyes (with human-equivalent image resolution), gills, dexterous manipu- latory digits on their fifth set of limbs, and transgenic vocal cords.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "228b953b-f5aa-428d-b288-4a06ad3f329a"
   },
   {
     "name": "Pleasure Pod",
@@ -681,11 +765,16 @@
       "sex Switch"
     ],
     "morph_traits": [],
-    "common_extras": ["Many have Striking Looks or Addiction."],
+    "common_extras": [
+      "Many have Striking Looks or Addiction."
+    ],
     "notes": [],
     "common_shape_adjustments": [],
     "image": "pleasurepod.png",
-    "description": "Pleasure pods are faux humans intended for intimate entertainment purposes and indulgent hedonism. Their biology includes extra nerve clusters in their eroge- nous zones, fine motor control over certain muscle groups, enhanced pheromones, sanitized metabolisms, and the capability to purr. They are capable of switching between multiple sex configurations and are often enhanced in other areas."
+    "description": "Pleasure pods are faux humans intended for intimate entertainment purposes and indulgent hedonism. Their biology includes extra nerve clusters in their eroge- nous zones, fine motor control over certain muscle groups, enhanced pheromones, sanitized metabolisms, and the capability to purr. They are capable of switching between multiple sex configurations and are often enhanced in other areas.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "b2bb11e9-c687-42d2-b095-10d5c45a6552"
   },
   {
     "name": "Security Pod",
@@ -730,7 +819,10 @@
     "notes": [],
     "common_shape_adjustments": [],
     "image": "securitypod.png",
-    "description": "Security pods were originally manufactured as mass-produced AI-operated soldiers for joint peacekeeping missions and enclave border/security roles. Many were co-opted by the TITANs during the Fall, so they fell out of favor for many years, but a demand for cheap mercenary morphs has revived interest."
+    "description": "Security pods were originally manufactured as mass-produced AI-operated soldiers for joint peacekeeping missions and enclave border/security roles. Many were co-opted by the TITANs during the Fall, so they fell out of favor for many years, but a demand for cheap mercenary morphs has revived interest.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "c0e8fded-eab7-470c-ad82-78ebcab800cb"
   },
   {
     "name": "Shaper",
@@ -774,7 +866,10 @@
     "notes": [],
     "common_shape_adjustments": [],
     "image": "shaper.png",
-    "description": "Shapers are designed for infiltration and disguise. They lack the seamlines common to pods and incorporate ware that allows them to alter their appearance. Favored by spies and criminals, they are illegal in many habitats."
+    "description": "Shapers are designed for infiltration and disguise. They lack the seamlines common to pods and incorporate ware that allows them to alter their appearance. Favored by spies and criminals, they are illegal in many habitats.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "60baf60a-6b84-49a4-9f80-aa0588f60696"
   },
   {
     "name": "Neo-Avian",
@@ -824,10 +919,16 @@
       }
     ],
     "common_extras": [],
-    "notes": ["Beak/Claw Attack (DV 2d6)", "Small size"],
+    "notes": [
+      "Beak/Claw Attack (DV 2d6)",
+      "Small size"
+    ],
     "common_shape_adjustments": [],
     "image": "neoavian.png",
-    "description": "Neo-avians include ravens, crows, and gray parrots uplifted to human-level intelligence. Their physical sizes are much larger than their non-uplifted cousins (to the size of a human child), with larger heads for their increased brain size. Numerous transgenic modifications have been made to their wings, allowing them to retain limited flight capabilities at 1 g, but giving them a more bat-like physiology so they can bend and fold better and adding primitive digits for basic tool manipulation. Their toes are also more articulated and now accompa- nied with an opposable thumb. Neo-avians have adapted well to microgravity environ- ments, and are favored for their small size and reduced resource use."
+    "description": "Neo-avians include ravens, crows, and gray parrots uplifted to human-level intelligence. Their physical sizes are much larger than their non-uplifted cousins (to the size of a human child), with larger heads for their increased brain size. Numerous transgenic modifications have been made to their wings, allowing them to retain limited flight capabilities at 1 g, but giving them a more bat-like physiology so they can bend and fold better and adding primitive digits for basic tool manipulation. Their toes are also more articulated and now accompa- nied with an opposable thumb. Neo-avians have adapted well to microgravity environ- ments, and are favored for their small size and reduced resource use.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "7cbb6254-446b-4624-a44c-459ad88a2765"
   },
   {
     "name": "Neo-Bonobo/Neo-Chimpanzee",
@@ -872,7 +973,10 @@
     "notes": [],
     "common_shape_adjustments": [],
     "image": null,
-    "description": "Like other neo-hominids, uplifted bonobo and chimpanzee morphs feature enhanced intelligence and bipedal frames. Their long arms and prehensile feet are a boon for climbing and maneuvering in micro- gravity environments. They retain the body hair of their forebears, though it is a common cultural practice to dye, stylize, or otherwise manipulate it. Transgenic vocal systems allow them to speak as humans do."
+    "description": "Like other neo-hominids, uplifted bonobo and chimpanzee morphs feature enhanced intelligence and bipedal frames. Their long arms and prehensile feet are a boon for climbing and maneuvering in micro- gravity environments. They retain the body hair of their forebears, though it is a common cultural practice to dye, stylize, or otherwise manipulate it. Transgenic vocal systems allow them to speak as humans do.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "063a748e-5f64-4cc5-adb9-cfa754d829be"
   },
   {
     "name": "Neo-Neanderthal",
@@ -896,7 +1000,11 @@
         "full": 20
       }
     ],
-    "ware": ["Biomods", "Cortical Stack", "Mesh Inserts"],
+    "ware": [
+      "Biomods",
+      "Cortical Stack",
+      "Mesh Inserts"
+    ],
     "morph_traits": [
       {
         "name": "Non-Human Biochemistry",
@@ -907,7 +1015,10 @@
     "notes": [],
     "common_shape_adjustments": [],
     "image": "neoneanderthal.png",
-    "description": "This morph is derived from fossilized Neanderthal DNA, uplifted and enhanced to transhuman equivalence. Neanderthal morphs appear muscular with a heavy bone structure, distinctively long skulls, heavy brow ridges, and weak chins. Pale complex- ions and red hair are common features."
+    "description": "This morph is derived from fossilized Neanderthal DNA, uplifted and enhanced to transhuman equivalence. Neanderthal morphs appear muscular with a heavy bone structure, distinctively long skulls, heavy brow ridges, and weak chins. Pale complex- ions and red hair are common features.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "4bafc3af-6721-4c75-9a21-36332884ad2d"
   },
   {
     "name": "Neo-Gorilla",
@@ -952,7 +1063,10 @@
     "notes": [],
     "common_shape_adjustments": [],
     "image": "neogorilla.png",
-    "description": "Neo-gorillas benefit from enhanced cognition and upright stances like other neo-hominids, though they are not as adept at climbing. They stand roughly as tall as humans and have stronger and larger frames."
+    "description": "Neo-gorillas benefit from enhanced cognition and upright stances like other neo-hominids, though they are not as adept at climbing. They stand roughly as tall as humans and have stronger and larger frames.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "8678fe5f-99b6-423a-ac17-ca4cbcc08a0f"
   },
   {
     "name": "Neo-Octopus",
@@ -1017,7 +1131,10 @@
     ],
     "common_shape_adjustments": [],
     "image": "neooctopus.png",
-    "description": "Colloquially known as “octomorphs,” these uplifted octopus sleeves are quite useful in zero-gravity environments. They retain eight arms, their chameleon ability to change skin color, ink sacs, and a sharp beak. They also have increased brain mass and longevity, can breathe both air and water, and lack a skeletal structure so they can squeeze through tight spaces. Octomorphs typically crawl along in zero gravity using their arm suckers and expelling air for propulsion; in low gravity they walk on two of their arms. Their eyes have been enhanced with color vision, provide a 360-degree field of vision, and rotationally adjust to keep the slit-shaped pupil aligned with “up.” A transgenic vocal system allows them to speak."
+    "description": "Colloquially known as 'octomorphs,' these uplifted octopus sleeves are quite useful in zero-gravity environments. They retain eight arms, their chameleon ability to change skin color, ink sacs, and a sharp beak. They also have increased brain mass and longevity, can breathe both air and water, and lack a skeletal structure so they can squeeze through tight spaces. Octomorphs typically crawl along in zero gravity using their arm suckers and expelling air for propulsion; in low gravity they walk on two of their arms. Their eyes have been enhanced with color vision, provide a 360-degree field of vision, and rotationally adjust to keep the slit-shaped pupil aligned with 'up.' A transgenic vocal system allows them to speak.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "9d57a4d4-f258-4fc6-b569-0f6640f94e76"
   },
   {
     "name": "Neo-Orangutan",
@@ -1063,10 +1180,15 @@
       }
     ],
     "common_extras": [],
-    "notes": ["Reach (+10)"],
+    "notes": [
+      "Reach (+10)"
+    ],
     "common_shape_adjustments": [],
     "image": "neoorangutan.png",
-    "description": "Neo-orangutans have the same uplifted features as their neo-hominid cousins. Compared to humans, their legs are shorter and arms longer. Neo-orangutans tend to be more solitary than social."
+    "description": "Neo-orangutans have the same uplifted features as their neo-hominid cousins. Compared to humans, their legs are shorter and arms longer. Neo-orangutans tend to be more solitary than social.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "d8c47002-9424-4dcb-8f86-99ce4289dd30"
   },
   {
     "name": "Case",
@@ -1110,10 +1232,15 @@
       }
     ],
     "common_extras": [],
-    "notes": ["Light Frame (Armor 6/4)"],
+    "notes": [
+      "Light Frame (Armor 6/4)"
+    ],
     "common_shape_adjustments": [],
     "image": "case.png",
-    "description": "Cases are mass-produced robotic shells, an affordable resleeving option for the poor, though of notoriously poor quality. They are available in many varieties to suit a client’s taste. Most case morphs are anthropomor- phic, with a thin framework body standing just shorter than an average human."
+    "description": "Cases are mass-produced robotic shells, an affordable resleeving option for the poor, though of notoriously poor quality. They are available in many varieties to suit a client's taste. Most case morphs are anthropomor- phic, with a thin framework body standing just shorter than an average human.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "0d4d59c1-58e5-422f-a395-139693e851e3"
   },
   {
     "name": "Dragonfly",
@@ -1160,10 +1287,16 @@
       }
     ],
     "common_extras": [],
-    "notes": ["Light Frame (Armor 6/4)", "Small size"],
+    "notes": [
+      "Light Frame (Armor 6/4)",
+      "Small size"
+    ],
     "common_shape_adjustments": [],
     "image": "dragonfly.png",
-    "description": "The dragonfly takes the shape of a meter- long flexible shell with eight wings, four manipulator limbs, and a prehensile tail. Capable of near-silent flight in Earth gravity, dragonfly bots fare even better in micro- gravity. Their wings operate independently and can rotate, allowing for graceful maneuvering, hovering, and tight turns."
+    "description": "The dragonfly takes the shape of a meter- long flexible shell with eight wings, four manipulator limbs, and a prehensile tail. Capable of near-silent flight in Earth gravity, dragonfly bots fare even better in micro- gravity. Their wings operate independently and can rotate, allowing for graceful maneuvering, hovering, and tight turns.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "de30a468-25f6-4294-8f58-a7eeff0fa9b7"
   },
   {
     "name": "Synth",
@@ -1203,10 +1336,15 @@
       }
     ],
     "common_extras": [],
-    "notes": ["Light Frame (Armor 6/4)"],
+    "notes": [
+      "Light Frame (Armor 6/4)"
+    ],
     "common_shape_adjustments": [],
     "image": "synth.png",
-    "description": "Synths are even more humanoid than cases and of better quality. They are commonly deployed for labor-intensive tasks in environments not suited for biomorphs or for people who need a body quickly and cheaply or simply on a transient basis. Most designs are anthropomorphic, though various alternatives exist, including some based on uplift physiology."
+    "description": "Synths are even more humanoid than cases and of better quality. They are commonly deployed for labor-intensive tasks in environments not suited for biomorphs or for people who need a body quickly and cheaply or simply on a transient basis. Most designs are anthropomorphic, though various alternatives exist, including some based on uplift physiology.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "e37c4a21-2d6c-46d6-864f-117460efd3dc"
   },
   {
     "name": "Spare",
@@ -1249,10 +1387,16 @@
       }
     ],
     "common_extras": [],
-    "notes": ["Light Frame (Armor 6/4)", "Small size"],
+    "notes": [
+      "Light Frame (Armor 6/4)",
+      "Small size"
+    ],
     "common_shape_adjustments": [],
     "image": "spare.png",
-    "description": "Spares are small, portable shells designed as a temporary replacement sleeve should your primary morph be killed/destroyed. They are common gear for gatecrashing missions. Packed as a flat 15-centimeter disc, when activated they pop into a six-limbed spherical shape. Just plug your original cortical stack in and you are ready to go. Built-in stress-management systems help survivors handle the trauma of their recent death."
+    "description": "Spares are small, portable shells designed as a temporary replacement sleeve should your primary morph be killed/destroyed. They are common gear for gatecrashing missions. Packed as a flat 15-centimeter disc, when activated they pop into a six-limbed spherical shape. Just plug your original cortical stack in and you are ready to go. Built-in stress-management systems help survivors handle the trauma of their recent death.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "227af3b8-5395-40e6-af91-0e9dea84aee5"
   },
   {
     "name": "Swarmanoid",
@@ -1303,10 +1447,16 @@
       }
     ],
     "common_extras": [],
-    "notes": ["Swarm Attack (DV 1d6, ignores armor, blinding)", "Comes with specialized swarmanoid hive"],
+    "notes": [
+      "Swarm Attack (DV 1d6, ignores armor, blinding)",
+      "Comes with specialized swarmanoid hive"
+    ],
     "common_shape_adjustments": [],
     "image": "swarmanoid.png",
-    "description": "Swarmanoids are swarms composed of hundreds of insect-sized microbots. Each individual “bug” is capable of crawling, rolling, hopping several meters, or using nanocopter fan blades for airlift. The cyberbrain, cortical stack, and sensor systems are distributed throughout the swarm. Though the swarm can “meld” together into various loose shapes, it is incapable of physical tasks like grabbing, lifting, or holding. Individual bots are linked by radio and laser and are quite capable of interfacing with electronics. Swarmanoids follow swarm rules."
+    "description": "Swarmanoids are swarms composed of hundreds of insect-sized microbots. Each individual 'bug' is capable of crawling, rolling, hopping several meters, or using nanocopter fan blades for airlift. The cyberbrain, cortical stack, and sensor systems are distributed throughout the swarm. Though the swarm can 'meld' together into various loose shapes, it is incapable of physical tasks like grabbing, lifting, or holding. Individual bots are linked by radio and laser and are quite capable of interfacing with electronics. Swarmanoids follow swarm rules.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "7a692669-d97b-4f6c-850f-d01c1fd4e566"
   },
   {
     "name": "Savant",
@@ -1346,10 +1496,15 @@
       }
     ],
     "common_extras": [],
-    "notes": ["Light Frame (Armor 6/4)"],
+    "notes": [
+      "Light Frame (Armor 6/4)"
+    ],
     "common_shape_adjustments": [],
     "image": "savant.png",
-    "description": "Developed by brinker hardware hackers, savants feature neural-state enhancements that make them appealing to engineers, scientists, and intellectuals."
+    "description": "Developed by brinker hardware hackers, savants feature neural-state enhancements that make them appealing to engineers, scientists, and intellectuals.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "28c73694-4af3-4b0e-acbf-ec5db6fc5de0"
   },
   {
     "name": "Galatea",
@@ -1391,10 +1546,15 @@
       }
     ],
     "common_extras": [],
-    "notes": ["Light Frame (Armor 6/4)"],
+    "notes": [
+      "Light Frame (Armor 6/4)"
+    ],
     "common_shape_adjustments": [],
     "image": "galatea.png",
-    "description": "This high-end shell was designed to increase the appeal and social acceptance of synthmorphs. Galateas look expensive and their mental architecture is crafted to enhance the wearer’s personality and charm. Though many media icons have embraced this morph’s novelty, biochauvinists still view it as a monstrosity."
+    "description": "This high-end shell was designed to increase the appeal and social acceptance of synthmorphs. Galateas look expensive and their mental architecture is crafted to enhance the wearer's personality and charm. Though many media icons have embraced this morph's novelty, biochauvinists still view it as a monstrosity.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "7511f23d-3c32-414b-9d87-fd26cb1c319d"
   },
   {
     "name": "Slitheroid",
@@ -1440,10 +1600,15 @@
       }
     ],
     "common_extras": [],
-    "notes": ["Medium Frame (Armor 8/6)"],
+    "notes": [
+      "Medium Frame (Armor 8/6)"
+    ],
     "common_shape_adjustments": [],
     "image": "slitheroid.png",
-    "description": "Slitheroid shells take the form of a humanoid torso with retractable arms atop a 2-meter-long segmented metallic snake. Slitheroids use lateral undulation to move, though they can also pull themselves along by their arms or coil, twist, and roll their bodies like a ball or hoop."
+    "description": "Slitheroid shells take the form of a humanoid torso with retractable arms atop a 2-meter-long segmented metallic snake. Slitheroids use lateral undulation to move, though they can also pull themselves along by their arms or coil, twist, and roll their bodies like a ball or hoop.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "e681bd02-5904-4e00-aa96-9eab96d1d46b"
   },
   {
     "name": "Steel Morph",
@@ -1483,10 +1648,15 @@
       }
     ],
     "common_extras": [],
-    "notes": ["Medium Frame (Armor 8/6)"],
+    "notes": [
+      "Medium Frame (Armor 8/6)"
+    ],
     "common_shape_adjustments": [],
     "image": "steel.png",
-    "description": "Like the galatea, this upscale shell was designed to counter biochauvinist attitudes and make synthmorphs more appealing. Where the galatea is optimized for social interaction, steel morphs provide enhanced physical capabilities for both work and recreation."
+    "description": "Like the galatea, this upscale shell was designed to counter biochauvinist attitudes and make synthmorphs more appealing. Where the galatea is optimized for social interaction, steel morphs provide enhanced physical capabilities for both work and recreation.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "78cdf00b-1d76-427d-9e20-60e51b6984d3"
   },
   {
     "name": "Arachnoid",
@@ -1544,10 +1714,15 @@
       }
     ],
     "common_extras": [],
-    "notes": ["Medium Frame (Armor 8/6)"],
+    "notes": [
+      "Medium Frame (Armor 8/6)"
+    ],
     "common_shape_adjustments": [],
     "image": "arachnoid.png",
-    "description": "Arachnoid shells mimic the shapes of spiders, termites, ants, beetles, and other arthropods. Three or four sets of pneumatic limbs are capable of rotating around their meter-long torso, and an additional set of manipulator arms near the head enables fine manipulation and tool use. Arachnoids move by walking, hopping, extending omnidirectional mini-wheels for skating movement, or by retracting their limbs and maneuvering with vectored-air thrusters in microgravity."
+    "description": "Arachnoid shells mimic the shapes of spiders, termites, ants, beetles, and other arthropods. Three or four sets of pneumatic limbs are capable of rotating around their meter-long torso, and an additional set of manipulator arms near the head enables fine manipulation and tool use. Arachnoids move by walking, hopping, extending omnidirectional mini-wheels for skating movement, or by retracting their limbs and maneuvering with vectored-air thrusters in microgravity.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "7a9b6a93-548d-43e1-8ed0-2e085b174e72"
   },
   {
     "name": "Reaper",
@@ -1610,10 +1785,15 @@
       }
     ],
     "common_extras": [],
-    "notes": ["Heavy Frame (Armor 12/10)"],
+    "notes": [
+      "Heavy Frame (Armor 12/10)"
+    ],
     "common_shape_adjustments": [],
     "image": "reaper.png",
-    "description": "The reaper is a combat morph in the form of an armored disc, so that it can turn and present a thin profile to an enemy. Four legs/manipulating arms and four weapon pods are folded inside its frame. It uses vector-thrust nozzles to maneuver in microgravity and also takes advantage of an ionic drive for fast movement over distance. Reapers are infamous due to military sims and Fall XPs; bringing one into most habitats will undoubtedly raise eyebrows if not get you arrested."
+    "description": "The reaper is a combat morph in the form of an armored disc, so that it can turn and present a thin profile to an enemy. Four legs/manipulating arms and four weapon pods are folded inside its frame. It uses vector-thrust nozzles to maneuver in microgravity and also takes advantage of an ionic drive for fast movement over distance. Reapers are infamous due to military sims and Fall XPs; bringing one into most habitats will undoubtedly raise eyebrows if not get you arrested.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "4624b386-9bb6-4a03-9686-409334be32a2"
   },
   {
     "name": "Digimorph",
@@ -1643,9 +1823,12 @@
     "notes": [],
     "common_shape_adjustments": [],
     "image": "infomorph.png",
-    "description": "Digimorphs are bare-bones mind emulations, though customizable and widely used. By default, an ego that evacuates (or is forked from) a cyberbrain is run on a digimorph, unless another infomorph option is available."
+    "description": "Digimorphs are bare-bones mind emulations, though customizable and widely used. By default, an ego that evacuates (or is forked from) a cyberbrain is run on a digimorph, unless another infomorph option is available.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "73b8e0eb-37f0-47af-b3e9-69b0515c3315"
   },
-    {
+  {
     "name": "Ikon",
     "book": "EP2E Core",
     "type": "Infomorph",
@@ -1673,7 +1856,10 @@
     "notes": [],
     "common_shape_adjustments": [],
     "image": "infomorph.png",
-    "description": "Designed for online performers, media icons, and social networkers, this infomorph is coded to enhance charisma and social skills."
+    "description": "Designed for online performers, media icons, and social networkers, this infomorph is coded to enhance charisma and social skills.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "81cb0b46-2b76-48ed-bbc3-68f1ecda1151"
   },
   {
     "name": "Agent",
@@ -1703,7 +1889,10 @@
     "notes": [],
     "common_shape_adjustments": [],
     "image": "infomorph.png",
-    "description": "Popular with network security specialists, penetration testers, and hackers, this infomorph is optimized for infosec roles."
+    "description": "Popular with network security specialists, penetration testers, and hackers, this infomorph is optimized for infosec roles.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "8dd34f13-2e03-4dab-ae1f-f7410ac40bbc"
   },
   {
     "name": "Operator",
@@ -1733,6 +1922,9 @@
     "notes": [],
     "common_shape_adjustments": [],
     "image": "infomorph.png",
-    "description": "This infomorph is ideal for professions that involve drone remote operation, whether maintenance bot fleets, surveillance drones, or fighter craft and combat machines."
+    "description": "This infomorph is ideal for professions that involve drone remote operation, whether maintenance bot fleets, surveillance drones, or fighter craft and combat machines.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "6a9179ef-0f2b-4f23-8c9e-42d6ffaf0302"
   }
 ]

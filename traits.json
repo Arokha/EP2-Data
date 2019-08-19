@@ -2,851 +2,1341 @@
   {
     "trait": "Acumen",
     "type": "Positive",
-    "cost": [1,2,3],
+    "cost": [
+      1,
+      2,
+      3
+    ],
     "ego": true,
     "morph": true,
     "effect": "+5 per level to COG Checks.",
     "auto": true,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "47e07685-6a28-4ef1-aeb5-22e5dd87756c"
   },
   {
     "trait": "Adaptability",
     "type": "Positive",
-    "cost": [2,4],
+    "cost": [
+      2,
+      4
+    ],
     "ego": true,
     "morph": false,
     "effect": "Easier resleeving. +10 per level to Integration and Resleeving Stress Tests.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "eb9861c4-90b0-4757-a444-2bebd06e403f"
   },
   {
     "trait": "Allies",
     "type": "Positive",
-    "cost": [4],
+    "cost": [
+      4
+    ],
     "ego": true,
     "morph": false,
     "effect": "A group supports you. Free moderate favor per session.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "a290100a-df0c-4e9c-91a4-a71cc8bbd353"
   },
   {
     "trait": "Animal Empathy",
     "type": "Positive",
-    "cost": [1],
+    "cost": [
+      1
+    ],
     "ego": true,
     "morph": false,
     "effect": "+10 to Exotic Skill: Animal Handling and similar tests.",
     "auto": true,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "c9d1646b-29ef-4814-bf8b-b0d08e3c7250"
   },
   {
     "trait": "Common Sense",
     "type": "Positive",
-    "cost": [2],
+    "cost": [
+      2
+    ],
     "ego": true,
     "morph": false,
     "effect": "Once per session, may ask GM for best advice.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "4d12cb40-3b00-48b9-ab1b-ed0234164638"
   },
   {
     "trait": "Composure",
     "type": "Positive",
-    "cost": [2],
+    "cost": [
+      2
+    ],
     "ego": true,
     "morph": false,
     "effect": "+5 LUC, +1 Trauma Threshold, +10 Insanity Rating.",
     "auto": true,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "e8cf84a6-7318-44f2-a3dd-62d29d530db7"
   },
   {
     "trait": "Contact",
     "type": "Positive",
-    "cost": [1],
+    "cost": [
+      1
+    ],
     "ego": true,
     "morph": false,
     "effect": "+10 to Rep Tests with one network when using contact. May be taken multiple times.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "f9a21452-9ffd-40b5-858e-b8a8232beff6"
   },
   {
     "trait": "Danger Sense",
     "type": "Positive",
-    "cost": [1],
+    "cost": [
+      1
+    ],
     "ego": true,
     "morph": false,
     "effect": "+10 to Perceive Tests to avoid surprise.",
     "auto": false,
-    "noted": true
+    "noted": true,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "754f568d-a8f2-4ccc-bf26-134bee985d0d"
   },
   {
     "trait": "Direction Sense",
     "type": "Positive",
-    "cost": [1],
+    "cost": [
+      1
+    ],
     "ego": true,
     "morph": false,
     "effect": "Always know north/up/spinward/etc. +10 to tests involving navigation.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "469c3c01-debd-4f63-9bee-aee87429cb96"
   },
   {
     "trait": "Dominant Strain",
     "type": "Positive",
-    "cost": [2],
+    "cost": [
+      2
+    ],
     "ego": true,
     "morph": false,
     "effect": "Asyncs only. +10 vs. exsurgent virus, higher dependent upon Infection Rating.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "b2603f1e-9575-413b-a584-9b0a1959a8a5"
   },
   {
     "trait": "Drone Affinity",
     "type": "Positive",
-    "cost": [1],
+    "cost": [
+      1
+    ],
     "ego": true,
     "morph": false,
     "effect": "No Integration Tests when jamming drones.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "6834eda5-3174-46d4-8e3f-e8af8ae5a7e3"
   },
   {
     "trait": "Empathy",
     "type": "Positive",
-    "cost": [1,2,3],
+    "cost": [
+      1,
+      2,
+      3
+    ],
     "ego": true,
     "morph": true,
     "effect": "+5 per level to SAV Checks.",
     "auto": true,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "abbc3f41-184b-4ad6-93d2-f042a735b9a2"
   },
   {
     "trait": "Expert Training",
     "type": "Positive",
-    "cost": [2],
+    "cost": [
+      2
+    ],
     "ego": true,
     "morph": false,
     "effect": "May start with one skill over 80, up to 90 maximum.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "be2ab5bc-2265-4919-baac-7b1565e61333"
   },
   {
     "trait": "Fitness",
     "type": "Positive",
-    "cost": [1,2,3],
+    "cost": [
+      1,
+      2,
+      3
+    ],
     "ego": true,
     "morph": true,
     "effect": "+5 per level to SOM Checks.",
     "auto": true,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "2d465c15-2901-4ca7-aac3-2372f9f00486"
   },
   {
     "trait": "Good Instinct",
     "type": "Positive",
-    "cost": [1],
+    "cost": [
+      1
+    ],
     "ego": true,
     "morph": true,
     "effect": "+5 per level to INT Checks.",
     "auto": true,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "233ee0e7-19c4-43d0-baf7-861d99197304"
   },
   {
     "trait": "Hardening",
     "type": "Positive",
-    "cost": [2,4],
+    "cost": [
+      2,
+      4
+    ],
     "ego": true,
     "morph": false,
-    "effect": "Immune to stress from either alienation, helplessness, or violence (p. 72). –10 to WIL Checks and Persuade Tests. May be taken multiple times for different types of stress.",
+    "effect": "Immune to stress from either alienation, helplessness, or violence (p. 72). -10 to WIL Checks and Persuade Tests. May be taken multiple times for different types of stress.",
     "auto": true,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "09609aee-99c1-4e16-b84e-441144137975"
   },
   {
     "trait": "Hyper Linguistics",
     "type": "Positive",
-    "cost": [1,2,3],
+    "cost": [
+      1,
+      2,
+      3
+    ],
     "ego": true,
     "morph": false,
-    "effect": "+10 per level to INT Checks to understand languages you don’t know.",
+    "effect": "+10 per level to INT Checks to understand languages you don't know.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "fdad8f3f-d67f-44d2-9128-f7b8b4a09b0b"
   },
   {
     "trait": "Morph Familiarity",
     "type": "Positive",
-    "cost": [6],
+    "cost": [
+      6
+    ],
     "ego": true,
     "morph": false,
     "effect": "No Integration Tests sleeving one chosen morph type.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "bb2a4e17-749d-4b67-b6a8-86778112be8b"
   },
   {
     "trait": "Pain Tolerance",
     "type": "Positive",
-    "cost": [2,4],
+    "cost": [
+      2,
+      4
+    ],
     "ego": true,
     "morph": true,
     "effect": "Ignore 1 wound modifier per level.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "043a4a8a-71aa-4575-9fc3-3a84c7e25f7c"
   },
   {
     "trait": "Patron",
     "type": "Positive",
-    "cost": [6],
+    "cost": [
+      6
+    ],
     "ego": true,
     "morph": false,
     "effect": "An influential person backs you up. One free major favor per story arc.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "c6799204-0a93-43aa-be79-cc6485ce6bac"
   },
   {
     "trait": "Psi",
     "type": "Positive",
-    "cost": [2,4],
+    "cost": [
+      2,
+      4
+    ],
     "ego": true,
     "morph": false,
     "effect": "May use Psi skill and sleights. See text for additional rules.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "29b7a131-1b94-402d-a2fe-b7fa8ffb5710"
   },
   {
     "trait": "Psi Camouflage",
     "type": "Positive",
-    "cost": [1,2],
+    "cost": [
+      1,
+      2
+    ],
     "ego": true,
     "morph": true,
-    "effect": "–10 to detect with psi per level.",
+    "effect": "-10 to detect with psi per level.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "eda106a6-d1ac-4e5c-8ddf-1c9578e3a31b"
   },
   {
     "trait": "Psi Defense",
     "type": "Positive",
-    "cost": [1,2],
+    "cost": [
+      1,
+      2
+    ],
     "ego": true,
     "morph": true,
     "effect": "+10 to resist psi per level.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "3bffb3f8-4ac0-4c04-be21-88d619da19c2"
   },
   {
     "trait": "Quickness",
     "type": "Positive",
-    "cost": [1,2,3],
+    "cost": [
+      1,
+      2,
+      3
+    ],
     "ego": true,
     "morph": true,
     "effect": "+5 per level to REF Checks.",
     "auto": true,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "334906b7-2830-45c1-ba53-8ae39b6e721e"
   },
   {
     "trait": "Resolve",
     "type": "Positive",
-    "cost": [1,2,3],
+    "cost": [
+      1,
+      2,
+      3
+    ],
     "ego": true,
     "morph": true,
     "effect": "+5 per level to WIL Checks.",
     "auto": true,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "751c409d-4fd7-4a07-9a5f-275025af76e8"
   },
   {
     "trait": "Resources",
     "type": "Positive",
-    "cost": [2,4,6,8],
+    "cost": [
+      2,
+      4,
+      6,
+      8
+    ],
     "ego": true,
     "morph": false,
     "effect": "Wealth to acquire gear. See text.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "a1d0cc7c-15cb-4609-883e-74f525d5d927"
   },
   {
     "trait": "Situational Awareness",
     "type": "Positive",
-    "cost": [1],
+    "cost": [
+      1
+    ],
     "ego": true,
     "morph": false,
     "effect": "No distracted modifier.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "cb60d4b0-5e1a-447a-a948-8911d6393e2c"
   },
   {
     "trait": "Spatial Visualization",
     "type": "Positive",
-    "cost": [2],
+    "cost": [
+      2
+    ],
     "ego": true,
     "morph": false,
     "effect": "+10 to Know and Technical Tests involving 3D visualization.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "69dfcf8c-3221-42c0-a115-b434095e5a37"
   },
   {
     "trait": "Stalwart",
     "type": "Positive",
-    "cost": [1,2,3],
+    "cost": [
+      1,
+      2,
+      3
+    ],
     "ego": true,
     "morph": false,
     "effect": "+10 to WIL Checks vs. fear.",
     "auto": false,
-    "noted": true
+    "noted": true,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "ca6440d9-23dc-4571-ab94-ccad35f8841f"
   },
   {
     "trait": "Superior Numeracy",
     "type": "Positive",
-    "cost": [2,4],
+    "cost": [
+      2,
+      4
+    ],
     "ego": true,
     "morph": false,
     "effect": "+10 per level to Know and Technical Tests involving math.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "9898ee51-aac8-445d-a96f-b68795aec7ea"
   },
   {
     "trait": "Zoosemiotics",
     "type": "Positive",
-    "cost": [1],
+    "cost": [
+      1
+    ],
     "ego": true,
     "morph": false,
     "effect": "No modifier using psi on non- or partly-sapient animals.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "2fa95492-88f1-40f3-a121-fece1afafcb0"
   },
   {
     "trait": "Digital Speed",
     "type": "Positive",
-    "cost": [1],
+    "cost": [
+      1
+    ],
     "ego": false,
     "morph": true,
     "effect": "Mesh task timeframes reduced 25%. Infomorphs only.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "fd3f5be8-98cb-41a4-a8ef-04d54679fbe7"
   },
   {
     "trait": "Improved Immune System",
     "type": "Positive",
-    "cost": [1,2],
+    "cost": [
+      1,
+      2
+    ],
     "ego": false,
     "morph": true,
     "effect": "+10 per level to resist chemicals, disease, drugs, and toxins. Biomorphs only.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "c4890de3-91db-419e-9ad1-36e06230b04b"
   },
   {
     "trait": "Innocuous Looks",
     "type": "Positive",
-    "cost": [1],
+    "cost": [
+      1
+    ],
     "ego": false,
     "morph": true,
-    "effect": "Bland. –10 to identify/spot/remember.",
+    "effect": "Bland. -10 to identify/spot/remember.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "62ab9326-730a-43f6-b5fc-503a8bcca3a5"
   },
   {
     "trait": "Lethal",
     "type": "Positive",
-    "cost": [1],
+    "cost": [
+      1
+    ],
     "ego": false,
     "morph": true,
     "effect": "+1d6 DV in melee.",
     "auto": true,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "27204e29-2550-4951-84d0-ac781b402d1f"
   },
   {
     "trait": "Limberness",
     "type": "Positive",
-    "cost": [1,2],
+    "cost": [
+      1,
+      2
+    ],
     "ego": false,
     "morph": true,
     "effect": "+10 per level to escape bonds, fit into small spaces, contort, etc.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "c0007e42-3ccb-4653-a2bc-12282cfb5946"
   },
   {
     "trait": "Natural Immunity",
     "type": "Positive",
-    "cost": [1],
+    "cost": [
+      1
+    ],
     "ego": false,
     "morph": true,
     "effect": "Immunity to one specific drug, chemical, or toxin. Biomorphs only.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "83e10522-e8ce-454c-97d7-9e685ac37f2f"
   },
   {
     "trait": "Rapid Healing",
     "type": "Positive",
-    "cost": [1],
+    "cost": [
+      1
+    ],
     "ego": false,
     "morph": true,
     "effect": "Heal twice as fast. Biomorphs only.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "340b9922-f399-41ac-9708-7d926c31472c"
   },
   {
     "trait": "Skill Artifact",
     "type": "Positive",
-    "cost": [1,2],
+    "cost": [
+      1,
+      2
+    ],
     "ego": false,
     "morph": true,
     "effect": "+10 to one GM-chosen skill per level.",
     "auto": true,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "49bec041-7820-4005-bbae-896650f75534"
   },
   {
     "trait": "Striking Looks",
     "type": "Positive",
-    "cost": [1,2],
+    "cost": [
+      1,
+      2
+    ],
     "ego": false,
     "morph": true,
     "effect": "+10 on Persuade and Provoke Tests where looks matter.",
     "auto": false,
-    "noted": true
+    "noted": true,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "30be9ce0-bac2-4df0-8284-489065c27939"
   },
   {
     "trait": "Toughness",
     "type": "Positive",
-    "cost": [2,4],
+    "cost": [
+      2,
+      4
+    ],
     "ego": false,
     "morph": true,
     "effect": "+5 DUR, also impacts WT and DR, see text.",
     "auto": true,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "1ff8c1c2-8ebf-4bd6-9498-77645251916e"
   },
   {
     "trait": "Addiction",
     "type": "Negative",
-    "cost": [1,2,4],
+    "cost": [
+      1,
+      2,
+      4
+    ],
     "ego": true,
     "morph": true,
-    "effect": "–10 per level if no regular fix; see text for additional effects.",
+    "effect": "-10 per level if no regular fix; see text for additional effects.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "45c05e2b-e9e5-40b6-8339-063cdb337076"
   },
   {
     "trait": "Bad Luck",
     "type": "Negative",
-    "cost": [6],
+    "cost": [
+      6
+    ],
     "ego": true,
     "morph": false,
     "effect": "May not use pools to flip-flop dice rolls.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "0ef30b7c-8020-4072-b9bd-0957ca3c4593"
   },
   {
     "trait": "Blacklisted Rep",
     "type": "Negative",
-    "cost": [1,4],
+    "cost": [
+      1,
+      4
+    ],
     "ego": true,
     "morph": false,
-    "effect": "Cannot have rep score in one rep net (higher value if own faction’s rep net).",
+    "effect": "Cannot have rep score in one rep net (higher value if own faction's rep net).",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "69e6505b-2c7b-437d-a842-6e9ad5b705bf"
   },
   {
     "trait": "Black Mark",
     "type": "Negative",
-    "cost": [1,2,3],
+    "cost": [
+      1,
+      2,
+      3
+    ],
     "ego": true,
     "morph": false,
-    "effect": "–10 modifier per level to interactions with one faction.",
+    "effect": "-10 modifier per level to interactions with one faction.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "c7890935-ab1e-49e1-9983-3fb2b4f3fe22"
   },
   {
     "trait": "Combat Paralysis",
     "type": "Negative",
-    "cost": [4],
+    "cost": [
+      4
+    ],
     "ego": true,
     "morph": false,
     "effect": "WIL Check to act in each action turn of combat.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "657a46d4-bd2b-41a4-bb5c-2eb08ca2fd6e"
   },
   {
     "trait": "Edited Memories",
     "type": "Negative",
-    "cost": [1],
+    "cost": [
+      1
+    ],
     "ego": true,
     "morph": false,
     "effect": "You have lost some memories, deliberately or not.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "d633e1a1-57c2-4240-bcf4-ad7ce98bddb3"
   },
   {
     "trait": "Enemy",
     "type": "Negative",
-    "cost": [2],
+    "cost": [
+      2
+    ],
     "ego": true,
     "morph": false,
     "effect": "Enemy NPC haunts you.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "0bdda589-937e-48ba-9162-f0891f96e7b7"
   },
   {
     "trait": "Enhanced Behavior",
     "type": "Negative",
-    "cost": [1,2,4],
+    "cost": [
+      1,
+      2,
+      4
+    ],
     "ego": true,
     "morph": true,
     "effect": "Psychosurgically enhanced behavior/emotions. See text.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "c855ca6d-9721-4803-b54d-bcabb562e120"
   },
   {
     "trait": "Feebleness",
     "type": "Negative",
-    "cost": [1,2,3],
+    "cost": [
+      1,
+      2,
+      3
+    ],
     "ego": true,
     "morph": true,
-    "effect": "–5 per level to SOM Checks.",
+    "effect": "-5 per level to SOM Checks.",
     "auto": true,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "87dbc144-8340-4df7-9fc4-a0d6c8497158"
   },
   {
     "trait": "Identity Crisis",
     "type": "Negative",
-    "cost": [1],
+    "cost": [
+      1
+    ],
     "ego": true,
     "morph": false,
-    "effect": "Trouble adapting to new morph physiologies, –10 when applicable.",
+    "effect": "Trouble adapting to new morph physiologies, -10 when applicable.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "bb3eccac-83cc-4d30-8b35-7c2756acf745"
   },
   {
     "trait": "Indifference",
     "type": "Negative",
-    "cost": [1,2,3],
+    "cost": [
+      1,
+      2,
+      3
+    ],
     "ego": true,
     "morph": true,
-    "effect": "–5 per level to SAV Checks.",
+    "effect": "-5 per level to SAV Checks.",
     "auto": true,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "6e79dffe-81e8-4c90-8363-4e4f3dcc193e"
   },
   {
     "trait": "Instability",
     "type": "Negative",
-    "cost": [2,4],
+    "cost": [
+      2,
+      4
+    ],
     "ego": true,
     "morph": false,
-    "effect": "–5 LUC, –1 Trauma Threshold, and –10 Insanity Rating per level.",
+    "effect": "-5 LUC, -1 Trauma Threshold, and -10 Insanity Rating per level.",
     "auto": true,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "769f660f-af03-46d0-a1e4-40b54b18d298"
   },
   {
     "trait": "Low Pain Tolerance",
     "type": "Negative",
-    "cost": [4],
+    "cost": [
+      4
+    ],
     "ego": true,
     "morph": true,
-    "effect": "Additional –10 modifier per wound.",
+    "effect": "Additional -10 modifier per wound.",
     "auto": true,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "a85ab8da-c260-4c42-a4fc-bfc75acb6af5"
   },
   {
     "trait": "Mental Disorder",
     "type": "Negative",
-    "cost": [2],
+    "cost": [
+      2
+    ],
     "ego": true,
     "morph": false,
     "effect": "Choose one disorder.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "88e7241d-ebc1-4bdc-b507-4be341cf1df8"
   },
   {
     "trait": "Morphing Disorder",
     "type": "Negative",
-    "cost": [2,4,6],
+    "cost": [
+      2,
+      4,
+      6
+    ],
     "ego": true,
     "morph": false,
-    "effect": "–10 per level on Integration and Resleeving Stress Tests.",
+    "effect": "-10 per level on Integration and Resleeving Stress Tests.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "c5b85404-e413-47c0-b72a-62daaf65c9d9"
   },
   {
     "trait": "Neural Damage",
     "type": "Negative",
-    "cost": [2],
+    "cost": [
+      2
+    ],
     "ego": true,
     "morph": false,
     "effect": "You have some type of incurable neural damage; see text.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "4f4f9685-6763-4fc1-98b0-c4fcc425d270"
   },
   {
     "trait": "No Backup Insurance",
     "type": "Negative",
-    "cost": [2],
+    "cost": [
+      2
+    ],
     "ego": true,
     "morph": false,
     "effect": "Upon death, re-instantation and MP up to GM.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "ac5c6530-59dc-4de2-8217-bb966e1b73d0"
   },
   {
     "trait": "Obliviousness",
     "type": "Negative",
-    "cost": [2],
+    "cost": [
+      2
+    ],
     "ego": true,
     "morph": false,
-    "effect": "Additional –10 to Perceive Tests when distracted and Surprise Tests.",
+    "effect": "Additional -10 to Perceive Tests when distracted and Surprise Tests.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "0464b1e5-fd87-4be1-a621-267639b068ec"
   },
   {
     "trait": "Obtuseness",
     "type": "Negative",
-    "cost": [1,2,3],
+    "cost": [
+      1,
+      2,
+      3
+    ],
     "ego": true,
     "morph": true,
-    "effect": "–5 per level to COG Checks.",
+    "effect": "-5 per level to COG Checks.",
     "auto": true,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "82668329-1030-4c05-93bb-897c89a8d4eb"
   },
   {
     "trait": "Poor Coordination",
     "type": "Negative",
-    "cost": [1,2,3],
+    "cost": [
+      1,
+      2,
+      3
+    ],
     "ego": true,
     "morph": true,
-    "effect": "–5 per level to REF Checks.",
+    "effect": "-5 per level to REF Checks.",
     "auto": true,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "3aac47df-84f9-4976-a5f7-6a5ce9e9dc43"
   },
   {
     "trait": "Poor Instinct",
     "type": "Negative",
-    "cost": [1,2,3],
+    "cost": [
+      1,
+      2,
+      3
+    ],
     "ego": true,
     "morph": true,
-    "effect": "–5 per level to INT Checks.",
+    "effect": "-5 per level to INT Checks.",
     "auto": true,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "287f9b86-ce2c-46d8-aee2-170db7674dae"
   },
   {
     "trait": "Psi Vulnerability",
     "type": "Negative",
-    "cost": [1,2],
+    "cost": [
+      1,
+      2
+    ],
     "ego": true,
     "morph": false,
-    "effect": "–10 per level to resist psi.",
+    "effect": "-10 per level to resist psi.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "5f07b4f6-b7c1-45c5-bc43-464171475fa1"
   },
   {
     "trait": "Real World Naiveté",
     "type": "Negative",
-    "cost": [2],
+    "cost": [
+      2
+    ],
     "ego": true,
     "morph": false,
     "effect": "GM may provide false info once per session.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "16779777-802c-4a00-b3c5-96a0dc8b0015"
   },
   {
     "trait": "Restricted Behavior",
     "type": "Negative",
-    "cost": [1,2,4],
+    "cost": [
+      1,
+      2,
+      4
+    ],
     "ego": true,
     "morph": true,
     "effect": "Psychosurgically limited behavior/emotions. See text.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "1bc62a03-6a77-401c-8cfa-6bdeb94dccc9"
   },
   {
     "trait": "Sensitive",
     "type": "Negative",
-    "cost": [1,2],
+    "cost": [
+      1,
+      2
+    ],
     "ego": true,
     "morph": false,
-    "effect": "–10 per level to INT Checks to resist basilisk hacks.",
+    "effect": "-10 per level to INT Checks to resist basilisk hacks.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "efd7acd7-f6e2-4fda-aae1-5e8a5f9432f2"
   },
   {
     "trait": "Timidity",
     "type": "Negative",
-    "cost": [1,2],
+    "cost": [
+      1,
+      2
+    ],
     "ego": true,
     "morph": true,
-    "effect": "–5 per level to WIL Checks.",
+    "effect": "-5 per level to WIL Checks.",
     "auto": true,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "6e846227-0856-423a-a1d2-5592ccad3ad3"
   },
   {
     "trait": "VR Vertigo",
     "type": "Negative",
-    "cost": [2],
+    "cost": [
+      2
+    ],
     "ego": true,
     "morph": false,
-    "effect": "–30 modifier using XP/VR; –10 using AR. SOM Check or incapacitated.",
+    "effect": "-30 modifier using XP/VR; -10 using AR. SOM Check or incapacitated.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "c6eb7345-ddc4-4bf0-a798-6b1bad473ea7"
   },
   {
     "trait": "Age",
     "type": "Negative",
-    "cost": [4],
+    "cost": [
+      4
+    ],
     "ego": false,
     "morph": true,
-    "effect": "–10 to physical actions. Flats and splicers only.",
+    "effect": "-10 to physical actions. Flats and splicers only.",
     "auto": true,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "c17a5bba-589b-4767-82db-d442244ed10f"
   },
   {
     "trait": "Dominant Limb",
     "type": "Negative",
-    "cost": [1],
+    "cost": [
+      1
+    ],
     "ego": false,
     "morph": true,
-    "effect": "–20 to tests made with non-dominant limbs.",
+    "effect": "-20 to tests made with non-dominant limbs.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "47ac87e8-400f-48a9-9b5f-af994549ace8"
   },
   {
     "trait": "Exotic Morphology",
     "type": "Negative",
-    "cost": [2,4,6],
+    "cost": [
+      2,
+      4,
+      6
+    ],
     "ego": false,
     "morph": true,
-    "effect": "–10 per level on Integration Tests.",
+    "effect": "-10 per level on Integration Tests.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "cdddc167-f35b-4535-8a7c-aa6443981d92"
   },
   {
     "trait": "Frailty",
     "type": "Negative",
-    "cost": [2,4],
+    "cost": [
+      2,
+      4
+    ],
     "ego": false,
     "morph": true,
-    "effect": "–5 DUR, also impacts WT and DR, see text.",
+    "effect": "-5 DUR, also impacts WT and DR, see text.",
     "auto": true,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "c0e55cdb-b62b-48ee-8b55-d2a91f7acd04"
   },
   {
     "trait": "Genetic Defect",
     "type": "Negative",
-    "cost": [1,2],
+    "cost": [
+      1,
+      2
+    ],
     "ego": false,
     "morph": true,
     "effect": "Morph has minor or serious health complications. Flats only.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "5b8e9c91-a4f4-4fe2-a88a-c47cc8fa8016"
   },
   {
     "trait": "Hypersensitivity",
     "type": "Negative",
-    "cost": [3],
+    "cost": [
+      3
+    ],
     "ego": false,
     "morph": true,
     "effect": "No implants allowed. Biomorphs only.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "09377f7e-46f3-4326-a20c-e726ba3dfb9b"
   },
   {
     "trait": "Infection Risk",
     "type": "Negative",
-    "cost": [1,2,3],
+    "cost": [
+      1,
+      2,
+      3
+    ],
     "ego": false,
     "morph": true,
-    "effect": "–10 per level to SOM Checks to resist the biological exsurgent virus.",
+    "effect": "-10 per level to SOM Checks to resist the biological exsurgent virus.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "d3399592-d045-4496-87f1-18659c86c439"
   },
   {
     "trait": "Inherent Flaws",
     "type": "Negative",
-    "cost": [2],
+    "cost": [
+      2
+    ],
     "ego": false,
     "morph": true,
     "effect": "10% chance of acquiring a wound each time a critical failure is rolled. Synthmorphs only.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "7331185b-2009-4a85-b029-a5e227afcb39"
   },
   {
     "trait": "Memory Artifact",
     "type": "Negative",
-    "cost": [1],
+    "cost": [
+      1
+    ],
     "ego": false,
     "morph": true,
-    "effect": "Recall other ego’s memory once per session; COG Check or SV 1d6.",
+    "effect": "Recall other ego's memory once per session; COG Check or SV 1d6.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "9948ec3d-f9ca-406d-a452-54dd1d2e074e"
   },
   {
     "trait": "Non-Human Biochemistry",
     "type": "Negative",
-    "cost": [2,4],
+    "cost": [
+      2,
+      4
+    ],
     "ego": false,
     "morph": true,
-    "effect": "–10 to Medicine Tests, –20 if non-mammalian. Biomorphs only.",
+    "effect": "-10 to Medicine Tests, -20 if non-mammalian. Biomorphs only.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "2979f9ba-f86a-44da-9e08-1e1956878cf4"
   },
   {
     "trait": "Planned Obsolecense",
     "type": "Negative",
-    "cost": [1],
+    "cost": [
+      1
+    ],
     "ego": false,
     "morph": true,
     "effect": "Cumulative pool loss/wound per month without maintenance.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "82d5c3ae-1329-4894-bfe1-07b6ae883c8b"
   },
   {
     "trait": "Proprietary Tech",
     "type": "Negative",
-    "cost": [2],
+    "cost": [
+      2
+    ],
     "ego": false,
     "morph": true,
-    "effect": "–20 Hardware Tests, fixers do not work. Synthmorphs only.",
+    "effect": "-20 Hardware Tests, fixers do not work. Synthmorphs only.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "5a87725b-3f25-4b6e-b0f0-f1f4e15ad60d"
   },
   {
     "trait": "Severe Allergy",
     "type": "Negative",
-    "cost": [2,4],
+    "cost": [
+      2,
+      4
+    ],
     "ego": false,
     "morph": true,
-    "effect": "–30 when exposed to allergen plus SOM Check or anaphylactic shock; death in 2d10 minutes without treatment. Biomorphs only.",
+    "effect": "-30 when exposed to allergen plus SOM Check or anaphylactic shock; death in 2d10 minutes without treatment. Biomorphs only.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "00ab93b9-489d-4ca9-b700-977414c63f9f"
   },
   {
     "trait": "Skill Glitch",
     "type": "Negative",
-    "cost": [1,2],
+    "cost": [
+      1,
+      2
+    ],
     "ego": false,
     "morph": true,
-    "effect": "–10 per level to one GM-chosen skill",
+    "effect": "-10 per level to one GM-chosen skill",
     "auto": true,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "2fca9b90-22b7-45c3-a516-93221d65158e"
   },
   {
     "trait": "Unattractiveness",
     "type": "Negative",
-    "cost": [1,2],
+    "cost": [
+      1,
+      2
+    ],
     "ego": false,
     "morph": true,
-    "effect": "–10 to Persuade and Provoke Tests where looks matter.",
+    "effect": "-10 to Persuade and Provoke Tests where looks matter.",
     "auto": false,
-    "noted": true
+    "noted": true,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "46c85d19-ac86-4a29-8560-cfe64d66d7e7"
   },
   {
     "trait": "Weak Immune System",
     "type": "Negative",
-    "cost": [1,2],
+    "cost": [
+      1,
+      2
+    ],
     "ego": false,
     "morph": true,
-    "effect": "–10 per level to resist chemicals, disease, drugs, and toxins. Biomorphs only.",
+    "effect": "-10 per level to resist chemicals, disease, drugs, and toxins. Biomorphs only.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "9dcab5c9-3ec3-44c6-bfa5-8f62fe19a422"
   },
   {
     "trait": "Zero-G Nausea",
     "type": "Negative",
-    "cost": [2],
+    "cost": [
+      2
+    ],
     "ego": false,
     "morph": true,
-    "effect": "–10 in micrograv; SOM Check or incapacitated for first hour. Biomorphs only.",
+    "effect": "-10 in micrograv; SOM Check or incapacitated for first hour. Biomorphs only.",
     "auto": false,
-    "noted": false
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "4ebda13b-99eb-4f99-a00b-4a9ab39e7e83"
   }
 ]

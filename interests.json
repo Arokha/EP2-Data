@@ -1,163 +1,466 @@
 [
   {
     "name": "Animal Handler",
-    "description": "You’ve learned to raise, train, and care for animals, particularly partially uplifted smart animals.",
+    "description": "You've learned to raise, train, and care for animals, particularly partially uplifted smart animals.",
     "skills": {
-      "Exotic Skill": {"rating": 40, "options": ["Animal Handling"]},
-      "Medicine": {"rating": 40, "options": ["Veterinary"]},
-      "Provoke": {"rating": 20, "options": []},
-      "Know": {"rating": 40, "options": ["Smart Animals"]}
-    }
+      "Exotic Skill": {
+        "rating": 40,
+        "options": [
+          "Animal Handling"
+        ]
+      },
+      "Medicine": {
+        "rating": 40,
+        "options": [
+          "Veterinary"
+        ]
+      },
+      "Provoke": {
+        "rating": 20,
+        "options": []
+      },
+      "Know": {
+        "rating": 40,
+        "options": [
+          "Smart Animals"
+        ]
+      }
+    },
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "b726b8b2-7ee0-41d4-b1ea-da227b19f141"
   },
   {
     "name": "Artist/Icon",
     "description": "You are a musician, performer, celebrity, or other type of creative or public figure.",
     "skills": {
-      "Deceive": {"rating": 40, "options": []},
-      "Kinesics": {"rating": 20, "options": []},
-      "Provoke": {"rating": 40, "options": []},
-      "Know": {"rating": 40, "options": ["Dance", "Music", "Sculpture"]}
-    }
+      "Deceive": {
+        "rating": 40,
+        "options": []
+      },
+      "Kinesics": {
+        "rating": 20,
+        "options": []
+      },
+      "Provoke": {
+        "rating": 40,
+        "options": []
+      },
+      "Know": {
+        "rating": 40,
+        "options": [
+          "Dance",
+          "Music",
+          "Sculpture"
+        ]
+      }
+    },
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "9b9fe958-3b9d-449e-a40d-d6f5b9b68766"
   },
   {
     "name": "Async",
     "description": "You are a musician, performer, celebrity, or other type of creative or public figure.",
     "skills": {
-      "Deceive": {"rating": 40, "options": []},
-      "Perceive": {"rating": 20, "options": []},
-      "Psi": {"rating": 40, "options": []},
-      "Know": {"rating": 40, "options": ["Any"]}
-    }
+      "Deceive": {
+        "rating": 40,
+        "options": []
+      },
+      "Perceive": {
+        "rating": 20,
+        "options": []
+      },
+      "Psi": {
+        "rating": 40,
+        "options": []
+      },
+      "Know": {
+        "rating": 40,
+        "options": [
+          "Any"
+        ]
+      }
+    },
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "4d0db878-5bb4-4cd4-821d-c3c2192d92c1"
   },
   {
     "name": "Commander",
     "description": "You are accustomed to leadership roles as an executive, officer, elected official, or autonomist organizer.",
     "skills": {
-      "Interface": {"rating": 20, "options": []},
-      "Persuade": {"rating": 40, "options": []},
-      "Provoke": {"rating": 40, "options": []},
-      "Know": {"rating": 40, "options": ["Administration"]}
-    }
+      "Interface": {
+        "rating": 20,
+        "options": []
+      },
+      "Persuade": {
+        "rating": 40,
+        "options": []
+      },
+      "Provoke": {
+        "rating": 40,
+        "options": []
+      },
+      "Know": {
+        "rating": 40,
+        "options": [
+          "Administration"
+        ]
+      }
+    },
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "dc412b41-e1e4-4ffc-96c2-2f56fdcb5415"
   },
   {
     "name": "Fighter",
-    "description": "You’ve picked up some self-defense and offensive capabilities along the way.",
+    "description": "You've picked up some self-defense and offensive capabilities along the way.",
     "skills": {
-      "Fray": {"rating": 20, "options": []},
-      "Guns": {"rating": 40, "options": []},
-      "Melee": {"rating": 40, "options": []},
-      "Know": {"rating": 40, "options": ["Security Ops"]}
-    }
+      "Fray": {
+        "rating": 20,
+        "options": []
+      },
+      "Guns": {
+        "rating": 40,
+        "options": []
+      },
+      "Melee": {
+        "rating": 40,
+        "options": []
+      },
+      "Know": {
+        "rating": 40,
+        "options": [
+          "Security Ops"
+        ]
+      }
+    },
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "90b107c5-dee8-44b5-a815-07b09953513e"
   },
   {
     "name": "Forensics Specialist",
-    "description": "You’ve picked up some self-defense and offensive capabilities along the way.",
+    "description": "You've picked up some self-defense and offensive capabilities along the way.",
     "skills": {
-      "Medicine": {"rating": 40, "options": ["Forensics"]},
-      "Perceive": {"rating": 40, "options": []},
-      "Research": {"rating": 20, "options": []},
-      "Know": {"rating": 40, "options": ["Physiology"]}
-    }
+      "Medicine": {
+        "rating": 40,
+        "options": [
+          "Forensics"
+        ]
+      },
+      "Perceive": {
+        "rating": 40,
+        "options": []
+      },
+      "Research": {
+        "rating": 20,
+        "options": []
+      },
+      "Know": {
+        "rating": 40,
+        "options": [
+          "Physiology"
+        ]
+      }
+    },
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "defd5640-6a75-4e62-b458-081e1b93e8cb"
   },
   {
     "name": "Jack-of-all-Trades",
-    "description": "You’ve seen and done a little bit of everything.",
+    "description": "You've seen and done a little bit of everything.",
     "skills": {
-      "Guns": {"rating": 25, "options": []},
-      "Infosec": {"rating": 25, "options": []},
-      "Persuade": {"rating": 25, "options": []},
-      "Research": {"rating": 25, "options": []},
-      "Know": {"rating": 40, "options": ["Any"]}
-    }
+      "Guns": {
+        "rating": 25,
+        "options": []
+      },
+      "Infosec": {
+        "rating": 25,
+        "options": []
+      },
+      "Persuade": {
+        "rating": 25,
+        "options": []
+      },
+      "Research": {
+        "rating": 25,
+        "options": []
+      },
+      "Know": {
+        "rating": 40,
+        "options": [
+          "Any"
+        ]
+      }
+    },
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "53ddc8a2-05d3-4327-9285-585442d77298"
   },
   {
     "name": "Jammer",
-    "description": "You’re a drone operator, with a talent for manipulating machines.",
+    "description": "You're a drone operator, with a talent for manipulating machines.",
     "skills": {
-      "Hardware": {"rating": 40, "options": ["Robotics"]},
-      "Interface": {"rating": 20, "options": []},
-      "Pilot": {"rating": 40, "options": ["Any"]},
-      "Know": {"rating": 40, "options": ["Bot Models"]}
-    }
+      "Hardware": {
+        "rating": 40,
+        "options": [
+          "Robotics"
+        ]
+      },
+      "Interface": {
+        "rating": 20,
+        "options": []
+      },
+      "Pilot": {
+        "rating": 40,
+        "options": [
+          "Any"
+        ]
+      },
+      "Know": {
+        "rating": 40,
+        "options": [
+          "Bot Models"
+        ]
+      }
+    },
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "efc4e030-cc89-46fe-90f8-a1f8e00d27f0"
   },
   {
     "name": "Networker",
     "description": "You know how to engage and connect with people.",
     "skills": {
-      "Deceive": {"rating": 30, "options": []},
-      "Persuade": {"rating": 40, "options": []},
-      "Provoke": {"rating": 30, "options": []},
-      "Know": {"rating": 40, "options": ["Rep Nets"]}
-    }
+      "Deceive": {
+        "rating": 30,
+        "options": []
+      },
+      "Persuade": {
+        "rating": 40,
+        "options": []
+      },
+      "Provoke": {
+        "rating": 30,
+        "options": []
+      },
+      "Know": {
+        "rating": 40,
+        "options": [
+          "Rep Nets"
+        ]
+      }
+    },
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "5f1860b3-513b-476d-b660-ea9a515483eb"
   },
   {
     "name": "Paramedic",
     "description": "You have picked up some first aid training.",
     "skills": {
-      "Fray": {"rating": 20, "options": []},
-      "Kinesics": {"rating": 40, "options": []},
-      "Medicine": {"rating": 40, "options": ["Paramedic"]},
-      "Know": {"rating": 40, "options": ["Emergency Services"]}
-    }
+      "Fray": {
+        "rating": 20,
+        "options": []
+      },
+      "Kinesics": {
+        "rating": 40,
+        "options": []
+      },
+      "Medicine": {
+        "rating": 40,
+        "options": [
+          "Paramedic"
+        ]
+      },
+      "Know": {
+        "rating": 40,
+        "options": [
+          "Emergency Services"
+        ]
+      }
+    },
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "8a2fdec6-1793-4e06-845f-cfec10fef563"
   },
   {
     "name": "Pilot",
     "description": "You prefer to do the driving yourself, no matter how skilled the AI is.",
     "skills": {
-      "Hardware": {"rating": 30, "options": ["Any"]},
-      "Pilot": {"rating": 30, "options": ["Any"]},
-      "Pilot2": {"rating": 40, "options": ["Any"]},
-      "Know": {"rating": 40, "options": ["Flight Crew Ops"]}
-    }
+      "Hardware": {
+        "rating": 30,
+        "options": [
+          "Any"
+        ]
+      },
+      "Pilot": {
+        "rating": 30,
+        "options": [
+          "Any"
+        ]
+      },
+      "Pilot2": {
+        "rating": 40,
+        "options": [
+          "Any"
+        ]
+      },
+      "Know": {
+        "rating": 40,
+        "options": [
+          "Flight Crew Ops"
+        ]
+      }
+    },
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "b4121d4a-0658-4689-abed-ed0e89249c62"
   },
   {
     "name": "Rogue",
     "description": "You are as shifty as you need to be.",
     "skills": {
-      "Deceive": {"rating": 40, "options": []},
-      "Fray": {"rating": 20, "options": []},
-      "Infiltrate": {"rating": 40, "options": []},
-      "Know": {"rating": 40, "options": ["Any"]}
-    }
+      "Deceive": {
+        "rating": 40,
+        "options": []
+      },
+      "Fray": {
+        "rating": 20,
+        "options": []
+      },
+      "Infiltrate": {
+        "rating": 40,
+        "options": []
+      },
+      "Know": {
+        "rating": 40,
+        "options": [
+          "Any"
+        ]
+      }
+    },
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "e0e34e5e-dcf9-47d7-b554-4b5b6e0e4baa"
   },
   {
     "name": "Slacker",
     "description": "You prefer to enjoy the good things in life.",
     "skills": {
-      "Interface": {"rating": 40, "options": []},
-      "Persuade": {"rating": 30, "options": []},
-      "Research": {"rating": 30, "options": []},
-      "Know": {"rating": 40, "options": ["Any"]}
-    }
+      "Interface": {
+        "rating": 40,
+        "options": []
+      },
+      "Persuade": {
+        "rating": 30,
+        "options": []
+      },
+      "Research": {
+        "rating": 30,
+        "options": []
+      },
+      "Know": {
+        "rating": 40,
+        "options": [
+          "Any"
+        ]
+      }
+    },
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "7a73295f-8cfe-49df-bf08-0d43368a3f27"
   },
   {
     "name": "Spacer",
-    "description": "You’ve spent your fair share of time in ships and smaller habitats.",
+    "description": "You've spent your fair share of time in ships and smaller habitats.",
     "skills": {
-      "Free Fall": {"rating": 40, "options": []},
-      "Hardware": {"rating": 40, "options": ["Electronics", "Industiral", "Robotics"]},
-      "Interface": {"rating": 20, "options": []},
-      "Know": {"rating": 40, "options": ["Astronomy", "Flight Crew Ops", "Gas Mining"]}
-    }
+      "Free Fall": {
+        "rating": 40,
+        "options": []
+      },
+      "Hardware": {
+        "rating": 40,
+        "options": [
+          "Electronics",
+          "Industiral",
+          "Robotics"
+        ]
+      },
+      "Interface": {
+        "rating": 20,
+        "options": []
+      },
+      "Know": {
+        "rating": 40,
+        "options": [
+          "Astronomy",
+          "Flight Crew Ops",
+          "Gas Mining"
+        ]
+      }
+    },
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "7df8ea17-fa29-4811-b0ea-61dcb795bfea"
   },
   {
     "name": "Student",
-    "description": "You’ve spent your fair share of time in ships and smaller habitats.",
+    "description": "You've spent your fair share of time in ships and smaller habitats.",
     "skills": {
-      "Interface": {"rating": 40, "options": []},
-      "Program": {"rating": 20, "options": []},
-      "Research": {"rating": 40, "options": []},
-      "Know": {"rating": 40, "options": ["Any"]}
-    }
+      "Interface": {
+        "rating": 40,
+        "options": []
+      },
+      "Program": {
+        "rating": 20,
+        "options": []
+      },
+      "Research": {
+        "rating": 40,
+        "options": []
+      },
+      "Know": {
+        "rating": 40,
+        "options": [
+          "Any"
+        ]
+      }
+    },
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "211887ee-bab1-4e8d-a93f-84ea568f121a"
   },
   {
     "name": "Survivalist",
     "description": "The Fall reinforced the notion that you need to be prepared.",
     "skills": {
-      "Guns": {"rating": 40, "options": []},
-      "Medicine": {"rating": 30, "options": ["Paramedic"]},
-      "Survival": {"rating": 30, "options": []},
-      "Know": {"rating": 40, "options": ["Any"]}
-    }
+      "Guns": {
+        "rating": 40,
+        "options": []
+      },
+      "Medicine": {
+        "rating": 30,
+        "options": [
+          "Paramedic"
+        ]
+      },
+      "Survival": {
+        "rating": 30,
+        "options": []
+      },
+      "Know": {
+        "rating": 40,
+        "options": [
+          "Any"
+        ]
+      }
+    },
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "8b6e2d07-2230-4a74-8506-323ff2d0ce4d"
   }
 ]

@@ -9,7 +9,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Maj/3",
-    "description": "Supercharged adrenal response. +1 Vigor, ignore 1 wound."
+    "description": "Supercharged adrenal response. +1 Vigor, ignore 1 wound.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "5aab0bcb-f9dd-4b56-94c9-461d7ef6204f"
   },
   {
     "category": "Ware",
@@ -21,7 +24,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/R/1",
-    "description": "+ Drug Produces one type of drug."
+    "description": "+ Drug Produces one type of drug.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "0eb33ad1-9af7-40d4-b3ca-19e58bc73cf5"
   },
   {
     "category": "Ware",
@@ -33,7 +39,10 @@
     "meshware": true,
     "nanoware": false,
     "complexity/gp": "Maj/3",
-    "description": "One extra short recharge per day."
+    "description": "One extra short recharge per day.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "c2ab5770-151e-4a23-a339-882201ef6bf7"
   },
   {
     "category": "Ware",
@@ -45,7 +54,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Maj/3",
-    "description": "Bone lacing. +1 WT, +5 DUR, +8/10 DR, +10 SOM Check."
+    "description": "Bone lacing. +1 WT, +5 DUR, +8/10 DR, +10 SOM Check.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "a54e797e-9ed8-4c78-9e1e-60db5a1dc4f4"
   },
   {
     "category": "Ware",
@@ -57,7 +69,10 @@
     "meshware": false,
     "nanoware": true,
     "complexity/gp": "Mod/2",
-    "description": "Medicine: Pharmacology 60 Test for future immunity to drug, toxin, or disease."
+    "description": "Medicine: Pharmacology 60 Test for future immunity to drug, toxin, or disease.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "9bd93202-f0c5-455d-b9f2-4e2bf916ca47"
   },
   {
     "category": "Ware",
@@ -69,7 +84,10 @@
     "meshware": false,
     "nanoware": true,
     "complexity/gp": "Maj/3",
-    "description": "Ignore 1 wound, heal faster, drug/toxin effect/duration halved."
+    "description": "Ignore 1 wound, heal faster, drug/toxin effect/duration halved.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "5a7b4d40-1d6b-442c-984a-df78c73e5633"
   },
   {
     "category": "Ware",
@@ -81,7 +99,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Maj/3",
-    "description": "Muscles enhanced with myofibers. +1d6 DV melee, +10 SOM Checks."
+    "description": "Muscles enhanced with myofibers. +1d6 DV melee, +10 SOM Checks.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "e2f8cf96-4557-4036-b941-03705c281c98"
   },
   {
     "category": "Ware",
@@ -93,7 +114,10 @@
     "meshware": false,
     "nanoware": true,
     "complexity/gp": "Mod/2",
-    "description": "SOM Check negates nanodrugs/toxins, failure halves effects."
+    "description": "SOM Check negates nanodrugs/toxins, failure halves effects.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "aa7b44a6-a683-4a00-b5cd-13386973371e"
   },
   {
     "category": "Ware",
@@ -105,7 +129,10 @@
     "meshware": false,
     "nanoware": true,
     "complexity/gp": "Min/1",
-    "description": "+ Nanodrug Nanobot hive, produces one type of nanodrug."
+    "description": "+ Nanodrug Nanobot hive, produces one type of nanodrug.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "205e4d83-eb2a-4f17-b3d1-3efc03945448"
   },
   {
     "category": "Ware",
@@ -117,7 +144,10 @@
     "meshware": false,
     "nanoware": true,
     "complexity/gp": "Min/R/1",
-    "description": "+ Nanotoxin Nanobot hive, produces one type of nanotoxin."
+    "description": "+ Nanotoxin Nanobot hive, produces one type of nanotoxin.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "38ad581f-360c-45a4-abb2-8cc775d6ea36"
   },
   {
     "category": "Ware",
@@ -129,7 +159,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Maj/3",
-    "description": "Enhanced synapses and neurotransmitters. +2 Vigor."
+    "description": "Enhanced synapses and neurotransmitters. +2 Vigor.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "e5207b4f-fedb-4dba-b566-d98a55b64ce0"
   },
   {
     "category": "Ware",
@@ -141,7 +174,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Mod/2",
-    "description": "Enhanced heart and circulatory system. +1 Vigor."
+    "description": "Enhanced heart and circulatory system. +1 Vigor.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "6625acd7-f522-48f0-8395-12c44c3a0e55"
   },
   {
     "category": "Ware",
@@ -153,7 +189,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Mod/2",
-    "description": "Dulls pain experience. Ignore 1 wound effect."
+    "description": "Dulls pain experience. Ignore 1 wound effect.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "aadf262d-fb17-4eb1-90d0-70f590fe2295"
   },
   {
     "category": "Ware",
@@ -165,7 +204,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Maj/3",
-    "description": "Soft actuators. +10 Athletics, +1d6 DV melee."
+    "description": "Soft actuators. +10 Athletics, +1d6 DV melee.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "5e9bc951-19f9-4ad3-973c-27491a87daed"
   },
   {
     "category": "Ware",
@@ -177,7 +219,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/R/1",
-    "description": "+ Toxin Produces one type of poison."
+    "description": "+ Toxin Produces one type of poison.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "20d76dac-4fa5-425b-bccb-a440b9aabba2"
   },
   {
     "category": "Ware",
@@ -189,7 +234,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Mod/2",
-    "description": "–30 Perceive using radar/terahertz."
+    "description": "-30 Perceive using radar/terahertz.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "997dc5e1-f3ff-4e3b-bb5f-b956c2c24c65"
   },
   {
     "category": "Ware",
@@ -201,7 +249,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Maj/3",
-    "description": "Spine and nervous system rewired. +3 INIT, +10 REF Check."
+    "description": "Spine and nervous system rewired. +3 INIT, +10 REF Check.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "977f1d2d-36c4-43ea-a8d1-0e1f56ac589c"
   },
   {
     "category": "Ware",
@@ -213,7 +264,10 @@
     "meshware": false,
     "nanoware": true,
     "complexity/gp": "Mod/2",
-    "description": "Artificial blood cells, provide 4 hours of air, +5 DUR, +1 WT, +3 DR."
+    "description": "Artificial blood cells, provide 4 hours of air, +5 DUR, +1 WT, +3 DR.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "fa7172ed-ed1b-43be-83da-c247c3457979"
   },
   {
     "category": "Ware",
@@ -225,7 +279,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Mod/2",
-    "description": "Faster/stronger robotics. +1 Vigor."
+    "description": "Faster/stronger robotics. +1 Vigor.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "c28130c3-6fc3-4229-929d-2c9abf1b38af"
   },
   {
     "category": "Ware",
@@ -237,7 +294,10 @@
     "meshware": true,
     "nanoware": false,
     "complexity/gp": "Mod/2",
-    "description": "Manages stress levels. +10 WIL Checks vs. stress, +1 Trauma Threshold."
+    "description": "Manages stress levels. +10 WIL Checks vs. stress, +1 Trauma Threshold.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "92aa60a0-b9a6-4357-9b8f-53c9a8c2bdcf"
   },
   {
     "category": "Ware",
@@ -249,7 +309,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Maj/3",
-    "description": "Tougher frame. +2 WT, +10 DUR, +20 DR."
+    "description": "Tougher frame. +2 WT, +10 DUR, +20 DR.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "bbe82ed2-8fbe-4790-93c8-01daaadb97e0"
   },
   {
     "category": "Ware",
@@ -261,7 +324,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Mod/2",
-    "description": "Extending limbs. +1 Reach."
+    "description": "Extending limbs. +1 Reach.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "e57d3f09-a379-4f53-9e8c-328ff3b75858"
   },
   {
     "category": "Ware",
@@ -273,7 +339,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Maj/3",
-    "description": "+30 to apt checks to resist drugs/toxins, effect/duration halved."
+    "description": "+30 to apt checks to resist drugs/toxins, effect/duration halved.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "3cf91675-f3c3-4601-9b37-009314bcd584"
   },
   {
     "category": "Ware",
@@ -285,7 +354,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/R/1",
-    "description": "Hardpoint holds one static/swiveling/articulated weapon. Concealable."
+    "description": "Hardpoint holds one static/swiveling/articulated weapon. Concealable.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "4476c815-18a3-42a6-a0de-a2f8f4cb6c38"
   },
   {
     "category": "Ware",
@@ -297,7 +369,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Mod/2",
-    "description": "Smart animal brain aid, +10 comprehension COG Checks, +10 Exotic Skill: Animal Handling."
+    "description": "Smart animal brain aid, +10 comprehension COG Checks, +10 Exotic Skill: Animal Handling.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "51486cdc-1a26-4ec0-9ffe-0f9cc1f1488f"
   },
   {
     "category": "Ware",
@@ -309,7 +384,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "Encrypted data storage."
+    "description": "Encrypted data storage.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "bb5bd7d5-f3d7-4342-9abf-71924d0f9778"
   },
   {
     "category": "Ware",
@@ -321,7 +399,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "Wipes and melts your cortical stack if killed."
+    "description": "Wipes and melts your cortical stack if killed.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "b6c6aa26-5b55-495a-adf6-4fabfb8a9521"
   },
   {
     "category": "Ware",
@@ -333,7 +414,10 @@
     "meshware": true,
     "nanoware": false,
     "complexity/gp": "Mod/2",
-    "description": "Ignore the –10 modifier when jamming."
+    "description": "Ignore the -10 modifier when jamming.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "425b665a-5693-4529-8ee8-7e6c210fa3b6"
   },
   {
     "category": "Ware",
@@ -345,7 +429,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Maj/R/3",
-    "description": "Neutrino farcaster for emergency egocasting if killed/triggered."
+    "description": "Neutrino farcaster for emergency egocasting if killed/triggered.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "ac4e21a4-f3b4-42cf-9e6c-7ad081307ca9"
   },
   {
     "category": "Ware",
@@ -357,7 +444,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "Carries an infomorph."
+    "description": "Carries an infomorph.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "ea04abc6-110d-4a9c-b41c-27a40b7424c6"
   },
   {
     "category": "Ware",
@@ -369,7 +459,10 @@
     "meshware": true,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "Blocks memory retention/recording when activated."
+    "description": "Blocks memory retention/recording when activated.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "67ce60a7-45e5-4120-82d6-17cee4642070"
   },
   {
     "category": "Ware",
@@ -381,7 +474,10 @@
     "meshware": true,
     "nanoware": true,
     "complexity/gp": "Maj/3",
-    "description": "Accelerates mind. +2 Insight."
+    "description": "Accelerates mind. +2 Insight.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "6c5e5ddc-f6ee-411a-a092-579beff2c1fa"
   },
   {
     "category": "Ware",
@@ -393,7 +489,10 @@
     "meshware": true,
     "nanoware": false,
     "complexity/gp": "Mod/2",
-    "description": "Focus on 2 things at once. +1 Insight."
+    "description": "Focus on 2 things at once. +1 Insight.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "13d52203-c9de-481d-a6ac-7f0ddb0b3a0c"
   },
   {
     "category": "Ware",
@@ -405,7 +504,10 @@
     "meshware": true,
     "nanoware": false,
     "complexity/gp": "Maj/3",
-    "description": "Brain holds multiple egos."
+    "description": "Brain holds multiple egos.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "caaba2a5-2910-433d-9709-ba4cb97a8413"
   },
   {
     "category": "Ware",
@@ -417,7 +519,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Maj/3",
-    "description": "Quantum farcaster for remote backup every 48 hrs."
+    "description": "Quantum farcaster for remote backup every 48 hrs.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "3e560c4b-287b-40c7-8f07-db6b9ba2ce86"
   },
   {
     "category": "Ware",
@@ -429,7 +534,10 @@
     "meshware": true,
     "nanoware": false,
     "complexity/gp": "Maj/3",
-    "description": "Can use 120 points of skillsofts.m."
+    "description": "Can use 120 points of skillsofts.m.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "84e6efad-0783-4dd1-a2b7-b46a425f35af"
   },
   {
     "category": "Ware",
@@ -441,7 +549,10 @@
     "meshware": true,
     "nanoware": false,
     "complexity/gp": "Mod/2",
-    "description": "Need only 2 hours of sleep. Long recharges take 2 hours."
+    "description": "Need only 2 hours of sleep. Long recharges take 2 hours.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "1e82ebc6-01e2-418a-a92c-54c7ea3c1369"
   },
   {
     "category": "Ware",
@@ -453,7 +564,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "Handle temps as low as –80 C/–112 F."
+    "description": "Handle temps as low as -80 C/-112 F.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "9c3137a3-6439-42e5-9539-78bf8f2e30a1"
   },
   {
     "category": "Ware",
@@ -465,7 +579,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Mod/2",
-    "description": "Handle temps as low as –120/–200 C (biomorphs) or lower (synthmorphs)."
+    "description": "Handle temps as low as -120/-200 C (biomorphs) or lower (synthmorphs).",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "94bf45ad-bbff-4798-9176-cd2e100937c7"
   },
   {
     "category": "Ware",
@@ -477,7 +594,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Mod/2",
-    "description": "Replacement limb. 6/4 AV when targeted, +5 SOM Check."
+    "description": "Replacement limb. 6/4 AV when targeted, +5 SOM Check.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "16c6c0ba-27db-4206-a8a5-155f50a50ad1"
   },
   {
     "category": "Ware",
@@ -489,7 +609,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Maj/3",
-    "description": "Replacement/extra limb. As cyberlimb, +1 Vigor pool."
+    "description": "Replacement/extra limb. As cyberlimb, +1 Vigor pool.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "afbf931b-614c-4cff-9874-d92447a009c7"
   },
   {
     "category": "Ware",
@@ -501,7 +624,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "Breathe wider range of atmospheres, hold breath longer."
+    "description": "Breathe wider range of atmospheres, hold breath longer.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "1d203afd-77c0-48c6-a656-4c250c65526a"
   },
   {
     "category": "Ware",
@@ -513,7 +639,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "+10 Hardware Tests involving ultra-fine manipulation."
+    "description": "+10 Hardware Tests involving ultra-fine manipulation.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "14c9cd93-d72b-4bdb-bafe-a5b6735d85ec"
   },
   {
     "category": "Ware",
@@ -525,7 +654,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Mod/2",
-    "description": "+10 Free Fall."
+    "description": "+10 Free Fall.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "0bd88408-e478-4813-b3ba-7d48edc9a7cb"
   },
   {
     "category": "Ware",
@@ -537,7 +669,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "Breathe both air and water."
+    "description": "Breathe both air and water.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "ef5ab519-7341-460a-b4bb-595ee0ca3a7d"
   },
   {
     "category": "Ware",
@@ -549,7 +684,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "+30 climbing Athletics Tests."
+    "description": "+30 climbing Athletics Tests.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "f0135288-e4fc-4c6d-a43e-6ec52343184d"
   },
   {
     "category": "Ware",
@@ -561,7 +699,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "Reduce metabolism, need only 5% normal amount of food, water, and air."
+    "description": "Reduce metabolism, need only 5% normal amount of food, water, and air.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "ea57cefa-3856-40f5-98ac-bc9a1885f656"
   },
   {
     "category": "Ware",
@@ -573,7 +714,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "Concealed, shielded compartment. +30 Infiltrate to hide items."
+    "description": "Concealed, shielded compartment. +30 Infiltrate to hide items.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "9e99cea0-30e6-4f29-a3b2-41b45664f54b"
   },
   {
     "category": "Ware",
@@ -585,7 +729,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "+30 SOM Checks to cling to ferrous materials and objects."
+    "description": "+30 SOM Checks to cling to ferrous materials and objects.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "ae5b850d-b473-4258-ba2b-b06f71093358"
   },
   {
     "category": "Ware",
@@ -597,7 +744,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Mod/2",
-    "description": "Additional specified movement type (p. XX)."
+    "description": "Additional specified movement type (p. XX).",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "dff14544-1764-491a-8dea-56ac3b9df32c"
   },
   {
     "category": "Ware",
@@ -609,7 +759,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Mod/2",
-    "description": "Lock w/other modules to create gestalt forms. Flexbot Rules, p. XX."
+    "description": "Lock w/other modules to create gestalt forms. Flexbot Rules, p. XX.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "6ebf74cd-e9f6-43ed-9944-f0b9b6819670"
   },
   {
     "category": "Ware",
@@ -621,7 +774,10 @@
     "meshware": false,
     "nanoware": true,
     "complexity/gp": "Maj/R/3",
-    "description": "Switch out your nanotat ID."
+    "description": "Switch out your nanotat ID.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "fdf39fac-a1e9-4596-9a1c-905b75a12311"
   },
   {
     "category": "Ware",
@@ -633,7 +789,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "Oxygen tank/rebreather with 3 hours of air."
+    "description": "Oxygen tank/rebreather with 3 hours of air.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "27751b40-2d98-40ea-9f75-94421ce44ae6"
   },
   {
     "category": "Ware",
@@ -645,7 +804,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "Can use feet as hands. –8 full move."
+    "description": "Can use feet as hands. -8 full move.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "fa3155c1-858d-41d3-bf9c-d7a63d6ee3cc"
   },
   {
     "category": "Ware",
@@ -657,7 +819,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "Can grip with tail. +10 balanced-based Athletics."
+    "description": "Can grip with tail. +10 balanced-based Athletics.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "024a7c7b-b3dc-4fb6-9586-790b5443c4f3"
   },
   {
     "category": "Ware",
@@ -669,7 +834,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "Handle extreme pressure."
+    "description": "Handle extreme pressure.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "caedb23f-80d2-4461-b453-6b9ab44f23c4"
   },
   {
     "category": "Ware",
@@ -681,7 +849,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "Limb retracts, can hold 1 small item."
+    "description": "Limb retracts, can hold 1 small item.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "46809049-8cf4-4de4-aae6-3d61cf750ad5"
   },
   {
     "category": "Ware",
@@ -693,7 +864,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Maj/3",
-    "description": "Smart material composition, can create 2 Min or 1 Mod item/ware, more."
+    "description": "Smart material composition, can create 2 Min or 1 Mod item/ware, more.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "1f6830b5-9680-4f6e-9114-bb4226f2df13"
   },
   {
     "category": "Ware",
@@ -705,7 +879,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "Concealment for very small (and some small) items (+30 Infiltrate)."
+    "description": "Concealment for very small (and some small) items (+30 Infiltrate).",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "67a8afb5-9b4d-43f6-ac52-c66fbc54bdcf"
   },
   {
     "category": "Ware",
@@ -717,7 +894,10 @@
     "meshware": false,
     "nanoware": true,
     "complexity/gp": "Min/1",
-    "description": "Create a “hardwired” mesh link by touch."
+    "description": "Create a 'hardwired' mesh link by touch.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "3a91f8a4-309d-4b59-a6b2-2b74ecf973ea"
   },
   {
     "category": "Ware",
@@ -729,7 +909,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Mod/2",
-    "description": "Handle high temps up to 1,000 C."
+    "description": "Handle high temps up to 1,000 C.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "d97dc625-6698-4173-8ba1-cfedae0e97d8"
   },
   {
     "category": "Ware",
@@ -741,7 +924,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Mod/2",
-    "description": "Implanted utilitool."
+    "description": "Implanted utilitool.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "1c805a7a-62bf-4b18-826a-e1d1597edf1b"
   },
   {
     "category": "Ware",
@@ -753,7 +939,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "Can survive exposure to vacuum."
+    "description": "Can survive exposure to vacuum.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "969f37c8-ef0a-4b65-9075-78285bb594d6"
   },
   {
     "category": "Ware",
@@ -765,7 +954,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Mod/2",
-    "description": "Enable flight if small or in low gravities."
+    "description": "Enable flight if small or in low gravities.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "2048ade4-642e-4063-8019-1b486bd31e31"
   },
   {
     "category": "Ware",
@@ -777,7 +969,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "See in all directions at once."
+    "description": "See in all directions at once.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "acf4bab4-e1d0-486e-9e3a-68827a992f08"
   },
   {
     "category": "Ware",
@@ -789,7 +984,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "No glare penalties."
+    "description": "No glare penalties.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "3cc26343-2bbd-41b1-9e5b-0a82f4c0ced1"
   },
   {
     "category": "Ware",
@@ -801,7 +999,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Mod/2",
-    "description": "Detect gases, explosives, firearms, toxins. Know: Chemistry 60."
+    "description": "Detect gases, explosives, firearms, toxins. Know: Chemistry 60.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "eaae16a9-e4de-4fc7-b240-4039234dacfc"
   },
   {
     "category": "Ware",
@@ -813,7 +1014,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "Innate sense of direction and distance."
+    "description": "Innate sense of direction and distance.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "0cb6ad63-643e-4f1b-8d28-061d5d52c1f1"
   },
   {
     "category": "Ware",
@@ -825,7 +1029,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "Sense electrical fields w/in 5 m."
+    "description": "Sense electrical fields w/in 5 m.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "37c51c82-f6a9-415f-bfdf-b02a35407944"
   },
   {
     "category": "Ware",
@@ -837,7 +1044,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "Hear higher and lower frequencies. +10 hearing-based Perceive."
+    "description": "Hear higher and lower frequencies. +10 hearing-based Perceive.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "03c25dea-be16-49b7-b988-db16e4e96324"
   },
   {
     "category": "Ware",
@@ -849,7 +1059,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "+10 smell-based Perceive, +10 Kinesics with biomorphs point-blank."
+    "description": "+10 smell-based Perceive, +10 Kinesics with biomorphs point-blank.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "70cafb23-7b5c-43ef-b4d5-d8339ae186e1"
   },
   {
     "category": "Ware",
@@ -861,7 +1074,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Mod/2",
-    "description": "Tetrachromatic vision, wider frequency range, better focus. +10 vision Perceive."
+    "description": "Tetrachromatic vision, wider frequency range, better focus. +10 vision Perceive.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "001b0464-7058-4455-b786-78ea61ada51e"
   },
   {
     "category": "Ware",
@@ -873,7 +1089,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "Use reflected laser light to image and judge range and speed."
+    "description": "Use reflected laser light to image and judge range and speed.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "ba54ebb3-c26b-49e7-b0aa-34d3eaa9fc3a"
   },
   {
     "category": "Ware",
@@ -885,7 +1104,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Mod/2",
-    "description": "View nanoscale objects and nanobots."
+    "description": "View nanoscale objects and nanobots.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "577f8946-f79d-40de-a7d1-5313562b13bf"
   },
   {
     "category": "Ware",
@@ -897,7 +1119,10 @@
     "meshware": true,
     "nanoware": false,
     "complexity/gp": "Mod/2",
-    "description": "+10 Perceive, negate distraction modifiers."
+    "description": "+10 Perceive, negate distraction modifiers.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "b01f874b-964c-44d7-a00c-e32a975ecf25"
   },
   {
     "category": "Ware",
@@ -909,7 +1134,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "See polarized light, ignore camo modifiers."
+    "description": "See polarized light, ignore camo modifiers.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "499d15f5-f8af-45d2-b711-ec2bb3ee8182"
   },
   {
     "category": "Ware",
@@ -921,7 +1149,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "Motion detector, can also judge size and composition."
+    "description": "Motion detector, can also judge size and composition.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "e7728fd4-6e26-4011-afa2-e8c6b7eb9ec1"
   },
   {
     "category": "Ware",
@@ -933,7 +1164,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "Detect radiation sources."
+    "description": "Detect radiation sources.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "5c37e925-0786-4bdc-9e91-745322a18cef"
   },
   {
     "category": "Ware",
@@ -945,7 +1179,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "Sonar, range 20 m air/100 m water."
+    "description": "Sonar, range 20 m air/100 m water.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "56c5454c-c370-4bf9-8ff6-55ad4c51362a"
   },
   {
     "category": "Ware",
@@ -957,7 +1194,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "Use enhanced vision to see through materials."
+    "description": "Use enhanced vision to see through materials.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "7d71e15f-a82e-44bb-b2f5-0862744dd1cb"
   },
   {
     "category": "Ware",
@@ -969,7 +1209,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "Customized body mods."
+    "description": "Customized body mods.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "50bd733e-8109-4a0f-ba2a-3081e03c7745"
   },
   {
     "category": "Ware",
@@ -981,7 +1224,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Mod/2",
-    "description": "Change skin color. +10 Infiltrate, +30 still and covered."
+    "description": "Change skin color. +10 Infiltrate, +30 still and covered.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "b986c402-c3a0-4ac2-93aa-ed94b93a0eae"
   },
   {
     "category": "Ware",
@@ -993,7 +1239,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "Symbiotic bacteria, gut flora, and glands keep you clean and fresh."
+    "description": "Symbiotic bacteria, gut flora, and glands keep you clean and fresh.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "d2390bdd-82ff-43e5-9467-9503dc8471e0"
   },
   {
     "category": "Ware",
@@ -1005,7 +1254,10 @@
     "meshware": true,
     "nanoware": false,
     "complexity/gp": "Maj/3",
-    "description": "Control over hormones and emotions. +2 Moxie."
+    "description": "Control over hormones and emotions. +2 Moxie.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "ebaef97c-1025-469c-bcd1-ae339bfdad5a"
   },
   {
     "category": "Ware",
@@ -1017,7 +1269,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Mod/2",
-    "description": "+10 Persuade and Provoke w/biomorphs of same species."
+    "description": "+10 Persuade and Provoke w/biomorphs of same species.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "4e9c3889-4dc6-4e68-bb6b-1f558a3a1467"
   },
   {
     "category": "Ware",
@@ -1029,7 +1284,10 @@
     "meshware": false,
     "nanoware": true,
     "complexity/gp": "Min/1",
-    "description": "Mesh-controlled nanobot tattoos."
+    "description": "Mesh-controlled nanobot tattoos.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "f8b25950-8bcc-4a6c-82ef-664ffbac7ad4"
   },
   {
     "category": "Ware",
@@ -1041,7 +1299,10 @@
     "meshware": true,
     "nanoware": true,
     "complexity/gp": "Mod/2",
-    "description": "Control over neurotransmitters and emotions. +1 Moxie."
+    "description": "Control over neurotransmitters and emotions. +1 Moxie.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "19dee558-2865-4147-b822-7c7e8d114bd8"
   },
   {
     "category": "Ware",
@@ -1053,7 +1314,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "Excrete designer smells."
+    "description": "Excrete designer smells.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "81481ef9-08f2-4bfd-93e7-6ccafd44449f"
   },
   {
     "category": "Ware",
@@ -1065,7 +1329,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Mod/2",
-    "description": "Switch between male, female, intersex, or neuter in 1 week."
+    "description": "Switch between male, female, intersex, or neuter in 1 week.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "4175267e-18cc-42cb-85c3-73f97bf54889"
   },
   {
     "category": "Ware",
@@ -1077,7 +1344,10 @@
     "meshware": false,
     "nanoware": true,
     "complexity/gp": "Mod/2",
-    "description": "Disguise face, skin, hair. +30 to impersonation/disguise Deceive Tests."
+    "description": "Disguise face, skin, hair. +30 to impersonation/disguise Deceive Tests.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "d436ae63-a428-4585-8d66-4b026a5834a4"
   },
   {
     "category": "Ware",
@@ -1089,7 +1359,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Mod/1",
-    "description": "Faux skin covering for cyberlimb."
+    "description": "Faux skin covering for cyberlimb.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "71ba81ce-2e6f-4dae-b274-024951328ff2"
   },
   {
     "category": "Ware",
@@ -1101,7 +1374,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Mod/2",
-    "description": "Faux skin for synthmorph. +30 disguise-based Deceive Tests."
+    "description": "Faux skin for synthmorph. +30 disguise-based Deceive Tests.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "3d25e0c0-61bd-40df-85de-ee4b780821ec"
   },
   {
     "category": "Ware",
@@ -1113,7 +1389,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "External sockets for direct interface with mesh inserts/cyberbrains."
+    "description": "External sockets for direct interface with mesh inserts/cyberbrains.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "2a6bcf6a-5b07-4669-a503-6abd5bfc01e9"
   },
   {
     "category": "Ware",
@@ -1125,7 +1404,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "Genetic tweaks for health, faster healing, immunities, and more."
+    "description": "Genetic tweaks for health, faster healing, immunities, and more.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "1c20f2f4-5f0a-445e-8d80-529403efa73e"
   },
   {
     "category": "Ware",
@@ -1137,7 +1419,10 @@
     "meshware": false,
     "nanoware": true,
     "complexity/gp": "Min/1",
-    "description": "Memory diamond storage unit for ego backups."
+    "description": "Memory diamond storage unit for ego backups.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "1c30fe7e-00e9-4b50-bd56-c0e2ccc0bd5b"
   },
   {
     "category": "Ware",
@@ -1149,7 +1434,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Maj/3",
-    "description": "Synthetic brain, runs infomorph mind-state."
+    "description": "Synthetic brain, runs infomorph mind-state.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "8ece2366-d8fc-4a4f-af02-7577176a3958"
   },
   {
     "category": "Ware",
@@ -1161,7 +1449,10 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "Cranial computer, wireless transceiver, muse home, and medical sensors."
+    "description": "Cranial computer, wireless transceiver, muse home, and medical sensors.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "b886acb5-1bed-44ec-b39a-1d4cf33af363"
   },
   {
     "category": "Ware",
@@ -1173,7 +1464,10 @@
     "meshware": true,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "description": "Enhanced memory; +20 memory-related COG checks."
+    "description": "Enhanced memory; +20 memory-related COG checks.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "daf00ead-b05e-4ce4-8dac-7fb3cd586e26"
   },
   {
     "category": "Ware",
@@ -1185,6 +1479,9 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Mod/2",
-    "description": "Allows morph to be remote controlled."
+    "description": "Allows morph to be remote controlled.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "63b5d79d-acd2-46ee-a4fa-1fc7ef962f1c"
   }
 ]

@@ -1,31 +1,47 @@
 [
   {
     "name": "Biomorphs",
-    "description":"Biomorphs are fully biological sleeves (often genetically modified and equipped with implants), birthed naturally or from an exowomb, and grown to adulthood either naturally or at a slightly accelerated rate."
+    "description": "Biomorphs are fully biological sleeves (often genetically modified and equipped with implants), birthed naturally or from an exowomb, and grown to adulthood either naturally or at a slightly accelerated rate.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "ee76b37c-9569-4812-b90a-cace78d4e87d"
   },
   {
     "name": "Pod Biomorphs",
-    "description": "Pods (a colloquialism derived from “pod people”) were originally designed as biological androids. Their parts are vat-grown separately using accelerated-growth processes and assembled with a number of cybernetic system “short-cuts;” this entire process producing a functional body in a fraction of the time it takes to clone a standard biomorph. Cyberbrains replace their undeveloped gray matter. The first generations of pods were operated by ALIs and primarily used in service industries where a biological aesthetic was preferred to robots, in hazardous labor industries, and for sex work. They were visually distinguished from normal humans by stylized seamlined patterns in their skin, a designation that remains common today. In the wake of the Fall and the subsequent demand for more biomorphs, pods are now commonly sleeved by transhumans, especially indentures, but they still often suffer a classist stigma. Pods lack reproductive functions and are usually neuter. Non-human pods are increasingly common."
+    "description": "Pods (a colloquialism derived from 'pod people') were originally designed as biological androids. Their parts are vat-grown separately using accelerated-growth processes and assembled with a number of cybernetic system 'short-cuts;' this entire process producing a functional body in a fraction of the time it takes to clone a standard biomorph. Cyberbrains replace their undeveloped gray matter. The first generations of pods were operated by ALIs and primarily used in service industries where a biological aesthetic was preferred to robots, in hazardous labor industries, and for sex work. They were visually distinguished from normal humans by stylized seamlined patterns in their skin, a designation that remains common today. In the wake of the Fall and the subsequent demand for more biomorphs, pods are now commonly sleeved by transhumans, especially indentures, but they still often suffer a classist stigma. Pods lack reproductive functions and are usually neuter. Non-human pods are increasingly common.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "9b13f9f8-1ae7-4306-8abb-486411c30805"
   },
   {
     "name": "Uplift Biomorphs",
-    "description": "These biomorphs are the original bodies of various sapient non-humans. Though uncommon and sometimes stigmatized, they are also sleeved by non-uplifts."
+    "description": "These biomorphs are the original bodies of various sapient non-humans. Though uncommon and sometimes stigmatized, they are also sleeved by non-uplifts.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "e11c44f0-17b1-4838-b72b-124f62b9da7a"
   },
   {
     "name": "Synthmorphs",
-    "description" :[
-      "Most synthmorph designs were originally intended to be robots, piloted by ALIs. Robot forms are optimized to suit their function, and so a wide variety of body plans exist. Robots designed to interact with transhumans often have biped or quadruped walker frames, to better navigate transhuman dwellings and spaces, but were often distinctly non-human in appearance. Many feature a sort of symbolic “face,” to give transhumans something to look at and interact with, but these were rarely realistic, so as to avoid uncanny-valley creepiness. Since the Fall, more synthmorphs have been designed specifically for transhuman egos, as they are cheaper and quicker to make than biomorphs. Without specialized robotic functions in mind, many of these synthmorph designs feature anthropomorphic frames (androids and gynoids) specifically tailored for egos used to human forms, including heads and distinctive (though still non-realistic) faces. As transhumanity grows accustomed to synthmorphs and more creative, however, innovative and unusual synthmorph designs become more common-place.","Synthmorphs — as well as bots, vehicles, and similar shells — share the following capabilities: ",
+    "description": [
+      "Most synthmorph designs were originally intended to be robots, piloted by ALIs. Robot forms are optimized to suit their function, and so a wide variety of body plans exist. Robots designed to interact with transhumans often have biped or quadruped walker frames, to better navigate transhuman dwellings and spaces, but were often distinctly non-human in appearance. Many feature a sort of symbolic 'face,' to give transhumans something to look at and interact with, but these were rarely realistic, so as to avoid uncanny-valley creepiness. Since the Fall, more synthmorphs have been designed specifically for transhuman egos, as they are cheaper and quicker to make than biomorphs. Without specialized robotic functions in mind, many of these synthmorph designs feature anthropomorphic frames (androids and gynoids) specifically tailored for egos used to human forms, including heads and distinctive (though still non-realistic) faces. As transhumanity grows accustomed to synthmorphs and more creative, however, innovative and unusual synthmorph designs become more common-place.",
+      "Synthmorphs - as well as bots, vehicles, and similar shells - share the following capabilities: ",
       [
         "Lack of Biological Functions - Shells need not be bothered with trivialities like breathing, eating, defecating, aging, sleeping, or any similar minor but crucial aspects of biological life. They are also immune to toxins and pathogens. Synthmorphs are powered by nuclear and standard batteries, and sometimes solar power; for game purposes, power is not an issue for them.",
-        "Pain Filter - Synthmorphs can filter out their pain receptors so that they are unhampered by wounds or physical damage. This allows them to ignore the −10 modifier from 1 wound (Wound Effects ▶220 ), but they suffer −30 on any tactile-based Perceive Tests and will not even notice they have been damaged unless they succeed in a (modified) Perceive Test.",
+        "Pain Filter - Synthmorphs can filter out their pain receptors so that they are unhampered by wounds or physical damage. This allows them to ignore the -10 modifier from 1 wound (Wound Effects ▶220 ), but they suffer -30 on any tactile-based Perceive Tests and will not even notice they have been damaged unless they succeed in a (modified) Perceive Test.",
         "Immunity to Shock - Synthmorphs have no nervous system to disrupt, and their optical electronics are carefully shielded from interference. Shock attacks temporarily disrupt wireless radio communications, however, impeding all mesh actions until the end of the next action turn.",
         "Environmental Durability - Synthmorphs are built to withstand a wide range of environments, from dusty Mars to the oceans of Europa to the vacuum of space. They are unaffected by any but the most extreme temperatures and atmospheric pressures. Treat as cold tolerance ▶324 and vacuum sealing ▶325.",
-        "Toughness - Synthetic shells are made to last — a fact reflected in their higher Durability and built-in Armor ratings. Their composition also makes their physical strikes more damaging; unarmed strikes by shells inflict DV 2d6."
+        "Toughness - Synthetic shells are made to last - a fact reflected in their higher Durability and built-in Armor ratings. Their composition also makes their physical strikes more damaging; unarmed strikes by shells inflict DV 2d6."
       ]
-    ]
+    ],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "d64d0f4b-0d78-459f-a506-6eefef92fabb"
   },
   {
     "name": "Infomorphs",
-    "description": "Infomorphs are digital-only forms — they lack a physical body. They are software mind-states on which living egos are run, though they may be limited by the capabilities of the hardware that supports them. Rules for infomorphs can be found on ▶252."
+    "description": "Infomorphs are digital-only forms - they lack a physical body. They are software mind-states on which living egos are run, though they may be limited by the capabilities of the hardware that supports them. Rules for infomorphs can be found on ▶252.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "05574994-def8-42e8-8718-0933c7d02a05"
   }
 ]

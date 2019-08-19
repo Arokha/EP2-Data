@@ -24,7 +24,10 @@
           "Industrial Armor"
         ]
       }
-    ]
+    ],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "e3ed126e-4cd9-4931-884f-e236c25996d6"
   },
   {
     "name": "Gatecrashing",
@@ -52,7 +55,10 @@
           "Medichines"
         ]
       }
-    ]
+    ],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "411367f0-640c-4827-861f-f1a296691833"
   },
   {
     "name": "Infomorph",
@@ -66,7 +72,10 @@
       "Gnat",
       "Guardian Angel"
     ],
-    "options": []
+    "options": [],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "814a875c-7689-4a68-bbfb-64f6a1f8d860"
   },
   {
     "name": "Academic",
@@ -81,7 +90,10 @@
       "Servitor Bot",
       "Simulspace"
     ],
-    "options": []
+    "options": [],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "a50e7aca-6fd3-4dcf-a6fa-e61baac1ee0e"
   },
   {
     "name": "Covert Operative",
@@ -106,7 +118,10 @@
           "Synthetic Mask"
         ]
       }
-    ]
+    ],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "46df11e8-6656-4584-b758-af9e7a0ad141"
   },
   {
     "name": "Enforcer",
@@ -120,7 +135,10 @@
       "Shock Glove",
       "Shredder"
     ],
-    "options": []
+    "options": [],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "ff7afab4-d3f6-4311-81d9-fde9da2f439e"
   },
   {
     "name": "Explorer",
@@ -134,7 +152,10 @@
       "Saucer",
       "Scout Missile"
     ],
-    "options": []
+    "options": [],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "e65b7f3e-61fa-49ef-8919-646af20ef5f7"
   },
   {
     "name": "Face/Dealer",
@@ -148,7 +169,10 @@
       "Smart Hawk",
       "Stiff (5 doses)"
     ],
-    "options": []
+    "options": [],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "04681afc-ed69-4b4d-b69c-a3cfff6e56e0"
   },
   {
     "name": "Genehacker",
@@ -163,7 +187,10 @@
       "Tools (Kit)",
       "Twitch (5 doses)"
     ],
-    "options": []
+    "options": [],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "248b6b15-5526-47e4-86f8-93b693abce87"
   },
   {
     "name": "Hacker",
@@ -176,7 +203,10 @@
       "Spoofer App",
       "Tracker App"
     ],
-    "options": []
+    "options": [],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "88649c6b-453a-40e7-9c8c-ab45b4b27332"
   },
   {
     "name": "Investigator",
@@ -192,7 +222,10 @@
       "Speck",
       "Spy Nanoswarm"
     ],
-    "options": []
+    "options": [],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "c09ca491-e7e1-4bdd-8cad-460c96c5cc25"
   },
   {
     "name": "Medic",
@@ -204,7 +237,10 @@
       "Meds",
       "Med Scanner"
     ],
-    "options": []
+    "options": [],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "1524412e-b464-4f07-8ac2-81d7874b9bff"
   },
   {
     "name": "Mindhacker",
@@ -218,7 +254,10 @@
       "Private Server",
       "Servitor"
     ],
-    "options": []
+    "options": [],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "710ef651-f1d6-41a3-85d7-0504a47625b2"
   },
   {
     "name": "Scavenger",
@@ -232,7 +271,10 @@
       "Orbital Hash",
       "Robomule"
     ],
-    "options": []
+    "options": [],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "b2bbc1b4-3fc2-42b1-88c6-387d547bc24e"
   },
   {
     "name": "Scientist",
@@ -245,7 +287,10 @@
       "Servitor",
       "Specimen Container"
     ],
-    "options": []
+    "options": [],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "97985789-3620-4c87-b94e-4511b6301206"
   },
   {
     "name": "Soldier",
@@ -269,7 +314,10 @@
           "Fixer Swarm"
         ]
       }
-    ]
+    ],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "ed5661c4-f39c-40f1-ac31-8cfde1bb68ef"
   },
   {
     "name": "Techie",
@@ -283,6 +331,9 @@
       "Tools (Kit)",
       "Utilitool"
     ],
-    "options": []
+    "options": [],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "3c6bad8f-5159-4397-aac2-51613c529a0e"
   }
 ]
