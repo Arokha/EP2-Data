@@ -1,0 +1,339 @@
+[
+  {
+    "name": "Firewall Agent/Criminal",
+    "type": "Campaign",
+    "gear": [
+      "Anonymizer",
+      "Fake Ego ID",
+      "Medium Pistol Firearm",
+      "TacNet App",
+      "VPN App"
+    ],
+    "options": [
+      {
+        "Name": "Default",
+        "Gear": [
+          "Armor Vest (Light)",
+          "Smart Clothing"
+        ]
+      },
+      {
+        "Name": "Synthmorph",
+        "Gear": [
+          "Anti-Glare",
+          "Industrial Armor"
+        ]
+      }
+    ],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "e3ed126e-4cd9-4931-884f-e236c25996d6"
+  },
+  {
+    "name": "Gatecrashing",
+    "type": "Campaign",
+    "gear": [
+      "Electronic Rope",
+      "Medium Pistol Firearm",
+      "Portable SolArchive",
+      "TacNet App"
+    ],
+    "options": [
+      {
+        "Name": "Default",
+        "Gear": [
+          "Autocook",
+          "Healing Spray",
+          "Standard Vacsuit"
+        ]
+      },
+      {
+        "Name": "Synthmorph",
+        "Gear": [
+          "Anti-Glare",
+          "Industrial Armor",
+          "Medichines"
+        ]
+      }
+    ],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "411367f0-640c-4827-861f-f1a296691833"
+  },
+  {
+    "name": "Infomorph",
+    "type": "Campaign",
+    "gear": [
+      "Drone Rig",
+      "Enhanced Security",
+      "Exploit App",
+      "TacNet App",
+      "Private Server",
+      "Gnat",
+      "Guardian Angel"
+    ],
+    "options": [],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "814a875c-7689-4a68-bbfb-64f6a1f8d860"
+  },
+  {
+    "name": "Academic",
+    "type": "Profession",
+    "gear": [
+      "Creepy Bot",
+      "Holographic Projector",
+      "Microcar",
+      "Multi-Tasking",
+      "Neem (5 doses)",
+      "Portable SolArchive",
+      "Servitor Bot",
+      "Simulspace"
+    ],
+    "options": [],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "a50e7aca-6fd3-4dcf-a6fa-e61baac1ee0e"
+  },
+  {
+    "name": "Covert Operative",
+    "type": "Profession",
+    "gear": [
+      "Chameleon Cloak",
+      "Cleaner Swarm",
+      "Covert Operations Tool",
+      "Microbug",
+      "Spy Nanoswarm"
+    ],
+    "options": [
+      {
+        "Name": "Default",
+        "Gear": [
+          "Skinflex"
+        ]
+      },
+      {
+        "Name": "Synthmorph",
+        "Gear": [
+          "Synthetic Mask"
+        ]
+      }
+    ],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "46df11e8-6656-4584-b758-af9e7a0ad141"
+  },
+  {
+    "name": "Enforcer",
+    "type": "Profession",
+    "gear": [
+      "Aggro (5 doses)",
+      "Claws",
+      "Flex Cutter",
+      "Grin (5 doses)",
+      "Muscle Augmentation",
+      "Shock Glove",
+      "Shredder"
+    ],
+    "options": [],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "ff7afab4-d3f6-4311-81d9-fde9da2f439e"
+  },
+  {
+    "name": "Explorer",
+    "type": "Profession",
+    "gear": [
+      "Breadcrumb System",
+      "Direction Sense",
+      "Enhanced Vision",
+      "Mission Recorder",
+      "Pressure Tent",
+      "Saucer",
+      "Scout Missile"
+    ],
+    "options": [],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "e65b7f3e-61fa-49ef-8919-646af20ef5f7"
+  },
+  {
+    "name": "Face/Dealer",
+    "type": "Profession",
+    "gear": [
+      "Enhanced Hearing",
+      "Guardian Angel",
+      "Medium Fabber",
+      "Nanodetector",
+      "Neuromodulation",
+      "Smart Hawk",
+      "Stiff (5 doses)"
+    ],
+    "options": [],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "04681afc-ed69-4b4d-b69c-a3cfff6e56e0"
+  },
+  {
+    "name": "Genehacker",
+    "type": "Profession",
+    "gear": [
+      "Archive",
+      "Dino Pet",
+      "Fokus (5 doses)",
+      "Medichines",
+      "Pusher Swarm",
+      "Specimen Container",
+      "Tools (Kit)",
+      "Twitch (5 doses)"
+    ],
+    "options": [],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "248b6b15-5526-47e4-86f8-93b693abce87"
+  },
+  {
+    "name": "Hacker",
+    "type": "Profession",
+    "gear": [
+      "Exploit App",
+      "Gray Box",
+      "Radio Booster",
+      "Sniffer App",
+      "Spoofer App",
+      "Tracker App"
+    ],
+    "options": [],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "88649c6b-453a-40e7-9c8c-ab45b4b27332"
+  },
+  {
+    "name": "Investigator",
+    "type": "Profession",
+    "gear": [
+      "Biometric Matcher",
+      "Brainprint Scanner",
+      "Cuffband",
+      "Klar (5 doses)",
+      "Microbug",
+      "Oracles",
+      "Scout Nanoswarm",
+      "Speck",
+      "Spy Nanoswarm"
+    ],
+    "options": [],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "c09ca491-e7e1-4bdd-8cad-460c96c5cc25"
+  },
+  {
+    "name": "Medic",
+    "type": "Profession",
+    "gear": [
+      "Docbot",
+      "Healing Spray",
+      "Healing Vat",
+      "Meds",
+      "Med Scanner"
+    ],
+    "options": [],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "1524412e-b464-4f07-8ac2-81d7874b9bff"
+  },
+  {
+    "name": "Mindhacker",
+    "type": "Profession",
+    "gear": [
+      "Comfurt (5 doses)",
+      "Eelware",
+      "Ego Bridge",
+      "Fokus (5 doses)",
+      "Multi-Tasking",
+      "Private Server",
+      "Servitor"
+    ],
+    "options": [],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "710ef651-f1d6-41a3-85d7-0504a47625b2"
+  },
+  {
+    "name": "Scavenger",
+    "type": "Profession",
+    "gear": [
+      "Breadcrumb System",
+      "Diamond Axe",
+      "Disassembly Tools",
+      "Guardian Swarm",
+      "Nanodetector",
+      "Orbital Hash",
+      "Robomule"
+    ],
+    "options": [],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "b2bbc1b4-3fc2-42b1-88c6-387d547bc24e"
+  },
+  {
+    "name": "Scientist",
+    "type": "Profession",
+    "gear": [
+      "Enhanced Vision",
+      "Mind Amp",
+      "Mission Recorder",
+      "Pocket Lab",
+      "Servitor",
+      "Specimen Container"
+    ],
+    "options": [],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "97985789-3620-4c87-b94e-4511b6301206"
+  },
+  {
+    "name": "Soldier",
+    "type": "Profession",
+    "gear": [
+      "Assault Rifle Railgun",
+      "Enhanced Vision",
+      "Grin",
+      "Neurachem"
+    ],
+    "options": [
+      {
+        "Name": "Default",
+        "Gear": [
+          "Meds"
+        ]
+      },
+      {
+        "Name": "Synthmorph",
+        "Gear": [
+          "Fixer Swarm"
+        ]
+      }
+    ],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "ed5661c4-f39c-40f1-ac31-8cfde1bb68ef"
+  },
+  {
+    "name": "Techie",
+    "type": "Profession",
+    "gear": [
+      "Automech",
+      "Electrical Sense",
+      "Fixer Swarm",
+      "Fokus (5 doses)",
+      "Medium Fabber",
+      "Tools (Kit)",
+      "Utilitool"
+    ],
+    "options": [],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "3c6bad8f-5159-4397-aac2-51613c529a0e"
+  }
+]

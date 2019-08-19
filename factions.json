@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Anarchist",
+    "description": "You believe power is corrupt and favor voluntary, non-hierarchical organizations based on direct democracy.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "926bb729-f575-4234-a9f9-d82cd652ad51"
+  },
+  {
+    "name": "Argonaut",
+    "description": "You seek technoprogressive solutions to transhumanity's injustices and inequalities.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "c28d900b-d892-40d5-9d2a-2ab3fedcfe36"
+  },
+  {
+    "name": "Barsoomian",
+    "description": "You wish to see Mars liberated from hypercorp control.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "0fadbfd2-32e7-45d9-8d07-3bafff93155c"
+  },
+  {
+    "name": "Brinker",
+    "description": "You belong to a cult, commune, or other group that seeks isolation from the rest of transhumanity.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "d0fdb159-ebb9-4972-9b40-e62426b64c34"
+  },
+  {
+    "name": "Criminal",
+    "description": "You are associated with the underworld, either part of a large cartel, smaller gang, or as an independent operator.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "d16bb3b6-1a12-40a7-a856-39802bf03c4c"
+  },
+  {
+    "name": "Extropian",
+    "description": "You believe in unrestricted free markets and that taking proactive risks with technology is better than playing it safe.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "83d99a49-f6d8-491f-8d9d-14223d004e45"
+  },
+  {
+    "name": "Hypercorp",
+    "description": "You support hypercapitalist expansion and competitive-economics-driven social order. You accept that certain liberties must be restricted for security and freedom.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "1392f7ea-fadf-4c59-a0f0-e8b6c7f8cde7"
+  },
+  {
+    "name": "Jovian",
+    "description": "You are a bioconservative concerned about out-of-control transhuman technologies.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "3de825cb-34b7-4bb5-a4f7-a6e2ab4fbe04"
+  },
+  {
+    "name": "Lunar/Orbital",
+    "description": "You support the conservative economics, Earth-tied nationalism, and traditionalism of the Lunar-Lagrange Alliance.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "e6c327b1-3458-4b96-9635-b580dd0619ac"
+  },
+  {
+    "name": "Mercurial",
+    "description": "You oppose the assimilation and oppression of AGIs and uplifts, supporting self-determination for your kind.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "7e99972b-c10c-4ceb-aedb-4fe3a03ffca4"
+  },
+  {
+    "name": "Reclaimer",
+    "description": "You believe transhumanity should be focused on reclaiming, terraforming, and repopulating Earth.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "c0c62279-5727-42ab-af6b-0516e1c6d920"
+  },
+  {
+    "name": "Scum",
+    "description": "You push the boundaries of the experimental, fully testing what it means to be transhuman.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "9c82c81e-1a36-4de9-90b2-d0ab33855439"
+  },
+  {
+    "name": "Socialite",
+    "description": "You are a part of the glitterati, defining and defined by inner-system media culture.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "ea340e82-7932-48ad-a659-99c5fc474620"
+  },
+  {
+    "name": "Titanian",
+    "description": "You are a technosocialist, believing that science and technology can provide for the well-being of all.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "749f5103-9bfb-4072-b27f-e2735eecc414"
+  },
+  {
+    "name": "Venusian",
+    "description": "You adhere to the Morningstar Constellation's vision for a more socialized, friendlier hypercapitalism.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "a5b4b06f-5a56-491d-b711-a70c51c0b58e"
+  },
+  {
+    "name": "Regional",
+    "description": "You are a Solarian, Sifter, Belter, Europan, Ringer, or Skimmer invested in the culture, prosperity, and security of your area of the Solar System.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "6252f412-d9ca-42b2-b800-05d968fdec75"
+  }
+]

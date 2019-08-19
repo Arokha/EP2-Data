@@ -1,0 +1,107 @@
+[
+  {
+    "name":"Actioneer",
+    "description":"You are more comfortable with physicality than talking or thinking.",
+    "aptitudes":{
+      "cognition":10,
+      "intuition":15,
+      "reflexes":20,
+      "savvy":10,
+      "somatics":20,
+      "willpower":15
+    },
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"772736fb-ba81-405c-ba57-07382ead2a3c"
+  },
+  {
+    "name":"Extrovert",
+    "description":"You can talk your way through most situations.",
+    "aptitudes":{
+      "cognition":10,
+      "intuition":20,
+      "reflexes":15,
+      "savvy":20,
+      "somatics":15,
+      "willpower":10
+    },
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"f254a0bc-5f8f-4283-a6de-9f3bbf84712c"
+  },
+  {
+    "name":"Facilitator",
+    "description":"You're good with people, planning, and seeing things through.",
+    "aptitudes":{
+      "cognition":15,
+      "intuition":15,
+      "reflexes":10,
+      "savvy":20,
+      "somatics":10,
+      "willpower":20
+    },
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"298a8d4e-c316-4e9f-82e1-b4b18a0f76f1"
+  },
+  {
+    "name":"Factotum",
+    "description":"You've never quite stood out, but you exhibit broad competence.",
+    "aptitudes":{
+      "cognition":15,
+      "intuition":15,
+      "reflexes":15,
+      "savvy":15,
+      "somatics":15,
+      "willpower":15
+    },
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"987c21fa-49c2-4163-a703-1fa610cd4e9d"
+  },
+  {
+    "name":"Inquirer",
+    "description":"Your creative mind is good at figuring things out.",
+    "aptitudes":{
+      "cognition":20,
+      "intuition":20,
+      "reflexes":10,
+      "savvy":15,
+      "somatics":10,
+      "willpower":15
+    },
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"b693337e-7127-493b-b833-d2be71ca3695"
+  },
+  {
+    "name":"Survivor",
+    "description":"You have the will and stamina to scrape by in tough situations.",
+    "aptitudes":{
+      "cognition":15,
+      "intuition":10,
+      "reflexes":15,
+      "savvy":10,
+      "somatics":20,
+      "willpower":20
+    },
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"83a00851-879e-40ad-89a9-463599520621"
+  },
+  {
+    "name":"Thrill Seeker",
+    "description":"You've never said no to a dare, but your fast reaction time and quick thinking compensate for your lack of foresight.",
+    "aptitudes":{
+      "cognition":20,
+      "intuition":10,
+      "reflexes":20,
+      "savvy":15,
+      "somatics":15,
+      "willpower":10
+    },
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"00c1c291-b864-447f-974b-71237193ada6"
+  }
+]
