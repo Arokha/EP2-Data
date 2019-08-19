@@ -1,0 +1,210 @@
+[
+  {
+    "name":"Athletics",
+    "aptitude":"Somatics",
+    "type":"Active, Physical",
+    "description":["Athletics encompasses various types of physical activity in environments with gravity. It specifically applies to maneuvering in morphs that are humanoid, uplift, or that use biomimicked movements (snaking, winged flight, etc.), whether sleeved or remote operated.","Use Athletics to scale a wall, tread water, throw a grenade, jump a crevasse, vault a table, backflip off a ledge, or make a barrel roll with a winged morph. Some actions are detailed under Movement ▶230."],
+    "sample fields":[],
+    "specializations":["Acrobatics","Fly","Climb","Jump","Parkour","Run","Swim","Throw"]
+  },
+  {
+    "name":"Deceive",
+    "aptitude":"Savvy",
+    "type":"Active, Social",
+    "description":["Deceive is about presenting falsehoods in believable ways. It applies to any attempt to misrepresent or hide the truth with words and gestures. It does not include hiding (Infiltrate) or physical disguises (Exotic Skill: Disguise).","Use Deceive to act, lie, bluff, misdirect, con someone, impersonate someone, or fast talk your way out of a situation. The target of your deception opposes with their Kinesics skill."],
+    "sample fields":[],
+    "specializations":["Act","Bluff","Con","Fast Talk","Impersonate"]
+  },
+  {
+    "name":"Exotic Skill: [Field]",
+    "aptitude":"—",
+    "type":"Active, Field",
+    "description":["This is a catch-all category for less-common skills. This includes proficiency with unusual and archaic weaponry and skills that have a very narrow focus but require education, training, and experience to properly execute.","Use Exotic Skill if you want your character to be talented in a field that is not covered by any existing skill. The GM determines the appropriate linked aptitude."],
+    "sample fields":["Animal Handling (SAV)","Bow (REF)","Disguise (INT)","Escape Artist (REF)","Plasma Cutter (REF)","Sleight of Hand (REF)","Throwing Knives (REF)","Whips (REF)"],
+    "specializations":["As appropriate to the field"]
+  },
+  {
+    "name":"Fray",
+    "aptitude":"Reflexes",
+    "type":"Active, Combat",
+    "description":["Fray is your ability to get out of the way of danger, whether that is an attacker or a moving object. You start with a base Fray of REF × 2.","Use Fray to dodge attacks, avoid falling objects, maneuver deftly through a crowd, or side-step a collision. In combat, Fray is used to oppose melee and ranged strikes ▶202. Against guns, Fray is reduced by half."],
+    "sample fields":[],
+    "specializations":["Full Defense","Guns","Melee"]
+  },
+  {
+    "name":"Free Fall",
+    "aptitude":"Somatics",
+    "type":"Active, Physical",
+    "description":["Free Fall is a companion skill to Athletics for morphs that are humanoid, uplift, or using biomimicked movements. Use it for physical activity in microgravity environments or when free falling.","Use Free Fall to push yourself down a micrograv tunnel, propel yourself across an open space in zero g, re-orient yourself out of a spin, maneuver with vacsuit attitude jets, correctly apply some type of propulsion when drifting in space, or when parachuting."],
+    "sample fields":[],
+    "specializations":["Jump","Parachute","Pull","Vacsuits"]
+  },
+  {
+    "name":"Guns",
+    "aptitude":"Reflexes",
+    "type":"Active, Combat",
+    "description":["Guns deals with the maintenance and use of modern firearms, seeker launchers, and coherent energy and projectile weapons.","Use Guns to shoot beam, kinetic, seeker, and spray weapons.","Attacks made with Guns skill are opposed with Fray ÷ 2."],
+    "sample fields":[],
+    "specializations":["Beam Weapons","Firearms","Plasma Weapons","Railguns","Seekers","Spray Weapons"]
+  },
+  {
+    "name":"Hardware: [Field]",
+    "aptitude":"Cognition",
+    "type":"Active, Field, Technical",
+    "description":["Hardware handles the design, construction, repair, and alteration of different types of technological systems.","Use Hardware to repair a life support system, upgrade a robot, hack an electronic lock, or assemble a functional vehicle from spare parts. Most Hardware Tests are task actions."],
+    "sample fields":["Aerospace (aircraft and spacecraft)","Armorer (armor and weapons)","Demolitions (explosives)","Electronics","Groundcraft","Industrial (factory","habitat","and life support systems)","Nautical (watercraft and submarines)","Robotics (bots and synthmorphs)"],
+    "specializations":["As appropriate to the field"]
+  },
+  {
+    "name":"Infiltrate",
+    "aptitude":"Reflexes",
+    "type":"Active, Physical",
+    "description":["Infiltrate is the art of escaping detection.","Use Infiltrate to sneak past a guard, hide from a search party, blend into a crowd, shadow someone, conceal an object, or evade a sensor system. It is opposed by Perceive skill, though anyone not actively searching suffers a distraction modifier; against a group, use the highest Perceive skill among them. Infiltrate is best handled as a task action covering a specified distance, rather than rolling each action turn."],
+    "sample fields":[],
+    "specializations":["Blend In","Hide","Shadow","Sneak"]
+  },
+  {
+    "name":"Infosec",
+    "aptitude":"Cognition",
+    "type":"Active, Technical",
+    "description":["Infosec is short for “information security.” It incorporates training in electronic intrusion and counter-intrusion techniques, as well as use of cryptography tools.","Use Infosec to hack into electronic and mesh systems, subvert them, and protect them. Also use it to encrypt and decrypt communications and files. Most Infosec Tests are task actions. See The Mesh ▶240, for additional details on mesh systems and applications of Infosec skill."],
+    "sample fields":[],
+    "specializations":["Brainhack","Brute-Force Hack","Decrypt","Probe","Security","Sniff","Spoof","Subvert","VR Hack"]
+  },
+  {
+    "name":"Interface",
+    "aptitude":"Cognition",
+    "type":"Active, Technical",
+    "description":["Interface is about using and understanding computers, electronics, networks, sensors, and software. It applies to everything from mesh servers and cloud services to embedded habitat/spacecraft system controls and computerized or emplaced weapon systems.","Use Interface to manipulate electronics, command software, forge video files, scan for wireless devices, jam frequencies, get sensor readings, control life support functions, and understand new devices. Interface is also used to attack with non-portable weapon emplacements and the weapon systems of piloted (but not jammed or sleeved) vehicles and spacecraft (Weapon Systems ▶209)."],
+    "sample fields":[],
+    "specializations":["Forge","Jam","Scan","Sensors","Weapon Systems"]
+  },
+  {
+    "name":"Kinesics",
+    "aptitude":"Savvy",
+    "type":"Active, Social",
+    "description":["Kinesics is the art of empathy and nonverbal communication.","Use Kinesics to read someone’s emotional state, gauge their intentions, detect lies, identify mannerisms and tells, and use body language to emote and convey information. Kinesics is used to oppose Deceive skill.","Though synthmorphs are designed to emote, reading them is more difficult; apply a –30 modifier. The same modifier also applies to ALIs that are operating pods, bots, or synthmorphs. At the GM’s discretion, similar modifiers may apply to morphs that lack anthropomorphic characteristics or that are sleeved by egos accustomed to much different physiologies (such as a neo-octopi in a neo-avian morph)."],
+    "sample fields":[],
+    "specializations":["Detect Deception","Emote","Judge Intent"]
+  },
+  {
+    "name":"Know: [Field]",
+    "aptitude":"Cognition/Intuition",
+    "type":"Field, Know",
+    "description":["Know skill represents your accumulated knowledge in a field of work, study, or interest. Know skills are loosely grouped into four types: academics, arts, interests, and professional training."],
+    "sample fields":["Academics","Arts","Interests","Professional Training"],
+    "specializations":[]
+  },
+  {
+    "name":"Know: Academics",
+    "aptitude":"Cognition",
+    "type":"Field, Know",
+    "description":["Academic fields cover all of the disciplines of scientific knowledge and advanced study. They include theoretical and applied sciences, social sciences, transhumanities, and technology.","Use Academics to call upon your education. For example, Know: Chemistry could be used to identify a particular substance, understand an unusual chemical reaction, or determine what elements are needed to nanofabricate something that requires exotic materials. The GM may choose not to allow defaulting on some Know Tests, as only someone who has been educated in that subject is likely to be able to tackle it."],
+    "sample fields":["Archeology","Astrobiology","Astronomy","Astrophysics","Astrosociology","Biology","Botany","Chemistry","Computer Science","Cryptography","Economics","Engineering","Genetics","Geology","History","Law","Linguistics","Mathematics","Memetics","Nanotechnology","Physics","Political Science","Psychology","Sociology","Xeno-archeology","Xenolinguistics","Zoology"],
+    "specializations":["As appropriate to the field"]
+  },
+  {
+    "name":"Know: Arts",
+    "aptitude":"Intuition",
+    "type":"Field, Know",
+    "description":["Art fields include various modes of artistic expression and evaluation. This is a particularly useful skill in economies and clades where creativity and vision can be a key component of your reputation.","Use Art fields to bring your imagination to life, create a work of art, critique an artist’s style or performance, or appraise an artistic project’s worth.","Note that Art fields should not be used in place of Active skills to directly deceive, influence, or sway others. Crafting a realistic augmented reality illusion requires Program skill, incorporatinga hidden message within a public song or speech would rely on Deceive skill, making a speech to convince a panel or rally a crowd requires Persuade or Provoke. However, Art fields may be used as complementary skills ▶53 in such cases."],
+    "sample fields":["Architecture","AR Design","Criticism","Dance","Drama","Drawing","Music","Painting","Performance","Sculpture","Singing","Speech","VR Design","Writing"],
+    "specializations":["As appropriate to the field"]
+  },
+  {
+    "name":"Know: Interests",
+    "aptitude":"Cognition",
+    "type":"Field, Know",
+    "description":["Interest fields includes specialized knowledge in any topic that might be considered a hobby, recreational pursuit, social topic, or other obsession.","Use Interest fields whenever you need to recall or use knowledge related to that particular subject."],
+    "sample fields":["Celebrities","Conspiracies","Factors","Exhumans","Exoplanet Colonies","Gambling","Hypercorp Politics","Lunar Habitats","Martian Beers","Morphs","Reclaimer Blogs","Scum Drug Dealers","Spaceship Models","Strategy Games","TITAN Tech","Triad Economics","Transhuman Factions","Underground XP","VR Games"],
+    "specializations":["As appropriate to the field"]
+  },
+  {
+    "name":"Know: Professional Training",
+    "aptitude":"Cognition",
+    "type":"Field, Know",
+    "description":["Profession fields cover knowledge and training in the practices and procedures of various legal and extralegal trades.","Use Profession fields to recall specialized knowledge available to someone trained or experienced in that particular industry: notable figures, common practices, apps and gear used, logistics, scheduling, accounting, terminology, legalities, internal politics, trade history, ethics standards, major locations, influential hypercorps/cartels/collectives, and so on."],
+    "sample fields":["Accounting","Administration","Asteroid Mining","Body Bank Ops","Bodyguarding","Cool Hunting","Con Artistry","Data Processing","Ego Hunting","Emergency Services","Entertainment","Fencing","Field Science","First-Contact Ops","Flight Crew Ops","Freelancing","Gas Mining","Gatecrashing","HabitatOps","Instruction","Investigation","Journalism","Lab Ops","Medical Services","Military Ops","Morph Design","Nanofacturing","Network Engineering","Police Ops","Racketeering","Scavenging","Security Ops","Service Work","Smuggling","Social Engineering","Social Services","Spycraft","Surveying","System Administration","Terraforming"],
+    "specializations":["As appropriate to the field"]
+  },
+  {
+    "name":"Medicine: [Field]",
+    "aptitude":"Cognition",
+    "type":"Active, Field, Technical",
+    "description":["Medicine fields encompass healthcare, diagnosis and treatment, design, and manipulation of biological life forms.","Use Medicine: Biotech to modify morphs or install implants. Use Medicine: Forensics to conduct autopsies to ascertain cause of death or the biological functions of alien life. Use Medicine: Paramedic to diagnose ailments and treat injuries ▶221. Medicine: Pharmacology is used to synthesize drugs or develop an antidote to a pathogen or toxin. Medicine: Psychosurgery is used to heal stress and manipulate the mind (▶223 and ▶294). Use Medicine: Veterinary to provide healthcare to smart animals and non-sapient critters."],
+    "sample fields":["Biotech","Forensics","Paramedic","Pharmacology","Psychosurgery","Veterinary"],
+    "specializations":["As appropriate to the field"]
+  },
+  {
+    "name":"Melee",
+    "aptitude":"Somatics",
+    "type":"Active, Combat",
+    "description":["Melee deals with fighting, whether unarmed or with held or implanted weapons.","Use Melee to punch, kick, grapple, or attack with a blade, club, or other weapon. Melee is opposed by Fray if dodging or by the opponent’s Melee skill if blocking or parrying."],
+    "sample fields":[],
+    "specializations":["Blades","Clubs","Disarm","Grapple","Implants","Unarmed"]
+  },
+  {
+    "name":"Perceive",
+    "aptitude":"Intuition",
+    "type":"Active, Mental",
+    "description":["Perceive skill is awareness and use of your physical senses.","Use Perceive to spot an intruder, find a clue, locate a trap, search a room, or scrounge up something useful. You start with a base Perceive of INT × 2. Perceive is opposed by Infiltrate skill.","Basic perception is an automatic action, with a –20 distraction modifier as your attention is elsewhere. Detailed perception, without modifiers, is a quick action. Thorough investigation is a task action."],
+    "sample fields":[],
+    "specializations":["Hear","Investigate","Scrounge","See","Smell"]
+  },
+  {
+    "name":"Persuade",
+    "aptitude":"Savvy",
+    "type":"Active, Social",
+    "description":["Persuade is the ability to convince others to do what you want through words and gestures, logic and reason. It is the art of subtle social manipulation. It does not include intimidation, coercion, seduction, or other emotionally driven manipulation (use Provoke).","Use Persuade to drive a bargain, convince a reluctant party, negotiate a truce, motivate your peers to take action, or sway someone toyour side. Persuade is opposed by the opponent’s SAV Check."], 
+    "sample fields":[],
+    "specializations":["Diplomacy","Negotiate","Motivate"]
+  },
+  {
+    "name":"Pilot: [Field]",
+    "aptitude":"Reflexes",
+    "type":"Active, Field, Vehicle",
+    "description":["Pilot is about maneuvering and controlling non-humanoid morphs, bots, and vehicles, whether sleeved or remote operated. It applies to movement systems that do not rely on use of limbs: wheeled, thrust vector, rocket, etc.","Use Pilot to drift a car around a tight corner, evade pursuit, avoid a crash, barrel roll a plane, or perform a high-g spacecraft maneuver."],
+    "sample fields":["Air","Ground","Nautical","Space"],
+    "specializations":["As appropriate to the field"]
+  },
+  {
+    "name":"Program",
+    "aptitude":"Cognition",
+    "type":"Active, Technical",
+    "description":["Program deals with writing and modifying software code.","Use Program to write a script, analyze how a program works, design a blueprint for nanofabrication, break copyright protection, patch software against an exploit, code a virus, or craft a VR environment, AR illusion, or infomorph mind-state."],
+    "sample fields":[],
+    "specializations":["Infomorphs","Malware","Nanofabrication","Piracy","VR"]
+  },
+  {
+    "name":"Provoke",
+    "aptitude":"Savvy",
+    "type":"Active, Social",
+    "description":["Provoke is your talent at emotional manipulation.","Use Provoke to taunt an opponent, intimidate a witness, rile up a mob, scare someone into submission, browbeat a captive into surrendering information, or seduce a potential lover. Opponents resist Provoke with a WIL Check."],
+    "sample fields":[],
+    "specializations":["Calm","Fluster","Inspire","Interrogate","Intimidate","Seduce","Taunt"]
+  },
+  {
+    "name":"Psi",
+    "aptitude":"Willpower",
+    "type":"Active, Mental, Psi",
+    "description":["Psi is the wielding of psychic abilities (sleights) to detect, manipulate, or harm others.","Use Psi to target others with psi-gamma sleights ▶282. Psi is resisted with a WIL Check.","You must possess the Psi trait ▶74 to use this skill."],
+    "sample fields":[],
+    "specializations":["Control","Psi Assault","Sense"]
+  },
+  {
+    "name":"Research",
+    "aptitude":"Intuition",
+    "type":"Active, Technical",
+    "description":["Research is your google fu, your skill at finding, analyzing, and understanding information online. It includes knowing where to look, optimizing your queries, separating fiction from truth, and processing massive amounts of data.","Use Research to look up an answer on the mesh, track people online, access the deep mesh, search databases, sift through archives, and mine data dumps."],
+    "sample fields":[],
+    "specializations":["Blogs","Cloud Services","Deep Mesh","News Archives","Social Networks","Science Archives","Track"]
+  },
+  {
+    "name":"Survival",
+    "aptitude":"Intuition",
+    "type":"Active, Mental",
+    "description":["Survival encompasses the skills needed to survive in and maneuver through hostile environments.","Use Survival to navigate, track a person or animal in the wild, find safe food and shelter, and defend against ecological and environmental dangers."],
+    "sample fields":[],
+    "specializations":["Forage","Hunt","Navigate","Track"]
+  }
+]

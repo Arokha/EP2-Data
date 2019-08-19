@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Actioneer",
+    "description": "You are more comfortable with physicality than talking or thinking.",
+    "aptitudes": {
+      "cognition": 10,
+      "intuition": 15,
+      "reflexes": 20,
+      "savvy": 10,
+      "somatics": 20,
+      "willpower": 15
+    }
+  },
+  {
+    "name": "Extrovert",
+    "description": "You can talk your way through most situations.",
+    "aptitudes": {
+      "cognition": 10,
+      "intuition": 20,
+      "reflexes": 15,
+      "savvy": 20,
+      "somatics": 15,
+      "willpower": 10
+    }
+  },
+  {
+    "name": "Facilitator",
+    "description": "You’re good with people, planning, and seeing things through.",
+    "aptitudes": {
+      "cognition": 15,
+      "intuition": 15,
+      "reflexes": 10,
+      "savvy": 20,
+      "somatics": 10,
+      "willpower": 20
+    }
+  },
+  {
+    "name": "Factotum",
+    "description": "You’ve never quite stood out, but you exhibit broad competence.",
+    "aptitudes": {
+      "cognition": 15,
+      "intuition": 15,
+      "reflexes": 15,
+      "savvy": 15,
+      "somatics": 15,
+      "willpower": 15
+    }
+  },
+  {
+    "name": "Inquirer",
+    "description": "Your creative mind is good at figuring things out.",
+    "aptitudes": {
+      "cognition": 20,
+      "intuition": 20,
+      "reflexes": 10,
+      "savvy": 15,
+      "somatics": 10,
+      "willpower": 15
+    }
+  },
+  {
+    "name": "Survivor",
+    "description": "You have the will and stamina to scrape by in tough situations.",
+    "aptitudes": {
+      "cognition": 15,
+      "intuition": 10,
+      "reflexes": 15,
+      "savvy": 10,
+      "somatics": 20,
+      "willpower": 20
+    }
+  },
+  {
+    "name": "Thrill Seeker",
+    "description": "You’ve never said no to a dare, but your fast reaction time and quick thinking compensate for your lack of foresight.",
+    "aptitudes": {
+      "cognition": 20,
+      "intuition": 10,
+      "reflexes": 20,
+      "savvy": 15,
+      "somatics": 15,
+      "willpower": 10
+    }
+  }
+]

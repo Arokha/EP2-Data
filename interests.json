@@ -1,0 +1,163 @@
+[
+  {
+    "name": "Animal Handler",
+    "description": "You’ve learned to raise, train, and care for animals, particularly partially uplifted smart animals.",
+    "skills": {
+      "Exotic Skill": {"rating": 40, "options": ["Animal Handling"]},
+      "Medicine": {"rating": 40, "options": ["Veterinary"]},
+      "Provoke": {"rating": 20, "options": []},
+      "Know": {"rating": 40, "options": ["Smart Animals"]}
+    }
+  },
+  {
+    "name": "Artist/Icon",
+    "description": "You are a musician, performer, celebrity, or other type of creative or public figure.",
+    "skills": {
+      "Deceive": {"rating": 40, "options": []},
+      "Kinesics": {"rating": 20, "options": []},
+      "Provoke": {"rating": 40, "options": []},
+      "Know": {"rating": 40, "options": ["Dance", "Music", "Sculpture"]}
+    }
+  },
+  {
+    "name": "Async",
+    "description": "You are a musician, performer, celebrity, or other type of creative or public figure.",
+    "skills": {
+      "Deceive": {"rating": 40, "options": []},
+      "Perceive": {"rating": 20, "options": []},
+      "Psi": {"rating": 40, "options": []},
+      "Know": {"rating": 40, "options": ["Any"]}
+    }
+  },
+  {
+    "name": "Commander",
+    "description": "You are accustomed to leadership roles as an executive, officer, elected official, or autonomist organizer.",
+    "skills": {
+      "Interface": {"rating": 20, "options": []},
+      "Persuade": {"rating": 40, "options": []},
+      "Provoke": {"rating": 40, "options": []},
+      "Know": {"rating": 40, "options": ["Administration"]}
+    }
+  },
+  {
+    "name": "Fighter",
+    "description": "You’ve picked up some self-defense and offensive capabilities along the way.",
+    "skills": {
+      "Fray": {"rating": 20, "options": []},
+      "Guns": {"rating": 40, "options": []},
+      "Melee": {"rating": 40, "options": []},
+      "Know": {"rating": 40, "options": ["Security Ops"]}
+    }
+  },
+  {
+    "name": "Forensics Specialist",
+    "description": "You’ve picked up some self-defense and offensive capabilities along the way.",
+    "skills": {
+      "Medicine": {"rating": 40, "options": ["Forensics"]},
+      "Perceive": {"rating": 40, "options": []},
+      "Research": {"rating": 20, "options": []},
+      "Know": {"rating": 40, "options": ["Physiology"]}
+    }
+  },
+  {
+    "name": "Jack-of-all-Trades",
+    "description": "You’ve seen and done a little bit of everything.",
+    "skills": {
+      "Guns": {"rating": 25, "options": []},
+      "Infosec": {"rating": 25, "options": []},
+      "Persuade": {"rating": 25, "options": []},
+      "Research": {"rating": 25, "options": []},
+      "Know": {"rating": 40, "options": ["Any"]}
+    }
+  },
+  {
+    "name": "Jammer",
+    "description": "You’re a drone operator, with a talent for manipulating machines.",
+    "skills": {
+      "Hardware": {"rating": 40, "options": ["Robotics"]},
+      "Interface": {"rating": 20, "options": []},
+      "Pilot": {"rating": 40, "options": ["Any"]},
+      "Know": {"rating": 40, "options": ["Bot Models"]}
+    }
+  },
+  {
+    "name": "Networker",
+    "description": "You know how to engage and connect with people.",
+    "skills": {
+      "Deceive": {"rating": 30, "options": []},
+      "Persuade": {"rating": 40, "options": []},
+      "Provoke": {"rating": 30, "options": []},
+      "Know": {"rating": 40, "options": ["Rep Nets"]}
+    }
+  },
+  {
+    "name": "Paramedic",
+    "description": "You have picked up some first aid training.",
+    "skills": {
+      "Fray": {"rating": 20, "options": []},
+      "Kinesics": {"rating": 40, "options": []},
+      "Medicine": {"rating": 40, "options": ["Paramedic"]},
+      "Know": {"rating": 40, "options": ["Emergency Services"]}
+    }
+  },
+  {
+    "name": "Pilot",
+    "description": "You prefer to do the driving yourself, no matter how skilled the AI is.",
+    "skills": {
+      "Hardware": {"rating": 30, "options": ["Any"]},
+      "Pilot": {"rating": 30, "options": ["Any"]},
+      "Pilot2": {"rating": 40, "options": ["Any"]},
+      "Know": {"rating": 40, "options": ["Flight Crew Ops"]}
+    }
+  },
+  {
+    "name": "Rogue",
+    "description": "You are as shifty as you need to be.",
+    "skills": {
+      "Deceive": {"rating": 40, "options": []},
+      "Fray": {"rating": 20, "options": []},
+      "Infiltrate": {"rating": 40, "options": []},
+      "Know": {"rating": 40, "options": ["Any"]}
+    }
+  },
+  {
+    "name": "Slacker",
+    "description": "You prefer to enjoy the good things in life.",
+    "skills": {
+      "Interface": {"rating": 40, "options": []},
+      "Persuade": {"rating": 30, "options": []},
+      "Research": {"rating": 30, "options": []},
+      "Know": {"rating": 40, "options": ["Any"]}
+    }
+  },
+  {
+    "name": "Spacer",
+    "description": "You’ve spent your fair share of time in ships and smaller habitats.",
+    "skills": {
+      "Free Fall": {"rating": 40, "options": []},
+      "Hardware": {"rating": 40, "options": ["Electronics", "Industiral", "Robotics"]},
+      "Interface": {"rating": 20, "options": []},
+      "Know": {"rating": 40, "options": ["Astronomy", "Flight Crew Ops", "Gas Mining"]}
+    }
+  },
+  {
+    "name": "Student",
+    "description": "You’ve spent your fair share of time in ships and smaller habitats.",
+    "skills": {
+      "Interface": {"rating": 40, "options": []},
+      "Program": {"rating": 20, "options": []},
+      "Research": {"rating": 40, "options": []},
+      "Know": {"rating": 40, "options": ["Any"]}
+    }
+  },
+  {
+    "name": "Survivalist",
+    "description": "The Fall reinforced the notion that you need to be prepared.",
+    "skills": {
+      "Guns": {"rating": 40, "options": []},
+      "Medicine": {"rating": 30, "options": ["Paramedic"]},
+      "Survival": {"rating": 30, "options": []},
+      "Know": {"rating": 40, "options": ["Any"]}
+    }
+  }
+]

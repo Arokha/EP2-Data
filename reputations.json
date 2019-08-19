@@ -1,0 +1,30 @@
+[
+  {
+    "name": "@-rep",
+    "description": "The Circle-A List, for autonomists, anarchists, Titanians, scum, and Extropians."
+  },
+  {
+    "name": "c-rep",
+    "description": "CivicNet, used by the Planetary Consortium, Morningstar Constellation, Lunar-Lagrange Alliance, Jovian Republic, and other hypercorps and capitalists."
+  },
+  {
+    "name": "f-rep",
+    "description": "Fame, the media network used by metacelebrities, journalists, socialites, artists, and glitterati."
+  },
+  {
+    "name": "g-rep",
+    "description": "Guanxi, the network for triads, cartels, gangs, and other criminal groups."
+  },
+  {
+    "name": "i-rep",
+    "description": "The Eye, Firewall’s secret internal network."
+  },
+  {
+    "name": "r-rep",
+    "description": "Research Network Affiliates, used by Argonauts, scientists, technologists, and researchers of all stripes."
+  },
+  {
+    "name": "x-rep",
+    "description": "ExploreNet, the social network for gatecrashers and exoplanet colonists"
+  }
+]

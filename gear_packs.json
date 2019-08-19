@@ -1,0 +1,288 @@
+[
+  {
+    "name": "Firewall Agent/Criminal",
+    "type": "Campaign",
+    "gear": [
+      "Anonymizer",
+      "Fake Ego ID",
+      "Medium Pistol Firearm",
+      "TacNet App",
+      "VPN App"
+    ],
+    "options": [
+      {
+        "Name": "Default",
+        "Gear": [
+          "Armor Vest (Light)",
+          "Smart Clothing"
+        ]
+      },
+      {
+        "Name": "Synthmorph",
+        "Gear": [
+          "Anti-Glare",
+          "Industrial Armor"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gatecrashing",
+    "type": "Campaign",
+    "gear": [
+      "Electronic Rope",
+      "Medium Pistol Firearm",
+      "Portable SolArchive",
+      "TacNet App"
+    ],
+    "options": [
+      {
+        "Name": "Default",
+        "Gear": [
+          "Autocook",
+          "Healing Spray",
+          "Standard Vacsuit"
+        ]
+      },
+      {
+        "Name": "Synthmorph",
+        "Gear": [
+          "Anti-Glare",
+          "Industrial Armor",
+          "Medichines"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Infomorph",
+    "type": "Campaign",
+    "gear": [
+      "Drone Rig",
+      "Enhanced Security",
+      "Exploit App",
+      "TacNet App",
+      "Private Server",
+      "Gnat",
+      "Guardian Angel"
+    ],
+    "options": []
+  },
+  {
+    "name": "Academic",
+    "type": "Profession",
+    "gear": [
+      "Creepy Bot",
+      "Holographic Projector",
+      "Microcar",
+      "Multi-Tasking",
+      "Neem (5 doses)",
+      "Portable SolArchive",
+      "Servitor Bot",
+      "Simulspace"
+    ],
+    "options": []
+  },
+  {
+    "name": "Covert Operative",
+    "type": "Profession",
+    "gear": [
+      "Chameleon Cloak",
+      "Cleaner Swarm",
+      "Covert Operations Tool",
+      "Microbug",
+      "Spy Nanoswarm"
+    ],
+    "options": [
+      {
+        "Name": "Default",
+        "Gear": [
+          "Skinflex"
+        ]
+      },
+      {
+        "Name": "Synthmorph",
+        "Gear": [
+          "Synthetic Mask"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Enforcer",
+    "type": "Profession",
+    "gear": [
+      "Aggro (5 doses)",
+      "Claws",
+      "Flex Cutter",
+      "Grin (5 doses)",
+      "Muscle Augmentation",
+      "Shock Glove",
+      "Shredder"
+    ],
+    "options": []
+  },
+  {
+    "name": "Explorer",
+    "type": "Profession",
+    "gear": [
+      "Breadcrumb System",
+      "Direction Sense",
+      "Enhanced Vision",
+      "Mission Recorder",
+      "Pressure Tent",
+      "Saucer",
+      "Scout Missile"
+    ],
+    "options": []
+  },
+  {
+    "name": "Face/Dealer",
+    "type": "Profession",
+    "gear": [
+      "Enhanced Hearing",
+      "Guardian Angel",
+      "Medium Fabber",
+      "Nanodetector",
+      "Neuromodulation",
+      "Smart Hawk",
+      "Stiff (5 doses)"
+    ],
+    "options": []
+  },
+  {
+    "name": "Genehacker",
+    "type": "Profession",
+    "gear": [
+      "Archive",
+      "Dino Pet",
+      "Fokus (5 doses)",
+      "Medichines",
+      "Pusher Swarm",
+      "Specimen Container",
+      "Tools (Kit)",
+      "Twitch (5 doses)"
+    ],
+    "options": []
+  },
+  {
+    "name": "Hacker",
+    "type": "Profession",
+    "gear": [
+      "Exploit App",
+      "Gray Box",
+      "Radio Booster",
+      "Sniffer App",
+      "Spoofer App",
+      "Tracker App"
+    ],
+    "options": []
+  },
+  {
+    "name": "Investigator",
+    "type": "Profession",
+    "gear": [
+      "Biometric Matcher",
+      "Brainprint Scanner",
+      "Cuffband",
+      "Klar (5 doses)",
+      "Microbug",
+      "Oracles",
+      "Scout Nanoswarm",
+      "Speck",
+      "Spy Nanoswarm"
+    ],
+    "options": []
+  },
+  {
+    "name": "Medic",
+    "type": "Profession",
+    "gear": [
+      "Docbot",
+      "Healing Spray",
+      "Healing Vat",
+      "Meds",
+      "Med Scanner"
+    ],
+    "options": []
+  },
+  {
+    "name": "Mindhacker",
+    "type": "Profession",
+    "gear": [
+      "Comfurt (5 doses)",
+      "Eelware",
+      "Ego Bridge",
+      "Fokus (5 doses)",
+      "Multi-Tasking",
+      "Private Server",
+      "Servitor"
+    ],
+    "options": []
+  },
+  {
+    "name": "Scavenger",
+    "type": "Profession",
+    "gear": [
+      "Breadcrumb System",
+      "Diamond Axe",
+      "Disassembly Tools",
+      "Guardian Swarm",
+      "Nanodetector",
+      "Orbital Hash",
+      "Robomule"
+    ],
+    "options": []
+  },
+  {
+    "name": "Scientist",
+    "type": "Profession",
+    "gear": [
+      "Enhanced Vision",
+      "Mind Amp",
+      "Mission Recorder",
+      "Pocket Lab",
+      "Servitor",
+      "Specimen Container"
+    ],
+    "options": []
+  },
+  {
+    "name": "Soldier",
+    "type": "Profession",
+    "gear": [
+      "Assault Rifle Railgun",
+      "Enhanced Vision",
+      "Grin",
+      "Neurachem"
+    ],
+    "options": [
+      {
+        "Name": "Default",
+        "Gear": [
+          "Meds"
+        ]
+      },
+      {
+        "Name": "Synthmorph",
+        "Gear": [
+          "Fixer Swarm"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Techie",
+    "type": "Profession",
+    "gear": [
+      "Automech",
+      "Electrical Sense",
+      "Fixer Swarm",
+      "Fokus (5 doses)",
+      "Medium Fabber",
+      "Tools (Kit)",
+      "Utilitool"
+    ],
+    "options": []
+  }
+]

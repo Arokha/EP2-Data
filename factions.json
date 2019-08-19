@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Anarchist",
+    "description": "You believe power is corrupt and favor voluntary, non-hierarchical organizations based on direct democracy."
+  },
+  {
+    "name": "Argonaut",
+    "description": "You seek technoprogressive solutions to transhumanity’s injustices and inequalities."
+  },
+  {
+    "name": "Barsoomian",
+    "description": "You wish to see Mars liberated from hypercorp control."
+  },
+  {
+    "name": "Brinker",
+    "description": "You belong to a cult, commune, or other group that seeks isolation from the rest of transhumanity."
+  },
+  {
+    "name": "Criminal",
+    "description": "You are associated with the underworld, either part of a large cartel, smaller gang, or as an independent operator."
+  },
+  {
+    "name": "Extropian",
+    "description": "You believe in unrestricted free markets and that taking proactive risks with technology is better than playing it safe."
+  },
+  {
+    "name": "Hypercorp",
+    "description": "You support hypercapitalist expansion and competitive-economics-driven social order. You accept that certain liberties must be restricted for security and freedom."
+  },
+  {
+    "name": "Jovian",
+    "description": "You are a bioconservative concerned about out-of-control transhuman technologies."
+  },
+  {
+    "name": "Lunar/Orbital",
+    "description": "You support the conservative economics, Earth-tied nationalism, and traditionalism of the Lunar-Lagrange Alliance."
+  },
+  {
+    "name": "Mercurial",
+    "description": "You oppose the assimilation and oppression of AGIs and uplifts, supporting self-determination for your kind."
+  },
+  {
+    "name": "Reclaimer",
+    "description": "You believe transhumanity should be focused on reclaiming, terraforming, and repopulating Earth."
+  },
+  {
+    "name": "Scum",
+    "description": "You push the boundaries of the experimental, fully testing what it means to be transhuman."
+  },
+  {
+    "name": "Socialite",
+    "description": "You are a part of the glitterati, defining and defined by inner-system media culture."
+  },
+  {
+    "name": "Titanian",
+    "description": "You are a technosocialist, believing that science and technology can provide for the well-being of all."
+  },
+  {
+    "name": "Venusian",
+    "description": "You adhere to the Morningstar Constellation’s vision for a more socialized, friendlier hypercapitalism."
+  },
+  {
+    "name": "Regional",
+    "description": "You are a Solarian, Sifter, Belter, Europan, Ringer, or Skimmer invested in the culture, prosperity, and security of your area of the Solar System."
+  }
+]

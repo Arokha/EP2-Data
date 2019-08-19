@@ -1,0 +1,852 @@
+[
+  {
+    "trait": "Acumen",
+    "type": "Positive",
+    "cost": [1,2,3],
+    "ego": true,
+    "morph": true,
+    "effect": "+5 per level to COG Checks.",
+    "auto": true,
+    "noted": false
+  },
+  {
+    "trait": "Adaptability",
+    "type": "Positive",
+    "cost": [2,4],
+    "ego": true,
+    "morph": false,
+    "effect": "Easier resleeving. +10 per level to Integration and Resleeving Stress Tests.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Allies",
+    "type": "Positive",
+    "cost": [4],
+    "ego": true,
+    "morph": false,
+    "effect": "A group supports you. Free moderate favor per session.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Animal Empathy",
+    "type": "Positive",
+    "cost": [1],
+    "ego": true,
+    "morph": false,
+    "effect": "+10 to Exotic Skill: Animal Handling and similar tests.",
+    "auto": true,
+    "noted": false
+  },
+  {
+    "trait": "Common Sense",
+    "type": "Positive",
+    "cost": [2],
+    "ego": true,
+    "morph": false,
+    "effect": "Once per session, may ask GM for best advice.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Composure",
+    "type": "Positive",
+    "cost": [2],
+    "ego": true,
+    "morph": false,
+    "effect": "+5 LUC, +1 Trauma Threshold, +10 Insanity Rating.",
+    "auto": true,
+    "noted": false
+  },
+  {
+    "trait": "Contact",
+    "type": "Positive",
+    "cost": [1],
+    "ego": true,
+    "morph": false,
+    "effect": "+10 to Rep Tests with one network when using contact. May be taken multiple times.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Danger Sense",
+    "type": "Positive",
+    "cost": [1],
+    "ego": true,
+    "morph": false,
+    "effect": "+10 to Perceive Tests to avoid surprise.",
+    "auto": false,
+    "noted": true
+  },
+  {
+    "trait": "Direction Sense",
+    "type": "Positive",
+    "cost": [1],
+    "ego": true,
+    "morph": false,
+    "effect": "Always know north/up/spinward/etc. +10 to tests involving navigation.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Dominant Strain",
+    "type": "Positive",
+    "cost": [2],
+    "ego": true,
+    "morph": false,
+    "effect": "Asyncs only. +10 vs. exsurgent virus, higher dependent upon Infection Rating.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Drone Affinity",
+    "type": "Positive",
+    "cost": [1],
+    "ego": true,
+    "morph": false,
+    "effect": "No Integration Tests when jamming drones.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Empathy",
+    "type": "Positive",
+    "cost": [1,2,3],
+    "ego": true,
+    "morph": true,
+    "effect": "+5 per level to SAV Checks.",
+    "auto": true,
+    "noted": false
+  },
+  {
+    "trait": "Expert Training",
+    "type": "Positive",
+    "cost": [2],
+    "ego": true,
+    "morph": false,
+    "effect": "May start with one skill over 80, up to 90 maximum.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Fitness",
+    "type": "Positive",
+    "cost": [1,2,3],
+    "ego": true,
+    "morph": true,
+    "effect": "+5 per level to SOM Checks.",
+    "auto": true,
+    "noted": false
+  },
+  {
+    "trait": "Good Instinct",
+    "type": "Positive",
+    "cost": [1],
+    "ego": true,
+    "morph": true,
+    "effect": "+5 per level to INT Checks.",
+    "auto": true,
+    "noted": false
+  },
+  {
+    "trait": "Hardening",
+    "type": "Positive",
+    "cost": [2,4],
+    "ego": true,
+    "morph": false,
+    "effect": "Immune to stress from either alienation, helplessness, or violence (p. 72). –10 to WIL Checks and Persuade Tests. May be taken multiple times for different types of stress.",
+    "auto": true,
+    "noted": false
+  },
+  {
+    "trait": "Hyper Linguistics",
+    "type": "Positive",
+    "cost": [1,2,3],
+    "ego": true,
+    "morph": false,
+    "effect": "+10 per level to INT Checks to understand languages you don’t know.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Morph Familiarity",
+    "type": "Positive",
+    "cost": [6],
+    "ego": true,
+    "morph": false,
+    "effect": "No Integration Tests sleeving one chosen morph type.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Pain Tolerance",
+    "type": "Positive",
+    "cost": [2,4],
+    "ego": true,
+    "morph": true,
+    "effect": "Ignore 1 wound modifier per level.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Patron",
+    "type": "Positive",
+    "cost": [6],
+    "ego": true,
+    "morph": false,
+    "effect": "An influential person backs you up. One free major favor per story arc.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Psi",
+    "type": "Positive",
+    "cost": [2,4],
+    "ego": true,
+    "morph": false,
+    "effect": "May use Psi skill and sleights. See text for additional rules.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Psi Camouflage",
+    "type": "Positive",
+    "cost": [1,2],
+    "ego": true,
+    "morph": true,
+    "effect": "–10 to detect with psi per level.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Psi Defense",
+    "type": "Positive",
+    "cost": [1,2],
+    "ego": true,
+    "morph": true,
+    "effect": "+10 to resist psi per level.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Quickness",
+    "type": "Positive",
+    "cost": [1,2,3],
+    "ego": true,
+    "morph": true,
+    "effect": "+5 per level to REF Checks.",
+    "auto": true,
+    "noted": false
+  },
+  {
+    "trait": "Resolve",
+    "type": "Positive",
+    "cost": [1,2,3],
+    "ego": true,
+    "morph": true,
+    "effect": "+5 per level to WIL Checks.",
+    "auto": true,
+    "noted": false
+  },
+  {
+    "trait": "Resources",
+    "type": "Positive",
+    "cost": [2,4,6,8],
+    "ego": true,
+    "morph": false,
+    "effect": "Wealth to acquire gear. See text.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Situational Awareness",
+    "type": "Positive",
+    "cost": [1],
+    "ego": true,
+    "morph": false,
+    "effect": "No distracted modifier.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Spatial Visualization",
+    "type": "Positive",
+    "cost": [2],
+    "ego": true,
+    "morph": false,
+    "effect": "+10 to Know and Technical Tests involving 3D visualization.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Stalwart",
+    "type": "Positive",
+    "cost": [1,2,3],
+    "ego": true,
+    "morph": false,
+    "effect": "+10 to WIL Checks vs. fear.",
+    "auto": false,
+    "noted": true
+  },
+  {
+    "trait": "Superior Numeracy",
+    "type": "Positive",
+    "cost": [2,4],
+    "ego": true,
+    "morph": false,
+    "effect": "+10 per level to Know and Technical Tests involving math.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Zoosemiotics",
+    "type": "Positive",
+    "cost": [1],
+    "ego": true,
+    "morph": false,
+    "effect": "No modifier using psi on non- or partly-sapient animals.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Digital Speed",
+    "type": "Positive",
+    "cost": [1],
+    "ego": false,
+    "morph": true,
+    "effect": "Mesh task timeframes reduced 25%. Infomorphs only.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Improved Immune System",
+    "type": "Positive",
+    "cost": [1,2],
+    "ego": false,
+    "morph": true,
+    "effect": "+10 per level to resist chemicals, disease, drugs, and toxins. Biomorphs only.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Innocuous Looks",
+    "type": "Positive",
+    "cost": [1],
+    "ego": false,
+    "morph": true,
+    "effect": "Bland. –10 to identify/spot/remember.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Lethal",
+    "type": "Positive",
+    "cost": [1],
+    "ego": false,
+    "morph": true,
+    "effect": "+1d6 DV in melee.",
+    "auto": true,
+    "noted": false
+  },
+  {
+    "trait": "Limberness",
+    "type": "Positive",
+    "cost": [1,2],
+    "ego": false,
+    "morph": true,
+    "effect": "+10 per level to escape bonds, fit into small spaces, contort, etc.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Natural Immunity",
+    "type": "Positive",
+    "cost": [1],
+    "ego": false,
+    "morph": true,
+    "effect": "Immunity to one specific drug, chemical, or toxin. Biomorphs only.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Rapid Healing",
+    "type": "Positive",
+    "cost": [1],
+    "ego": false,
+    "morph": true,
+    "effect": "Heal twice as fast. Biomorphs only.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Skill Artifact",
+    "type": "Positive",
+    "cost": [1,2],
+    "ego": false,
+    "morph": true,
+    "effect": "+10 to one GM-chosen skill per level.",
+    "auto": true,
+    "noted": false
+  },
+  {
+    "trait": "Striking Looks",
+    "type": "Positive",
+    "cost": [1,2],
+    "ego": false,
+    "morph": true,
+    "effect": "+10 on Persuade and Provoke Tests where looks matter.",
+    "auto": false,
+    "noted": true
+  },
+  {
+    "trait": "Toughness",
+    "type": "Positive",
+    "cost": [2,4],
+    "ego": false,
+    "morph": true,
+    "effect": "+5 DUR, also impacts WT and DR, see text.",
+    "auto": true,
+    "noted": false
+  },
+  {
+    "trait": "Addiction",
+    "type": "Negative",
+    "cost": [1,2,4],
+    "ego": true,
+    "morph": true,
+    "effect": "–10 per level if no regular fix; see text for additional effects.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Bad Luck",
+    "type": "Negative",
+    "cost": [6],
+    "ego": true,
+    "morph": false,
+    "effect": "May not use pools to flip-flop dice rolls.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Blacklisted Rep",
+    "type": "Negative",
+    "cost": [1,4],
+    "ego": true,
+    "morph": false,
+    "effect": "Cannot have rep score in one rep net (higher value if own faction’s rep net).",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Black Mark",
+    "type": "Negative",
+    "cost": [1,2,3],
+    "ego": true,
+    "morph": false,
+    "effect": "–10 modifier per level to interactions with one faction.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Combat Paralysis",
+    "type": "Negative",
+    "cost": [4],
+    "ego": true,
+    "morph": false,
+    "effect": "WIL Check to act in each action turn of combat.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Edited Memories",
+    "type": "Negative",
+    "cost": [1],
+    "ego": true,
+    "morph": false,
+    "effect": "You have lost some memories, deliberately or not.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Enemy",
+    "type": "Negative",
+    "cost": [2],
+    "ego": true,
+    "morph": false,
+    "effect": "Enemy NPC haunts you.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Enhanced Behavior",
+    "type": "Negative",
+    "cost": [1,2,4],
+    "ego": true,
+    "morph": true,
+    "effect": "Psychosurgically enhanced behavior/emotions. See text.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Feebleness",
+    "type": "Negative",
+    "cost": [1,2,3],
+    "ego": true,
+    "morph": true,
+    "effect": "–5 per level to SOM Checks.",
+    "auto": true,
+    "noted": false
+  },
+  {
+    "trait": "Identity Crisis",
+    "type": "Negative",
+    "cost": [1],
+    "ego": true,
+    "morph": false,
+    "effect": "Trouble adapting to new morph physiologies, –10 when applicable.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Indifference",
+    "type": "Negative",
+    "cost": [1,2,3],
+    "ego": true,
+    "morph": true,
+    "effect": "–5 per level to SAV Checks.",
+    "auto": true,
+    "noted": false
+  },
+  {
+    "trait": "Instability",
+    "type": "Negative",
+    "cost": [2,4],
+    "ego": true,
+    "morph": false,
+    "effect": "–5 LUC, –1 Trauma Threshold, and –10 Insanity Rating per level.",
+    "auto": true,
+    "noted": false
+  },
+  {
+    "trait": "Low Pain Tolerance",
+    "type": "Negative",
+    "cost": [4],
+    "ego": true,
+    "morph": true,
+    "effect": "Additional –10 modifier per wound.",
+    "auto": true,
+    "noted": false
+  },
+  {
+    "trait": "Mental Disorder",
+    "type": "Negative",
+    "cost": [2],
+    "ego": true,
+    "morph": false,
+    "effect": "Choose one disorder.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Morphing Disorder",
+    "type": "Negative",
+    "cost": [2,4,6],
+    "ego": true,
+    "morph": false,
+    "effect": "–10 per level on Integration and Resleeving Stress Tests.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Neural Damage",
+    "type": "Negative",
+    "cost": [2],
+    "ego": true,
+    "morph": false,
+    "effect": "You have some type of incurable neural damage; see text.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "No Backup Insurance",
+    "type": "Negative",
+    "cost": [2],
+    "ego": true,
+    "morph": false,
+    "effect": "Upon death, re-instantation and MP up to GM.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Obliviousness",
+    "type": "Negative",
+    "cost": [2],
+    "ego": true,
+    "morph": false,
+    "effect": "Additional –10 to Perceive Tests when distracted and Surprise Tests.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Obtuseness",
+    "type": "Negative",
+    "cost": [1,2,3],
+    "ego": true,
+    "morph": true,
+    "effect": "–5 per level to COG Checks.",
+    "auto": true,
+    "noted": false
+  },
+  {
+    "trait": "Poor Coordination",
+    "type": "Negative",
+    "cost": [1,2,3],
+    "ego": true,
+    "morph": true,
+    "effect": "–5 per level to REF Checks.",
+    "auto": true,
+    "noted": false
+  },
+  {
+    "trait": "Poor Instinct",
+    "type": "Negative",
+    "cost": [1,2,3],
+    "ego": true,
+    "morph": true,
+    "effect": "–5 per level to INT Checks.",
+    "auto": true,
+    "noted": false
+  },
+  {
+    "trait": "Psi Vulnerability",
+    "type": "Negative",
+    "cost": [1,2],
+    "ego": true,
+    "morph": false,
+    "effect": "–10 per level to resist psi.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Real World Naiveté",
+    "type": "Negative",
+    "cost": [2],
+    "ego": true,
+    "morph": false,
+    "effect": "GM may provide false info once per session.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Restricted Behavior",
+    "type": "Negative",
+    "cost": [1,2,4],
+    "ego": true,
+    "morph": true,
+    "effect": "Psychosurgically limited behavior/emotions. See text.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Sensitive",
+    "type": "Negative",
+    "cost": [1,2],
+    "ego": true,
+    "morph": false,
+    "effect": "–10 per level to INT Checks to resist basilisk hacks.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Timidity",
+    "type": "Negative",
+    "cost": [1,2],
+    "ego": true,
+    "morph": true,
+    "effect": "–5 per level to WIL Checks.",
+    "auto": true,
+    "noted": false
+  },
+  {
+    "trait": "VR Vertigo",
+    "type": "Negative",
+    "cost": [2],
+    "ego": true,
+    "morph": false,
+    "effect": "–30 modifier using XP/VR; –10 using AR. SOM Check or incapacitated.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Age",
+    "type": "Negative",
+    "cost": [4],
+    "ego": false,
+    "morph": true,
+    "effect": "–10 to physical actions. Flats and splicers only.",
+    "auto": true,
+    "noted": false
+  },
+  {
+    "trait": "Dominant Limb",
+    "type": "Negative",
+    "cost": [1],
+    "ego": false,
+    "morph": true,
+    "effect": "–20 to tests made with non-dominant limbs.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Exotic Morphology",
+    "type": "Negative",
+    "cost": [2,4,6],
+    "ego": false,
+    "morph": true,
+    "effect": "–10 per level on Integration Tests.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Frailty",
+    "type": "Negative",
+    "cost": [2,4],
+    "ego": false,
+    "morph": true,
+    "effect": "–5 DUR, also impacts WT and DR, see text.",
+    "auto": true,
+    "noted": false
+  },
+  {
+    "trait": "Genetic Defect",
+    "type": "Negative",
+    "cost": [1,2],
+    "ego": false,
+    "morph": true,
+    "effect": "Morph has minor or serious health complications. Flats only.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Hypersensitivity",
+    "type": "Negative",
+    "cost": [3],
+    "ego": false,
+    "morph": true,
+    "effect": "No implants allowed. Biomorphs only.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Infection Risk",
+    "type": "Negative",
+    "cost": [1,2,3],
+    "ego": false,
+    "morph": true,
+    "effect": "–10 per level to SOM Checks to resist the biological exsurgent virus.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Inherent Flaws",
+    "type": "Negative",
+    "cost": [2],
+    "ego": false,
+    "morph": true,
+    "effect": "10% chance of acquiring a wound each time a critical failure is rolled. Synthmorphs only.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Memory Artifact",
+    "type": "Negative",
+    "cost": [1],
+    "ego": false,
+    "morph": true,
+    "effect": "Recall other ego’s memory once per session; COG Check or SV 1d6.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Non-Human Biochemistry",
+    "type": "Negative",
+    "cost": [2,4],
+    "ego": false,
+    "morph": true,
+    "effect": "–10 to Medicine Tests, –20 if non-mammalian. Biomorphs only.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Planned Obsolecense",
+    "type": "Negative",
+    "cost": [1],
+    "ego": false,
+    "morph": true,
+    "effect": "Cumulative pool loss/wound per month without maintenance.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Proprietary Tech",
+    "type": "Negative",
+    "cost": [2],
+    "ego": false,
+    "morph": true,
+    "effect": "–20 Hardware Tests, fixers do not work. Synthmorphs only.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Severe Allergy",
+    "type": "Negative",
+    "cost": [2,4],
+    "ego": false,
+    "morph": true,
+    "effect": "–30 when exposed to allergen plus SOM Check or anaphylactic shock; death in 2d10 minutes without treatment. Biomorphs only.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Skill Glitch",
+    "type": "Negative",
+    "cost": [1,2],
+    "ego": false,
+    "morph": true,
+    "effect": "–10 per level to one GM-chosen skill",
+    "auto": true,
+    "noted": false
+  },
+  {
+    "trait": "Unattractiveness",
+    "type": "Negative",
+    "cost": [1,2],
+    "ego": false,
+    "morph": true,
+    "effect": "–10 to Persuade and Provoke Tests where looks matter.",
+    "auto": false,
+    "noted": true
+  },
+  {
+    "trait": "Weak Immune System",
+    "type": "Negative",
+    "cost": [1,2],
+    "ego": false,
+    "morph": true,
+    "effect": "–10 per level to resist chemicals, disease, drugs, and toxins. Biomorphs only.",
+    "auto": false,
+    "noted": false
+  },
+  {
+    "trait": "Zero-G Nausea",
+    "type": "Negative",
+    "cost": [2],
+    "ego": false,
+    "morph": true,
+    "effect": "–10 in micrograv; SOM Check or incapacitated for first hour. Biomorphs only.",
+    "auto": false,
+    "noted": false
+  }
+]

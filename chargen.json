@@ -1,0 +1,271 @@
+[
+  {
+    "step Name":"Background",
+    "guidance":[
+      {
+        "heading":"Background",
+        "text":[
+          "What is your character’s origin? Were you born in a slum on Earth before the Fall or raised in a protected enclave? Were you an early space colonist or an indentured worker?",
+          "Each background provides you with a package of active and knowledge skills. Note these on your character sheet. Don’t dwell too long on your choice — you’ll have an opportunity to acquire other skills and switch some skills around in later steps. For field skills, a short selection of common fields is listed, but you can choose your own (Skills ▶48). Alternatively, leave the field unassigned for now and decide on it during game play."
+        ]
+      }
+    ]
+  },
+  {
+    "step Name":"Career",
+    "guidance":[
+      {
+        "heading":"Career",
+        "text":[
+          "What is your character’s primary field of expertise? Are you a scientist, a hacker, a gun-for-hire, or something else?",
+          "Like your background, your career package provides you with skills. You might look for a package that gives you more diversity or one that complements the skills you’ve already acquired. Don’t worry about doubling up on skills — you can adjust that in a later step. Your career also determines your starting gear packs ▶68."
+        ]
+      }
+    ]
+  },
+  {
+    "step Name":"Interests",
+    "guidance":[
+      {
+        "heading":"Interests",
+        "text":[
+          "What else does your character do? Did they have a previous career, a second career, or are they learning a new one? Do they pursue other interests as a hobby, out of curiosity or necessity? Is there an area of work they have specialized in?",
+          "Your interest provides you with a package of skills, just like your background and career. This will be your final skills package, though you might purchase a few extra skills or tweak the ones you’ve gained so far in later steps."
+        ]
+      }
+    ]
+  },
+  {
+    "step Name":"Faction",
+    "guidance":[
+      {
+        "heading":"Faction",
+        "text":[
+          "Now that you have a rough orientation for your character’s background and skill sets, it’s time to pick a faction to which they hold allegiance. Each choice provides a motivation ▶47 and a skill of Know: [Faction] 30. The Factions sidebar provides a brief summary of each group; further details can be found on ▶152–174.",
+          "If you are unsure of what faction to pick at this time, you may skip this section for now and determine your faction, motivation, and Know skill during gameplay. You also can choose not to have a faction — not everyone picks sides. If going factionless, simply choose your own motivation and take any Know skill you like at 30.",
+          "Faction allegiance does not necessarily mean you are a hardcore true believer. You may have been born or raised into a faction and reluctantly stuck with it, or you may be finding yourself questioning some of the faction’s tenets. You may be a dissident, trying to actively change the faction from within. For now, your faction allegiance indicates the transhuman grouping you are most familiar with and whose goals you at least nominally support. Perhaps you are even a defector or new recruit, with an Know skill in your old faction but a motivation tied to your new one."
+        ]
+      }
+    ]
+  },
+  {
+    "step Name":"Aptitudes",
+    "guidance":[
+      {
+        "heading":"Aptitude Templates",
+        "text":[
+          "Pick one of the aptitude templates to determine your six starting aptitudes ▶36. These templates are provided as guidelines, and you may raise or lower an aptitude score by taking or giving points from other aptitudes. For example, you can lower WIL by 5 to raise COG by 5. No aptitude score may be lower than 5 or higher than 30.",
+          "Though conceptually skills are built on the aptitude values, this step is placed after the skill choices so that you may tailor your aptitudes to your skill set. For example, if you have a lot of SAV-linked skills, choosing a template with a high SAV is a solid way to optimize your character. Alternatively, if you feel you are lacking skills linked to a certain aptitude, boosting that aptitude may help to round out your character.",
+          "Spending CP: Extra aptitude points cost 1 CP each. If you’re going to bump an aptitude, we recommend doing it now, before you calculate your skills in Step 6."
+        ]
+      }
+    ]
+  },
+  {
+    "step Name":"Total Skills",
+    "guidance":[
+      {
+        "heading":"Total Skills",
+        "text":[
+          "Combine all of the skills from Steps 1–4 and write them on your character sheet.",
+          "If a character acquired the same skill more than once, those points may be added together or the additional points may be applied to any other skill of the player’s choosing. Note that points for Know skills may only be used for other Know skills; however, points for Active skills may be used for either Active or Know skills.",
+          "Next, add the base aptitude values to their linked skills. Note that the skills of Fray and Perceive have base values equal to their aptitude × 2.",
+          "No final skill total (including aptitude) may exceed 80. Any points over 80 must be applied to another skill of the player’s choosing. Again, Know skill points may only be used for other Know skills.",
+          "Players should feel free to switch their skills for any other skills as long as the number of points remains the same, and as long as Know skill points only go toward other Know skills.",
+          "We suggest keeping aptitudes and skills in multiples of 5 for simplicity, but this is not a requirement.",
+          "Spending CP: Each point of CP gets you 5 skill points. Use these points to purchase or raise any skills you think you’ll need."
+        ]
+      }
+    ]
+  },
+  {
+    "step Name":"Languages",
+    "guidance":[
+      {
+        "heading":"Languages",
+        "text":[
+          "Each character starts knowing two languages. Languages are not handled like skills — you either know it or you don’t. If you don’t, real-time translation is easily accessible via the mesh, so language tends to only be an issue in isolated areas.",
+          "If your combined COG + INT is 35+: choose 1 additional language.",
+          "If your combined COG + INT is 45+: choose 2 additional languages.",
+          "Common languages are: Arabic, Cantonese, English, French, Hindi, Japanese, Mandarin, Portuguese, Russian, Skandinaviska, and Spanish.",
+          "Spending CP: You may purchase additional languages at 1 CP each."
+        ]
+      }
+    ]
+  },
+  {
+    "step Name":"Flex",
+    "guidance":[
+      {
+        "heading":"Flex",
+        "text":[
+          "Every ego starts with 1 permanent Flex point Pools ▶34.",
+          "Spending CP: Extra Flex points cost 2 CP each. You may not start with more than 3 ego Flex points."
+        ]
+      }
+    ]
+  },
+  {
+    "step Name":"Reputation",
+    "guidance":[
+      {
+        "heading":"Reputation",
+        "text":[
+          "You have 100 points to divide between rep networks. There are seven networks to choose from ▶37. You should strongly consider taking rep scores that fit your faction choice.",
+          "We recommend taking either 60/40 in two networks or 50/25/25 in three networks. You may not start with a rep score higher than 80 in any network.",
+          "If you are unsure what rep networks to choose, talk to your GM about leaving them blank for now and filling them in during gameplay.",
+          "Spending CP: Every point of CP buys you 5 rep points."
+        ]
+      }
+    ]
+  },
+  {
+    "step Name":"Customization",
+    "guidance":[
+      {
+        "heading":"Customization",
+        "text":[
+          "You receive 20 Customization Points (CP) you may spend on the following. If you’re still figuring out your character, talk to your GM about saving some CP and buying things later on during gameplay. Just keep track of what you’ve spent."
+        ]
+      },
+      {
+        "heading":"Increased Aptitude",
+        "text":[
+          "CP may be spent to increase aptitude scores at a cost of 1 CP per aptitude point. This will increase all skills linked to that aptitude as well; no skill may be raised above 80. Increases to COG or INT may increase the number of languages you start with (see Step 7)."
+        ]
+      },
+      {
+        "heading":"Ego Traits",
+        "text":[
+          "You may purchase any of the ego traits listed on ▶72–80. Positive traits have a CP cost listed. Negative traits give you bonus CP. No more than 6 CP worth of negative traits may be purchased.",
+          "There are a lot of traits to choose from, so if you’re unfamiliar with them or don’t have the time to scan through them, skip this for now and save some CP to buy traits later. A summary of traits is on ▶72 and 77.",
+          "If you took the Lost background in Step 1 or the Async interest in Step 3, you must purchase the Psi trait."
+        ]
+      },
+      {
+        "heading":"Increased Flex",
+        "text":[
+          "CP may be spent to increase your Flex pool at a cost of 2 CP per 1 Flex. Your ego Flex points may not be raised higher than 3 (not counting Flex derived from your morph)."
+        ]
+      },
+      {
+        "heading":"Extra Languages",
+        "text":[
+          "Extra languages may be learned at a cost of 1 CP per 1 language."
+        ]
+      },
+      {
+        "heading":"Extra Rep",
+        "text":[
+          "CP may be spent for extra Rep points. 1 CP = 5 points to be spent on rep. No rep score may be raised higher than 80."
+        ]
+      },
+      {
+        "heading":"Extra Skills",
+        "text":[
+          "CP may be spent for extra skill points. 1 CP = 5 skill points. No skill may be raised higher than 80 during character creation."
+        ]
+      },
+      {
+        "heading":"Psi Sleights",
+        "text":[
+          "If you purchased the Psi trait, you will likely want to spend CP on sleights, or psi powers ▶280. Note that you get one starting sleight for free, based on your sub-strain ▶273.",
+          "Psi sleights cost 1 CP per sleight. You may only purchase psi-gamma sleights if you have the Psi trait at Level 2. The maximum number of sleights you may purchase during character creation is 10."
+        ]
+      },
+      {
+        "heading":"Specializations",
+        "text":[
+          "Skill specializations cost 1 CP. They give a +10 bonus to that skill when that specialization applies. (This specialization bonus towards the skill maximum of 80.)"
+        ]
+      }
+    ]
+  },
+  {
+    "step Name":"Derived Stats",
+    "guidance":[
+      {
+        "heading":"Derived Stats",
+        "text":[
+          "You’re almost done! Now a few of your stats need to be calculated and added to your character sheet:",
+          [
+            "Initiative: (REF + INT) ÷ 5.",
+            "Aptitude Checks: Each aptitude has a check (Cognition Check, Intuition Check, etc.) equal to the aptitude × 3.",
+            "Lucidity: WIL × 2.",
+            "Trauma Threshold: LUC ÷ 5.",
+            "Insanity Rating: LUC × 2.",
+            "Infection Rating (Asyncs Only): Psi trait level × 10."
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "step Name":"Morph & Gear",
+    "guidance":[
+      {
+        "heading":"Morph & Gear",
+        "text":[
+          "Your character receives starting gear based on the career chosen in Step 2 and the type of campaign you are playing (Firewall, gatecrashing, or criminal). See Gear Packs ▶68.",
+          "You also choose your character’s starting morph ▶54. Each morph has a cost in Morph Points (MP). Your GM will tell how many points you have to work with. The suggested default value is 6 MP. If you also purchased the Resources trait ▶75, increase your available MP by that trait level.",
+          "You may also spend your Morph Points on morph traits ▶72 or extra gear. Whatever MP you don’t spend is converted into Flex points instead."
+        ]
+      },
+      {
+        "heading":"Starting Morphs",
+        "text":[
+          "While it may be tempting to spend all of your MP to get the best morph available, we strongly suggest picking the morph that best fits your character. You will likely have opportunities to switch morphs during game. Morph Availability stats do not apply to morphs bought during character creation.",
+          "You may buy more than one morph, in case you want a fallback on hand or plan to do a lot of forking. In this case, you cannot purchase negative traits for any of your morphs. Additionally, the first morph you buy must have an MP cost of 1 or more (not counting traits) and any morphs bought after the first with a listed 0 MP cost 1 MP instead.",
+          "Your morph will provide several stats: pools, Wound Threshold, Durability, and Death Rating. Note these on your character sheet. Also take note of any implants or traits it might have."
+        ]
+      },
+      {
+        "heading":"Morph Traits",
+        "text":[
+          "Positive traits have an MP cost listed. Negative traits give you bonus MP. No more than 6 MP worth of negative traits may be purchased."
+        ]
+      },
+      {
+        "heading":"Extra Gear",
+        "text":[
+          "You may use your MP for extra gear. Minor complexity gear costs 1 MP, Moderate 2 MP, and Major 3 MP."
+        ]
+      },
+      {
+        "heading":"Flex Points",
+        "text":[
+          "Morph Points that you don’t spend on morphs, traits, or gear are converted to Flex points instead, on a 2:1 basis (2 MP = 1 Flex), up to a maximum of 3. These Flex points are temporary, they will be reset the next time you resleeve (Acquiring Morphs ▶290)."
+        ]
+      },
+      {
+        "heading":"Gear Packs",
+        "text":[
+          "Gear packs may feature 'Default' and 'Synthmorph' varieties. Use whichever is appropriate to your morph."
+        ]
+      }
+    ]
+  },
+  {
+    "step Name":"Motivation",
+    "guidance":[
+      {
+        "heading":"Motivation",
+        "text":[
+          "Now that your character is mostly fleshed out, you must choose 3 motivations. Motivations are personal aspirations your character pursues. Most of these are long-term and rooted in the character’s ideological beliefs, personal drive, or backstory. Motivations will help your character earn extra Rez Points ▶366 and cope with mental stress and trauma ▶222.",
+          "Motivations are listed on your character sheet as a single term or short phrase, along with a + or – symbol to denote whether they support the cause or oppose it. For example, “+Fame” would indicate that your character seeks to become a famous media personality, whereas “–Reclaim Earth” means that your character opposes the goal of reclaiming Earth.",
+          "Your first motivation is based on your faction choice, as determined in Step 4 ▶44. Note this on your sheet as “+[Faction] Interests.” Your other two motivations are based on your character’s personal interests; see the Example Motivations sidebar for ideas. If you did not choose a faction, simply choose a third personal motivation instead.",
+          "If you’re not sure what motivations to pick just yet, you can always leave them blank for now and fill them in during gameplay."
+        ]
+      },
+      {
+        "heading":"Optional: Motivational Goals",
+        "text":[
+          "Motivations are good for steering your character, but they are very open-ended. To fine-tune the concept, list out a specific short-term goal for each motivation. For example, if your motivation is +Discover Your Past, your goal might be to investigate the habitat where you were re-instantiated with lack a few months after the Fall. If your motivation is +Argonaut Interests, your goal might be to liberate a specific cache of proprietary scientific data for all of transhumanity to use.",
+          "If your GM has a detailed campaign idea worked out in advance, you may want to wait and decide on your goals until you have been fully introduced to the setting so you can integrate them within the context of the story arc. For example, if your GM establishes a campaign about the liberation of Mars from hypercorp control, and you have +Mercurial Interests, you first goal might be to connect a mercurial group you support with the Barsoomians and establish common ground.",
+          "If your group prefers a more cooperative style of campaign development, motivational goals provide ample material for the GM to construct scenarios around. With this style of play, you may want to pick one motivation as your primary and establish multiple goals in relation to it. These goals can then serve as stepping stones for your character’s personal story arc.",
+          "For more interactive motivations, have each player choose one of the goals of another character. When doing so, they should specifically try to construct it in a way that connects it back to their own character. This is a great opportunity to establish shared interests, histories, and backgrounds between player characters."
+        ]
+      }
+    ]
+  }
+]
