@@ -9,16 +9,16 @@
     "durability": 30,
     "death_rating": 45,
     "pools": {
-      "Insight": 0,
-      "Moxie": 0,
-      "Vigor": 0,
-      "Flex": 0
+      "insight": 0,
+      "moxie": 0,
+      "vigor": 0,
+      "flex": 0
     },
     "movement_rate": [
       {
         "movement_type": "Walker",
-        "Base": 4,
-        "Full": 20
+        "base": 4,
+        "full": 20
       }
     ],
     "ware": [],
@@ -44,16 +44,16 @@
     "durability": 30,
     "death_rating": 45,
     "pools": {
-      "Insight": 0,
-      "Moxie": 0,
-      "Vigor": 0,
-      "Flex": 1
+      "insight": 0,
+      "moxie": 0,
+      "vigor": 0,
+      "flex": 1
     },
     "movement_rate": [
       {
         "movement_type": "Walker",
-        "Base": 4,
-        "Full": 20
+        "base": 4,
+        "full": 20
       }
     ],
     "ware": [
@@ -81,16 +81,16 @@
     "durability": 35,
     "death_rating": 53,
     "pools": {
-      "Insight": 1,
-      "Moxie": 1,
-      "Vigor": 1,
-      "Flex": 0
+      "insight": 1,
+      "moxie": 1,
+      "vigor": 1,
+      "flex": 0
     },
     "movement_rate": [
       {
         "movement_type": "Walker",
-        "Base": 4,
-        "Full": 20
+        "base": 4,
+        "full": 20
       }
     ],
     "ware": [
@@ -118,16 +118,16 @@
     "durability": 30,
     "death_rating": 45,
     "pools": {
-      "Insight": 2,
-      "Moxie": 1,
-      "Vigor": 1,
-      "Flex": 0
+      "insight": 2,
+      "moxie": 1,
+      "vigor": 1,
+      "flex": 0
     },
     "movement_rate": [
       {
         "movement_type": "Walker",
-        "Base": 4,
-        "Full": 12
+        "base": 4,
+        "full": 12
       }
     ],
     "ware": [
@@ -163,16 +163,16 @@
     "durability": 35,
     "death_rating": 53,
     "pools": {
-      "Insight": 0,
-      "Moxie": 1,
-      "Vigor": 1,
-      "Flex": 1
+      "insight": 0,
+      "moxie": 1,
+      "vigor": 1,
+      "flex": 1
     },
     "movement_rate": [
       {
         "movement_type": "Walker",
-        "Base": 4,
-        "Full": 20
+        "base": 4,
+        "full": 20
       }
     ],
     "ware": [
@@ -205,16 +205,16 @@
     "durability": 35,
     "death_rating": 53,
     "pools": {
-      "Insight": 1,
-      "Moxie": 0,
-      "Vigor": 1,
-      "Flex": 2
+      "insight": 1,
+      "moxie": 0,
+      "vigor": 1,
+      "flex": 2
     },
     "movement_rate": [
       {
         "movement_type": "Walker",
-        "Base": 4,
-        "Full": 12
+        "base": 4,
+        "full": 12
       }
     ],
     "ware": [
@@ -251,16 +251,16 @@
     "durability": 35,
     "death_rating": 53,
     "pools": {
-      "Insight": 2,
-      "Moxie": 4,
-      "Vigor": 1,
-      "Flex": 0
+      "insight": 2,
+      "moxie": 4,
+      "vigor": 1,
+      "flex": 0
     },
     "movement_rate": [
       {
         "movement_type": "Walker",
-        "Base": 4,
-        "Full": 20
+        "base": 4,
+        "full": 20
       }
     ],
     "ware": [
@@ -288,16 +288,16 @@
     "durability": 35,
     "death_rating": 53,
     "pools": {
-      "Insight": 1,
-      "Moxie": 1,
-      "Vigor": 0,
-      "Flex": 2
+      "insight": 1,
+      "moxie": 1,
+      "vigor": 0,
+      "flex": 2
     },
     "movement_rate": [
       {
         "movement_type": "Walker",
-        "Base": 4,
-        "Full": 20
+        "base": 4,
+        "full": 20
       }
     ],
     "ware": [
@@ -329,16 +329,16 @@
     "durability": 35,
     "death_rating": 53,
     "pools": {
-      "Insight": 3,
-      "Moxie": 1,
-      "Vigor": 1,
-      "Flex": 1
+      "insight": 3,
+      "moxie": 1,
+      "vigor": 1,
+      "flex": 1
     },
     "movement_rate": [
       {
         "movement_type": "Walker",
-        "Base": 4,
-        "Full": 20
+        "base": 4,
+        "full": 20
       }
     ],
     "ware": [
@@ -367,16 +367,16 @@
     "durability": 40,
     "death_rating": 60,
     "pools": {
-      "Insight": 1,
-      "Moxie": 1,
-      "Vigor": 3,
-      "Flex": 1
+      "insight": 1,
+      "moxie": 1,
+      "vigor": 3,
+      "flex": 1
     },
     "movement_rate": [
       {
         "movement_type": "Walker",
-        "Base": 4,
-        "Full": 20
+        "base": 4,
+        "full": 20
       }
     ],
     "ware": [
@@ -404,16 +404,16 @@
     "durability": 30,
     "death_rating": 45,
     "pools": {
-      "Insight": 1,
-      "Moxie": 3,
-      "Vigor": 1,
-      "Flex": 1
+      "insight": 1,
+      "moxie": 3,
+      "vigor": 1,
+      "flex": 1
     },
     "movement_rate": [
       {
         "movement_type": "Walker",
-        "Base": 4,
-        "Full": 20
+        "base": 4,
+        "full": 20
       }
     ],
     "ware": [
@@ -445,16 +445,16 @@
     "durability": 50,
     "death_rating": 75,
     "pools": {
-      "Insight": 1,
-      "Moxie": 1,
-      "Vigor": 4,
-      "Flex": 2
+      "insight": 1,
+      "moxie": 1,
+      "vigor": 4,
+      "flex": 2
     },
     "movement_rate": [
       {
         "movement_type": "Walker",
-        "Base": 4,
-        "Full": 20
+        "base": 4,
+        "full": 20
       }
     ],
     "ware": [
@@ -496,16 +496,16 @@
     "durability": 45,
     "death_rating": 68,
     "pools": {
-      "Insight": 2,
-      "Moxie": 1,
-      "Vigor": 3,
-      "Flex": 2
+      "insight": 2,
+      "moxie": 1,
+      "vigor": 3,
+      "flex": 2
     },
     "movement_rate": [
       {
         "movement_type": "Walker",
-        "Base": 4,
-        "Full": 20
+        "base": 4,
+        "full": 20
       }
     ],
     "ware": [
@@ -542,16 +542,16 @@
     "durability": 45,
     "death_rating": 68,
     "pools": {
-      "Insight": 2,
-      "Moxie": 2,
-      "Vigor": 2,
-      "Flex": 2
+      "insight": 2,
+      "moxie": 2,
+      "vigor": 2,
+      "flex": 2
     },
     "movement_rate": [
       {
         "movement_type": "Walker",
-        "Base": 4,
-        "Full": 20
+        "base": 4,
+        "full": 20
       }
     ],
     "ware": [
@@ -589,16 +589,16 @@
     "durability": 30,
     "death_rating": 45,
     "pools": {
-      "Insight": 0,
-      "Moxie": 0,
-      "Vigor": 1,
-      "Flex": 0
+      "insight": 0,
+      "moxie": 0,
+      "vigor": 1,
+      "flex": 0
     },
     "movement_rate": [
       {
         "movement_type": "Walker",
-        "Base": 4,
-        "Full": 20
+        "base": 4,
+        "full": 20
       }
     ],
     "ware": [
@@ -635,16 +635,16 @@
     "durability": 35,
     "death_rating": 53,
     "pools": {
-      "Insight": 0,
-      "Moxie": 0,
-      "Vigor": 2,
-      "Flex": 1
+      "insight": 0,
+      "moxie": 0,
+      "vigor": 2,
+      "flex": 1
     },
     "movement_rate": [
       {
         "movement_type": "Walker",
-        "Base": 4,
-        "Full": 20
+        "base": 4,
+        "full": 20
       }
     ],
     "ware": [
@@ -681,16 +681,16 @@
     "durability": 45,
     "death_rating": 68,
     "pools": {
-      "Insight": 0,
-      "Moxie": 0,
-      "Vigor": 3,
-      "Flex": 0
+      "insight": 0,
+      "moxie": 0,
+      "vigor": 3,
+      "flex": 0
     },
     "movement_rate": [
       {
         "movement_type": "Walker",
-        "Base": 4,
-        "Full": 20
+        "base": 4,
+        "full": 20
       }
     ],
     "ware": [
@@ -739,16 +739,16 @@
     "durability": 30,
     "death_rating": 45,
     "pools": {
-      "Insight": 0,
-      "Moxie": 3,
-      "Vigor": 0,
-      "Flex": 0
+      "insight": 0,
+      "moxie": 3,
+      "vigor": 0,
+      "flex": 0
     },
     "movement_rate": [
       {
         "movement_type": "Walker",
-        "Base": 4,
-        "Full": 20
+        "base": 4,
+        "full": 20
       }
     ],
     "ware": [
@@ -786,16 +786,16 @@
     "durability": 35,
     "death_rating": 53,
     "pools": {
-      "Insight": 1,
-      "Moxie": 0,
-      "Vigor": 2,
-      "Flex": 1
+      "insight": 1,
+      "moxie": 0,
+      "vigor": 2,
+      "flex": 1
     },
     "movement_rate": [
       {
         "movement_type": "Walker",
-        "Base": 4,
-        "Full": 20
+        "base": 4,
+        "full": 20
       }
     ],
     "ware": [
@@ -834,16 +834,16 @@
     "durability": 35,
     "death_rating": 53,
     "pools": {
-      "Insight": 1,
-      "Moxie": 2,
-      "Vigor": 0,
-      "Flex": 0
+      "insight": 1,
+      "moxie": 2,
+      "vigor": 0,
+      "flex": 0
     },
     "movement_rate": [
       {
         "movement_type": "Walker",
-        "Base": 4,
-        "Full": 20
+        "base": 4,
+        "full": 20
       }
     ],
     "ware": [
@@ -881,21 +881,21 @@
     "durability": 25,
     "death_rating": 38,
     "pools": {
-      "Insight": 2,
-      "Moxie": 1,
-      "Vigor": 0,
-      "Flex": 0
+      "insight": 2,
+      "moxie": 1,
+      "vigor": 0,
+      "flex": 0
     },
     "movement_rate": [
       {
         "movement_type": "Walker",
-        "Base": 2,
-        "Full": 8
+        "base": 2,
+        "full": 8
       },
       {
         "movement_type": "Winged",
-        "Base": 8,
-        "Full": 40
+        "base": 8,
+        "full": 40
       }
     ],
     "ware": [
@@ -940,16 +940,16 @@
     "durability": 30,
     "death_rating": 45,
     "pools": {
-      "Insight": 0,
-      "Moxie": 2,
-      "Vigor": 1,
-      "Flex": 0
+      "insight": 0,
+      "moxie": 2,
+      "vigor": 1,
+      "flex": 0
     },
     "movement_rate": [
       {
         "movement_type": "Walker",
-        "Base": 4,
-        "Full": 12
+        "base": 4,
+        "full": 12
       }
     ],
     "ware": [
@@ -988,16 +988,16 @@
     "durability": 35,
     "death_rating": 53,
     "pools": {
-      "Insight": 0,
-      "Moxie": 1,
-      "Vigor": 2,
-      "Flex": 1
+      "insight": 0,
+      "moxie": 1,
+      "vigor": 2,
+      "flex": 1
     },
     "movement_rate": [
       {
         "movement_type": "Walker",
-        "Base": 4,
-        "Full": 20
+        "base": 4,
+        "full": 20
       }
     ],
     "ware": [
@@ -1030,16 +1030,16 @@
     "durability": 45,
     "death_rating": 68,
     "pools": {
-      "Insight": 0,
-      "Moxie": 0,
-      "Vigor": 3,
-      "Flex": 1
+      "insight": 0,
+      "moxie": 0,
+      "vigor": 3,
+      "flex": 1
     },
     "movement_rate": [
       {
         "movement_type": "Walker",
-        "Base": 4,
-        "Full": 12
+        "base": 4,
+        "full": 12
       }
     ],
     "ware": [
@@ -1078,26 +1078,26 @@
     "durability": 30,
     "death_rating": 45,
     "pools": {
-      "Insight": 1,
-      "Moxie": 1,
-      "Vigor": 1,
-      "Flex": 2
+      "insight": 1,
+      "moxie": 1,
+      "vigor": 1,
+      "flex": 2
     },
     "movement_rate": [
       {
         "movement_type": "Swim",
-        "Base": 4,
-        "Full": 20
+        "base": 4,
+        "full": 20
       },
       {
         "movement_type": "Thrust Vector",
-        "Base": 4,
-        "Full": 12
+        "base": 4,
+        "full": 12
       },
       {
         "movement_type": "Walker",
-        "Base": 2,
-        "Full": 8
+        "base": 2,
+        "full": 8
       }
     ],
     "ware": [
@@ -1146,16 +1146,16 @@
     "durability": 35,
     "death_rating": 53,
     "pools": {
-      "Insight": 1,
-      "Moxie": 1,
-      "Vigor": 2,
-      "Flex": 0
+      "insight": 1,
+      "moxie": 1,
+      "vigor": 2,
+      "flex": 0
     },
     "movement_rate": [
       {
         "movement_type": "Walker",
-        "Base": 4,
-        "Full": 12
+        "base": 4,
+        "full": 12
       }
     ],
     "ware": [
@@ -1200,16 +1200,16 @@
     "durability": 25,
     "death_rating": 50,
     "pools": {
-      "Insight": 0,
-      "Moxie": 0,
-      "Vigor": 0,
-      "Flex": 0
+      "insight": 0,
+      "moxie": 0,
+      "vigor": 0,
+      "flex": 0
     },
     "movement_rate": [
       {
         "movement_type": "Walker",
-        "Base": 4,
-        "Full": 12
+        "base": 4,
+        "full": 12
       }
     ],
     "ware": [
@@ -1252,21 +1252,21 @@
     "durability": 25,
     "death_rating": 50,
     "pools": {
-      "Insight": 1,
-      "Moxie": 0,
-      "Vigor": 1,
-      "Flex": 0
+      "insight": 1,
+      "moxie": 0,
+      "vigor": 1,
+      "flex": 0
     },
     "movement_rate": [
       {
         "movement_type": "Walker",
-        "Base": 2,
-        "Full": 8
+        "base": 2,
+        "full": 8
       },
       {
         "movement_type": "Winged",
-        "Base": 8,
-        "Full": 32
+        "base": 8,
+        "full": 32
       }
     ],
     "ware": [
@@ -1308,16 +1308,16 @@
     "durability": 40,
     "death_rating": 80,
     "pools": {
-      "Insight": 0,
-      "Moxie": 0,
-      "Vigor": 1,
-      "Flex": 1
+      "insight": 0,
+      "moxie": 0,
+      "vigor": 1,
+      "flex": 1
     },
     "movement_rate": [
       {
         "movement_type": "Walker",
-        "Base": 4,
-        "Full": 20
+        "base": 4,
+        "full": 20
       }
     ],
     "ware": [
@@ -1356,16 +1356,16 @@
     "durability": 15,
     "death_rating": 30,
     "pools": {
-      "Insight": 0,
-      "Moxie": 1,
-      "Vigor": 0,
-      "Flex": 0
+      "insight": 0,
+      "moxie": 1,
+      "vigor": 0,
+      "flex": 0
     },
     "movement_rate": [
       {
         "movement_type": "Walker",
-        "Base": 4,
-        "Full": 12
+        "base": 4,
+        "full": 12
       }
     ],
     "ware": [
@@ -1408,26 +1408,26 @@
     "durability": 40,
     "death_rating": 80,
     "pools": {
-      "Insight": 2,
-      "Moxie": 0,
-      "Vigor": 0,
-      "Flex": 0
+      "insight": 2,
+      "moxie": 0,
+      "vigor": 0,
+      "flex": 0
     },
     "movement_rate": [
       {
         "movement_type": "Hopper",
-        "Base": 4,
-        "Full": 12
+        "base": 4,
+        "full": 12
       },
       {
         "movement_type": "Rotor",
-        "Base": 4,
-        "Full": 20
+        "base": 4,
+        "full": 20
       },
       {
         "movement_type": "Walker",
-        "Base": 2,
-        "Full": 8
+        "base": 2,
+        "full": 8
       }
     ],
     "ware": [
@@ -1468,16 +1468,16 @@
     "durability": 35,
     "death_rating": 70,
     "pools": {
-      "Insight": 3,
-      "Moxie": 0,
-      "Vigor": 1,
-      "Flex": 1
+      "insight": 3,
+      "moxie": 0,
+      "vigor": 1,
+      "flex": 1
     },
     "movement_rate": [
       {
         "movement_type": "Walker",
-        "Base": 4,
-        "Full": 20
+        "base": 4,
+        "full": 20
       }
     ],
     "ware": [
@@ -1516,16 +1516,16 @@
     "durability": 40,
     "death_rating": 80,
     "pools": {
-      "Insight": 1,
-      "Moxie": 2,
-      "Vigor": 1,
-      "Flex": 1
+      "insight": 1,
+      "moxie": 2,
+      "vigor": 1,
+      "flex": 1
     },
     "movement_rate": [
       {
         "movement_type": "Walker",
-        "Base": 4,
-        "Full": 20
+        "base": 4,
+        "full": 20
       }
     ],
     "ware": [
@@ -1566,21 +1566,21 @@
     "durability": 45,
     "death_rating": 90,
     "pools": {
-      "Insight": 0,
-      "Moxie": 1,
-      "Vigor": 3,
-      "Flex": 0
+      "insight": 0,
+      "moxie": 1,
+      "vigor": 3,
+      "flex": 0
     },
     "movement_rate": [
       {
         "movement_type": "Roller",
-        "Base": 8,
-        "Full": 32
+        "base": 8,
+        "full": 32
       },
       {
         "movement_type": "Snake",
-        "Base": 4,
-        "Full": 12
+        "base": 4,
+        "full": 12
       }
     ],
     "ware": [
@@ -1620,16 +1620,16 @@
     "durability": 40,
     "death_rating": 80,
     "pools": {
-      "Insight": 0,
-      "Moxie": 1,
-      "Vigor": 3,
-      "Flex": 1
+      "insight": 0,
+      "moxie": 1,
+      "vigor": 3,
+      "flex": 1
     },
     "movement_rate": [
       {
         "movement_type": "Walker",
-        "Base": 8,
-        "Full": 40
+        "base": 8,
+        "full": 40
       }
     ],
     "ware": [
@@ -1668,31 +1668,31 @@
     "durability": 55,
     "death_rating": 110,
     "pools": {
-      "Insight": 1,
-      "Moxie": 0,
-      "Vigor": 3,
-      "Flex": 0
+      "insight": 1,
+      "moxie": 0,
+      "vigor": 3,
+      "flex": 0
     },
     "movement_rate": [
       {
         "movement_type": "Hopper",
-        "Base": 4,
-        "Full": 12
+        "base": 4,
+        "full": 12
       },
       {
         "movement_type": "Thrust Vector",
-        "Base": 8,
-        "Full": 40
+        "base": 8,
+        "full": 40
       },
       {
         "movement_type": "Walker",
-        "Base": 4,
-        "Full": 20
+        "base": 4,
+        "full": 20
       },
       {
         "movement_type": "Wheeled",
-        "Base": 8,
-        "Full": 40
+        "base": 8,
+        "full": 40
       }
     ],
     "ware": [
@@ -1734,31 +1734,31 @@
     "durability": 60,
     "death_rating": 120,
     "pools": {
-      "Insight": 1,
-      "Moxie": 0,
-      "Vigor": 6,
-      "Flex": 1
+      "insight": 1,
+      "moxie": 0,
+      "vigor": 6,
+      "flex": 1
     },
     "movement_rate": [
       {
         "movement_type": "Hopper",
-        "Base": 4,
-        "Full": 20
+        "base": 4,
+        "full": 20
       },
       {
         "movement_type": "Ionic",
-        "Base": 8,
-        "Full": 40
+        "base": 8,
+        "full": 40
       },
       {
         "movement_type": "Thrust Vector",
-        "Base": 8,
-        "Full": 40
+        "base": 8,
+        "full": 40
       },
       {
         "movement_type": "Walker",
-        "Base": 4,
-        "Full": 20
+        "base": 4,
+        "full": 20
       }
     ],
     "ware": [
@@ -1805,16 +1805,16 @@
     "durability": 25,
     "death_rating": 0,
     "pools": {
-      "Insight": 0,
-      "Moxie": 0,
-      "Vigor": 0,
-      "Flex": 0
+      "insight": 0,
+      "moxie": 0,
+      "vigor": 0,
+      "flex": 0
     },
     "movement_rate": [
       {
         "movement_type": "Walker",
-        "Base": 4,
-        "Full": 20
+        "base": 4,
+        "full": 20
       }
     ],
     "ware": [],
@@ -1838,16 +1838,16 @@
     "durability": 30,
     "death_rating": 0,
     "pools": {
-      "Insight": 0,
-      "Moxie": 0,
-      "Vigor": 0,
-      "Flex": 0
+      "insight": 0,
+      "moxie": 0,
+      "vigor": 0,
+      "flex": 0
     },
     "movement_rate": [
       {
         "movement_type": "Walker",
-        "Base": 4,
-        "Full": 20
+        "base": 4,
+        "full": 20
       }
     ],
     "ware": [],
@@ -1871,16 +1871,16 @@
     "durability": 40,
     "death_rating": 0,
     "pools": {
-      "Insight": 0,
-      "Moxie": 0,
-      "Vigor": 0,
-      "Flex": 0
+      "insight": 0,
+      "moxie": 0,
+      "vigor": 0,
+      "flex": 0
     },
     "movement_rate": [
       {
         "movement_type": "Walker",
-        "Base": 4,
-        "Full": 20
+        "base": 4,
+        "full": 20
       }
     ],
     "ware": [],
@@ -1904,16 +1904,16 @@
     "durability": 35,
     "death_rating": 0,
     "pools": {
-      "Insight": 0,
-      "Moxie": 0,
-      "Vigor": 0,
-      "Flex": 0
+      "insight": 0,
+      "moxie": 0,
+      "vigor": 0,
+      "flex": 0
     },
     "movement_rate": [
       {
         "movement_type": "Walker",
-        "Base": 4,
-        "Full": 20
+        "base": 4,
+        "full": 20
       }
     ],
     "ware": [],
