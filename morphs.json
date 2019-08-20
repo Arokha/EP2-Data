@@ -138,8 +138,8 @@
     ],
     "morph_traits": [
       {
-        "Name": "Exotic Morphology",
-        "Level": 1
+        "name": "Exotic Morphology",
+        "level": 1
       }
     ],
     "common_extras": [],
@@ -228,8 +228,8 @@
     ],
     "morph_traits": [
       {
-        "Name": "Limberness",
-        "Level": 1
+        "name": "Limberness",
+        "level": 1
       }
     ],
     "common_extras": [],
@@ -467,12 +467,12 @@
     ],
     "morph_traits": [
       {
-        "Name": "Enhanced Behavior (Aggressiveness)",
-        "Level": 2
+        "name": "Enhanced Behavior (Aggressiveness)",
+        "level": 2
       },
       {
-        "Name": "Enhanced Behavior (Cooperation)",
-        "Level": 2
+        "name": "Enhanced Behavior (Cooperation)",
+        "level": 2
       }
     ],
     "common_extras": [
@@ -517,8 +517,8 @@
     ],
     "morph_traits": [
       {
-        "Name": "Enhanced Behavior (Patience)",
-        "Level": 2
+        "name": "Enhanced Behavior (Patience)",
+        "level": 2
       }
     ],
     "common_extras": [
@@ -566,8 +566,8 @@
     ],
     "morph_traits": [
       {
-        "Name": "Exotic Morphology",
-        "Level": 1
+        "name": "Exotic Morphology",
+        "level": 1
       }
     ],
     "common_extras": [],
@@ -612,8 +612,8 @@
     ],
     "morph_traits": [
       {
-        "Name": "Planned Obsolescence",
-        "Level": 1
+        "name": "Planned Obsolescence",
+        "level": 1
       }
     ],
     "common_extras": [],
@@ -658,8 +658,8 @@
     ],
     "morph_traits": [
       {
-        "Name": "Planned Obsolescence",
-        "Level": 1
+        "name": "Planned Obsolescence",
+        "level": 1
       }
     ],
     "common_extras": [],
@@ -710,12 +710,12 @@
     ],
     "morph_traits": [
       {
-        "Name": "Exotic Morphology",
-        "Level": 3
+        "name": "Exotic Morphology",
+        "level": 3
       },
       {
-        "Name": "Non-Human Biochemistry",
-        "Level": 2
+        "name": "Non-Human Biochemistry",
+        "level": 2
       }
     ],
     "common_extras": [],
@@ -910,12 +910,12 @@
     ],
     "morph_traits": [
       {
-        "Name": "Exotic Morphology",
-        "Level": 3
+        "name": "Exotic Morphology",
+        "level": 3
       },
       {
-        "Name": "Non-Human Biochemistry",
-        "Level": 2
+        "name": "Non-Human Biochemistry",
+        "level": 2
       }
     ],
     "common_extras": [],
@@ -961,12 +961,12 @@
     ],
     "morph_traits": [
       {
-        "Name": "Exotic Morphology",
-        "Level": 1
+        "name": "Exotic Morphology",
+        "level": 1
       },
       {
-        "Name": "Non-Human Biochemistry",
-        "Level": 1
+        "name": "Non-Human Biochemistry",
+        "level": 1
       }
     ],
     "common_extras": [],
@@ -1007,8 +1007,8 @@
     ],
     "morph_traits": [
       {
-        "Name": "Non-Human Biochemistry",
-        "Level": 1
+        "name": "Non-Human Biochemistry",
+        "level": 1
       }
     ],
     "common_extras": [],
@@ -1051,12 +1051,12 @@
     ],
     "morph_traits": [
       {
-        "Name": "Exotic Morphology",
-        "Level": 1
+        "name": "Exotic Morphology",
+        "level": 1
       },
       {
-        "Name": "Non-Human Biochemistry",
-        "Level": 1
+        "name": "Non-Human Biochemistry",
+        "level": 1
       }
     ],
     "common_extras": [],
@@ -1111,16 +1111,16 @@
     ],
     "morph_traits": [
       {
-        "Name": "Exotic Morphology",
-        "Level": 3
+        "name": "Exotic Morphology",
+        "level": 3
       },
       {
-        "Name": "Limberness",
-        "Level": 2
+        "name": "Limberness",
+        "level": 2
       },
       {
-        "Name": "Non-Human Biochemistry",
-        "Level": 2
+        "name": "Non-Human Biochemistry",
+        "level": 2
       }
     ],
     "common_extras": [],
@@ -1167,16 +1167,16 @@
     ],
     "morph_traits": [
       {
-        "Name": "Exotic Morphology",
-        "Level": 1
+        "name": "Exotic Morphology",
+        "level": 1
       },
       {
-        "Name": "Limberness",
-        "Level": 1
+        "name": "Limberness",
+        "level": 1
       },
       {
-        "Name": "Non-Human Biochemistry",
-        "Level": 1
+        "name": "Non-Human Biochemistry",
+        "level": 1
       }
     ],
     "common_extras": [],
@@ -1223,12 +1223,12 @@
     ],
     "morph_traits": [
       {
-        "Name": "Exotic Morphology",
-        "Level": 1
+        "name": "Exotic Morphology",
+        "level": 1
       },
       {
-        "Name": "Inherent Flaws",
-        "Level": 1
+        "name": "Inherent Flaws",
+        "level": 1
       }
     ],
     "common_extras": [],
@@ -1282,8 +1282,8 @@
     ],
     "morph_traits": [
       {
-        "Name": "Exotic Morphology",
-        "Level": 3
+        "name": "Exotic Morphology",
+        "level": 3
       }
     ],
     "common_extras": [],
@@ -1331,8 +1331,8 @@
     ],
     "morph_traits": [
       {
-        "Name": "Exotic Morphology",
-        "Level": 1
+        "name": "Exotic Morphology",
+        "level": 1
       }
     ],
     "common_extras": [],
@@ -1382,8 +1382,8 @@
     ],
     "morph_traits": [
       {
-        "Name": "Exotic Morphology",
-        "Level": 3
+        "name": "Exotic Morphology",
+        "level": 3
       }
     ],
     "common_extras": [],
@@ -1442,8 +1442,8 @@
     ],
     "morph_traits": [
       {
-        "Name": "Exotic Morphology",
-        "Level": 3
+        "name": "Exotic Morphology",
+        "level": 3
       }
     ],
     "common_extras": [],
@@ -1491,8 +1491,8 @@
     ],
     "morph_traits": [
       {
-        "Name": "Exotic Morphology",
-        "Level": 1
+        "name": "Exotic Morphology",
+        "level": 1
       }
     ],
     "common_extras": [],
@@ -1541,8 +1541,8 @@
     ],
     "morph_traits": [
       {
-        "Name": "Exotic Morphology",
-        "Level": 1
+        "name": "Exotic Morphology",
+        "level": 1
       }
     ],
     "common_extras": [],
@@ -1595,8 +1595,8 @@
     ],
     "morph_traits": [
       {
-        "Name": "Exotic Morphology",
-        "Level": 2
+        "name": "Exotic Morphology",
+        "level": 2
       }
     ],
     "common_extras": [],
@@ -1643,8 +1643,8 @@
     ],
     "morph_traits": [
       {
-        "Name": "Exotic Morphology",
-        "Level": 1
+        "name": "Exotic Morphology",
+        "level": 1
       }
     ],
     "common_extras": [],
@@ -1709,8 +1709,8 @@
     ],
     "morph_traits": [
       {
-        "Name": "Exotic Morphology",
-        "Level": 1
+        "name": "Exotic Morphology",
+        "level": 1
       }
     ],
     "common_extras": [],
@@ -1780,8 +1780,8 @@
     ],
     "morph_traits": [
       {
-        "Name": "Exotic Morphology",
-        "Level": 3
+        "name": "Exotic Morphology",
+        "level": 3
       }
     ],
     "common_extras": [],
