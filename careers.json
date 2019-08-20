@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "name": "Academic",
     "description": "You devote your efforts to the pursuit of knowledge.",
@@ -34,11 +34,11 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "2f2a1ede-7106-4a0b-85ec-dbdba5d6d2ab"
+    "id": "bfa6c88c-1512-425d-8b6d-fb4a3b789953"
   },
   {
     "name": "Covert Operative",
-    "description": "You are a spy, infiltrator, thief, or undercover agent, skilled at accessing places you don't belong.",
+    "description": "You are a spy, infiltrator, thief, or undercover agent, skilled at accessing places you don’t belong.",
     "skills": {
       "Deceive": {
         "rating": 40,
@@ -71,11 +71,11 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "14ec2846-a7b6-4016-94a6-dfa550edcad0"
+    "id": "66608922-41af-4009-8e24-6d80a96f936f"
   },
   {
     "name": "Enforcer",
-    "description": "You're a thug, whether you're wielding force for a hypercorp, cartel, habitat overseer, or autonomist militia.",
+    "description": "You’re a thug, whether you’re wielding force for a hypercorp, cartel, habitat overseer, or autonomist militia.",
     "skills": {
       "Fray": {
         "rating": 30,
@@ -112,11 +112,11 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "49c27e87-f15e-49d8-a925-417bc62d955d"
+    "id": "1e7bad83-6ba7-4886-9f84-6861648081ba"
   },
   {
     "name": "Explorer",
-    "description": "You've walked on alien worlds and seen things with your own eyes that others wouldn't believe.",
+    "description": "You’ve walked on alien worlds and seen things with your own eyes that others wouldn’t believe.",
     "skills": {
       "Athletics": {
         "rating": 30,
@@ -160,11 +160,11 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "44b37e2a-b4b8-4ea6-bbba-8fc4525be62d"
+    "id": "7b084a76-23e7-4be3-804c-ae8768e8ebab"
   },
   {
     "name": "Face",
-    "description": "You excel at convincing others, even when it's not in their best interest.",
+    "description": "You excel at convincing others, even when it’s not in their best interest.",
     "skills": {
       "Deceive": {
         "rating": 40,
@@ -197,7 +197,7 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "dcaa74c0-0eda-4244-9786-570caf899d29"
+    "id": "d7ebc86c-ef68-455d-b20b-d9d7bb7306f4"
   },
   {
     "name": "Genehacker",
@@ -238,7 +238,7 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "98de243f-afa5-4104-84cf-044324f71b5d"
+    "id": "a7853865-93bf-4f27-babc-374a0dc76f4c"
   },
   {
     "name": "Hacker",
@@ -275,7 +275,7 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "95699930-2fe9-4308-be74-523aaca41ffa"
+    "id": "b55b8371-56f7-47d3-9fb2-d0fa9460ce6d"
   },
   {
     "name": "Investigator",
@@ -312,7 +312,7 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "6bbd518c-0caa-4534-9e42-ebeb56df4525"
+    "id": "46496c7a-d252-4102-b711-506526bd0603"
   },
   {
     "name": "Medic",
@@ -353,7 +353,7 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "515b7b65-8f6d-407a-aa44-3466b8346a26"
+    "id": "8906030f-f454-453d-a4d3-08060fd519a6"
   },
   {
     "name": "Mindhacker",
@@ -394,7 +394,7 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "6f1b2c56-43ff-4f2c-813b-2da0a836da69"
+    "id": "ce343295-fe60-4c19-bf55-5664243054d7"
   },
   {
     "name": "Scavenger",
@@ -442,7 +442,7 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "d053ddb8-eb46-4aca-8593-c6d10225e418"
+    "id": "400b2800-81d5-4682-b714-9ef92c2e4bb5"
   },
   {
     "name": "Scientist",
@@ -482,7 +482,7 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "2b00c2ac-90ad-4030-9770-71d1161bd485"
+    "id": "744801e5-98b7-47a1-842f-efc291506818"
   },
   {
     "name": "Soldier",
@@ -519,7 +519,7 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "a04a64e8-f6cf-4e01-81f9-6905170d4d18"
+    "id": "6110818a-5946-4fd2-9744-9a29c6b4156e"
   },
   {
     "name": "Techie",
@@ -561,6 +561,6 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "0377983b-5ffa-4efc-89d2-53036557671e"
+    "id": "5f6cff77-1778-4c40-b4eb-62bfc6c38d63"
   }
 ]
