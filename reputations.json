@@ -1,51 +1,51 @@
-[
+﻿[
   {
     "name": "@-rep",
     "description": "The Circle-A List, for autonomists, anarchists, Titanians, scum, and Extropians.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "4ece17ca-b852-416d-9b74-1d808f94a664"
+    "id": "f4bf42f3-4963-4b62-a2ed-ed108ffa4405"
   },
   {
     "name": "c-rep",
     "description": "CivicNet, used by the Planetary Consortium, Morningstar Constellation, Lunar-Lagrange Alliance, Jovian Republic, and other hypercorps and capitalists.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "b398f418-7ca2-4e46-8f38-b80542096696"
+    "id": "9e12cf85-1fe3-4502-95c9-19d632911f96"
   },
   {
     "name": "f-rep",
     "description": "Fame, the media network used by metacelebrities, journalists, socialites, artists, and glitterati.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "6a22eea2-76db-4e65-a3f5-e5237067d594"
+    "id": "3ae1ab3a-3e48-4b5b-a542-0f192f59cd5a"
   },
   {
     "name": "g-rep",
     "description": "Guanxi, the network for triads, cartels, gangs, and other criminal groups.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "826cd29f-b14b-4ccc-a1c5-3874e49fe30d"
+    "id": "a674ea55-b951-4e3f-820f-680dc00c2193"
   },
   {
     "name": "i-rep",
-    "description": "The Eye, Firewall's secret internal network.",
+    "description": "The Eye, Firewall’s secret internal network.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "f85b47af-a813-475b-9848-b75efa5291e8"
+    "id": "774953ec-d24c-454a-b473-c5c4fcadc46e"
   },
   {
     "name": "r-rep",
     "description": "Research Network Affiliates, used by Argonauts, scientists, technologists, and researchers of all stripes.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "55fcd167-f904-40df-b992-47f033a5ed5e"
+    "id": "6805b0d6-3a7d-4425-b1e9-2d619e11ee9b"
   },
   {
     "name": "x-rep",
     "description": "ExploreNet, the social network for gatecrashers and exoplanet colonists",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "44354040-5146-4e6f-8f55-304df454d50b"
+    "id": "f5af3280-09fd-4e7f-937f-bbe829cb6b05"
   }
 ]

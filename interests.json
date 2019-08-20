@@ -1,7 +1,7 @@
-[
+﻿[
   {
     "name": "Animal Handler",
-    "description": "You've learned to raise, train, and care for animals, particularly partially uplifted smart animals.",
+    "description": "You’ve learned to raise, train, and care for animals, particularly partially uplifted smart animals.",
     "skills": {
       "Exotic Skill": {
         "rating": 40,
@@ -28,7 +28,7 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "b726b8b2-7ee0-41d4-b1ea-da227b19f141"
+    "id": "ad5c6f7c-97bd-4c32-bbf7-bfc5b0237e70"
   },
   {
     "name": "Artist/Icon",
@@ -57,7 +57,7 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "9b9fe958-3b9d-449e-a40d-d6f5b9b68766"
+    "id": "416dc659-85e9-4fdd-af1a-dd1a642f565b"
   },
   {
     "name": "Async",
@@ -84,7 +84,7 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "4d0db878-5bb4-4cd4-821d-c3c2192d92c1"
+    "id": "ea1eac07-d542-40e7-9543-0349dff8f95e"
   },
   {
     "name": "Commander",
@@ -111,11 +111,11 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "dc412b41-e1e4-4ffc-96c2-2f56fdcb5415"
+    "id": "bac62fc5-19a8-46d9-b924-53bbf3d5de67"
   },
   {
     "name": "Fighter",
-    "description": "You've picked up some self-defense and offensive capabilities along the way.",
+    "description": "You’ve picked up some self-defense and offensive capabilities along the way.",
     "skills": {
       "Fray": {
         "rating": 20,
@@ -138,11 +138,11 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "90b107c5-dee8-44b5-a815-07b09953513e"
+    "id": "0e6a4946-79d3-4cab-b911-e5eb6a1d78b2"
   },
   {
     "name": "Forensics Specialist",
-    "description": "You've picked up some self-defense and offensive capabilities along the way.",
+    "description": "You’ve picked up some self-defense and offensive capabilities along the way.",
     "skills": {
       "Medicine": {
         "rating": 40,
@@ -167,11 +167,11 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "defd5640-6a75-4e62-b458-081e1b93e8cb"
+    "id": "a7f0f6db-1d88-4233-8552-aefb910b73bb"
   },
   {
     "name": "Jack-of-all-Trades",
-    "description": "You've seen and done a little bit of everything.",
+    "description": "You’ve seen and done a little bit of everything.",
     "skills": {
       "Guns": {
         "rating": 25,
@@ -198,11 +198,11 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "53ddc8a2-05d3-4327-9285-585442d77298"
+    "id": "b54d5b60-89b8-41e3-8c07-9144fe6c3417"
   },
   {
     "name": "Jammer",
-    "description": "You're a drone operator, with a talent for manipulating machines.",
+    "description": "You’re a drone operator, with a talent for manipulating machines.",
     "skills": {
       "Hardware": {
         "rating": 40,
@@ -229,7 +229,7 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "efc4e030-cc89-46fe-90f8-a1f8e00d27f0"
+    "id": "4fde697e-a27f-4456-a3ca-c12431ddd8c2"
   },
   {
     "name": "Networker",
@@ -256,7 +256,7 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "5f1860b3-513b-476d-b660-ea9a515483eb"
+    "id": "1d4585f2-70d2-4a38-b225-9d8452990a8a"
   },
   {
     "name": "Paramedic",
@@ -285,7 +285,7 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "8a2fdec6-1793-4e06-845f-cfec10fef563"
+    "id": "8cc96755-0a0e-4f61-906e-63846dd9cf56"
   },
   {
     "name": "Pilot",
@@ -318,7 +318,7 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "b4121d4a-0658-4689-abed-ed0e89249c62"
+    "id": "163655b3-eef6-481b-aae0-c0feb07352e4"
   },
   {
     "name": "Rogue",
@@ -345,7 +345,7 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "e0e34e5e-dcf9-47d7-b554-4b5b6e0e4baa"
+    "id": "f21d05bd-a9e8-45b2-a773-35e840f90a0f"
   },
   {
     "name": "Slacker",
@@ -372,11 +372,11 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "7a73295f-8cfe-49df-bf08-0d43368a3f27"
+    "id": "f90b0475-0d8c-402f-ba4a-69211df9e884"
   },
   {
     "name": "Spacer",
-    "description": "You've spent your fair share of time in ships and smaller habitats.",
+    "description": "You’ve spent your fair share of time in ships and smaller habitats.",
     "skills": {
       "Free Fall": {
         "rating": 40,
@@ -405,11 +405,11 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "7df8ea17-fa29-4811-b0ea-61dcb795bfea"
+    "id": "fab26b2a-0da7-4e6b-8413-85ee254054bb"
   },
   {
     "name": "Student",
-    "description": "You've spent your fair share of time in ships and smaller habitats.",
+    "description": "You’ve spent your fair share of time in ships and smaller habitats.",
     "skills": {
       "Interface": {
         "rating": 40,
@@ -432,7 +432,7 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "211887ee-bab1-4e8d-a93f-84ea568f121a"
+    "id": "0891df3a-fdeb-4930-9fdb-d9ebad53ca7a"
   },
   {
     "name": "Survivalist",
@@ -461,6 +461,6 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "8b6e2d07-2230-4a74-8506-323ff2d0ce4d"
+    "id": "dbd3115a-751d-44c7-9be2-811372ade810"
   }
 ]

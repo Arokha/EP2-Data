@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "sleight": "Charisma",
     "level": "Chi",
@@ -7,7 +7,7 @@
     "description": "Lowers inhibitions, boosts charm. +1 Moxie Pool.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "89f8802e-7f7a-482c-8f41-4445f510257f"
+    "id": "df1f6a37-45d4-4589-a1e7-d185f0021556"
   },
   {
     "sleight": "Control Behavior",
@@ -17,7 +17,7 @@
     "description": "Apply/reduce an Enhanced Behavior or Restricted Behavior (Level 2) trait.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "b6160338-6064-418b-b357-14eb3106ffef"
+    "id": "732f56b5-c7b0-4fd7-9878-2f18b9b24f13"
   },
   {
     "sleight": "Eco-Empathy",
@@ -27,7 +27,7 @@
     "description": "May use COG Check to understand alien plant and fungus analogues.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "02d4d0ea-b9fe-4e25-842f-ecd49425d61a"
+    "id": "586b6db9-7173-494d-8b44-5a886f24d761"
   },
   {
     "sleight": "Enhanced Creativity",
@@ -37,7 +37,7 @@
     "description": "+10 to Know or Technical Tests involving creativity or thinking outside the box. Perfect memory recall.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "c1010a07-fee3-46a1-a2f0-7a1567480430"
+    "id": "371db343-e290-4956-a82a-e270a1b962a7"
   },
   {
     "sleight": "Grok",
@@ -47,7 +47,7 @@
     "description": "May use COG Check",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "36aa9202-60bf-44f2-a5d6-5235b767e98d"
+    "id": "0d46e865-37e3-4ec0-b0be-d2f8d8a0b514"
   },
   {
     "sleight": "Heightened Awareness",
@@ -57,7 +57,7 @@
     "description": "to understand how to use unfamiliar object/device. Sense area/threats. +10 Perceive Tests.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "10fad20d-c257-4e82-bfd2-33149b2b7626"
+    "id": "6f6d9941-340a-4340-9957-c9f354e8ed54"
   },
   {
     "sleight": "High Pain Threshold",
@@ -67,7 +67,7 @@
     "description": "Ignore modifiers from 1 wound.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "cd74d0ec-1f8f-430e-b16f-a41d43d2848f"
+    "id": "17f084ab-b2f4-407a-a0e3-d234a0df4995"
   },
   {
     "sleight": "Inner Spark",
@@ -77,7 +77,7 @@
     "description": "Recover +1 pool points during short recharges.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "cff4347a-1ef8-4422-adcc-98e963772c45"
+    "id": "2102c7c9-0211-46a4-b8e3-776d1156b471"
   },
   {
     "sleight": "Pattern Recognition",
@@ -87,7 +87,7 @@
     "description": "Detect patterns.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "be4a1a72-02b8-48f8-90e0-74dca0916633"
+    "id": "4162f747-8935-490e-9710-990e4abdf8b9"
   },
   {
     "sleight": "Predictive Boost",
@@ -97,7 +97,7 @@
     "description": "+10 to appropriate Infosec, Perceive, or Research Tests.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "29557c5c-9c2a-4cfc-8928-b50e6031dc78"
+    "id": "e8e1532d-d4e1-4582-86eb-057064c93f13"
   },
   {
     "sleight": "Psi Armor",
@@ -107,7 +107,7 @@
     "description": "+2 Initiative.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "6d4f6f57-869c-40ef-9742-7aadc8783f18"
+    "id": "3bd0a30b-9e3a-4e02-ad64-cb2a7b453d59"
   },
   {
     "sleight": "Qualia",
@@ -117,7 +117,7 @@
     "description": "Mental armor equal to WIL ÷ 3. Increased understanding. +1 Insight Pool.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "f272e588-2e42-4a4a-b023-8c21ee95cdc9"
+    "id": "f81a89f5-2558-4ec6-974b-740f4f376d2d"
   },
   {
     "sleight": "Savant Calculation",
@@ -127,17 +127,17 @@
     "description": "May use COG Check to answer complex mathematical questions.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "f02f8bd9-54a8-41d5-8708-b4056d33a7b3"
+    "id": "bd11a0e2-8af3-4e79-96bd-fff0f52b7ec1"
   },
   {
     "sleight": "Scramble",
     "level": "Chi",
     "duration": "Constant",
     "action": "Automatic",
-    "description": "Hide from ego sense sleight; -30 modifier.",
+    "description": "Hide from ego sense sleight; –30 modifier.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "76d25ad2-97c3-4ab6-93fe-0201683be1ef"
+    "id": "b99e7fdc-cff9-4098-9b05-f932fa5c6191"
   },
   {
     "sleight": "Self Control",
@@ -147,7 +147,7 @@
     "description": "+10 WIL Check.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "e4160dc9-1350-461a-bb27-fb92eb0488e6"
+    "id": "ee12f865-7026-471e-b76f-84d22a6a1d2d"
   },
   {
     "sleight": "Social Cunning",
@@ -157,7 +157,7 @@
     "description": "More manipulative. +10 to Persuade and Provoke Tests. Better physiological control.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "c002bd54-ea89-49b3-a57c-f6f6159362ab"
+    "id": "eac1eda1-ab04-4fbb-96bb-7b4eddd8073e"
   },
   {
     "sleight": "Somatic Control",
@@ -167,7 +167,7 @@
     "description": "+1 Vigor Pool.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "11a76afa-9560-4f31-a0e0-1fcf71cdcd62"
+    "id": "7d00d94c-fd44-4a4a-8484-e8a8e4b92162"
   },
   {
     "sleight": "Superior Kinesics",
@@ -177,7 +177,7 @@
     "description": "+10 Deceive and Kinesics Tests.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "bd797e6e-5ff9-4380-810c-bc302b912653"
+    "id": "642b3944-8c4d-4909-a414-6bbb94cf5c82"
   },
   {
     "sleight": "Xeno-Empathy",
@@ -187,7 +187,7 @@
     "description": "May use SAV Check to gain understanding of non-terrestrial life.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "07f47cb6-8562-4825-bab0-25c249954860"
+    "id": "a081157c-9a08-458a-a76b-e1d2bd6a5b07"
   },
   {
     "sleight": "Alter Effect",
@@ -198,7 +198,7 @@
     "description": "Increase or reduce the duration of a drug or toxin affecting the target by half.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "06906644-1c6e-4160-bf1d-0474f64a5ab4"
+    "id": "1c5e7b38-0282-420b-bfde-1b5885b55f45"
   },
   {
     "sleight": "Animal Control",
@@ -206,10 +206,10 @@
     "duration": "Sustained",
     "action": "Complex",
     "modifier": 6,
-    "description": "Take over a non-sapient animal's mind, teleoperate it like a drone.",
+    "description": "Take over a non-sapient animal’s mind, teleoperate it like a drone.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "a9322236-6a47-4242-affc-b4e0dadf51fb"
+    "id": "4c511445-1d4d-4f7f-afa3-071c26317974"
   },
   {
     "sleight": "Aphasia",
@@ -220,7 +220,7 @@
     "description": "Target cannot speak, communicate, or read.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "119c173c-6566-4409-ab6d-554f81e46e28"
+    "id": "cdea46ec-a512-44c2-9dcb-147042f8f152"
   },
   {
     "sleight": "Basilisk Stare",
@@ -231,7 +231,7 @@
     "description": "Target cannot break eye contact with async, both are immobilized.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "34a9a78e-500f-4d3d-9731-d84abd2ede0b"
+    "id": "baa915b4-e962-426c-ad92-bb591335614b"
   },
   {
     "sleight": "Block Pain",
@@ -242,7 +242,7 @@
     "description": "Target can ignore wound modifiers.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "d7527842-2f7a-4076-8734-d6f7a39790a8"
+    "id": "357ba397-ab4b-4417-8eb4-2f3a24f7e5c7"
   },
   {
     "sleight": "Block Sense",
@@ -250,10 +250,10 @@
     "duration": "Action Turns",
     "action": "Complex",
     "modifier": 4,
-    "description": "Negates one of the target's senses (hearing, sight, smell, taste, touch).",
+    "description": "Negates one of the target’s senses (hearing, sight, smell, taste, touch).",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "f644bd07-9e3f-4c77-a61e-2c3cfd3f1cd2"
+    "id": "97dcd062-f13c-4839-b916-977ce0d28432"
   },
   {
     "sleight": "Block Skill",
@@ -264,7 +264,7 @@
     "description": "The target may not use a specified skill.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "bdf5326d-075e-48ea-aac5-588b913bb9f8"
+    "id": "8ca1eb1d-e08b-42ab-af08-18ffbe3ed04f"
   },
   {
     "sleight": "Browse Thoughts",
@@ -272,10 +272,10 @@
     "duration": "Sustained",
     "action": "Complex",
     "modifier": 4,
-    "description": "Scan target's surface thoughts.",
+    "description": "Scan target’s surface thoughts.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "ee9e2ba0-7ab3-4b29-aaae-593deb7745ae"
+    "id": "a56bb377-8a1f-4d23-8abb-c94e6bc3c823"
   },
   {
     "sleight": "Burst of Adrenalin",
@@ -286,7 +286,7 @@
     "description": "Target receives +1 Vigor pool.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "f9bba519-1b42-4186-9262-867e3fe592ce"
+    "id": "07292e0c-cfe2-4cee-8578-7a493270f98c"
   },
   {
     "sleight": "Burst of Clarity",
@@ -297,7 +297,7 @@
     "description": "Target receives +1 Insight pool.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "287c661c-9c66-4214-8c41-fbcda75e73af"
+    "id": "dc3c9b7e-4c6c-4e7b-a80b-de985596778a"
   },
   {
     "sleight": "Burst of Confidence",
@@ -308,7 +308,7 @@
     "description": "Target receives +1 Moxie pool.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "8446bcea-76f1-457b-b3ee-0edc2d54557a"
+    "id": "5bdc65da-495f-4989-85db-5c5e59a06201"
   },
   {
     "sleight": "Cloud Memory",
@@ -319,7 +319,7 @@
     "description": "Target retains no long-term memories.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "d7969f05-5c77-4cc2-be99-65e3125ae2b7"
+    "id": "7f6f6bc6-8907-4586-ba3a-8143bec00615"
   },
   {
     "sleight": "Deep Scan",
@@ -327,10 +327,10 @@
     "duration": "Sustaine",
     "action": "Complex",
     "modifier": 6,
-    "description": "Retrieve 2 items from target's mind, +2 per superior success.",
+    "description": "Retrieve 2 items from target’s mind, +2 per superior success.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "42a25e26-94d8-4c95-b9ec-f9a7b81455ae"
+    "id": "7d00e7b0-b850-4207-999b-ea63f014f5fd"
   },
   {
     "sleight": "Deja Vu",
@@ -338,10 +338,10 @@
     "duration": "Minutes",
     "action": "Complex",
     "modifier": 8,
-    "description": "The target is forced to repeat their actions of the past 15-30 seconds.",
+    "description": "The target is forced to repeat their actions of the past 15–30 seconds.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "db4165b1-3e30-42e1-b351-120919dff497"
+    "id": "3b373b91-c0f0-40c1-ba05-39227d884f1f"
   },
   {
     "sleight": "Downtime",
@@ -352,7 +352,7 @@
     "description": "4-hour fugue state heals 1d6 stress, +1d6 per superior success, gains influence effect.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "fae0c008-4713-428e-ae3e-5b50c2fe3dce"
+    "id": "46c96bbc-8eb0-46db-9cb1-16e5eea42463"
   },
   {
     "sleight": "Ego Sense",
@@ -363,7 +363,7 @@
     "description": "Detect biological life; extra info on range, size, type, etc with superior successes.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "56379419-7246-49a4-9aca-562d88752b7c"
+    "id": "88f008e8-4285-43d3-9831-e972e34c0105"
   },
   {
     "sleight": "Empathic Scan",
@@ -371,10 +371,10 @@
     "duration": "Action Turns",
     "action": "Complex",
     "modifier": 4,
-    "description": "Know target's emotions. +10 to social skill tests against them, +10 per superior success.",
+    "description": "Know target’s emotions. +10 to social skill tests against them, +10 per superior success.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "c722b767-e747-4595-8ae5-feabb29fbb92"
+    "id": "0ed82f55-3987-4fcb-b2ea-89575a6b6d7b"
   },
   {
     "sleight": "Illusion",
@@ -385,7 +385,7 @@
     "description": "Target experiences full-sensory illusion crafted by async.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "58e192a8-d133-4096-8ce2-6f8024af751b"
+    "id": "ef053517-fcb1-47ca-b155-02629661cbbd"
   },
   {
     "sleight": "Implant Memory",
@@ -396,7 +396,7 @@
     "description": "Implant fake memory permanently in target.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "3896f7d1-e937-4f2e-bab4-81a477e99031"
+    "id": "a50d3d98-5bf4-4f13-9b86-dc28e3f9337b"
   },
   {
     "sleight": "Implant Skill",
@@ -404,10 +404,10 @@
     "duration": "Hours",
     "action": "Complex",
     "modifier": 6,
-    "description": "Implant skill possessed by async in target's mind at half value.",
+    "description": "Implant skill possessed by async in target’s mind at half value.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "2f26240b-d75f-407f-844a-2de74e5da178"
+    "id": "102fb73f-13e5-4fdc-a7e5-92d23cd325a8"
   },
   {
     "sleight": "Induce Error",
@@ -418,7 +418,7 @@
     "description": "The target automatically fails the next test they make using skill chosen by async.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "1f1d512e-bf7d-4e13-9e42-5938f827b73e"
+    "id": "8004d59e-c5ce-4ccf-9682-8e8f654becb0"
   },
   {
     "sleight": "Infectious Mind",
@@ -429,7 +429,7 @@
     "description": "Share a triggered disorder or influence effect with the target.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "59badca0-4019-49f4-b284-49bc6a80f620"
+    "id": "2f753b67-dd23-4985-be96-85b0d4bda5d4"
   },
   {
     "sleight": "Influence",
@@ -440,7 +440,7 @@
     "description": "Apply an Enhanced Behavior or Restricted Behavior (Level 2) trait.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "17126bf6-9a67-4279-9ed7-40a1cf3c6db0"
+    "id": "2df766f7-9fa8-4168-8011-3672d91b78ea"
   },
   {
     "sleight": "Invigorate",
@@ -451,7 +451,7 @@
     "description": "The target can expend their next complex action as a short recharge.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "8adb91ea-68b9-449e-b498-9497fcded071"
+    "id": "a3460bd6-f739-4e1f-98c4-0cdbe62dc845"
   },
   {
     "sleight": "Mimic",
@@ -459,10 +459,10 @@
     "duration": "Instant",
     "action": "Quick",
     "modifier": 4,
-    "description": "Snapshot of target's mannerisms; +10 Deceive skills to impersonate target, +10 per superior success.",
+    "description": "Snapshot of target’s mannerisms; +10 Deceive skills to impersonate target, +10 per superior success.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "ddec2aab-fe10-4ada-bfdd-ce7b7bd97fe0"
+    "id": "ce606eb4-8316-4f6d-8b03-8e2139b60b57"
   },
   {
     "sleight": "Mindlink",
@@ -473,7 +473,7 @@
     "description": "Telepathy.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "ecab2deb-4d77-448f-86a2-8315b789b526"
+    "id": "54671885-ecbf-4faf-90de-453d064735e1"
   },
   {
     "sleight": "Neural Hardening",
@@ -484,7 +484,7 @@
     "description": "The target receives a +10 modifier to resist basilisk hacks.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "14ecb6ce-edaf-4776-a7c6-980046fa9145"
+    "id": "cbb0f393-abbc-42b1-b83b-dd62f6ebe93a"
   },
   {
     "sleight": "Nightmare",
@@ -495,7 +495,7 @@
     "description": "Target takes SV 2d10, +1d6 per superior success, reduced by psi armor.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "ca7a9480-a2bd-4518-a9bc-869c721fe980"
+    "id": "65d63a0c-c39e-4c7c-bf49-7f6e799d58eb"
   },
   {
     "sleight": "Pain",
@@ -506,7 +506,7 @@
     "description": "Target inflicted with pain (like an agonizer), must flee at full movement on their next action.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "0a46ff7d-25fd-4620-9777-3cffd5c195ad"
+    "id": "d083900d-3208-4dac-bcb9-ae89a6794ef7"
   },
   {
     "sleight": "Psi Shield",
@@ -517,7 +517,7 @@
     "description": "Mental armor increased by +1d6 (cumulative with Psi Armor sleight).",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "51a9286e-eb7a-4434-8ea0-aaf8b7701051"
+    "id": "dcc6dc31-7670-4417-9008-475b3c51a367"
   },
   {
     "sleight": "Psychic Stab",
@@ -528,7 +528,7 @@
     "description": "Target takes DV 2d10, +1d6 per superior success, reduced by mental armor.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "d69c9218-d68a-4f4a-80ab-aee227c5a99b"
+    "id": "5e009fa5-65d6-4f66-805a-77564e1386c9"
   },
   {
     "sleight": "Sense Infection",
@@ -539,7 +539,7 @@
     "description": "Detect exsurgent infection in biological life.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "56c0bcbf-271c-4237-841b-957bee2c2b18"
+    "id": "14279301-b959-48e3-9c8a-6ff69aa43e55"
   },
   {
     "sleight": "Short Circuit",
@@ -547,10 +547,10 @@
     "duration": "Instant",
     "action": "Complex",
     "modifier": 6,
-    "description": "Target's synapses misfire, they are incapacitated for 1 turn and stunned for 3 minutes.",
+    "description": "Target’s synapses misfire, they are incapacitated for 1 turn and stunned for 3 minutes.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "bae88199-c254-46c7-8899-72daeaa85da9"
+    "id": "5126e823-fc1f-48cb-bd05-0422adad2211"
   },
   {
     "sleight": "Spam",
@@ -558,10 +558,10 @@
     "duration": "Action Turns",
     "action": "Complex",
     "modifier": 6,
-    "description": "Target overwhelmed by sensory input, -10 to all actions, with additional -10 per superior success.",
+    "description": "Target overwhelmed by sensory input, –10 to all actions, with additional –10 per superior success.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "50fe37a8-6b7a-400c-8e6f-555b1db2e83e"
+    "id": "f76c0e83-316b-47b5-9120-ff49fcbd1b50"
   },
   {
     "sleight": "Static",
@@ -569,10 +569,10 @@
     "duration": "Sustained",
     "action": "Complex",
     "modifier": 4,
-    "description": "-30 to all sleights within close range.",
+    "description": "–30 to all sleights within close range.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "76cdfdbe-c810-49e1-80d2-194733c53557"
+    "id": "88117208-95c1-48fb-a643-d8b2c6079d88"
   },
   {
     "sleight": "Subliminal",
@@ -580,10 +580,10 @@
     "duration": "Hours",
     "action": "Complex",
     "modifier": 10,
-    "description": "Implant suggested action in target's mind that they must carry through.",
+    "description": "Implant suggested action in target’s mind that they must carry through.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "3e2738ee-7c59-4ad3-b179-d82f7d71d767"
+    "id": "38bdbcaa-e616-4d6d-82ce-50852c2bb331"
   },
   {
     "sleight": "Tranqulity",
@@ -594,127 +594,127 @@
     "description": "Target relieved from an acute stress response or triggered disorder. May not be used on self.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "56597013-c44e-4910-aecd-494d6e631e48"
+    "id": "d19fccb2-d27a-49c3-8511-95085c0a949f"
   },
   {
     "sleight": "Anti-Electronics Field",
     "level": "Epsilon",
     "duration": "Sustained",
     "action": "Complex",
-    "modifier": "-",
+    "modifier": "–",
     "description": "All electronics within Close range lose power.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "41836480-e307-43c4-ad72-9db3ddc1be9b"
+    "id": "a0a0cd6e-4f23-4490-b14b-05ae270abf63"
   },
   {
     "sleight": "Basilisk Aura",
     "level": "Epsilon",
     "duration": "Sustained",
     "action": "Complex",
-    "modifier": "-",
+    "modifier": "–",
     "description": "Incapacitator basilisk hack.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "fa4bf75f-42b4-496a-9cd3-1a5339b72610"
+    "id": "75ecd95b-165b-458c-b223-c77ff10b0faa"
   },
   {
     "sleight": "Casimir Force Repulsion",
     "level": "Epsilon",
     "duration": "Sustained",
     "action": "Complex",
-    "modifier": "-",
+    "modifier": "–",
     "description": "Levitate self or objects.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "1bb55560-1b61-4c7a-92ca-e9b0fca9b16d"
+    "id": "eb57b94b-9155-4eb3-a197-5ab728204771"
   },
   {
     "sleight": "Cryokinesis",
     "level": "Epsilon",
     "duration": "Sustained",
     "action": "Complex",
-    "modifier": "-",
+    "modifier": "–",
     "description": "Drains heat around target; DV 4d10 per minute.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "7e8535a6-e346-40e0-96e6-6403dae5772e"
+    "id": "ee5a0176-ba0d-4ec6-8371-e412909ab1b8"
   },
   {
     "sleight": "Decerebration",
     "level": "Epsilon",
     "duration": "Sustained",
     "action": "Complex",
-    "modifier": "-",
+    "modifier": "–",
     "description": "Target immobilized, unable to act.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "3d225b5c-5c9b-42ee-8296-b8740c88bf3f"
+    "id": "3eeab9c8-914d-4c2f-9e45-3cd305decc13"
   },
   {
     "sleight": "Diffusion",
     "level": "Epsilon",
     "duration": "Sustained",
     "action": "Complex",
-    "modifier": "-",
+    "modifier": "–",
     "description": "Diffuse light/radio within Close range, reduce range/DV by half.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "01e223ff-4865-4e8e-ac44-a78fdadbf95c"
+    "id": "d4725d2a-41c0-4de6-bf9c-c26b92a2833a"
   },
   {
     "sleight": "Kenetic Friction",
     "level": "Epsilon",
     "duration": "Sustained",
     "action": "Complex",
-    "modifier": "-",
+    "modifier": "–",
     "description": "Increases friction within Close range, halve kinetic DV.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "ee22572c-aee4-4c2f-a56c-5a9ec9cdfb28"
+    "id": "02b8c5c6-e88b-4034-bab2-ac78c8e176db"
   },
   {
     "sleight": "Negative Refraction",
     "level": "Epsilon",
     "duration": "Sustained",
     "action": "Complex",
-    "modifier": "-",
+    "modifier": "–",
     "description": "Invisibility.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "1046eb80-6f52-45df-912a-20eb9a782bc8"
+    "id": "435dd4cb-e4fc-4c6f-b8a7-888091f6e78c"
   },
   {
     "sleight": "Puppeteer",
     "level": "Epsilon",
     "duration": "Sustained",
     "action": "Complex",
-    "modifier": "-",
+    "modifier": "–",
     "description": "Control target like jammed drone.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "d767252c-7449-45d6-a326-29cda571dc49"
+    "id": "3292f5fd-20b9-4c53-9e3c-ed0d3f8690e9"
   },
   {
     "sleight": "Pryokinesis",
     "level": "Epsilon",
     "duration": "Sustained",
     "action": "Complex",
-    "modifier": "-",
+    "modifier": "–",
     "description": "Raises heat around target; DV 1d10 per action turn, pain.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "73d93a15-0f41-452a-8039-9ba74bd1cb8a"
+    "id": "9f4d4196-fdf7-4cf0-b4d5-0ca9926d9ea3"
   },
   {
     "sleight": "Strip Memory",
     "level": "Epsilon",
     "duration": "Days",
     "action": "Complex",
-    "modifier": "-",
+    "modifier": "–",
     "description": "Removes target memories.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "da9f6c8e-7f94-4032-8fb4-ba92a42655eb"
+    "id": "f0f96e01-79a8-406f-885d-b8d1bc4adaf7"
   }
 ]

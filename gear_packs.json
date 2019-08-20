@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "name": "Firewall Agent/Criminal",
     "type": "Campaign",
@@ -11,15 +11,15 @@
     ],
     "options": [
       {
-        "Name": "Default",
-        "Gear": [
+        "name": "Default",
+        "gear": [
           "Armor Vest (Light)",
           "Smart Clothing"
         ]
       },
       {
-        "Name": "Synthmorph",
-        "Gear": [
+        "name": "Synthmorph",
+        "gear": [
           "Anti-Glare",
           "Industrial Armor"
         ]
@@ -27,7 +27,7 @@
     ],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "e3ed126e-4cd9-4931-884f-e236c25996d6"
+    "id": "feec372e-e38c-4e20-ad97-f7f7cd562d63"
   },
   {
     "name": "Gatecrashing",
@@ -40,16 +40,16 @@
     ],
     "options": [
       {
-        "Name": "Default",
-        "Gear": [
+        "name": "Default",
+        "gear": [
           "Autocook",
           "Healing Spray",
           "Standard Vacsuit"
         ]
       },
       {
-        "Name": "Synthmorph",
-        "Gear": [
+        "name": "Synthmorph",
+        "gear": [
           "Anti-Glare",
           "Industrial Armor",
           "Medichines"
@@ -58,7 +58,7 @@
     ],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "411367f0-640c-4827-861f-f1a296691833"
+    "id": "0667433f-7930-4f27-aed4-b5a7f9c78677"
   },
   {
     "name": "Infomorph",
@@ -75,7 +75,7 @@
     "options": [],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "814a875c-7689-4a68-bbfb-64f6a1f8d860"
+    "id": "fa268cea-6901-438e-b6ac-cff7c555308d"
   },
   {
     "name": "Academic",
@@ -93,7 +93,7 @@
     "options": [],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "a50e7aca-6fd3-4dcf-a6fa-e61baac1ee0e"
+    "id": "1bb5cd73-d7bc-4d19-89f1-58cff2898067"
   },
   {
     "name": "Covert Operative",
@@ -107,21 +107,21 @@
     ],
     "options": [
       {
-        "Name": "Default",
-        "Gear": [
+        "name": "Default",
+        "gear": [
           "Skinflex"
         ]
       },
       {
-        "Name": "Synthmorph",
-        "Gear": [
+        "name": "Synthmorph",
+        "gear": [
           "Synthetic Mask"
         ]
       }
     ],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "46df11e8-6656-4584-b758-af9e7a0ad141"
+    "id": "e0fcc3a4-9e75-4255-b8b5-772d6a31ebe2"
   },
   {
     "name": "Enforcer",
@@ -138,7 +138,7 @@
     "options": [],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "ff7afab4-d3f6-4311-81d9-fde9da2f439e"
+    "id": "8f7968d1-30e5-4982-a3ea-385fca81c8df"
   },
   {
     "name": "Explorer",
@@ -155,7 +155,7 @@
     "options": [],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "e65b7f3e-61fa-49ef-8919-646af20ef5f7"
+    "id": "fbae3b8a-567f-4202-aa23-eba4522762fd"
   },
   {
     "name": "Face/Dealer",
@@ -172,7 +172,7 @@
     "options": [],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "04681afc-ed69-4b4d-b69c-a3cfff6e56e0"
+    "id": "18c9076c-a40d-45b7-a478-bd17dc2e1c83"
   },
   {
     "name": "Genehacker",
@@ -190,7 +190,7 @@
     "options": [],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "248b6b15-5526-47e4-86f8-93b693abce87"
+    "id": "69903084-295d-406f-857a-7b150f47129b"
   },
   {
     "name": "Hacker",
@@ -206,7 +206,7 @@
     "options": [],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "88649c6b-453a-40e7-9c8c-ab45b4b27332"
+    "id": "6c4ce753-a67c-4b10-87fa-b3ef19df9179"
   },
   {
     "name": "Investigator",
@@ -225,7 +225,7 @@
     "options": [],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "c09ca491-e7e1-4bdd-8cad-460c96c5cc25"
+    "id": "e3c4f591-616f-42da-a2ac-66f932f5f3f9"
   },
   {
     "name": "Medic",
@@ -240,7 +240,7 @@
     "options": [],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "1524412e-b464-4f07-8ac2-81d7874b9bff"
+    "id": "ae588a56-f19d-4547-8d2a-bcb744c0ad6a"
   },
   {
     "name": "Mindhacker",
@@ -257,7 +257,7 @@
     "options": [],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "710ef651-f1d6-41a3-85d7-0504a47625b2"
+    "id": "1008c808-dda0-4522-b914-11932d475c03"
   },
   {
     "name": "Scavenger",
@@ -274,7 +274,7 @@
     "options": [],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "b2bbc1b4-3fc2-42b1-88c6-387d547bc24e"
+    "id": "8c705883-f949-4344-b13d-8b8473ce01aa"
   },
   {
     "name": "Scientist",
@@ -290,7 +290,7 @@
     "options": [],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "97985789-3620-4c87-b94e-4511b6301206"
+    "id": "f7da97a5-84c6-4db1-8549-5cbc37bd4dca"
   },
   {
     "name": "Soldier",
@@ -303,21 +303,21 @@
     ],
     "options": [
       {
-        "Name": "Default",
-        "Gear": [
+        "name": "Default",
+        "gear": [
           "Meds"
         ]
       },
       {
-        "Name": "Synthmorph",
-        "Gear": [
+        "name": "Synthmorph",
+        "gear": [
           "Fixer Swarm"
         ]
       }
     ],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "ed5661c4-f39c-40f1-ac31-8cfde1bb68ef"
+    "id": "143de36e-5641-4428-bf39-6e256a3d038c"
   },
   {
     "name": "Techie",
@@ -334,6 +334,6 @@
     "options": [],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "3c6bad8f-5159-4397-aac2-51613c529a0e"
+    "id": "ea81a2f7-b2ce-4a2f-a79b-d5c51309cb98"
   }
 ]

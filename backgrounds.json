@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "name": "Colonist",
     "description": "You were an original settler of Earth orbit, Luna, Mars, or a smaller outpost elsewhere, before the Fall.",
@@ -52,7 +52,7 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "0f26f0ba-9041-4ffb-83a2-ad821f4328ab"
+    "id": "d6cae208-390c-4a8a-8558-78f402083d58"
   },
   {
     "name": "Enclaver",
@@ -103,7 +103,7 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "61817bd0-bcff-4161-9d99-3b9a6b06a7a4"
+    "id": "b556b246-be0e-4e7d-9a42-81d2256441a1"
   },
   {
     "name": "Freelancer",
@@ -148,7 +148,7 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "471208f7-811b-467e-b5ae-8c4f3862836c"
+    "id": "dbe12c5b-0b73-4952-97cc-c7e16552c02f"
   },
   {
     "name": "Hyperelite",
@@ -193,7 +193,7 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "381f13da-e513-40e6-9144-dfe13159186f"
+    "id": "f120b2c5-e26d-44f1-80c4-4d75f8ac7669"
   },
   {
     "name": "Indenture",
@@ -242,7 +242,7 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "9d2d55ec-9ab0-4fa3-8ff2-939c9bc1fca1"
+    "id": "f742fa49-a748-467a-ba7e-c2b43488635a"
   },
   {
     "name": "Infolife",
@@ -287,7 +287,7 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "eab0004a-d22f-4a97-a8c5-052f0caf7d60"
+    "id": "36c9d6d9-26ff-47df-a23f-8a608c0caf7a"
   },
   {
     "name": "Isolate",
@@ -347,7 +347,7 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "d2bd05aa-75de-4b6b-9a32-0abf0f99805f"
+    "id": "3da139c9-2326-4074-b1cd-d592da3b6f46"
   },
   {
     "name": "Lost",
@@ -392,7 +392,7 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "a73be447-cc27-45b3-8ceb-ecfa658c4bcf"
+    "id": "cfbf1fc6-9e0d-47eb-893c-d1ef4f54dc42"
   },
   {
     "name": "Underclass",
@@ -441,7 +441,7 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "b26a72a8-8f6a-4088-927c-eedf94be014e"
+    "id": "eec5efa1-3e64-413d-b339-bbf2916f77a8"
   },
   {
     "name": "Uplift",
@@ -489,6 +489,6 @@
     },
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": "60a69c1d-dd83-451d-9d4e-7a38ff6a4cd7"
+    "id": "49007793-96b0-46a4-8dfd-ebd9b2389a49"
   }
 ]
