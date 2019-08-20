@@ -5,29 +5,29 @@
     "type": "Biomorph",
     "cost": 0,
     "availability": 30,
-    "wound threshold": 6,
+    "wound_threshold": 6,
     "durability": 30,
-    "death rating": 45,
+    "death_rating": 45,
     "pools": {
       "Insight": 0,
       "Moxie": 0,
       "Vigor": 0,
       "Flex": 0
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 4,
         "Full": 20
       }
     ],
     "ware": [],
-    "morph traits": [],
-    "common extras": [
+    "morph_traits": [],
+    "common_extras": [
       "Many have the Genetic Defect trait."
     ],
     "notes": [],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": "flat.png",
     "description": "Flats are baseline unmodified humans, born with all of the natural defects, hereditary diseases, and other genetic mutations that evolution so lovingly applies. Flats are increasingly rare outside bioconservative enclaves — most died off with the rest of humanity during the Fall.",
     "resource": "Eclipse Phase Second Edition",
@@ -40,18 +40,18 @@
     "type": "Biomorph",
     "cost": 1,
     "availability": 90,
-    "wound threshold": 6,
+    "wound_threshold": 6,
     "durability": 30,
-    "death rating": 45,
+    "death_rating": 45,
     "pools": {
       "Insight": 0,
       "Moxie": 0,
       "Vigor": 0,
       "Flex": 1
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 4,
         "Full": 20
       }
@@ -61,10 +61,10 @@
       "Cortical Stack",
       "Mesh Inserts"
     ],
-    "morph traits": [],
-    "common extras": [],
+    "morph_traits": [],
+    "common_extras": [],
     "notes": [],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": "splicer.png",
     "description": "Splicers are genefixed humans. Their genome cleansed of hereditary diseases and optimized for looks and health, but not otherwise substantially upgraded. Splicers make up the majority of transhumanity.",
     "resource": "Eclipse Phase Second Edition",
@@ -77,18 +77,18 @@
     "type": "Biomorph",
     "cost": 2,
     "availability": 70,
-    "wound threshold": 7,
+    "wound_threshold": 7,
     "durability": 35,
-    "death rating": 53,
+    "death_rating": 53,
     "pools": {
       "Insight": 1,
       "Moxie": 1,
       "Vigor": 1,
       "Flex": 0
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 4,
         "Full": 20
       }
@@ -98,10 +98,10 @@
       "Cortical Stack",
       "Mesh Inserts"
     ],
-    "morph traits": [],
-    "common extras": [],
+    "morph_traits": [],
+    "common_extras": [],
     "notes": [],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": null,
     "description": "Exalts are the common, non-specialized “enhanced human” model. They are genetically upgraded to make them healthier, smarter, and more attractive (based on everevolving beauty standards). A modified metabolism keeps them fit and athletic for the duration of an extended lifespan.",
     "resource": "Eclipse Phase Second Edition",
@@ -114,18 +114,18 @@
     "type": "Biomorph",
     "cost": 2,
     "availability": 50,
-    "wound threshold": 6,
+    "wound_threshold": 6,
     "durability": 30,
-    "death rating": 45,
+    "death_rating": 45,
     "pools": {
       "Insight": 2,
       "Moxie": 1,
       "Vigor": 1,
       "Flex": 0
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 4,
         "Full": 12
       }
@@ -136,17 +136,17 @@
       "Cortical Stack",
       "Mesh Inserts"
     ],
-    "morph traits": [
+    "morph_traits": [
       {
         "Name": "Exotic Morphology",
         "Level": 1
       }
     ],
-    "common extras": [],
+    "common_extras": [],
     "notes": [
       "Small size"
     ],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": "neotenic.png",
     "description": "Neotenics are transhumans modified to retain a child-like form. They are smaller, more agile, inquisitive, and less resource-depleting, making them ideal for habitat living and spacecraft. Some people find neotenic sleeves distasteful, especially when employed in certain media and sex work capacities, but most are designed to be neuter-gendered.",
     "resource": "Eclipse Phase Second Edition",
@@ -159,18 +159,18 @@
     "type": "Biomorph",
     "cost": 3,
     "availability": 70,
-    "wound threshold": 7,
+    "wound_threshold": 7,
     "durability": 35,
-    "death rating": 53,
+    "death_rating": 53,
     "pools": {
       "Insight": 0,
       "Moxie": 1,
       "Vigor": 1,
       "Flex": 1
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 4,
         "Full": 20
       }
@@ -183,12 +183,12 @@
       "Mesh Inserts",
       "Radiation Sense"
     ],
-    "morph traits": [],
-    "common extras": [
+    "morph_traits": [],
+    "common_extras": [
       "Many have the Planned Obsolescence trait."
     ],
     "notes": [],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": "ruster.png",
     "description": "Adapted for survival with minimum gear in the not-fully-terraformed Martian environment, these transgenic morphs feature insulated skin for more effective thermoregulation and respiratory system improvements to require less oxygen and filter carbon dioxide, among other mods.",
     "resource": "Eclipse Phase Second Edition",
@@ -201,18 +201,18 @@
     "type": "Biomorph",
     "cost": 4,
     "availability": 60,
-    "wound threshold": 7,
+    "wound_threshold": 7,
     "durability": 35,
-    "death rating": 53,
+    "death_rating": 53,
     "pools": {
       "Insight": 1,
       "Moxie": 0,
       "Vigor": 1,
       "Flex": 2
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 4,
         "Full": 12
       }
@@ -226,15 +226,15 @@
       "Oxygen Reserve",
       "Prehensile Feet"
     ],
-    "morph traits": [
+    "morph_traits": [
       {
         "Name": "Limberness",
         "Level": 1
       }
     ],
-    "common extras": [],
+    "common_extras": [],
     "notes": [],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": "bouncer.png",
     "description": "Bouncers are genetically adapted for microgravity. Their legs are more limber and their feet can grasp as well as their hands. They can tolerate the cold temperatures of beehive tunnels and have an oxygen reserve in case they are exposed to vacuum. Bouncers are very common in the outer system and zero-g habitats.",
     "resource": "Eclipse Phase Second Edition",
@@ -247,18 +247,18 @@
     "type": "Biomorph",
     "cost": 4,
     "availability": 25,
-    "wound threshold": 7,
+    "wound_threshold": 7,
     "durability": 35,
-    "death rating": 53,
+    "death_rating": 53,
     "pools": {
       "Insight": 2,
       "Moxie": 4,
       "Vigor": 1,
       "Flex": 0
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 4,
         "Full": 20
       }
@@ -268,10 +268,10 @@
       "Cortical Stack",
       "Mesh Inserts"
     ],
-    "morph traits": [],
-    "common extras": [],
+    "morph_traits": [],
+    "common_extras": [],
     "notes": [],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": "futura.png",
     "description": "Futura morphs were specially crafted for the “Lost Generation” of accelerated-growth children. Adjusted for confidence, self-reliance, and adaptability, futuras were intended to help transhumanity regain its foothold. These programs proved disastrous and the line was discontinued, but some models and various spin-offs remain, viewed by some with distaste and others as collectibles or exotic oddities.",
     "resource": "Eclipse Phase Second Edition",
@@ -284,18 +284,18 @@
     "type": "Biomorph",
     "cost": 4,
     "availability": 70,
-    "wound threshold": 7,
+    "wound_threshold": 7,
     "durability": 35,
-    "death rating": 53,
+    "death_rating": 53,
     "pools": {
       "Insight": 1,
       "Moxie": 1,
       "Vigor": 0,
       "Flex": 2
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 4,
         "Full": 20
       }
@@ -309,10 +309,10 @@
       "Hibernation",
       "Mesh Inserts"
     ],
-    "morph traits": [],
-    "common extras": [],
+    "morph_traits": [],
+    "common_extras": [],
     "notes": [],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": "hibernoid.png",
     "description": "Hibernoids are transgenic-modified humans with heavily altered sleep patterns and metabolic processes. Hibernoids have a decreased need for sleep, requiring only 1–2 hours a day on average. They can also trigger a form of voluntary hibernation, effectively halting their metabolism and need for oxygen. Hibernoids make excellent long-duration space travelers, but these morphs are also favored by personal aides and hypercapitalists with non-stop lifestyles.",
     "resource": "Eclipse Phase Second Edition",
@@ -325,18 +325,18 @@
     "type": "Biomorph",
     "cost": 4,
     "availability": 60,
-    "wound threshold": 7,
+    "wound_threshold": 7,
     "durability": 35,
-    "death rating": 53,
+    "death_rating": 53,
     "pools": {
       "Insight": 3,
       "Moxie": 1,
       "Vigor": 1,
       "Flex": 1
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 4,
         "Full": 20
       }
@@ -347,10 +347,10 @@
       "Mesh Inserts",
       "Mnemonics"
     ],
-    "morph traits": [],
-    "common extras": [],
+    "morph_traits": [],
+    "common_extras": [],
     "notes": [],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": null,
     "description": "Mentons are genetically modified to increase cognitive abilities, particularly learning ability, creativity, attentiveness, and memory. They are favored by academics, intellectuals, scientists, and engineers.",
     "resource": "Eclipse Phase Second Edition",
@@ -363,18 +363,18 @@
     "type": "Biomorph",
     "cost": 4,
     "availability": 60,
-    "wound threshold": 8,
+    "wound_threshold": 8,
     "durability": 40,
-    "death rating": 60,
+    "death_rating": 60,
     "pools": {
       "Insight": 1,
       "Moxie": 1,
       "Vigor": 3,
       "Flex": 1
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 4,
         "Full": 20
       }
@@ -384,10 +384,10 @@
       "Cortical Stack",
       "Mesh Inserts"
     ],
-    "morph traits": [],
-    "common extras": [],
+    "morph_traits": [],
+    "common_extras": [],
     "notes": [],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": "olympian.png",
     "description": "Olympians are human upgrades with improved athletic capabilities like endurance, hand-eye coordination, and cardiovascular functions. Olympians are common among athletes, dancers, freerunners, gatecrashers, and soldiers.",
     "resource": "Eclipse Phase Second Edition",
@@ -400,18 +400,18 @@
     "type": "Biomorph",
     "cost": 4,
     "availability": 60,
-    "wound threshold": 6,
+    "wound_threshold": 6,
     "durability": 30,
-    "death rating": 45,
+    "death_rating": 45,
     "pools": {
       "Insight": 1,
       "Moxie": 3,
       "Vigor": 1,
       "Flex": 1
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 4,
         "Full": 20
       }
@@ -423,12 +423,12 @@
       "Enhanced Pheromones",
       "Mesh Inserts"
     ],
-    "morph traits": [],
-    "common extras": [
+    "morph_traits": [],
+    "common_extras": [
       "Many have the Striking Looks trait."
     ],
     "notes": [],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": null,
     "description": "Sylph morphs are ideal for media icons, elite socialites, XP stars, models, and narcissists. Sylph gene sequences are tailored for distinctive good looks, ethereal and elfin features, and slim and lithe bodies. Their metabolism has also been sanitized to eliminate unpleasant bodily odors and their pheromones adjusted for universal appeal.",
     "resource": "Eclipse Phase Second Edition",
@@ -441,18 +441,18 @@
     "type": "Biomorph",
     "cost": 6,
     "availability": 40,
-    "wound threshold": 10,
+    "wound_threshold": 10,
     "durability": 50,
-    "death rating": 75,
+    "death_rating": 75,
     "pools": {
       "Insight": 1,
       "Moxie": 1,
       "Vigor": 4,
       "Flex": 2
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 4,
         "Full": 20
       }
@@ -465,7 +465,7 @@
       "Enhanced Vision",
       "Mesh Inserts"
     ],
-    "morph traits": [
+    "morph_traits": [
       {
         "Name": "Enhanced Behavior (Aggressiveness)",
         "Level": 2
@@ -475,11 +475,11 @@
         "Level": 2
       }
     ],
-    "common extras": [
+    "common_extras": [
       "Many are equipped with neurachem, hardened skeleton, toxin filters."
     ],
     "notes": [],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": "fury.png",
     "description": "Furies are combat morphs. These transgenic humans are upgraded for endurance, strength, reflexes, and capacity to handle physical trauma. Behavioral modifications for aggressiveness are offset by gene sequences promoting pack mentalities and cooperation, and they tend to be biologically female.",
     "resource": "Eclipse Phase Second Edition",
@@ -492,18 +492,18 @@
     "type": "Biomorph",
     "cost": 6,
     "availability": 40,
-    "wound threshold": 9,
+    "wound_threshold": 9,
     "durability": 45,
-    "death rating": 68,
+    "death_rating": 68,
     "pools": {
       "Insight": 2,
       "Moxie": 1,
       "Vigor": 3,
       "Flex": 2
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 4,
         "Full": 20
       }
@@ -515,17 +515,17 @@
       "Grip Pads",
       "Mesh Inserts"
     ],
-    "morph traits": [
+    "morph_traits": [
       {
         "Name": "Enhanced Behavior (Patience)",
         "Level": 2
       }
     ],
-    "common extras": [
+    "common_extras": [
       "Many are equipped with adrenal surge, skinflex."
     ],
     "notes": [],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": "ghost.png",
     "description": "Ghosts are partially designed for combat applications, but their primary focus is stealth and infiltration. Their genetic profile encourages speed, agility, and reflexes, and their minds are modified for patience and problem-solving.",
     "resource": "Eclipse Phase Second Edition",
@@ -538,18 +538,18 @@
     "type": "Biomorph",
     "cost": 7,
     "availability": 30,
-    "wound threshold": 9,
+    "wound_threshold": 9,
     "durability": 45,
-    "death rating": 68,
+    "death_rating": 68,
     "pools": {
       "Insight": 2,
       "Moxie": 2,
       "Vigor": 2,
       "Flex": 2
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 4,
         "Full": 20
       }
@@ -564,15 +564,15 @@
       "Enhanced Vision",
       "Mesh Inserts"
     ],
-    "morph traits": [
+    "morph_traits": [
       {
         "Name": "Exotic Morphology",
         "Level": 1
       }
     ],
-    "common extras": [],
+    "common_extras": [],
     "notes": [],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": "remade.png",
     "description": "The remade are completely redesigned: humans 2.0. Their cardiovascular system is stronger, their digestive tract sanitized and restructured, and they have been optimized for health, intelligence, and longevity with numerous transgenic mods. They look close to human, but are different in very noticeable and sometimes eerie ways: taller, lack of hair, slightly larger craniums, wider eyes, smaller noses, smaller teeth, and elongated digits. The remade are popular with the Ultimates faction.",
     "resource": "Eclipse Phase Second Edition",
@@ -585,18 +585,18 @@
     "type": "Pod",
     "cost": 1,
     "availability": 80,
-    "wound threshold": 6,
+    "wound_threshold": 6,
     "durability": 30,
-    "death rating": 45,
+    "death_rating": 45,
     "pools": {
       "Insight": 0,
       "Moxie": 0,
       "Vigor": 1,
       "Flex": 0
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 4,
         "Full": 20
       }
@@ -610,15 +610,15 @@
       "Mnemonics",
       "Puppet Sock"
     ],
-    "morph traits": [
+    "morph_traits": [
       {
         "Name": "Planned Obsolescence",
         "Level": 1
       }
     ],
-    "common extras": [],
+    "common_extras": [],
     "notes": [],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": "basicpod.png",
     "description": "These original general-purpose models are designed to keep the buyer/user dependent on the manufacturer.",
     "resource": "Eclipse Phase Second Edition",
@@ -631,18 +631,18 @@
     "type": "Pod",
     "cost": 3,
     "availability": 70,
-    "wound threshold": 7,
+    "wound_threshold": 7,
     "durability": 35,
-    "death rating": 53,
+    "death_rating": 53,
     "pools": {
       "Insight": 0,
       "Moxie": 0,
       "Vigor": 2,
       "Flex": 1
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 4,
         "Full": 20
       }
@@ -656,15 +656,15 @@
       "Mnemonics",
       "Puppet Sock"
     ],
-    "morph traits": [
+    "morph_traits": [
       {
         "Name": "Planned Obsolescence",
         "Level": 1
       }
     ],
-    "common extras": [],
+    "common_extras": [],
     "notes": [],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": "workerpod.png",
     "description": "These original general-purpose models are designed to keep the buyer/user dependent on the manufacturer.",
     "resource": "Eclipse Phase Second Edition",
@@ -677,18 +677,18 @@
     "type": "Pod",
     "cost": 4,
     "availability": 50,
-    "wound threshold": 9,
+    "wound_threshold": 9,
     "durability": 45,
-    "death rating": 68,
+    "death_rating": 68,
     "pools": {
       "Insight": 0,
       "Moxie": 0,
       "Vigor": 3,
       "Flex": 0
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 4,
         "Full": 20
       }
@@ -708,7 +708,7 @@
       "Puppet Sock",
       "Vacuum Sealing"
     ],
-    "morph traits": [
+    "morph_traits": [
       {
         "Name": "Exotic Morphology",
         "Level": 3
@@ -718,11 +718,11 @@
         "Level": 2
       }
     ],
-    "common extras": [],
+    "common_extras": [],
     "notes": [
       "Claw Attack (DV 2d10)"
     ],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": "novacrab.png",
     "description": "Bioengineered from coconut crab and spider crab stock and grown to a larger (human) size, novacrabs are ideal for hazardous work environments as well as vacworker, police, or bodyguard duties. They climb and handle microgravity well and can withstand a wide range of atmospheric pressure (and sudden pressure changes) from vacuum to deep sea. They are equipped with ten 2-meter long legs, massive claws, chitinous armor, compound eyes (with human-equivalent image resolution), gills, dexterous manipu- latory digits on their fifth set of limbs, and transgenic vocal cords.",
     "resource": "Eclipse Phase Second Edition",
@@ -735,18 +735,18 @@
     "type": "Pod",
     "cost": 4,
     "availability": 70,
-    "wound threshold": 6,
+    "wound_threshold": 6,
     "durability": 30,
-    "death rating": 45,
+    "death_rating": 45,
     "pools": {
       "Insight": 0,
       "Moxie": 3,
       "Vigor": 0,
       "Flex": 0
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 4,
         "Full": 20
       }
@@ -764,12 +764,12 @@
       "Scent Alteration",
       "Sex Switch"
     ],
-    "morph traits": [],
-    "common extras": [
+    "morph_traits": [],
+    "common_extras": [
       "Many have Striking Looks or Addiction."
     ],
     "notes": [],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": "pleasurepod.png",
     "description": "Pleasure pods are faux humans intended for intimate entertainment purposes and indulgent hedonism. Their biology includes extra nerve clusters in their eroge- nous zones, fine motor control over certain muscle groups, enhanced pheromones, sanitized metabolisms, and the capability to purr. They are capable of switching between multiple sex configurations and are often enhanced in other areas.",
     "resource": "Eclipse Phase Second Edition",
@@ -782,18 +782,18 @@
     "type": "Pod",
     "cost": 5,
     "availability": 60,
-    "wound threshold": 7,
+    "wound_threshold": 7,
     "durability": 35,
-    "death rating": 53,
+    "death_rating": 53,
     "pools": {
       "Insight": 1,
       "Moxie": 0,
       "Vigor": 2,
       "Flex": 1
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 4,
         "Full": 20
       }
@@ -812,12 +812,12 @@
       "Mnemonics",
       "Puppet Sock"
     ],
-    "morph traits": [],
-    "common extras": [
+    "morph_traits": [],
+    "common_extras": [
       "Many are equipped with adrenal surge, and t-ray emitters. Space marine variants have oxygen reserve, prehensile feet, and vacuum sealing"
     ],
     "notes": [],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": "securitypod.png",
     "description": "Security pods were originally manufactured as mass-produced AI-operated soldiers for joint peacekeeping missions and enclave border/security roles. Many were co-opted by the TITANs during the Fall, so they fell out of favor for many years, but a demand for cheap mercenary morphs has revived interest.",
     "resource": "Eclipse Phase Second Edition",
@@ -830,18 +830,18 @@
     "type": "Pod",
     "cost": 5,
     "availability": 40,
-    "wound threshold": 7,
+    "wound_threshold": 7,
     "durability": 35,
-    "death rating": 53,
+    "death_rating": 53,
     "pools": {
       "Insight": 1,
       "Moxie": 2,
       "Vigor": 0,
       "Flex": 0
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 4,
         "Full": 20
       }
@@ -859,12 +859,12 @@
       "Sex Switch",
       "Skinflex"
     ],
-    "morph traits": [],
-    "common extras": [
+    "morph_traits": [],
+    "common_extras": [
       "Many are equipped with adrenal surge, and t-ray emitters. Space marine variants have oxygen reserve, prehensile feet, and vacuum sealing"
     ],
     "notes": [],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": "shaper.png",
     "description": "Shapers are designed for infiltration and disguise. They lack the seamlines common to pods and incorporate ware that allows them to alter their appearance. Favored by spies and criminals, they are illegal in many habitats.",
     "resource": "Eclipse Phase Second Edition",
@@ -877,23 +877,23 @@
     "type": "Uplift",
     "cost": 0,
     "availability": 50,
-    "wound threshold": 5,
+    "wound_threshold": 5,
     "durability": 25,
-    "death rating": 38,
+    "death_rating": 38,
     "pools": {
       "Insight": 2,
       "Moxie": 1,
       "Vigor": 0,
       "Flex": 0
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 2,
         "Full": 8
       },
       {
-        "Movement type": "Winged",
+        "movement_type": "Winged",
         "Base": 8,
         "Full": 40
       }
@@ -908,7 +908,7 @@
       "Prehensile Feet",
       "Wings"
     ],
-    "morph traits": [
+    "morph_traits": [
       {
         "Name": "Exotic Morphology",
         "Level": 3
@@ -918,12 +918,12 @@
         "Level": 2
       }
     ],
-    "common extras": [],
+    "common_extras": [],
     "notes": [
       "Beak/Claw Attack (DV 2d6)",
       "Small size"
     ],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": "neoavian.png",
     "description": "Neo-avians include ravens, crows, and gray parrots uplifted to human-level intelligence. Their physical sizes are much larger than their non-uplifted cousins (to the size of a human child), with larger heads for their increased brain size. Numerous transgenic modifications have been made to their wings, allowing them to retain limited flight capabilities at 1 g, but giving them a more bat-like physiology so they can bend and fold better and adding primitive digits for basic tool manipulation. Their toes are also more articulated and now accompa- nied with an opposable thumb. Neo-avians have adapted well to microgravity environ- ments, and are favored for their small size and reduced resource use.",
     "resource": "Eclipse Phase Second Edition",
@@ -936,18 +936,18 @@
     "type": "Uplift",
     "cost": 1,
     "availability": 50,
-    "wound threshold": 6,
+    "wound_threshold": 6,
     "durability": 30,
-    "death rating": 45,
+    "death_rating": 45,
     "pools": {
       "Insight": 0,
       "Moxie": 2,
       "Vigor": 1,
       "Flex": 0
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 4,
         "Full": 12
       }
@@ -959,7 +959,7 @@
       "Mesh Inserts",
       "Prehensile Feet"
     ],
-    "morph traits": [
+    "morph_traits": [
       {
         "Name": "Exotic Morphology",
         "Level": 1
@@ -969,9 +969,9 @@
         "Level": 1
       }
     ],
-    "common extras": [],
+    "common_extras": [],
     "notes": [],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": null,
     "description": "Like other neo-hominids, uplifted bonobo and chimpanzee morphs feature enhanced intelligence and bipedal frames. Their long arms and prehensile feet are a boon for climbing and maneuvering in micro- gravity environments. They retain the body hair of their forebears, though it is a common cultural practice to dye, stylize, or otherwise manipulate it. Transgenic vocal systems allow them to speak as humans do.",
     "resource": "Eclipse Phase Second Edition",
@@ -984,18 +984,18 @@
     "type": "Uplift",
     "cost": 2,
     "availability": 35,
-    "wound threshold": 7,
+    "wound_threshold": 7,
     "durability": 35,
-    "death rating": 53,
+    "death_rating": 53,
     "pools": {
       "Insight": 0,
       "Moxie": 1,
       "Vigor": 2,
       "Flex": 1
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 4,
         "Full": 20
       }
@@ -1005,15 +1005,15 @@
       "Cortical Stack",
       "Mesh Inserts"
     ],
-    "morph traits": [
+    "morph_traits": [
       {
         "Name": "Non-Human Biochemistry",
         "Level": 1
       }
     ],
-    "common extras": [],
+    "common_extras": [],
     "notes": [],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": "neoneanderthal.png",
     "description": "This morph is derived from fossilized Neanderthal DNA, uplifted and enhanced to transhuman equivalence. Neanderthal morphs appear muscular with a heavy bone structure, distinctively long skulls, heavy brow ridges, and weak chins. Pale complex- ions and red hair are common features.",
     "resource": "Eclipse Phase Second Edition",
@@ -1026,18 +1026,18 @@
     "type": "Uplift",
     "cost": 3,
     "availability": 40,
-    "wound threshold": 9,
+    "wound_threshold": 9,
     "durability": 45,
-    "death rating": 68,
+    "death_rating": 68,
     "pools": {
       "Insight": 0,
       "Moxie": 0,
       "Vigor": 3,
       "Flex": 1
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 4,
         "Full": 12
       }
@@ -1049,7 +1049,7 @@
       "Mesh Inserts",
       "Prehensile Feet"
     ],
-    "morph traits": [
+    "morph_traits": [
       {
         "Name": "Exotic Morphology",
         "Level": 1
@@ -1059,9 +1059,9 @@
         "Level": 1
       }
     ],
-    "common extras": [],
+    "common_extras": [],
     "notes": [],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": "neogorilla.png",
     "description": "Neo-gorillas benefit from enhanced cognition and upright stances like other neo-hominids, though they are not as adept at climbing. They stand roughly as tall as humans and have stronger and larger frames.",
     "resource": "Eclipse Phase Second Edition",
@@ -1074,28 +1074,28 @@
     "type": "Uplift",
     "cost": 3,
     "availability": 35,
-    "wound threshold": 6,
+    "wound_threshold": 6,
     "durability": 30,
-    "death rating": 45,
+    "death_rating": 45,
     "pools": {
       "Insight": 1,
       "Moxie": 1,
       "Vigor": 1,
       "Flex": 2
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Swim",
+        "movement_type": "Swim",
         "Base": 4,
         "Full": 20
       },
       {
-        "Movement type": "Thrust Vector",
+        "movement_type": "Thrust Vector",
         "Base": 4,
         "Full": 12
       },
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 2,
         "Full": 8
       }
@@ -1109,7 +1109,7 @@
       "Mesh Inserts",
       "Polarization Vision"
     ],
-    "morph traits": [
+    "morph_traits": [
       {
         "Name": "Exotic Morphology",
         "Level": 3
@@ -1123,13 +1123,13 @@
         "Level": 2
       }
     ],
-    "common extras": [],
+    "common_extras": [],
     "notes": [
       "8 prehensile arms",
       "Beak Attack (DV 1d10)",
       "Ink Attack (use Athletics, blinding, 5-meter uniform area-effect in water and micrograv)"
     ],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": "neooctopus.png",
     "description": "Colloquially known as “octomorphs,” these uplifted octopus sleeves are quite useful in zero-gravity environments. They retain eight arms, their chameleon ability to change skin color, ink sacs, and a sharp beak. They also have increased brain mass and longevity, can breathe both air and water, and lack a skeletal structure so they can squeeze through tight spaces. Octomorphs typically crawl along in zero gravity using their arm suckers and expelling air for propulsion; in low gravity they walk on two of their arms. Their eyes have been enhanced with color vision, provide a 360-degree field of vision, and rotationally adjust to keep the slit-shaped pupil aligned with “up.” A transgenic vocal system allows them to speak.",
     "resource": "Eclipse Phase Second Edition",
@@ -1142,18 +1142,18 @@
     "type": "Uplift",
     "cost": 3,
     "availability": 35,
-    "wound threshold": 7,
+    "wound_threshold": 7,
     "durability": 35,
-    "death rating": 53,
+    "death_rating": 53,
     "pools": {
       "Insight": 1,
       "Moxie": 1,
       "Vigor": 2,
       "Flex": 0
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 4,
         "Full": 12
       }
@@ -1165,7 +1165,7 @@
       "Mesh Inserts",
       "Prehensile Feet"
     ],
-    "morph traits": [
+    "morph_traits": [
       {
         "Name": "Exotic Morphology",
         "Level": 1
@@ -1179,11 +1179,11 @@
         "Level": 1
       }
     ],
-    "common extras": [],
+    "common_extras": [],
     "notes": [
       "Reach (+10)"
     ],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": "neoorangutan.png",
     "description": "Neo-orangutans have the same uplifted features as their neo-hominid cousins. Compared to humans, their legs are shorter and arms longer. Neo-orangutans tend to be more solitary than social.",
     "resource": "Eclipse Phase Second Edition",
@@ -1196,18 +1196,18 @@
     "type": "Synthmorph",
     "cost": 0,
     "availability": 100,
-    "wound threshold": 5,
+    "wound_threshold": 5,
     "durability": 25,
-    "death rating": 50,
+    "death_rating": 50,
     "pools": {
       "Insight": 0,
       "Moxie": 0,
       "Vigor": 0,
       "Flex": 0
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 4,
         "Full": 12
       }
@@ -1221,7 +1221,7 @@
       "Mnemonics",
       "Puppet Sock"
     ],
-    "morph traits": [
+    "morph_traits": [
       {
         "Name": "Exotic Morphology",
         "Level": 1
@@ -1231,11 +1231,11 @@
         "Level": 1
       }
     ],
-    "common extras": [],
+    "common_extras": [],
     "notes": [
       "Light Frame (Armor 6/4)"
     ],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": "case.png",
     "description": "Cases are mass-produced robotic shells, an affordable resleeving option for the poor, though of notoriously poor quality. They are available in many varieties to suit a client’s taste. Most case morphs are anthropomor- phic, with a thin framework body standing just shorter than an average human.",
     "resource": "Eclipse Phase Second Edition",
@@ -1248,23 +1248,23 @@
     "type": "Synthmorph",
     "cost": 1,
     "availability": 70,
-    "wound threshold": 5,
+    "wound_threshold": 5,
     "durability": 25,
-    "death rating": 50,
+    "death_rating": 50,
     "pools": {
       "Insight": 1,
       "Moxie": 0,
       "Vigor": 1,
       "Flex": 0
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 2,
         "Full": 8
       },
       {
-        "Movement type": "Winged",
+        "movement_type": "Winged",
         "Base": 8,
         "Full": 32
       }
@@ -1280,18 +1280,18 @@
       "Radar",
       "Wings"
     ],
-    "morph traits": [
+    "morph_traits": [
       {
         "Name": "Exotic Morphology",
         "Level": 3
       }
     ],
-    "common extras": [],
+    "common_extras": [],
     "notes": [
       "Light Frame (Armor 6/4)",
       "Small size"
     ],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": "dragonfly.png",
     "description": "The dragonfly takes the shape of a meter- long flexible shell with eight wings, four manipulator limbs, and a prehensile tail. Capable of near-silent flight in Earth gravity, dragonfly bots fare even better in micro- gravity. Their wings operate independently and can rotate, allowing for graceful maneuvering, hovering, and tight turns.",
     "resource": "Eclipse Phase Second Edition",
@@ -1304,18 +1304,18 @@
     "type": "Synthmorph",
     "cost": 3,
     "availability": 80,
-    "wound threshold": 8,
+    "wound_threshold": 8,
     "durability": 40,
-    "death rating": 80,
+    "death_rating": 80,
     "pools": {
       "Insight": 0,
       "Moxie": 0,
       "Vigor": 1,
       "Flex": 1
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 4,
         "Full": 20
       }
@@ -1329,17 +1329,17 @@
       "Mnemonics",
       "Puppet Sock"
     ],
-    "morph traits": [
+    "morph_traits": [
       {
         "Name": "Exotic Morphology",
         "Level": 1
       }
     ],
-    "common extras": [],
+    "common_extras": [],
     "notes": [
       "Light Frame (Armor 6/4)"
     ],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": "synth.png",
     "description": "Synths are even more humanoid than cases and of better quality. They are commonly deployed for labor-intensive tasks in environments not suited for biomorphs or for people who need a body quickly and cheaply or simply on a transient basis. Most designs are anthropomorphic, though various alternatives exist, including some based on uplift physiology.",
     "resource": "Eclipse Phase Second Edition",
@@ -1352,18 +1352,18 @@
     "type": "Synthmorph",
     "cost": 0,
     "availability": 80,
-    "wound threshold": 3,
+    "wound_threshold": 3,
     "durability": 15,
-    "death rating": 30,
+    "death_rating": 30,
     "pools": {
       "Insight": 0,
       "Moxie": 1,
       "Vigor": 0,
       "Flex": 0
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 4,
         "Full": 12
       }
@@ -1380,18 +1380,18 @@
       "Skinlink",
       "Stress Control"
     ],
-    "morph traits": [
+    "morph_traits": [
       {
         "Name": "Exotic Morphology",
         "Level": 3
       }
     ],
-    "common extras": [],
+    "common_extras": [],
     "notes": [
       "Light Frame (Armor 6/4)",
       "Small size"
     ],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": "spare.png",
     "description": "Spares are small, portable shells designed as a temporary replacement sleeve should your primary morph be killed/destroyed. They are common gear for gatecrashing missions. Packed as a flat 15-centimeter disc, when activated they pop into a six-limbed spherical shape. Just plug your original cortical stack in and you are ready to go. Built-in stress-management systems help survivors handle the trauma of their recent death.",
     "resource": "Eclipse Phase Second Edition",
@@ -1404,28 +1404,28 @@
     "type": "Synthmorph",
     "cost": 2,
     "availability": 60,
-    "wound threshold": 0,
+    "wound_threshold": 0,
     "durability": 40,
-    "death rating": 80,
+    "death_rating": 80,
     "pools": {
       "Insight": 2,
       "Moxie": 0,
       "Vigor": 0,
       "Flex": 0
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Hopper",
+        "movement_type": "Hopper",
         "Base": 4,
         "Full": 12
       },
       {
-        "Movement type": "Rotor",
+        "movement_type": "Rotor",
         "Base": 4,
         "Full": 20
       },
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 2,
         "Full": 8
       }
@@ -1440,18 +1440,18 @@
       "Mnemonics",
       "Puppet Sock"
     ],
-    "morph traits": [
+    "morph_traits": [
       {
         "Name": "Exotic Morphology",
         "Level": 3
       }
     ],
-    "common extras": [],
+    "common_extras": [],
     "notes": [
       "Swarm Attack (DV 1d6, ignores armor, blinding)",
       "Comes with specialized swarmanoid hive"
     ],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": "swarmanoid.png",
     "description": "Swarmanoids are swarms composed of hundreds of insect-sized microbots. Each individual “bug” is capable of crawling, rolling, hopping several meters, or using nanocopter fan blades for airlift. The cyberbrain, cortical stack, and sensor systems are distributed throughout the swarm. Though the swarm can “meld” together into various loose shapes, it is incapable of physical tasks like grabbing, lifting, or holding. Individual bots are linked by radio and laser and are quite capable of interfacing with electronics. Swarmanoids follow swarm rules.",
     "resource": "Eclipse Phase Second Edition",
@@ -1464,18 +1464,18 @@
     "type": "Synthmorph",
     "cost": 4,
     "availability": 50,
-    "wound threshold": 7,
+    "wound_threshold": 7,
     "durability": 35,
-    "death rating": 70,
+    "death_rating": 70,
     "pools": {
       "Insight": 3,
       "Moxie": 0,
       "Vigor": 1,
       "Flex": 1
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 4,
         "Full": 20
       }
@@ -1489,17 +1489,17 @@
       "Mnemonics",
       "Puppet Sock"
     ],
-    "morph traits": [
+    "morph_traits": [
       {
         "Name": "Exotic Morphology",
         "Level": 1
       }
     ],
-    "common extras": [],
+    "common_extras": [],
     "notes": [
       "Light Frame (Armor 6/4)"
     ],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": "savant.png",
     "description": "Developed by brinker hardware hackers, savants feature neural-state enhancements that make them appealing to engineers, scientists, and intellectuals.",
     "resource": "Eclipse Phase Second Edition",
@@ -1512,18 +1512,18 @@
     "type": "Synthmorph",
     "cost": 5,
     "availability": 50,
-    "wound threshold": 8,
+    "wound_threshold": 8,
     "durability": 40,
-    "death rating": 80,
+    "death_rating": 80,
     "pools": {
       "Insight": 1,
       "Moxie": 2,
       "Vigor": 1,
       "Flex": 1
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 4,
         "Full": 20
       }
@@ -1539,17 +1539,17 @@
       "Mnemonics",
       "Puppet Sock"
     ],
-    "morph traits": [
+    "morph_traits": [
       {
         "Name": "Exotic Morphology",
         "Level": 1
       }
     ],
-    "common extras": [],
+    "common_extras": [],
     "notes": [
       "Light Frame (Armor 6/4)"
     ],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": "galatea.png",
     "description": "This high-end shell was designed to increase the appeal and social acceptance of synthmorphs. Galateas look expensive and their mental architecture is crafted to enhance the wearer’s personality and charm. Though many media icons have embraced this morph’s novelty, biochauvinists still view it as a monstrosity.",
     "resource": "Eclipse Phase Second Edition",
@@ -1562,23 +1562,23 @@
     "type": "Synthmorph",
     "cost": 5,
     "availability": 50,
-    "wound threshold": 9,
+    "wound_threshold": 9,
     "durability": 45,
-    "death rating": 90,
+    "death_rating": 90,
     "pools": {
       "Insight": 0,
       "Moxie": 1,
       "Vigor": 3,
       "Flex": 0
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Roller",
+        "movement_type": "Roller",
         "Base": 8,
         "Full": 32
       },
       {
-        "Movement type": "Snake",
+        "movement_type": "Snake",
         "Base": 4,
         "Full": 12
       }
@@ -1593,17 +1593,17 @@
       "Puppet Sock",
       "Retracting Limbs"
     ],
-    "morph traits": [
+    "morph_traits": [
       {
         "Name": "Exotic Morphology",
         "Level": 2
       }
     ],
-    "common extras": [],
+    "common_extras": [],
     "notes": [
       "Medium Frame (Armor 8/6)"
     ],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": "slitheroid.png",
     "description": "Slitheroid shells take the form of a humanoid torso with retractable arms atop a 2-meter-long segmented metallic snake. Slitheroids use lateral undulation to move, though they can also pull themselves along by their arms or coil, twist, and roll their bodies like a ball or hoop.",
     "resource": "Eclipse Phase Second Edition",
@@ -1616,18 +1616,18 @@
     "type": "Synthmorph",
     "cost": 5,
     "availability": 50,
-    "wound threshold": 8,
+    "wound_threshold": 8,
     "durability": 40,
-    "death rating": 80,
+    "death_rating": 80,
     "pools": {
       "Insight": 0,
       "Moxie": 1,
       "Vigor": 3,
       "Flex": 1
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 8,
         "Full": 40
       }
@@ -1641,17 +1641,17 @@
       "Mnemonics",
       "Puppet Sock"
     ],
-    "morph traits": [
+    "morph_traits": [
       {
         "Name": "Exotic Morphology",
         "Level": 1
       }
     ],
-    "common extras": [],
+    "common_extras": [],
     "notes": [
       "Medium Frame (Armor 8/6)"
     ],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": "steel.png",
     "description": "Like the galatea, this upscale shell was designed to counter biochauvinist attitudes and make synthmorphs more appealing. Where the galatea is optimized for social interaction, steel morphs provide enhanced physical capabilities for both work and recreation.",
     "resource": "Eclipse Phase Second Edition",
@@ -1664,33 +1664,33 @@
     "type": "Synthmorph",
     "cost": 6,
     "availability": 40,
-    "wound threshold": 11,
+    "wound_threshold": 11,
     "durability": 55,
-    "death rating": 110,
+    "death_rating": 110,
     "pools": {
       "Insight": 1,
       "Moxie": 0,
       "Vigor": 3,
       "Flex": 0
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Hopper",
+        "movement_type": "Hopper",
         "Base": 4,
         "Full": 12
       },
       {
-        "Movement type": "Thrust Vector",
+        "movement_type": "Thrust Vector",
         "Base": 8,
         "Full": 40
       },
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 4,
         "Full": 20
       },
       {
-        "Movement type": "Wheeled",
+        "movement_type": "Wheeled",
         "Base": 8,
         "Full": 40
       }
@@ -1707,17 +1707,17 @@
       "Puppet Sock",
       "Retracting Limbs"
     ],
-    "morph traits": [
+    "morph_traits": [
       {
         "Name": "Exotic Morphology",
         "Level": 1
       }
     ],
-    "common extras": [],
+    "common_extras": [],
     "notes": [
       "Medium Frame (Armor 8/6)"
     ],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": "arachnoid.png",
     "description": "Arachnoid shells mimic the shapes of spiders, termites, ants, beetles, and other arthropods. Three or four sets of pneumatic limbs are capable of rotating around their meter-long torso, and an additional set of manipulator arms near the head enables fine manipulation and tool use. Arachnoids move by walking, hopping, extending omnidirectional mini-wheels for skating movement, or by retracting their limbs and maneuvering with vectored-air thrusters in microgravity.",
     "resource": "Eclipse Phase Second Edition",
@@ -1730,33 +1730,33 @@
     "type": "Synthmorph",
     "cost": 12,
     "availability": 10,
-    "wound threshold": 12,
+    "wound_threshold": 12,
     "durability": 60,
-    "death rating": 120,
+    "death_rating": 120,
     "pools": {
       "Insight": 1,
       "Moxie": 0,
       "Vigor": 6,
       "Flex": 1
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Hopper",
+        "movement_type": "Hopper",
         "Base": 4,
         "Full": 20
       },
       {
-        "Movement type": "Ionic",
+        "movement_type": "Ionic",
         "Base": 8,
         "Full": 40
       },
       {
-        "Movement type": "Thrust Vector",
+        "movement_type": "Thrust Vector",
         "Base": 8,
         "Full": 40
       },
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 4,
         "Full": 20
       }
@@ -1778,17 +1778,17 @@
       "T-Ray Emitter",
       "Weapon Mount (Articulated, 4)"
     ],
-    "morph traits": [
+    "morph_traits": [
       {
         "Name": "Exotic Morphology",
         "Level": 3
       }
     ],
-    "common extras": [],
+    "common_extras": [],
     "notes": [
       "Heavy Frame (Armor 12/10)"
     ],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": "reaper.png",
     "description": "The reaper is a combat morph in the form of an armored disc, so that it can turn and present a thin profile to an enemy. Four legs/manipulating arms and four weapon pods are folded inside its frame. It uses vector-thrust nozzles to maneuver in microgravity and also takes advantage of an ionic drive for fast movement over distance. Reapers are infamous due to military sims and Fall XPs; bringing one into most habitats will undoubtedly raise eyebrows if not get you arrested.",
     "resource": "Eclipse Phase Second Edition",
@@ -1801,27 +1801,27 @@
     "type": "Infomorph",
     "cost": 0,
     "availability": 100,
-    "wound threshold": 5,
+    "wound_threshold": 5,
     "durability": 25,
-    "death rating": 0,
+    "death_rating": 0,
     "pools": {
       "Insight": 0,
       "Moxie": 0,
       "Vigor": 0,
       "Flex": 0
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 4,
         "Full": 20
       }
     ],
     "ware": [],
-    "morph traits": [],
-    "common extras": [],
+    "morph_traits": [],
+    "common_extras": [],
     "notes": [],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": "infomorph.png",
     "description": "Digimorphs are bare-bones mind emulations, though customizable and widely used. By default, an ego that evacuates (or is forked from) a cyberbrain is run on a digimorph, unless another infomorph option is available.",
     "resource": "Eclipse Phase Second Edition",
@@ -1834,27 +1834,27 @@
     "type": "Infomorph",
     "cost": 1,
     "availability": 100,
-    "wound threshold": 6,
+    "wound_threshold": 6,
     "durability": 30,
-    "death rating": 0,
+    "death_rating": 0,
     "pools": {
       "Insight": 0,
       "Moxie": 0,
       "Vigor": 0,
       "Flex": 0
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 4,
         "Full": 20
       }
     ],
     "ware": [],
-    "morph traits": [],
-    "common extras": [],
+    "morph_traits": [],
+    "common_extras": [],
     "notes": [],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": "infomorph.png",
     "description": "Designed for online performers, media icons, and social networkers, this infomorph is coded to enhance charisma and social skills.",
     "resource": "Eclipse Phase Second Edition",
@@ -1867,27 +1867,27 @@
     "type": "Infomorph",
     "cost": 2,
     "availability": 100,
-    "wound threshold": 8,
+    "wound_threshold": 8,
     "durability": 40,
-    "death rating": 0,
+    "death_rating": 0,
     "pools": {
       "Insight": 0,
       "Moxie": 0,
       "Vigor": 0,
       "Flex": 0
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 4,
         "Full": 20
       }
     ],
     "ware": [],
-    "morph traits": [],
-    "common extras": [],
+    "morph_traits": [],
+    "common_extras": [],
     "notes": [],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": "infomorph.png",
     "description": "Popular with network security specialists, penetration testers, and hackers, this infomorph is optimized for infosec roles.",
     "resource": "Eclipse Phase Second Edition",
@@ -1900,27 +1900,27 @@
     "type": "Infomorph",
     "cost": 2,
     "availability": 100,
-    "wound threshold": 7,
+    "wound_threshold": 7,
     "durability": 35,
-    "death rating": 0,
+    "death_rating": 0,
     "pools": {
       "Insight": 0,
       "Moxie": 0,
       "Vigor": 0,
       "Flex": 0
     },
-    "movement rate": [
+    "movement_rate": [
       {
-        "Movement type": "Walker",
+        "movement_type": "Walker",
         "Base": 4,
         "Full": 20
       }
     ],
     "ware": [],
-    "morph traits": [],
-    "common extras": [],
+    "morph_traits": [],
+    "common_extras": [],
     "notes": [],
-    "common shape adjustments": [],
+    "common_shape_adjustments": [],
     "image": "infomorph.png",
     "description": "This infomorph is ideal for professions that involve drone remote operation, whether maintenance bot fleets, surveillance drones, or fighter craft and combat machines.",
     "resource": "Eclipse Phase Second Edition",
