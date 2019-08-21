@@ -12,7 +12,7 @@
     "description": "<p>This nootropic speeds up left-right brain hemisphere communication, stimulates idea production, and improves concentration. +1 Insight pool for 8 hours.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "58c4f968-f1e7-4f25-bbde-6f4115f32df6"
   },
   {
     "category": "Drugs",
@@ -27,7 +27,7 @@
     "description": "<p>This drug enables hyper-focus and concentration. Acquire the Enhanced Behavior: Obsessive (Level 2) trait for the duration and reduce task action timeframes by 25%.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "60e8a048-636c-49ea-b7e5-c6e1875600d1"
   },
   {
     "category": "Drugs",
@@ -42,7 +42,7 @@
     "description": "<p>Klar boosts alertness and enhances clarity and perception. Users report a feeling of being “elevated” to a higher level. You receive +10 to Perceive and do not suffer distraction modifiers for 8 hours.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "e99f9f4b-55e3-4692-8fff-608ffa6c6bb5"
   },
   {
     "category": "Drugs",
@@ -57,7 +57,7 @@
     "description": "<p>Neem is a mnemonic drug that works by “tagging” experiences and mental input with a set of unique sensations that contribute to the formation of state-based memories. Neem provides a +20 modifier to COG Checks to recall memories or information you learned while on neem. The drawback to neem is that memories accumulated under the drug’s influence have no emotional association.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "199badf4-6419-43a2-89c0-a75e606bbcc8"
   },
   {
     "category": "Drugs",
@@ -72,7 +72,7 @@
     "description": "<p>This drug stimulates a massive burst of aggression pheromones. This provides a +20 modifier when using Provoke to intimidate or taunt (Social Attacks ▶228), but a –20 modifier to all other social skill tests. These modifiers are only effective when dealing with biomorphs of the same species who can smell you. Grin: Grin is an effective opiate and pain suppressant. You ignore the modifiers from 1 wound (cumulative with other pain negation mods, to a maximum of 3 wounds).</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "17bd3255-74f2-4f3a-8a16-f8be09b53b03"
   },
   {
     "category": "Drugs",
@@ -87,7 +87,7 @@
     "description": "<p>[No description in book.]</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "1a896353-ef38-47be-861b-6f6998ea682c"
   },
   {
     "category": "Drugs",
@@ -102,7 +102,7 @@
     "description": "<p>Grin is an effective opiate and pain suppressant. You ignore the modifiers from 1 wound (cumulative with other pain negation mods, to a maximum of 3 wounds).</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "0b71203d-d7b8-4779-bd4f-1e72d87af8c2"
   },
   {
     "category": "Drugs",
@@ -117,7 +117,7 @@
     "description": "<p>Kick is a strong stimulant that boosts your reflexes and energy reserves. Increase your Vigor pool by 1 for 8 hours.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "d21b0bc4-b7be-430d-ad97-a4a59752e196"
   },
   {
     "category": "Drugs",
@@ -132,7 +132,7 @@
     "description": "<p>MRDR is a brutal amphetamine that increases your pain tolerance, speed, and strength. Increase your Vigor pool by 2 and ignore one wound (cumulative with other pain negation mods, to a maximum of 3 wounds) for 1 hour. While under MRDR’s influence, you are twitchy and react in a jumpy, cat-like fashion to sudden or unexpected stimuli. Make a WIL Check or react without thinking to unexpected noises or other surprises. This drug also makes you a raging asshole; acquire the Enhanced Behavior: Aggression (Level 2) trait for the duration and suffer a –20 modifier to social skill tests.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "1817d853-c762-44e0-848d-ecbdbdedca13"
   },
   {
     "category": "Drugs",
@@ -147,7 +147,7 @@
     "description": "<p>Phlo increases coordination and muscle control, making your movements smooth, graceful, and precise. +1 Vigor. Additionally, you can use Vigor pool twice on the same test if needed. Rev: This stimulant boosts your endurance. You can take a short recharge with a complex action, rather than 10 minutes.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "6d5e34f5-2504-4d2a-8f62-85a792d17b3c"
   },
   {
     "category": "Drugs",
@@ -162,7 +162,7 @@
     "description": "<p>This stimulant boosts your endurance. You can take a short recharge with a complex action, rather than 10 minutes.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "44bea98d-1e67-411b-abf4-ad59bf28dec1"
   },
   {
     "category": "Drugs",
@@ -177,7 +177,7 @@
     "description": "<p>This drug reverses the effects of ionizing radiation on your body's cells. It most commonly comes in bunches of bright orange-red bananas. Belters prefer the drug in cigarette form, for the irony. Bananas allow you to halve the damage and ignore impairment modifiers from radiation poisoning for 8 hours.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "77c63b68-f114-4d5b-9d35-85009b961e12"
   },
   {
     "category": "Drugs",
@@ -192,7 +192,7 @@
     "description": "<p>Commonly served as a tasty yogurt treat, comfurt blocks stress hormones, stabilizes mood, and relieves anxiety. Temporarily boost Lucidity by 5, Trauma Threshold by 1, and Insanity Rating by 5. Excessive use of comfurt can lead to chronic itchiness caused by histamine release.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "c88c521c-1c33-4395-9479-054b2ac346b9"
   },
   {
     "category": "Drugs",
@@ -207,7 +207,7 @@
     "description": "<p>Originally called frequency, this drug was designed as a tool for scientific visualization. It releases nanobots into your bloodstream that settle in the epidermis, where they act as sensors for electromagnetic radiation. This sensory input is then injected into your visual and tactile sensoria as a sequence of novel stimuli, typically a light show or weird tactile sensations. Aside from its recreational uses, freeq is good at picking up on localized field radiation, allowing you to spot motes, sensors, and hidden electronics with a Perceive Test, depending on their range and signal strength (GM discretion).</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "a4e4e5a6-1595-4a14-b44b-977158217343"
   },
   {
     "category": "Drugs",
@@ -222,7 +222,7 @@
     "description": "<p>Gravy assists in acclimating to high-gravity environments. It is often added as a sauce to food and comes in a variety of flavors. For gravy to be 100% effective, you must begin using it at least 8 hours in advance. Reduce penalties for high-gravity acclimation by 20.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "3b0e33d9-1ab7-4c07-a9e0-94f04899c331"
   },
   {
     "category": "Drugs",
@@ -237,7 +237,7 @@
     "description": "<p>Also known as yào or healing potions, this temporary infusion of medical nanobots spurs recovery from injury for biomorphs. For 4 days, you heal 1d10 damage per hour. If all damage is removed, you heal 1 wound per day. Certain injuries (shattered bones, severed limbs) may require further medical care.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "ac883d5f-0a3f-4ed3-a964-e973adf31a5e"
   },
   {
     "category": "Drugs",
@@ -252,7 +252,7 @@
     "description": "<p>Persona manipulates your emotions, moods, and behaviors to change you into a different person. Each is focused on a different emotional state/behavior. For the duration, you acquire an Enhanced Behavior (Level 2) trait ▶78. Anyone using Kinesics to ID you suffers a −10 modifier.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "ff3bedba-bb84-45cb-916d-f02b9917a489"
   },
   {
     "category": "Drugs",
@@ -267,7 +267,7 @@
     "description": "<p>Retcon nanobots erase recently constructed memories. Your last 48 hours of memories are deleted. It is sometimes used offensively, though it has no effect on recorded XP, backups, or what your muse recalls. Due to the nature of biological memories, retcon is imperfect; some recent memories may be spared, some older ones may be wiped (GM discretion).</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "072189d5-edb0-46ae-ac3a-0dae4617ae53"
   },
   {
     "category": "Drugs",
@@ -282,7 +282,7 @@
     "description": "<p>Schizo mirrors the effects of paranoid schizophrenia. It is popular in socialite circles as a daring and intriguing experience. A dose of schizo commonly looks like a disposable antique razor blade. Making an incision in the skin releases a swarm of nanobots that travel to the central nervous system and induce the effects. Schizo makes you severely paranoid and hear voices. For the duration, you acquire the Mental Disorder: Schizophrenia trait (treat as Reiterative Schizophrenia) and Modified Behavior: Violent (Level 2) trait. When the drug wears off, suffer SV 1d10.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "8af88c75-2ffe-4b06-a39c-77f0f3802c55"
   },
   {
     "category": "Drugs",
@@ -297,7 +297,7 @@
     "description": "<p>Xsense nanobots engage in tissue engineering, building you a temporary new sensory organ. Most Xsense doses create non-human organs such as snake heat-sensing pits, the magnetic sense of birds, or stranger things derived from xenocritters. Variations on human organs are also possible: tri-cavity noses, eye stalks, or tympanik hearing membranes. These organs can manifest anywhere on your body after 4 hours, then are slowly reabsorbed afterwards. Most users prefer to keep the particular sense and location a surprise.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "bf39bbbc-5974-4f14-8ccd-1571983264e3"
   },
   {
     "category": "Drugs",
@@ -312,7 +312,7 @@
     "description": "<p>Originally distributed as a bot-targeting virus by prankster hackers, DDR (“Dance Dance Robot”) triggers impulses in your motor control circuits. The effect makes your shell “dance” in jerky, automated movements. Pleasure receptors are also activated so that dancing — and movement of any kind — feels fantastic. Variants invoke different motions and styles. While dancing, you suffer a –20 modifier to other actions. You can override the dancing with a WIL Check. Non-embodied infomorphs feel the need to dance, but are otherwise unaffected.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "584dfb30-82d8-4120-a7f8-36d1f8a56628"
   },
   {
     "category": "Drugs",
@@ -327,7 +327,7 @@
     "description": "<p>This app connects you via VPN to other linkstate users and samples their XP feed and randomly accessed memories — typically just enough to provide context, but not enough to acquire private personal details. These inputs are spliced together, their emotional inputs amplified, and the entire package spiked with hormonal circuit triggers and artificial synaesthesia. The effect is a mind-blowing mixed sampling of people’s lives, mashed together in a sensory soup that hits the mind with a euphoric rush. You are catatonic while under linkstate’s effects, but afterwards you may experience flashbacks of events in other people’s lives.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "1712144a-77fe-43b3-bb25-dd836ebde887"
   },
   {
     "category": "Drugs",
@@ -342,7 +342,7 @@
     "description": "<p>This app randomly triggers, intensifies, and suppresses neurotransmitter functions, with the effect of creating sudden and random mood swings. You may go from depressed to exuberant to pensive in a matter of minutes. Though the emotional roller coaster is draining to some, others find it thrilling or like the challenge of adapting to it. At any given time, you have a 50% chance of receiving a +10 modifier to social skill tests and a 50% chance of a –10 modifier.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "25f62aa1-4c5b-462e-850f-2f3a11c94c77"
   },
   {
     "category": "Drugs",
@@ -357,7 +357,7 @@
     "description": "<p>Things of a certain color (often green, but not always) take on a life of their own. The color itself has achieved sapience and seeks to learn of the universe. It enlists your aid, at first. Other trippers meet and work with other colors. Eventually, it learns to spread its color to other things, taking control. Other colors conspire against it. Do you choose sides or find a way for the colors to cooperate and live in harmony? Then, the White comes. All colors fear the White.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "090abd17-1fbe-418e-af70-1174baa0818a"
   },
   {
     "category": "Drugs",
@@ -372,7 +372,7 @@
     "description": "<p>This petal discreetly copies forks of your ego. You find yourself in a magical realm, full of dangerous monsters and powerful magic items. The items are all possessed by intelligent spirits — embodied forks of other trippers. Strange ethereal creatures provide you with quests. Ultimately, you seek to acquire the items that contain your forks — and the ritual that will re-merge them. But one fork has fallen into the clutches of an evil wizard, whose dark staff consumes all spirits. Rumors suggest that there are many levels to this petal experience and that you can only defeat the wizard by learning their dark power and consuming spirits into yourself.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "6b022618-59eb-4ae0-b23d-f102db44bf4d"
   },
   {
     "category": "Drugs",
@@ -387,7 +387,7 @@
     "description": "<p>You experience phantom limb — for a limb you’ve never had. This missing part moves and feels, but you cannot see it. It finds some things/people/places pleasing, others repulsive. You feel it attempting to grasp, write, and manipulate. You see new limbs on other trippers, which they cannot sense. They describe limbs on you, which you neither sense nor feel. You can exchange limbs with each other to try them out, but they’re usually not your missing limb. To find your ghost limb, you must explore it’s invisible desires. The new limbs you try have minds of their own and may mislead you.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "7af08d95-c740-4e51-ba1f-5944babd5a5a"
   },
   {
     "category": "Drugs",
@@ -402,7 +402,7 @@
     "description": "<p>Inhibitor is a cocktail of neurochemicals that block some brain receptor and transmitter functions in an attempt to reduce psi-waves and block or impair sleights. This drug is commonly used to restrain async prisoners from using their abilities. Make a WIL Check at –20. If you fail, lose all psi abilities for the drug’s duration. If you succeed, you still suffer a –30 modifier to Psi Tests. Inhibitor-influenced characters have a glazed, dopey expression and difficulty getting excited or emotional.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "cb6b39ae-e77d-4365-8fa9-034f344eb050"
   },
   {
     "category": "Drugs",
@@ -417,7 +417,7 @@
     "description": "<p>Psi-opener drugs are variants of the Watts-MacLeod strain with a temporary effect and that do not permanently alter the user’s brain. Psi-opener temporarily gives you the effect of one particular psi-chi sleight; each type of psi-opener is customized for a particular sleight. However, users are frequently subject to hallucinations (GM discretion). When the drug wears off, suffer SV 1d6.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "23181322-3c1a-4bb9-bcdc-dded3ae60aba"
   },
   {
     "category": "Drugs",
@@ -432,7 +432,7 @@
     "description": "<p>Psike-out bolsters an async’s psi abilities. Apply a +10 modifier to Psi skill tests for the drug’s duration.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "c9e765e1-db50-4f5d-a8eb-eb64fffd70c7"
   },
   {
     "category": "Drugs",
@@ -447,7 +447,7 @@
     "description": "<p>Psi-kick functions like psi-opener, except it mimics the unction of a specific psi-gamma sleight. It also boosts your latent sychic ability. Non-asyncs lacking Psi skill can default to WIL × 2. For his reason, psi-kick is often doubled up with psike-out. Using psi-kick is a mind-wrenching experience. Take SV 1d10 + 2 after the drug wears off.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "f84fb752-7409-4b31-8e86-3d165079b8fa"
   },
   {
     "category": "Drugs",
@@ -462,7 +462,7 @@
     "description": "<p>This gene-modified variant of BZ is an odorless, invisible, powerful hallucinogen. For its duration, you undergo extremely realistic hallucinations. Your hallucinations are susceptible to suggestion by others (–30 to SAV/WIL Checks to oppose Persuade or Provoke); users often “share” described hallucinations with each other. Afterwards, you suffer a –30 COG Check modifier to remember what occurred while under the influence.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "969762ec-6321-4975-a77c-7eb72e3372c8"
   },
   {
     "category": "Drugs",
@@ -477,7 +477,7 @@
     "description": "<p>Named for the Japanese term for sadness at the ephemerality of worldly things, this drug, typically ingested as a tea, is a depressant that induces a meditative state. Mono no aware provides a +10 modifier to Art skills. With frequent use, mono no aware reacts with pigments in the skin to create a pallor with a slight bluish tinge, even in darker-skinned morphs.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "e975988a-61b2-4fba-85eb-98c14989b042"
   },
   {
     "category": "Drugs",
@@ -492,7 +492,7 @@
     "description": "<p>Mr. H is marijuana grown in space using powerful lighting and advanced hydroponics. Because space is at a premium in habitats and scum barges, blocks of hashish are the preferred mode of transport and delivery. However, for the wealthy and on planets, buds in leaf form are not uncommon. While high, you ignore the effects of 1 trauma, but suffer a –10 penalty to Know Tests and memory-related COG Checks. Hash users exhibit bloodshot eyes, lethargic behaviors, and the munchies.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "7ea4c850-4393-4f5d-a7b5-e5b3999def63"
   },
   {
     "category": "Drugs",
@@ -507,7 +507,7 @@
     "description": "<p>The good stuff is gene-modified orbital hash, providing greater benefits with fewer side effects. Ignore the effects of 1 trauma and 1 wound, receive a +10 WIL Check modifier, and acquire the Enhanced Behavior: Serene (Level 2) trait.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "ecee0ba3-f168-45d0-ab5a-7ac021c9d931"
   },
   {
     "category": "Drugs",
@@ -522,7 +522,7 @@
     "description": "<p>Blab impedes your ability to lie or withhold information. You suffer a –30 SAV/WIL Check modifier against Persuade and Provoke Tests made to interrogate or extract information. You also suffer –30 to Deceive Tests. For the duration, you acquire the Neural Damage: Logorrhea trait, making you excessively talkative.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "54d835d4-615f-4aab-9773-5b2e14772635"
   },
   {
     "category": "Drugs",
@@ -537,7 +537,7 @@
     "description": "<p>Want to ooze sexy like a pleasure morph on a hot tin habitat? For those desiring that slinky je-ne-sais-quoi, hither is the tool. Hither typically comes as a clear, slippery gel with a musky, floral scent that is applied to parts of the body with large concentrations of sweat glands. It is a mild euphoriant, imparting a feeling of confidence and you-knowyou-want-it-ness to the user. It also stimulates abundant production of lust pheromones. You gain a +10 bonus on Provoke Tests to seduce against biomorphs of the same species who can smell you. You also gain the Enhanced Behavior: Aroused (Level 2) trait for the duration.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "9f2a3f11-fc8f-4fcf-848d-35382a0429a7"
   },
   {
     "category": "Drugs",
@@ -552,7 +552,7 @@
     "description": "<p>This potent anti-depressant makes it almost impossible to have bad feelings or negative thoughts. You are unnaturally happy and positive — often irritatingly or strangely so. You receive a +30 modifier to SAV/WIL Checks against fear or attempts to manipulate your emotions in a negative direction. You gain the Enhanced Behavior: Happy (Level 3) trait. Under juice’s influence, you may act inappropriately, like giggling over the massive amount of spilled blood or cheerfully changing the subject to inane topics when someone else is freaking out.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "3904c790-c1a4-4aa5-a762-16082ec2df78"
   },
   {
     "category": "Drugs",
@@ -567,7 +567,7 @@
     "description": "<p>This drug lowers inhibitions and heightens determination. Nofux users know what they want and are resolved to get their way. Gain 1 Moxie pool for the duration.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "f85531af-ddde-4b64-b0ff-272aa2a43d5b"
   },
   {
     "category": "Drugs",
@@ -582,7 +582,7 @@
     "description": "<p>Frequently taken as a chewy breath mint, this drug stiffens your confidence and resolve. You receive a +10 modifier on SAV/WIL Checks against Persuade and Provoke. You also acquire the Enhanced Behavior: Stubborn (Level 2) trait.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "3f5e534c-5567-472b-bbad-4d1e8f9a36e1"
   },
   {
     "category": "Drugs",
@@ -597,7 +597,7 @@
     "description": "<p>Named after the dated Mandarin term for “comrade,” tongzhi encourages cooperation and supportive behavior, while minimizing competitive attitudes. It was a opular drug with many hypercorps before the Fall and mandatory for their workforces. This drug provides +10 Kinesics, as well as +10 Persuade when working towards common interests. You gain the Enhanced Behavior: Cooperative (Level 2) trait.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "8742d484-0f01-4351-9a69-441e111e67fc"
   },
   {
     "category": "Drugs",
@@ -612,7 +612,7 @@
     "description": "<p>Also called “frog bite,” BTX2 is a genetically enhanced variant of batrachotoxin, an extremely potent cardiotoxin and neurotoxin. It leads to fast paralysis and cardiac arrest that usually kills the target within a few action turns. Affected characters suffer DV 2d10 + 10 for 3 action turns; medichines reduce this damage by half. You must also make a SOM Check or be immobilized for 1 hour.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "4e9cc36e-ae4c-4fe2-baad-2f74ee8b8f51"
   },
   {
     "category": "Drugs",
@@ -627,7 +627,7 @@
     "description": "<p>This potent incapacitating agent causes eye twitching and temporary blindness, severe coughing and breathing difficulty, skin irritation, and panic. Affected characters suffer DV 1d6, a –30 modifier to sight-based Perceive Tests, and a –20 impairment modifier to all other actions for 20 minutes.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "b4dd5324-bab9-4a13-839e-242b1559f0b3"
   },
   {
     "category": "Drugs",
@@ -642,7 +642,7 @@
     "description": "<p>This drug is derived from pheromones released due to fear and is intended to instill alarm or even terror. Make a WIL Check or suffer a panic attack, inflicting SV 1d10. You also suffer a –30 modifier for resisting intimidation or fear-based emotional manipulations for 1 hour.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "a7b73c3c-60c7-4268-b55b-33aa99b96d79"
   },
   {
     "category": "Drugs",
@@ -657,7 +657,7 @@
     "description": "<p>Derived from deadly nerve agents like cyclosarin, VX, and novichok, this genetically modified toxin is deployed as a colorless, odorless gas that turns safely inert 10 minutes after deployment. It causes involuntary contraction of the muscles, seizures, and death by respiratory failure. You suffer a –20 modifier to all actions and must make a SOM Check or be incapacitated by seizures, paralysis, nausea, and vomiting. After 10 minutes, you will die unless an antidote (such as atropine ▶331) is applied.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "d18b41e6-4e7b-4dc6-9088-0d7f914d661b"
   },
   {
     "category": "Drugs",
@@ -672,7 +672,7 @@
     "description": "<p>A genetically improved variant of oxytocin, this drug induces trust. Apply a –30 modifier to WIL Checks and Kinesics Tests where trust is a factor.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "7691ba79-837e-4cca-96d6-271d1fab4b2a"
   },
   {
     "category": "Drugs",
@@ -687,7 +687,7 @@
     "description": "<p>Twitch is a convulsive agent, a nonlethal nerve gas. Apply a –20 modifier to all actions and make a SOM Check or become incapacitated with severe muscle tremors for 10 minutes.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "5b947b23-cddf-4c7a-b6f2-67e8efd3ccb5"
   },
   {
     "category": "Drugs",
@@ -702,7 +702,7 @@
     "description": "<p>This nanotoxin attacks the myelin sheath on nerves, disrupting nerve impulses and inflicting symptoms of multiple sclerosis (impaired vision, muscle strength, and coordination). Every hour, you suffer a cumulative –5 modifier to all actions. If the total modifier meets or exceeds your Durability, you are paralyzed and catatonic (incapacitated). These modifiers can only be reduced with regenerative time in a healing vat (1 hour per –5).</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "8b5f8e09-1f96-496d-92b7-3c3728dadeaa"
   },
   {
     "category": "Drugs",
@@ -717,7 +717,7 @@
     "description": "<p>Necrosis nanobots attack the walls of cells inside the body, killing tissue. This nanotoxin inflicts DV 1d6 per action turn for one minute, after which the nanobots disable and flush from the body.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "5ea3063a-aef8-4126-8858-e9b670e97100"
   },
   {
     "category": "Drugs",
@@ -732,7 +732,7 @@
     "description": "<p>These nanobots stimulate pain receptors on a systemic level, inflicting agony. Suffer –30 to all actions from the inflicted agony and make a WIL Check or become incapacitated for 8 hours. Anything that allows you to ignore wound modifiers can be used to reduce the pain modifier by 10.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "7f4db7a6-a5e6-4698-a3aa-82d335acde53"
   },
   {
     "category": "Drugs",
@@ -747,6 +747,6 @@
     "description": "<p>Nutcrackers are nanobots designed to locate your cortical stack and disassemble the diamond lattice. This process takes approximately 6 hours, after which the cortical stack is destroyed. These nanobots also attack the cortical stack’s connections to the (cyber)brain and brain-mapping nanobots. After 1 hour, you will be aware that your cortical stack and neural lace are suffering damage. After 3 hours, all connections will be severed and the cortical stack will no longer record backups.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "eaf2d1f3-e53b-48f6-a711-2631e824f88d"
   }
 ]

@@ -8,7 +8,7 @@
     "description": "<p>These are skills encoded in software form. Used with a skillware system, they provide you with a rating of up to 40 in a single active skill or 80 in a Know skill (your aptitudes do not effect this rating; if you already possess the skill, use the highest value).</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "867cbecd-2c54-40c8-92c9-beb8c774e688"
   },
   {
     "category": "Software",
@@ -19,7 +19,7 @@
     "description": "<p>A media library and editing suite you can use to create realistic entoptic illusions.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "e8cce0ad-5da2-4396-9ec1-1f455cf6fa23"
   },  
   {
     "category": "Software",
@@ -30,7 +30,7 @@
     "description": "<p>This app takes any biometric pattern — face, gait, morph, voice, etc — and runs a pattern-matching search (Tracking by Biometrics ▶256).</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "406af176-90aa-4061-baeb-7236041b88f2"
   },  
   {
     "category": "Software",
@@ -41,7 +41,7 @@
     "description": "<p>This app generates key pairs, encrypts messages using public keys, and decrypts with secret keys (Encryption ▶247).</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "a4a36edd-d879-4a99-a91c-ab923df3262b"
   },  
   {
     "category": "Software",
@@ -52,7 +52,7 @@
     "description": "<p>A hacker library/tool for taking advantage of known software vulnerabilities. Required for hacking.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "a68393db-a9c1-46f8-a9cf-8524531c0910"
   },  
   {
     "category": "Software",
@@ -63,7 +63,7 @@
     "description": "<p>This app protects a device from hostile intrusion. Every device comes with one by default.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "6dfdfcfb-4782-4ae2-98ce-8d47fc5c4bcb"
   },  
   {
     "category": "Software",
@@ -74,7 +74,7 @@
     "description": "<p>This malware imprisons infomorphs (Trap Ego ▶266).</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "f3f84ddc-5ed0-46bf-ab7b-a9997da0d0e6"
   },  
   {
     "category": "Software",
@@ -85,7 +85,7 @@
     "description": "<p>Sniffer apps collect all of the traffic passing between or through targeted systems (Sniffing ▶245).</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "39eb1c9e-14d3-46af-99d3-20823c486ac4"
   },  
   {
     "category": "Software",
@@ -96,7 +96,7 @@
     "description": "<p>Use spoof apps to fake transmissions and mesh IDs (Spoofing ▶247).</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "d6925208-7fae-46d1-b904-0d8327000655"
   },  
   {
     "category": "Software",
@@ -107,7 +107,7 @@
     "description": "<p>This app traces people’s connections online to their origin (Tracking ▶256).</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "3bcacf63-9d82-4668-8c3f-3f2708bc2bbb"
   },  
   {
     "category": "Software",
@@ -118,7 +118,7 @@
     "description": "<p>This app enables you to communicate over a virtual private network (VPNs ▶241). VPNs provide a –30 modifier to sniffing attacks (Sniffing ▶245).</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "9bbbfc56-0bc0-4346-b539-c60105c703ec"
   },  
   {
     "category": "Software",
@@ -129,7 +129,7 @@
     "description": "<p>Clips of someone else’s experiences. Depending on the content, some XP (porn, snuff, crime, etc.) is restricted in certain jurisdictions. XP clips are frequently modified so that their emotive tracks are more intense, giving the viewer a greater thrill.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "7a4577e4-27d0-41ea-a3ab-8d24b62c043c"
   },  
   {
     "category": "Software",
@@ -140,7 +140,7 @@
     "description": "<p>These AIs can pilot and control the bot/vehicle they are designed for without transhuman assistance.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "ac6072f8-f1f1-45e9-b3df-1464c615074f"
   },
   {
     "category": "Software",
@@ -151,7 +151,7 @@
     "description": "<p>These resident ALIs help transhumans operate a particular device or do it for them. They are included in most non-ware gear items.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "477bb0bc-8959-4b1a-b547-5c290256466b"
   },  
   {
     "category": "Software",
@@ -162,7 +162,7 @@
     "description": "<p>KALIs are used by hackers and covert ops teams to create distractions and sabotage systems.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "be0bd723-03be-44ca-9135-9c78168e3da6"
   },
   {
     "category": "Software",
@@ -173,7 +173,7 @@
     "description": "<p>These are digital assistants and life-long companions.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "66d43195-52ef-44d2-93bd-2a83d19482b5"
   },    
   {
     "category": "Software",
@@ -184,7 +184,7 @@
     "description": "<p>Provide overwatch for electronic systems.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "c21f9072-0ff4-436b-b925-0c1d75a8b3db"
   },  
   {
     "category": "Software",
@@ -195,7 +195,7 @@
     "description": "<p>Combat ALIs for physical security.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "92c3dcf5-c673-4616-9c3e-c7d0cbadfff9"
   },  
   {
     "category": "Software",
@@ -206,7 +206,7 @@
     "description": "<p>Bedlam assaults the ego with traumatic mental input, inflicting mental stress. Victims are overwhelmed with horrific, monstrous, sanity-ripping sensory and emotional tracks. Each attack inflicts SV 1d10, +1d6 per superior success.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "879cff94-1956-4dd6-80ab-9d2333834a4a"
   },  
   {
     "category": "Software",
@@ -217,7 +217,7 @@
     "description": "<p>This scorch app rips into the ego with destructive neurofeedback routines. Against a cyberbrained ego, the cauterizer inflicts DV 1d10 + 5, +1d6 per superior success, to the target's morph (this is physical damage, not mesh damage). Against an infomorph, the cauterizer inflicts a DV 3d10 mesh attack of digitized neurological damage.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "d61911ad-ee92-463a-b7ae-5f61e2794382"
   },  
   {
     "category": "Software",
@@ -228,7 +228,7 @@
     "description": "<p>Nightmares trigger anxiety and panic attacks within the victim by stimulating the neural circuitry representing the amygdala and hippocampus. The target ego must make a WIL Check. If they succeed, they are shaken, suffering a –10 impairment modifier to all actions until the end of the next action turn. If they fail, they suffer SV 1d6 and suffer an acute stress response ▶222 lasting for 1d6 minutes, +1 per superior failure.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "8540ab6a-ce7b-4a73-8d35-8c0438f8fbf8"
   },  
   {
     "category": "Software",
@@ -239,7 +239,7 @@
     "description": "<p>Spasm scorchers incapacitate the ego with excruciating pain. Affected targets must immediately make a WIL Check. If they fail, they fall down and are incapacitated for 1 action turn (+2 turns per superior failure) and stunned for 3 minutes. Success means they are stunned for 3 action turns. Due to the nature of the delivery, pain tolerance of any sort has no effect.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "24b6d620-d66a-49c3-bce1-b250fa67837f"
   },  
   {
     "category": "Software",
@@ -250,6 +250,6 @@
     "description": "<p>Tacnets allow a group and their muses/gear to share real-time tactical situational and sensory data over encrypted mesh channels. They are used by sports teams, security/military units, gamers, and anyone else that needs to coordinate actions. Tacnets provide the following functions:</p><ul><li>Maps: Tacnets present maps from a bird’s eye, three-dimensional interactive, or first-person entoptic view, tagging notable features and marking distances. They can also plot maps based on sensory input, positioning systems, and other data.</li><li>Positioning: Tacnets indicate the position of known people, bots, vehicles, and other features according to sensory input or their calculated trajectories. Friend-or-foe tags highlight allies and opponents, noting their lines of sight and fields of fire and alerting the user to areas of potential cover or danger.</li><li>Sensory Input: Tacnets share all sensory input available from members and linked devices. This includes data from physical senses, portable sensors, smartlink guncams, XP feeds, etc. Users can immediately call up and access the sensor feeds of others as needed.</li><li>Communications Management: Tacnets maintain an encrypted VPN between users. They actively monitor for dropped signals and hacking/sniffing/jamming attempts. Treat as Infosec 40.</li><li>Smartlink/Weapon Data: Tacnets monitor the status of weapons, accessories, and other gear, bringing damage, shortages, ammo counts, and other issues to the user’s attention.</li><li>Medical Data: Tacnets monitor the health of their users via medichines, implants, and other sensors. Users can call up health reports on their allies.</li><li>Overwatch: Tacnets keep an eye out for potential threats. They provide a +10 modifier to Perceive Tests against surprise ▶227.</li><li>Indirect Fire: Members of a tacnet can provide targeting data to each other for purposes of indirect fire ▶206.</li><li>Analysis: Tacnets can analyze real-time situations to provide suggestions and warnings. The app's god’s-eye view of a situation helps it to identify facts and details that individuals overlook. For example, a tacnet can analyze an opposing team's weapons, shots fired, and potential injuries and suggest tactical maneuvers. Querying a tacnet for advice is a quick action; treat as Know: Tactics 80.</li></ul><p>Many tacnet features are immediately accessible to the user via their AR display; other data can be accessed with a quick action. The GM determines when the tacnet provides important alerts to the user. At the GM’s discretion, some of these features may apply modifiers to the character’s tests. Tacnets are designed to be overseers, not to take action. They will not hack opponents, pilot vehicles, or interface with weapon systems.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
-    "id": ""
+    "id": "49cc0440-9a93-4145-9bc0-3e795fc36da3"
   }
 ]
