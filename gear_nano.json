@@ -1,0 +1,156 @@
+[
+  {
+    "category":"Tech",
+    "subcategory":"Nanotech Gear",
+    "name":"Ego Bridge",
+    "complexity/gp":"Mod/2",
+    "summary":"Upload from/download to biological brains.",
+    "description":"<p>Ego bridges are devices used for uploading from and downloading to biological brains (Backups & Uploading ▶286). The bridge’s cranial sensors unfold around your head when in use, imaging and scanning your brain. Needles in the neck rest deploy nanobots that either measure your mind and neural connections (uploading) or physically re-map them (downloading).</p>",
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"8ad68fee-191a-4fcc-bb10-ff6f6ba5ce33"
+  },
+  {
+    "category":"Tech",
+    "subcategory":"Nanotech Gear",
+    "name":"Healing Spray",
+    "complexity/gp":"Min/1",
+    "summary":"Heals 1d10 [5] damage an hour for 12 hours for biomorphs. Single use.",
+    "description":"<p>This very small canister contains a single-use application of medical nanobots for healing biomorphs. You simply spray it on an open wound or inject it into a damaged area. It heals 1d10 [6] damage an hour (Recovery ▶221) for 12 hours.</p>",
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"c093858e-5a78-45a3-8fc9-68172bbf4df8"
+  },
+  {
+    "category":"Tech",
+    "subcategory":"Nanotech Gear",
+    "name":"Healing Vat",
+    "complexity/gp":"Maj/3",
+    "summary":"Heal/cure biomorphs, customize/augment morph.",
+    "description":"<p>Healing vats may be the most powerful medical devices in common use. Vats preserve biomorphs in nutrient gel crawling with medical nanobots, while injection lines pump the body full of medichine swarms. They quickly assess your health, mend bones, heal wounds, regenerate limbs, and otherwise repair your biological form (Healing & Repair ▶221). With the exception of a few exceptionally deadly nanoplagues and certain kinds of neurological damage, a healing vat can cure any disease and heal any injury. As long as you are alive when you are placed in the healing vat, you will not only survive, but emerge without a scratch, given enough time. A healing vat can even take your severed head (as long as it has been stabilized by medichines or nanotech first aid) and regrow an entire body based on your head’s genetics.</p><p>Medical care is not all that healing vats are used for — they are also the safest way to sculpt your body or install various bioware, cyberware, and nanoware systems. Specialized nanomachines are used to grow the ware inside your body or otherwise customize your form. Every hospital, clinic, body bank, chop shop, and augmentation parlor has several healing vats.</p>",
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"f82d99f5-3aa4-47e6-b732-20c8959dbcab"
+  },
+  {
+    "category":"Tech",
+    "subcategory":"Nanotech Gear",
+    "name":"Med Scanner",
+    "complexity/gp":"Min/1",
+    "summary":"Scans health, diagnosis w/Medicine: Forensics/Paramedic/Veterinary at 60, detect nanobots as nanodetector.",
+    "description":"<p>You can use this very small device to take a small range of bio samples from a biomorph, which are then scanned and analyzed at the nanoscale. The process takes 1 minute and can identify the presence of diseases, toxins, nanobots, and other infections (including most exsurgent virus strains). It also provides vital signs and an analysis of the person’s overall health. Treat the scanner as having Medicine: Forensics, Medicine: Paramedic, and Medicine: Veterinary at 60 for diagnosis purposes only. It also has Exotic Skill: Nanobot Detection 40 for detecting nanobots, +30 if the target is currently affected by nanoware, nanodrugs, or nanotoxins.</p>",
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"ef8e437d-cd7a-4db2-86d3-a5afea449ecb"
+  },
+  {
+    "category":"Tech",
+    "subcategory":"Nanotech Gear",
+    "name":"Nanodetector",
+    "complexity/gp":"Min/1",
+    "summary":"Detects nanobots, Exotic Skill: Nanobot Detection 40 (70 w/active swarm), Know: Nanotech 60.",
+    "description":"<p>Nanodetectors are small devices that suck in air and micro debris in order to scan for and detect nanobots. Given that nanobots are so tiny, the density of nanobots in the area has a large impact on its success. The nanodetector has Exotic Skill: Nanobot Detection 40 for detecting nanobots, +30 if an active nanoswarm or hive is present. Nanodetectors often pick up expired nanobots from swarms no longer active, but they can assess whether the bots are still active (or were recently) and the rough density (Durability) of the swarm in the area. Once a nanobot is detected it can be analyzed either by the user or the nanodetector’s AI, using Know: Nanotechnology 60 skill. Nanodetectors are often worn and left on, set to alert you if a hostile nanoswarm is detected.</p>",
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"6858f6c6-138e-4393-b865-b8fc280d623a"
+  },
+  {
+    "category":"Tech",
+    "subcategory":"Nanotech Gear",
+    "name":"Repair Spray",
+    "complexity/gp":"Min/1",
+    "summary":"Heals 1d10 [5] damage an hour for 12 hours for synthmorphs. Single use.",
+    "description":"<p>Similar to healing spray, this single-use application of fixer nanobots repairs 1d10 [6] damage an hour for 12 hours for synthmorphs, bots, and other shells. The spray must have access to the shell's blueprint or have an hour to scan a similar design.</p>",
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"b552999c-c55b-4990-aecc-06fcaf055fe2"
+  },
+  {
+    "category":"Tech",
+    "subcategory":"Hives",
+    "name":"General Hive",
+    "complexity/gp":"Maj/3",
+    "summary":"Can produce any swarm w/blueprints.",
+    "description":"<p>General hives can produce any standard swarm with the right blueprints and/or programming. They are medium- sized and not easily portable, with a volume of 20 liters. Each includes a disassembly unit for recycling trash as feedstock.</p>",
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"7498a619-c61f-4751-bfde-d0f78ccbfab8"
+  },
+  {
+    "category":"Tech",
+    "subcategory":"Hives",
+    "name":"Specialized Hive",
+    "complexity/gp":"Mod/2",
+    "summary":"or Maj/3 Makes/maintains one swarm type.",
+    "description":"<p>Specialized hives are far more common than general hives. Each produces only a single type of swarm (blueprints included). Hives are small sized. complexity is one step above the swarm's complexity.</p>",
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"a5bb6cf0-0f2d-4d49-a3f5-06d9bb5f34ce"
+  },
+  {
+    "category":"Tech",
+    "subcategory":"Nanofabricators",
+    "name":"Small Fabber",
+    "complexity/gp":"Min/1",
+    "summary":"Fab very small items.",
+    "description":"<p>These small and portable fabbers can produce objects up to a very small size with the appropriate blueprint. They have a maximum volume of 2 liters.</p>",
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"d029682e-78a2-49d1-8efb-9ca2a65e1b51"
+  },
+  {
+    "category":"Tech",
+    "subcategory":"Nanofabricators",
+    "name":"Medium Fabber",
+    "complexity/gp":"Mod/2",
+    "summary":"Fab small items.",
+    "description":"<p>These desktop fabbers can manufacture up to small-sized items. They may be able to print multiple of the same very small items at once. They have a maximum volume of 40 liters.</p>",
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"11743ba4-983a-4014-a186-03894668bba5"
+  },
+  {
+    "category":"Tech",
+    "subcategory":"Nanofabricators",
+    "name":"Large Fabber",
+    "complexity/gp":"Maj/3",
+    "summary":"Fab medium items.",
+    "description":"<p>Large-sized fabbers are non-portable, unless mounted on a bot or vehicle, with a volume of 80 liters. They can manufacture most medium-sized items, or two or more of the same small-sized items at a time, or four or more identical very small objects at once.</p>",
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"54d6eade-3c45-42c5-b499-fdfe113093b0"
+  },
+  {
+    "category":"Tech",
+    "subcategory":"Nanofabricators",
+    "name":"Minifac",
+    "complexity/gp":"Rare/—",
+    "summary":"Industrial-scale nanofab.",
+    "description":"<p>Colloquially known as mini-factories or minifacturers, minifacs are huge, industrial-scale fabricators. These devices are used for much of the manufacturing throughout the Solar System, capable of making everything from synthmorphs to vehicles to habitats.</p>",
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"2c74cf43-be32-4403-bbb5-874d843c2be5"
+  },
+  {
+    "category":"Tech",
+    "subcategory":"Specialized Fabbers",
+    "name":"Autocook",
+    "complexity/gp":"Min+/1+",
+    "summary":"Fab food and drink only.",
+    "description":"<p>Autocooks are specialized fabricators that only produce food and drinks. At the low end (Minor complexity), autocooks are small sized and can produce water, various flavored beverages, ration bars, thick pudding-like edible gels, and similar dry or gooey foods. Most units have a very limited range of flavors and textures that are widely considered to be fairly bad. Higher-end units (Moderate and Major complexity) are small or even medium sized and can manufacture and synthesize better foods, up to and including gourmet meals and alcohol, as well as similar organics, such as fabric, leather, and some medicines. Raw materials can be provided by the addition of any water-containing liquid and collected biomass like leftover food, grass, dirt, dead animals, or transhuman waste. With adequate raw material, an autocook can indefinitely provide food and drink for up to three transhumans.</p>",
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"7fbf87c0-3780-4c5b-b373-77f59cc237a9"
+  },
+  {
+    "category":"Tech",
+    "subcategory":"Specialized Fabbers",
+    "name":"Specialized Fabber",
+    "complexity/gp":"Min/1",
+    "summary":"Fab 1 specific item type only.",
+    "description":"<p>Specialized fabbers are not universal assemblers — they are designed to make one particular type of item, such as heavy pistols, utilitools, or a specific drug. Specialized fabbers come in sizes appropriate to the item they make.</p>",
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"52adbcf4-3f4a-4961-86e1-62d7f7de419d"
+  }
+]
