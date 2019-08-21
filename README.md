@@ -14,5 +14,5 @@ This repo is following these guidelines:
 * 2-space tab (not that it matters much)
 * Descriptions (in the 'description' property) are in HTML
 * If an object has a short and long description (short might be from a summary table), then 'summary' and 'description' attributes are short and long respectively, otherwise only 'description'
-* Paragraphical data and lists stored in HTML <p> and <ul>/<li> tags, serialized
+* Paragraphical data and lists stored in HTML \<p\> and \<ul\>/\<li\> tags, serialized
 * Every samey object has all the keys, even if only one object needs it (though you should reconsider your structure at that point)
