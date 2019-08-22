@@ -1,7 +1,7 @@
 [
   {
     "category":"Comms",
-    "subcategory":"",
+    "subcategory":"Communication Gear",
     "name":"Breadcrumb System",
     "complexity/gp":"Min/1",
     "summary":"Leaves mote trail for meshing/positioning.",
@@ -12,7 +12,7 @@
   },
   {
     "category":"Comms",
-    "subcategory":"",
+    "subcategory":"Communication Gear",
     "name":"Emergency Distress Beacon",
     "complexity/gp":"Min/1",
     "summary":"Powerful radio transmitter, 50/500 km range.",
@@ -23,7 +23,7 @@
   },
   {
     "category":"Comms",
-    "subcategory":"",
+    "subcategory":"Communication Gear",
     "name":"Laser/Microwave Link (Micro)",
     "complexity/gp":"Min/1",
     "summary":"Tight-beam communication links, line-of-sight 500 m range.",
@@ -34,7 +34,7 @@
   },
   {
     "category":"Comms",
-    "subcategory":"",
+    "subcategory":"Communication Gear",
     "name":"Laser/Microwave Link (Small)",
     "complexity/gp":"Mod/2",
     "summary":"Tight-beam communication links, line-of-sight 50/500 km range.",
@@ -45,7 +45,7 @@
   },
   {
     "category":"Comms",
-    "subcategory":"",
+    "subcategory":"Communication Gear",
     "name":"Mission Recorder",
     "complexity/gp":"Min/1",
     "summary":"Backs up all mission data.",
@@ -56,7 +56,7 @@
   },
   {
     "category":"Comms",
-    "subcategory":"",
+    "subcategory":"Communication Gear",
     "name":"Radio Booster",
     "complexity/gp":"Min/1",
     "summary":"Extends radio ranges, 25/250km range.",
@@ -67,7 +67,7 @@
   },
   {
     "category":"Comms",
-    "subcategory":"",
+    "subcategory":"Communication Gear",
     "name":"Satnet-in-a-Can",
     "complexity/gp":"Unknown",
     "summary":"Deploys a satnet around a planet easily.",
@@ -78,7 +78,7 @@
   },
   {
     "category":"Comms",
-    "subcategory":"",
+    "subcategory":"Neutrino Comms Gear",
     "name":"Neutrino Receiver",
     "complexity/gp":"Maj/3",
     "summary":"Receives neutrino comms.",
@@ -89,7 +89,7 @@
   },
   {
     "category":"Comms",
-    "subcategory":"",
+    "subcategory":"Neutrino Comms Gear",
     "name":"Neutrino Transceiver",
     "complexity/gp":"Rare/—",
     "summary":"Sends/receives neutrino comms, 100+ AU range.",
@@ -100,7 +100,7 @@
   },
   {
     "category":"Comms",
-    "subcategory":"",
+    "subcategory":"Quantum Farcasters",
     "name":"Miniature Radio Farcaster",
     "complexity/gp":"Mod/2",
     "summary":"Radio with encryption that cannot be broken/intercepted.",
@@ -111,7 +111,7 @@
   },
   {
     "category":"Comms",
-    "subcategory":"",
+    "subcategory":"QE Comms Gear",
     "name":"QE Comm",
     "complexity/gp":"Min/1",
     "summary":"Small FTL communication device, requires qubits.",
@@ -122,7 +122,7 @@
   },
   {
     "category":"Comms",
-    "subcategory":"",
+    "subcategory":"QE Comms Gear",
     "name":"Emergency Reservoir",
     "complexity/gp":"Mod/2",
     "summary":"Micro qubit reservoir pair, 1 minute video/1 hour voice.",
@@ -133,7 +133,7 @@
   },
   {
     "category":"Comms",
-    "subcategory":"",
+    "subcategory":"QE Comms Gear",
     "name":"Qubit Reservoir",
     "complexity/gp":"Maj/3",
     "summary":"Medium qubit reservoir pair, 10 hours video, 100 hours voice.",
@@ -144,7 +144,7 @@
   },
   {
     "category":"Comms",
-    "subcategory":"",
+    "subcategory":"Mesh Hardware",
     "name":"Fiberoptic Cable",
     "complexity/gp":"Min/1",
     "summary":"Wired connection for devices.",
@@ -155,7 +155,7 @@
   },
   {
     "category":"Comms",
-    "subcategory":"",
+    "subcategory":"Mesh Hardware",
     "name":"Motes",
     "complexity/gp":"Min/1",
     "summary":"Create ad-hoc mesh and surveillance net over area.",
@@ -166,7 +166,7 @@
   },
   {
     "category":"Comms",
-    "subcategory":"",
+    "subcategory":"Mesh Hardware",
     "name":"Host",
     "complexity/gp":"Min/1",
     "summary":"Tablets, work stations, and terminals. Runs 1 infomorph.",
@@ -177,7 +177,7 @@
   },
   {
     "category":"Comms",
-    "subcategory":"",
+    "subcategory":"Mesh Hardware",
     "name":"Server",
     "complexity/gp":"Mod/2",
     "summary":"Larger computer. Runs VR and multiple infomorphs.",
@@ -188,7 +188,7 @@
   },
   {
     "category":"Comms",
-    "subcategory":"",
+    "subcategory":"Mesh Hardware",
     "name":"Enhanced Server",
     "complexity/gp":"Maj/3",
     "summary":"Faster and more secure servers. –10 Infosec to hack.",
@@ -199,7 +199,7 @@
   },
   {
     "category":"Comms",
-    "subcategory":"",
+    "subcategory":"Mesh Hardware",
     "name":"Specialized Server",
     "complexity/gp":"Maj/3",
     "summary":"Optimized for specific functions. +10 to one specific skill test.",
