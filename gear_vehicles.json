@@ -1,0 +1,1198 @@
+[
+  {
+    "category":"Vehicles",
+    "subcategory":"Aircraft",
+    "name":"Flying Car",
+    "complexity/gp":"Maj/3",
+    "passengers":4,
+    "vigor":2,
+    "flex":1,
+    "armor_energy":12,
+    "armor_kinetic":10,
+    "wound_threshold":30,
+    "durability":150,
+    "death_rating":300,
+    "movement_rate":[
+      {
+        "movement_type":"Wheeled/Thrust Vector",
+        "base":8,
+        "full":40
+      }
+    ],
+    "size":"L",
+    "description":"<p></p>",
+    "notes":"",
+    "ware":[
+      "Access Jacks",
+      "Mesh Inserts",
+      "Puppet Sock",
+      "Radar"
+    ],
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"4c2dc58a-aec3-4efa-b700-8b7b36c395de"
+  },
+  {
+    "category":"Vehicles",
+    "subcategory":"Aircraft",
+    "name":"Microlight",
+    "complexity/gp":"Mod/2",
+    "passengers":1,
+    "vigor":0,
+    "flex":0,
+    "armor_energy":6,
+    "armor_kinetic":4,
+    "wound_threshold":6,
+    "durability":30,
+    "death_rating":60,
+    "movement_rate":[
+      {
+        "movement_type":"Microlight",
+        "base":8,
+        "full":32
+      }
+    ],
+    "size":"L",
+    "description":"<p></p>",
+    "notes":"",
+    "ware":[
+      "Access Jacks",
+      "Mesh Inserts",
+      "Puppet Sock",
+      "Radar"
+    ],
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"f47b57ee-67c9-42b0-abfb-c14d93e47086"
+  },
+  {
+    "category":"Vehicles",
+    "subcategory":"Aircraft",
+    "name":"Portable Plane",
+    "complexity/gp":"Maj/3",
+    "passengers":2,
+    "vigor":0,
+    "flex":0,
+    "armor_energy":6,
+    "armor_kinetic":4,
+    "wound_threshold":10,
+    "durability":50,
+    "death_rating":100,
+    "movement_rate":[
+
+    ],
+    "size":"L",
+    "description":"<p></p>",
+    "notes":"",
+    "ware":[
+      "Access Jacks",
+      "Mesh Inserts",
+      "Puppet Sock",
+      "Radar"
+    ],
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"9fff1b0f-b2fc-4a2c-9615-08475300a0c4"
+  },
+  {
+    "category":"Vehicles",
+    "subcategory":"Aircraft",
+    "name":"Small Jet",
+    "complexity/gp":"Rare/—",
+    "passengers":6,
+    "vigor":2,
+    "flex":0,
+    "armor_energy":12,
+    "armor_kinetic":10,
+    "wound_threshold":40,
+    "durability":200,
+    "death_rating":400,
+    "movement_rate":[
+
+    ],
+    "size":"",
+    "description":"<p></p>",
+    "notes":"",
+    "ware":[
+      "Access Jacks",
+      "Mesh Inserts",
+      "Puppet Sock",
+      "Radar",
+      "Autocook",
+      "Emergency Beacon"
+    ],
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"bade2209-17bc-42c5-a598-834036b22a4e"
+  },
+  {
+    "category":"Vehicles",
+    "subcategory":"Aircraft",
+    "name":"Utility Helicopter",
+    "complexity/gp":"Rare/—",
+    "passengers":8,
+    "vigor":2,
+    "flex":1,
+    "armor_energy":12,
+    "armor_kinetic":10,
+    "wound_threshold":30,
+    "durability":150,
+    "death_rating":300,
+    "movement_rate":[
+      {
+        "movement_type":"Rotor",
+        "base":8,
+        "full":32
+      }
+    ],
+    "size":"VL",
+    "description":"<p></p>",
+    "notes":"",
+    "ware":[
+      "Access Jacks",
+      "Mesh Inserts",
+      "Puppet Sock",
+      "Radar"
+    ],
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"2c12907f-160c-4b7c-9e51-2f7185ddfb35"
+  },
+  {
+    "category":"Vehicles",
+    "subcategory":"Exoskeletons",
+    "name":"Atlas Loader",
+    "complexity/gp":"Rare/—",
+    "passengers":1,
+    "vigor":2,
+    "flex":0,
+    "armor_energy":10,
+    "armor_kinetic":12,
+    "wound_threshold":20,
+    "durability":100,
+    "death_rating":200,
+    "movement_rate":[
+      {
+        "movement_type":"Walker",
+        "base":4,
+        "full":20
+      }
+    ],
+    "size":"VL",
+    "description":"<p></p>",
+    "notes":"+2 Vigor, +2d10 melee, armor-piercing.",
+    "ware":[
+      "Access Jacks",
+      "Mesh Inserts",
+      "Puppet Sock",
+      "Radar"
+    ],
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"d3b89c4f-cea6-4e25-8f79-a738c3b0ffab"
+  },
+  {
+    "category":"Vehicles",
+    "subcategory":"Exoskeletons",
+    "name":"Exowalker",
+    "complexity/gp":"Maj/3",
+    "passengers":1,
+    "vigor":1,
+    "flex":0,
+    "armor_energy":0,
+    "armor_kinetic":2,
+    "wound_threshold":4,
+    "durability":20,
+    "death_rating":50,
+    "movement_rate":[
+      {
+        "movement_type":"Walker",
+        "base":8,
+        "full":32
+      }
+    ],
+    "size":"M",
+    "description":"<p></p>",
+    "notes":"+1 Vigor, +1d6 melee, double jump distance.",
+    "ware":[
+      "Access Jacks",
+      "Mesh Inserts",
+      "Puppet Sock",
+      "Radar"
+    ],
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"386c2349-7a7b-4347-b651-0979ffab3a4d"
+  },
+  {
+    "category":"Vehicles",
+    "subcategory":"Exoskeletons",
+    "name":"Transporter",
+    "complexity/gp":"Mod/2",
+    "passengers":1,
+    "vigor":0,
+    "flex":0,
+    "armor_energy":0,
+    "armor_kinetic":4,
+    "wound_threshold":10,
+    "durability":50,
+    "death_rating":100,
+    "movement_rate":[
+      {
+        "movement_type":"Thrust Vector",
+        "base":8,
+        "full":40
+      }
+    ],
+    "size":"L",
+    "description":"<p></p>",
+    "notes":"",
+    "ware":[
+      "Access Jacks",
+      "Mesh Inserts",
+      "Puppet Sock",
+      "Radar"
+    ],
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"93b61a73-9532-4ddc-81c1-de3adf3752ea"
+  },
+  {
+    "category":"Vehicles",
+    "subcategory":"Exoskeletons",
+    "name":"Trike",
+    "complexity/gp":"Mod/2",
+    "passengers":1,
+    "vigor":0,
+    "flex":0,
+    "armor_energy":0,
+    "armor_kinetic":4,
+    "wound_threshold":10,
+    "durability":50,
+    "death_rating":100,
+    "movement_rate":[
+      {
+        "movement_type":"Wheeled",
+        "base":8,
+        "full":40
+      }
+    ],
+    "size":"L",
+    "description":"<p></p>",
+    "notes":"",
+    "ware":[
+      "Access Jacks",
+      "Mesh Inserts",
+      "Puppet Sock",
+      "Radar"
+    ],
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"9bf0d8ca-2580-4106-adb9-754de5e995e1"
+  },
+  {
+    "category":"Vehicles",
+    "subcategory":"Groundcraft",
+    "name":"Buggy",
+    "complexity/gp":"Maj/3",
+    "passengers":4,
+    "vigor":2,
+    "flex":1,
+    "armor_energy":12,
+    "armor_kinetic":10,
+    "wound_threshold":30,
+    "durability":150,
+    "death_rating":300,
+    "movement_rate":[
+      {
+        "movement_type":"Wheeled",
+        "base":8,
+        "full":40
+      }
+    ],
+    "size":"L",
+    "description":"<p></p>",
+    "notes":"",
+    "ware":[
+      "Access Jacks",
+      "Mesh Inserts",
+      "Puppet Sock",
+      "Radar"
+    ],
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"8ac6b041-1937-4b8a-80d2-22d6b4e8bcf0"
+  },
+  {
+    "category":"Vehicles",
+    "subcategory":"Groundcraft",
+    "name":"Cargo Hauler",
+    "complexity/gp":"Rare/—",
+    "passengers":3,
+    "vigor":2,
+    "flex":0,
+    "armor_energy":12,
+    "armor_kinetic":10,
+    "wound_threshold":50,
+    "durability":250,
+    "death_rating":500,
+    "movement_rate":[
+      {
+        "movement_type":"Wheeled",
+        "base":8,
+        "full":40
+      }
+    ],
+    "size":"VL",
+    "description":"<p></p>",
+    "notes":"",
+    "ware":[
+      "Access Jacks",
+      "Mesh Inserts",
+      "Puppet Sock",
+      "Radar"
+    ],
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"c0eda460-9eae-4ba5-b4e6-4a788438e781"
+  },
+  {
+    "category":"Vehicles",
+    "subcategory":"Groundcraft",
+    "name":"Cycle",
+    "complexity/gp":"Mod/2",
+    "passengers":1,
+    "vigor":0,
+    "flex":0,
+    "armor_energy":8,
+    "armor_kinetic":6,
+    "wound_threshold":10,
+    "durability":50,
+    "death_rating":100,
+    "movement_rate":[
+      {
+        "movement_type":"Wheeled",
+        "base":8,
+        "full":40
+      }
+    ],
+    "size":"M",
+    "description":"<p></p>",
+    "notes":"",
+    "ware":[
+      "Access Jacks",
+      "Mesh Inserts",
+      "Puppet Sock",
+      "Radar"
+    ],
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"3687d024-2e5d-4bb6-85ce-b13d97a5401b"
+  },
+  {
+    "category":"Vehicles",
+    "subcategory":"Groundcraft",
+    "name":"Ground Car",
+    "complexity/gp":"Maj/3",
+    "passengers":4,
+    "vigor":2,
+    "flex":1,
+    "armor_energy":12,
+    "armor_kinetic":10,
+    "wound_threshold":30,
+    "durability":150,
+    "death_rating":300,
+    "movement_rate":[
+      {
+        "movement_type":"Wheeled",
+        "base":8,
+        "full":40
+      }
+    ],
+    "size":"L",
+    "description":"<p></p>",
+    "notes":"",
+    "ware":[
+      "Access Jacks",
+      "Mesh Inserts",
+      "Puppet Sock",
+      "Radar"
+    ],
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"48dff6a3-39e0-4901-a023-f35a7c7a8266"
+  },
+  {
+    "category":"Vehicles",
+    "subcategory":"Groundcraft",
+    "name":"Microcar",
+    "complexity/gp":"Mod/2",
+    "passengers":1,
+    "vigor":0,
+    "flex":1,
+    "armor_energy":8,
+    "armor_kinetic":6,
+    "wound_threshold":12,
+    "durability":60,
+    "death_rating":120,
+    "movement_rate":[
+      {
+        "movement_type":"Wheeled",
+        "base":8,
+        "full":40
+      }
+    ],
+    "size":"L",
+    "description":"<p></p>",
+    "notes":"",
+    "ware":[
+      "Access Jacks",
+      "Mesh Inserts",
+      "Puppet Sock",
+      "Radar"
+    ],
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"048b521e-bde7-47b8-86f4-8f18b009c963"
+  },
+  {
+    "category":"Vehicles",
+    "subcategory":"Groundcraft",
+    "name":"Rover",
+    "complexity/gp":"Rare/—",
+    "passengers":6,
+    "vigor":2,
+    "flex":2,
+    "armor_energy":12,
+    "armor_kinetic":10,
+    "wound_threshold":50,
+    "durability":250,
+    "death_rating":500,
+    "movement_rate":[
+      {
+        "movement_type":"Wheeled",
+        "base":8,
+        "full":40
+      }
+    ],
+    "size":"VL",
+    "description":"<p></p>",
+    "notes":"",
+    "ware":[
+      "Access Jacks",
+      "Mesh Inserts",
+      "Puppet Sock",
+      "Radar",
+      "Autocook",
+      "Large Fabber",
+      "Pocket Lab"
+    ],
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"fb4e987b-a0dc-4274-9e3a-620242c70837"
+  },
+  {
+    "category":"Vehicles",
+    "subcategory":"Hardsuits",
+    "name":"Battlesuit",
+    "complexity/gp":"Rare/R/—",
+    "passengers":1,
+    "vigor":2,
+    "flex":0,
+    "armor_energy":25,
+    "armor_kinetic":25,
+    "wound_threshold":20,
+    "durability":100,
+    "death_rating":200,
+    "movement_rate":[
+      {
+        "movement_type":"Walker",
+        "base":8,
+        "full":32
+      },
+      {
+        "movement_type":"Thrust Vector",
+        "base":8,
+        "full":40
+      }
+    ],
+    "size":"L",
+    "description":"<p></p>",
+    "notes":"+1d10 melee damage, double jump distance.",
+    "ware":[
+      "Access Jacks",
+      "Mesh Inserts",
+      "Puppet Sock",
+      "Radar",
+      "Autocook",
+      "Breather",
+      "Fixer Hive",
+      "Life Support (1 week)",
+      "Pressure Adaptation",
+      "Radio Booster",
+      "Specs",
+      "Utilimod",
+      "Weapon Mounts (2 Articulated/Concealed",
+      "2 Static/Concealed)"
+    ],
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"736d024d-691d-4c5c-98b5-ed9fc79e783f"
+  },
+  {
+    "category":"Vehicles",
+    "subcategory":"Hardsuits",
+    "name":"Envirosuit",
+    "complexity/gp":"Major/3",
+    "passengers":1,
+    "vigor":0,
+    "flex":0,
+    "armor_energy":25,
+    "armor_kinetic":16,
+    "wound_threshold":16,
+    "durability":80,
+    "death_rating":160,
+    "movement_rate":[
+      {
+        "movement_type":"Walker",
+        "base":4,
+        "full":20
+      },
+      {
+        "movement_type":"Submarine",
+        "base":8,
+        "full":32
+      }
+    ],
+    "size":"M",
+    "description":"<p></p>",
+    "notes":"+1d6 melee damage.",
+    "ware":[
+      "Access Jacks",
+      "Mesh Inserts",
+      "Puppet Sock",
+      "Radar",
+      "Autocook",
+      "Breather",
+      "Cryogenic Protection",
+      "Emergency Beacon",
+      "Life Support (1 week)",
+      "Pressure Adaptation",
+      "Radio Booster",
+      "Specs",
+      "Thermogenic Protection",
+      "Utilimod"
+    ],
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"19b5263b-d12d-451e-85dc-72a0c0654d2d"
+  },
+  {
+    "category":"Vehicles",
+    "subcategory":"Hardsuits",
+    "name":"High-Dive Suit",
+    "complexity/gp":"Major/3",
+    "passengers":1,
+    "vigor":0,
+    "flex":0,
+    "armor_energy":25,
+    "armor_kinetic":8,
+    "wound_threshold":12,
+    "durability":60,
+    "death_rating":120,
+    "movement_rate":[
+      {
+        "movement_type":"Walker",
+        "base":4,
+        "full":20
+      },
+      {
+        "movement_type":"Thrust Vector",
+        "base":8,
+        "full":40
+      }
+    ],
+    "size":"M",
+    "description":"<p></p>",
+    "notes":"+1d6 melee damage.",
+    "ware":[
+      "Access Jacks",
+      "Mesh Inserts",
+      "Puppet Sock",
+      "Radar",
+      "Life Support (1 week)",
+      "Radar Absorbent",
+      "Radio Booster",
+      "Specs",
+      "Thermogenic Protection"
+    ],
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"b66d1285-575d-4d51-b1c6-46383c7dfd95"
+  },
+  {
+    "category":"Vehicles",
+    "subcategory":"Hardsuits",
+    "name":"Standard Hardsuit",
+    "complexity/gp":"Rare/6",
+    "passengers":1,
+    "vigor":1,
+    "flex":0,
+    "armor_energy":20,
+    "armor_kinetic":18,
+    "wound_threshold":12,
+    "durability":60,
+    "death_rating":120,
+    "movement_rate":[
+      {
+        "movement_type":"Walker",
+        "base":4,
+        "full":20
+      },
+      {
+        "movement_type":"Thrust Vector",
+        "base":8,
+        "full":40
+      }
+    ],
+    "size":"L",
+    "description":"<p></p>",
+    "notes":"+1d10 melee damage.",
+    "ware":[
+      "Access Jacks",
+      "Mesh Inserts",
+      "Puppet Sock",
+      "Radar",
+      "Autocook",
+      "Breather",
+      "Emergency Beacon",
+      "Fixer Hive",
+      "Life Support (1 week)",
+      "Pressure Adaptation",
+      "Radio Booster",
+      "Utilimod"
+    ],
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"6912d97f-1490-47ca-992a-9128af7f7631"
+  },
+  {
+    "category":"Vehicles",
+    "subcategory":"Hybrids",
+    "name":"GEV",
+    "complexity/gp":"Rare/—",
+    "passengers":6,
+    "vigor":2,
+    "flex":2,
+    "armor_energy":12,
+    "armor_kinetic":10,
+    "wound_threshold":50,
+    "durability":250,
+    "death_rating":500,
+    "movement_rate":[
+      {
+        "movement_type":"Walker",
+        "base":4,
+        "full":20
+      },
+      {
+        "movement_type":"Wheeled/Thrust Vector",
+        "base":8,
+        "full":40
+      },
+      {
+        "movement_type":"Submarine",
+        "base":8,
+        "full":32
+      }
+    ],
+    "size":"VL",
+    "description":"<p></p>",
+    "notes":"",
+    "ware":[
+      "Access Jacks",
+      "Mesh Inserts",
+      "Puppet Sock",
+      "Radar",
+      "Autocook",
+      "Chem Sniffer",
+      "Enhanced Hearing",
+      "Enhanced Vision",
+      "Large Fabber",
+      "Life Support (1 month)",
+      "Healing Vat",
+      "Pressure Adaptation",
+      "Portable Sensor (Telescope)"
+    ],
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"993cf388-8a6d-4536-9bb9-39fe5b3242d7"
+  },
+  {
+    "category":"Vehicles",
+    "subcategory":"Hybrids",
+    "name":"Rocket Buggy",
+    "complexity/gp":"Maj/3",
+    "passengers":4,
+    "vigor":2,
+    "flex":1,
+    "armor_energy":12,
+    "armor_kinetic":10,
+    "wound_threshold":20,
+    "durability":100,
+    "death_rating":200,
+    "movement_rate":[
+      {
+        "movement_type":"Wheeled",
+        "base":8,
+        "full":40
+      }
+    ],
+    "size":"Unlisted",
+    "description":"<p></p>",
+    "notes":"",
+    "ware":[
+      "Access Jacks",
+      "Mesh Inserts",
+      "Puppet Sock",
+      "Radar"
+    ],
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"ec539497-9b04-433d-84d8-930e31124965"
+  },
+  {
+    "category":"Vehicles",
+    "subcategory":"Nautical Craft",
+    "name":"Mini-Sub",
+    "complexity/gp":"Rare/—",
+    "passengers":4,
+    "vigor":1,
+    "flex":0,
+    "armor_energy":12,
+    "armor_kinetic":10,
+    "wound_threshold":50,
+    "durability":250,
+    "death_rating":500,
+    "movement_rate":[
+      {
+        "movement_type":"Submarine",
+        "base":8,
+        "full":32
+      }
+    ],
+    "size":"VL",
+    "description":"<p></p>",
+    "notes":"",
+    "ware":[
+      "Access Jacks",
+      "Mesh Inserts",
+      "Puppet Sock",
+      "Radar",
+      "Autocook",
+      "Breather",
+      "Cryogenic Protection",
+      "Pressure Adaptation",
+      "Sonar"
+    ],
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"24e2675e-5be1-49c9-8837-616ba422a135"
+  },
+  {
+    "category":"Vehicles",
+    "subcategory":"Pers Transport",
+    "name":"Rocket Pack",
+    "complexity/gp":"Mod/2",
+    "passengers":1,
+    "vigor":0,
+    "flex":0,
+    "armor_energy":6,
+    "armor_kinetic":4,
+    "wound_threshold":6,
+    "durability":30,
+    "death_rating":60,
+    "movement_rate":[
+      {
+        "movement_type":"Thrust Vector",
+        "base":8,
+        "full":40
+      }
+    ],
+    "size":"S",
+    "description":"<p></p>",
+    "notes":"",
+    "ware":[
+      "Access Jacks",
+      "Mesh Inserts",
+      "Puppet Sock",
+      "Radar"
+    ],
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"2f348b79-bf95-4657-bfcd-fc9f3fe18439"
+  },
+  {
+    "category":"Vehicles",
+    "subcategory":"Pers Transport",
+    "name":"Sled",
+    "complexity/gp":"Min/1",
+    "passengers":2,
+    "vigor":0,
+    "flex":0,
+    "armor_energy":6,
+    "armor_kinetic":4,
+    "wound_threshold":8,
+    "durability":40,
+    "death_rating":80,
+    "movement_rate":[
+      {
+        "movement_type":"Thrust Vector",
+        "base":8,
+        "full":40
+      }
+    ],
+    "size":"S",
+    "description":"<p></p>",
+    "notes":"",
+    "ware":[
+      "Access Jacks",
+      "Mesh Inserts",
+      "Puppet Sock",
+      "Radar"
+    ],
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"761e14e5-d5f4-4a29-b446-086665324888"
+  },
+  {
+    "category":"Vehicles",
+    "subcategory":"Pers Transport",
+    "name":"Thruster Pack",
+    "complexity/gp":"Min/1",
+    "passengers":1,
+    "vigor":0,
+    "flex":0,
+    "armor_energy":6,
+    "armor_kinetic":4,
+    "wound_threshold":6,
+    "durability":30,
+    "death_rating":60,
+    "movement_rate":[
+      {
+        "movement_type":"Thrust Vector",
+        "base":8,
+        "full":40
+      }
+    ],
+    "size":"S",
+    "description":"<p></p>",
+    "notes":"",
+    "ware":[
+      "Access Jacks",
+      "Mesh Inserts",
+      "Puppet Sock",
+      "Radar"
+    ],
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"761659a9-373c-4e0e-b40c-4e6710ed299b"
+  },
+  {
+    "category":"Vehicles",
+    "subcategory":"Spacecraft",
+    "name":"Bulk Carrier",
+    "complexity/gp":"Rare/—",
+    "passengers":5,
+    "vigor":0,
+    "flex":0,
+    "armor_energy":40,
+    "armor_kinetic":30,
+    "wound_threshold":150,
+    "durability":750,
+    "death_rating":1500,
+    "movement_rate":[
+      {
+        "movement_type":"Fusion",
+        "base":0,
+        "full":0
+      }
+    ],
+    "size":"Spacecraft",
+    "description":"<p></p>",
+    "notes":"",
+    "ware":[
+      "Access Jacks",
+      "Mesh Inserts",
+      "Puppet Sock",
+      "Radar"
+    ],
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"d180e3c0-0b5c-4c10-995e-d656239ebe75"
+  },
+  {
+    "category":"Vehicles",
+    "subcategory":"Spacecraft",
+    "name":"Courier",
+    "complexity/gp":"Rare/—",
+    "passengers":13,
+    "vigor":0,
+    "flex":0,
+    "armor_energy":30,
+    "armor_kinetic":20,
+    "wound_threshold":100,
+    "durability":500,
+    "death_rating":1000,
+    "movement_rate":[
+      {
+        "movement_type":"Anti-matter",
+        "base":0,
+        "full":0
+      }
+    ],
+    "size":"Spacecraft",
+    "description":"<p></p>",
+    "notes":"",
+    "ware":[
+      "Access Jacks",
+      "Mesh Inserts",
+      "Puppet Sock",
+      "Radar"
+    ],
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"e88e497c-bd26-4c02-b8dc-2821645af940"
+  },
+  {
+    "category":"Vehicles",
+    "subcategory":"Spacecraft",
+    "name":"Corvette",
+    "complexity/gp":"Rare/—",
+    "passengers":30,
+    "vigor":0,
+    "flex":0,
+    "armor_energy":50,
+    "armor_kinetic":40,
+    "wound_threshold":150,
+    "durability":750,
+    "death_rating":1500,
+    "movement_rate":[
+      {
+        "movement_type":"Fusion/Anti-matter",
+        "base":0,
+        "full":0
+      }
+    ],
+    "size":"Spacecraft",
+    "description":"<p></p>",
+    "notes":"",
+    "ware":[
+      "Access Jacks",
+      "Mesh Inserts",
+      "Puppet Sock",
+      "Radar"
+    ],
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"31b4dae0-da53-4de8-8dda-df08fe2f9179"
+  },
+  {
+    "category":"Vehicles",
+    "subcategory":"Spacecraft",
+    "name":"Destroyer",
+    "complexity/gp":"Rare/—",
+    "passengers":90,
+    "vigor":0,
+    "flex":0,
+    "armor_energy":50,
+    "armor_kinetic":40,
+    "wound_threshold":400,
+    "durability":2000,
+    "death_rating":4000,
+    "movement_rate":[
+      {
+        "movement_type":"Fusion/Anti-matter",
+        "base":0,
+        "full":0
+      }
+    ],
+    "size":"Spacecraft",
+    "description":"<p></p>",
+    "notes":"",
+    "ware":[
+      "Access Jacks",
+      "Mesh Inserts",
+      "Puppet Sock",
+      "Radar"
+    ],
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"fa097e45-63ca-4aa3-af3c-6eb6dc70e91b"
+  },
+  {
+    "category":"Vehicles",
+    "subcategory":"Spacecraft",
+    "name":"Fighter",
+    "complexity/gp":"Rare/—",
+    "passengers":1,
+    "vigor":3,
+    "flex":2,
+    "armor_energy":30,
+    "armor_kinetic":20,
+    "wound_threshold":50,
+    "durability":250,
+    "death_rating":500,
+    "movement_rate":[
+      {
+        "movement_type":"Fusion",
+        "base":0,
+        "full":0
+      }
+    ],
+    "size":"Spacecraft",
+    "description":"<p></p>",
+    "notes":"",
+    "ware":[
+      "Access Jacks",
+      "Mesh Inserts",
+      "Puppet Sock",
+      "Radar"
+    ],
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"e2b501d9-8009-4e6a-bed9-a70198ddb9d9"
+  },
+  {
+    "category":"Vehicles",
+    "subcategory":"Spacecraft",
+    "name":"Scum Barge",
+    "complexity/gp":"Rare/—",
+    "passengers":25000,
+    "vigor":0,
+    "flex":0,
+    "armor_energy":40,
+    "armor_kinetic":30,
+    "wound_threshold":300,
+    "durability":1500,
+    "death_rating":3000,
+    "movement_rate":[
+      {
+        "movement_type":"Plasma/Fusion",
+        "base":0,
+        "full":0
+      }
+    ],
+    "size":"Spacecraft",
+    "description":"<p></p>",
+    "notes":"",
+    "ware":[
+      "Access Jacks",
+      "Mesh Inserts",
+      "Puppet Sock",
+      "Radar"
+    ],
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"c3b21ff3-1832-44cc-af3c-192ca6eb5e9e"
+  },
+  {
+    "category":"Vehicles",
+    "subcategory":"Spacecraft",
+    "name":"Shuttle (Large)",
+    "complexity/gp":"Rare/—",
+    "passengers":300,
+    "vigor":0,
+    "flex":0,
+    "armor_energy":20,
+    "armor_kinetic":15,
+    "wound_threshold":80,
+    "durability":400,
+    "death_rating":800,
+    "movement_rate":[
+      {
+        "movement_type":"Metallic-Hydrogen",
+        "base":0,
+        "full":0
+      }
+    ],
+    "size":"Spacecraft",
+    "description":"<p></p>",
+    "notes":"",
+    "ware":[
+      "Access Jacks",
+      "Mesh Inserts",
+      "Puppet Sock",
+      "Radar"
+    ],
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"c6367299-9865-4957-b6fc-079791a39664"
+  },
+  {
+    "category":"Vehicles",
+    "subcategory":"Spacecraft",
+    "name":"Shuttle (Small)",
+    "complexity/gp":"Rare/—",
+    "passengers":20,
+    "vigor":0,
+    "flex":0,
+    "armor_energy":20,
+    "armor_kinetic":15,
+    "wound_threshold":80,
+    "durability":400,
+    "death_rating":800,
+    "movement_rate":[
+      {
+        "movement_type":"Metallic-Hydrogen",
+        "base":0,
+        "full":0
+      }
+    ],
+    "size":"Spacecraft",
+    "description":"<p></p>",
+    "notes":"",
+    "ware":[
+      "Access Jacks",
+      "Mesh Inserts",
+      "Puppet Sock",
+      "Radar"
+    ],
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"83439dce-dabf-4b49-9cea-18f81019151c"
+  },
+  {
+    "category":"Vehicles",
+    "subcategory":"Spacecraft",
+    "name":"Transport",
+    "complexity/gp":"Rare/—",
+    "passengers":100,
+    "vigor":0,
+    "flex":0,
+    "armor_energy":40,
+    "armor_kinetic":30,
+    "wound_threshold":150,
+    "durability":750,
+    "death_rating":1500,
+    "movement_rate":[
+      {
+        "movement_type":"Fusion",
+        "base":0,
+        "full":0
+      }
+    ],
+    "size":"Spacecraft",
+    "description":"<p></p>",
+    "notes":"",
+    "ware":[
+      "Access Jacks",
+      "Mesh Inserts",
+      "Puppet Sock",
+      "Radar"
+    ],
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"515781f1-94bb-4ee8-9a7f-2cc7a7d01d0d"
+  }
+]
