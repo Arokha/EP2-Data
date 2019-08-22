@@ -1,0 +1,222 @@
+[
+  {
+    "category":"Services",
+    "subcategory":"Mesh Services",
+    "name":"Anonymizer",
+    "complexity/gp":"Min/1",
+    "summary":"Masks your mesh ID.",
+    "description":"<p>You have an account with an anonymizing proxy service that masks your Mesh ID ▶246.</p>",
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"10a91ec8-64a8-485e-8e0d-e40f3a4d6012"
+  },
+  {
+    "category":"Services",
+    "subcategory":"Mesh Services",
+    "name":"Archive",
+    "complexity/gp":"Min/1",
+    "summary":"+10 Research Tests related to one Know skill.",
+    "description":"<p>Each archive has a different focus (as Know skill fields). Using a relevant archive provides a +10 modifier to Research Tests involving that subject.</p>",
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"8505c4ec-962c-40b3-b646-5de44ef82363"
+  },
+  {
+    "category":"Services",
+    "subcategory":"Mesh Services",
+    "name":"Data Broker",
+    "complexity/gp":"Min/1",
+    "summary":"+10 Research Tests.",
+    "description":"<p>Both corporate marketers and black market cartels peddle people’s private data. Each broker focuses on a particular demographic, such as a city or profession. Apply a +10 modifier to relevant Research Tests.</p>",
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"bdb4fd46-660c-467f-ac2d-e78e9536b5c1"
+  },
+  {
+    "category":"Services",
+    "subcategory":"Mesh Services",
+    "name":"Private Sensor Feed",
+    "complexity/gp":"Min/1",
+    "summary":"+10 Perceive for that area.",
+    "description":"<p>Each private sensor feed covers an area equivalent to a neighborhood or small habitat. Using it provides a +10 bonus to Perceive Tests when surveiling that area.</p>",
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"52022e3b-d4d5-49e2-a691-cba19e891f5c"
+  },
+  {
+    "category":"Services",
+    "subcategory":"Mesh Services",
+    "name":"Private Server Partition",
+    "complexity/gp":"Min/1",
+    "summary":"Private space on a cloud server.",
+    "description":"<p>Home space for an infomorph on a protected cloud server.</p>",
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"77226c59-95be-432b-a890-fe108c8a7ded"
+  },
+  {
+    "category":"Services",
+    "subcategory":"Mesh Services",
+    "name":"Private Server",
+    "complexity/gp":"Min/1 or Mod/2 ",
+    "summary":"Private server, self-administrated (Min) or managed by others (Mod).",
+    "description":"<p>Capable of running simulspace and 50 infomorphs.</p>",
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"cca918b6-8522-42d0-8c2d-8f8dec9cb535"
+  },
+  {
+    "category":"Services",
+    "subcategory":"Mesh Services",
+    "name":"Simulspace",
+    "complexity/gp":"Min/1",
+    "summary":"Access to a VR space.",
+    "description":"<p>You have access to a virtual game environment, private meeting space, interactive media service, unreal vacation library, or other simulspace environment. These services are available on some habitats.</p>",
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"0fb75b82-b9d4-45f3-977c-84025a706dda"
+  },
+  {
+    "category":"Services",
+    "subcategory":"Physical Services",
+    "name":"Bot/Vehicle Rental",
+    "complexity/gp":"Min/1",
+    "summary":"Rent a bot for 1 week.",
+    "description":"<p>In some locations, bots and vehicles can be rented on a weekly basis, though you are liable for damages/replacement. The GM determines availability.</p>",
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"1146b894-28cb-4f60-badf-d5d78a3bb506"
+  },
+  {
+    "category":"Services",
+    "subcategory":"Physical Services",
+    "name":"Dead Zone Map",
+    "complexity/gp":"Min/1",
+    "summary":"Map of areas lacking surveillance coverage.",
+    "description":"<p>This map shows areas in a neighborhood or small habitat that lack public and/or private surveillance coverage.</p>",
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"c3f10b0c-b592-488c-a79e-f962bea68a79"
+  },
+  {
+    "category":"Services",
+    "subcategory":"Physical Services",
+    "name":"Egocasting",
+    "complexity/gp":"Mod+/2+",
+    "summary":"Transmit your ego to another location.",
+    "description":"<p>This is the use of a ship or habitat’s farcaster to transmit an ego/infomorph. Farcasting is not cheap, and the cost is impacted by factors such as distance to receiver station and priority service (paying extra to get bumped ahead in line).</p>",
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"63528383-4514-4dd9-89fb-9b626ccd7063"
+  },
+  {
+    "category":"Services",
+    "subcategory":"Physical Services",
+    "name":"Fake Ego ID",
+    "complexity/gp":"Maj/R/3",
+    "summary":"Forged ID.",
+    "description":"<p>This forged ID will pass in most inner system and Jovian Republic habitats, and sometimes others. It gives you a rep score in one network with that ID at 10.</p>",
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"6c2eb0eb-fd52-4d20-9cc3-999f781a1aaa"
+  },
+  {
+    "category":"Services",
+    "subcategory":"Physical Services",
+    "name":"Healing Service",
+    "complexity/gp":"Min/1",
+    "summary":"A day in a healing vat.",
+    "description":"<p>A day in a healing vat can be used for wound recovery or elective surgery (Healing & Repair ▶221).</p>",
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"4f0107b0-0541-42f4-b1ea-925af1db2e73"
+  },
+  {
+    "category":"Services",
+    "subcategory":"Physical Services",
+    "name":"License",
+    "complexity/gp":"Mod/R/2",
+    "summary":"License to perform a restricted activity.",
+    "description":"<p>You acquire a license to carry a weapon or perform some other restricted activity. Requires an ID/background check.</p>",
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"2e0ce1e3-f25c-4469-b141-78838b3d7d90"
+  },
+  {
+    "category":"Services",
+    "subcategory":"Physical Services",
+    "name":"Morph Storage",
+    "complexity/gp":"Min/1",
+    "summary":"Store an unused morph for 1 week.",
+    "description":"<p>Your biomorph is kept on ice for a week or your synthmorph securely stored, without being rented out to others.</p>",
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"24bf47f9-478f-4567-bbaf-550bef8c2435"
+  },
+  {
+    "category":"Services",
+    "subcategory":"Physical Services",
+    "name":"Privacy Suite",
+    "complexity/gp":"Min/1",
+    "summary":"Use of a surveillance-free room for 1 hour.",
+    "description":"<p>Per hour privacy suite services are offered by many restaurants, night clubs, hotels, and similar businesses who frequently have clientèle that desire a private space for meetings or other functions.</p>",
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"659afe4d-2357-457e-9e54-ac3e66c69ce4"
+  },
+  {
+    "category":"Services",
+    "subcategory":"Physical Services",
+    "name":"Professional Service",
+    "complexity/gp":"Mod+/2+",
+    "summary":"Help from a skilled professional.",
+    "description":"<p>You may need to seek the services of a skilled professional. This can include anything from weapons repair, bodyguarding, or scientific analysis to ripping a surveillance dead zone or hacking a database.</p>",
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"1f7a79c6-ebe8-4a50-b016-940312a13cac"
+  },
+  {
+    "category":"Services",
+    "subcategory":"Physical Services",
+    "name":"Psychosurgery",
+    "complexity/gp":"Min/1",
+    "summary":"Psychosurgical therapy for 1 hour.",
+    "description":"<p>An hour long (subjectively longer with time acceleration) psychosurgery session in an immersive high-fidelity simulspace can help you recover from mental stress and trauma (Mental Healing & Psychosurgery ▶223).</p>",
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"62649b05-d091-420d-8901-028e49854371"
+  },
+  {
+    "category":"Services",
+    "subcategory":"Physical Services",
+    "name":"Recovery Bond",
+    "complexity/gp":"Maj/3",
+    "summary":"An agent will seek to recover your stack via safe/legal means.",
+    "description":"<p>In the event of your death or disappearance, an agent of the insurer will personally seek to recover your cortical stack using all safe and legal methods at their disposal. This includes negotiating with rival polities, paying ransoms, sponsoring search teams, etc.</p>",
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"3e813256-abcf-4e17-b737-6ab84e4ee57e"
+  },
+  {
+    "category":"Services",
+    "subcategory":"Physical Services",
+    "name":"Recovery Bond (Hazardous)",
+    "complexity/gp":"Rare/—",
+    "summary":"A team will seek to retrieve your stack despite threats/legalities.",
+    "description":"<p>As a regular bond, except that a team of agents will seek out your stack even against adverse and hostile conditions, including infiltrating war zones and running rescue ops on unknown exoplanets. This may include stealing the stack back from hostile parties.</p>",
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"252a6ff0-d63e-4ed0-811d-7aa22865c085"
+  },
+  {
+    "category":"Services",
+    "subcategory":"Physical Services",
+    "name":"Space Travel",
+    "complexity/gp":"Mod+/2+",
+    "summary":"Transport on a spacecraft.",
+    "description":"<p>Space transport cost depends on a number of factors like distance, quality of lodgings, and how much cargo you’re bringing with. At the low end, an intra-habitat shuttle trip within the same cluster, or a trip to or from a planetary body’s surface and orbit, is not cheap but affordable. Just about anything else is progressively more costly.</p>",
+    "resource":"Eclipse Phase Second Edition",
+    "reference":"",
+    "id":"9a6e5263-17e2-465f-9f1f-b482a9455d92"
+  }
+]
