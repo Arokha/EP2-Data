@@ -203,5 +203,62 @@
         "text":"<p>Meshware refers to plug-in apps that enhance an infomorph’s capabilities, much like the bioware and hardware for physical morphs. Meshware takes only a complex action to install or uninstall. Once installed, meshware remains with the infomorph when it moves or copies. Meshware can also be installed within cyberbrains. Other apps can also be installed as meshware, so they are embedded within the infomorph. Unlike other apps, meshware cannot be used by non-infomorph/cyberbrained users.</p>"
       }
     }
+  },
+  "Melee Weapons":{
+    "text":"<p>In an era of lethal and incapacitating ranged weaponry, someone equipped for close combat is often at a disadvantage. However, even hardened fighters are wary of getting within reach of certain synthmorphs or heavily augmented biomorphs.</p><p>Except as noted, all melee implements are wielded with Melee skill. Melee ware and weapons may be coated with drugs or toxins (Coated Weapons ▶219) such as poison or nanotoxins secreted from a poison gland ▶322 or implanted nanotoxins ▶335.</p>",
+    "subcategories":{
+      "Melee Ware":{
+        "text":"<p>Implanted weaponry can be combined with eelware to deliver electric shocks.</p>"
+      },
+      "Melee Weapons":{
+        "text":"<p>Melee weapons range from the archaic to high tech:</p>"
+      },
+      "Improvised Melee":{
+        "text":"<p>hand — or maybe you just think you look cool whaling on someone with a meter of chain. The Improvised Weapons table offers statistics for a few likely ad-hoc items. GMs can use these as guidelines for handling items that aren’t listed. These weapons are wielded with Melee skill, though the GM may rule in some cases that an Exotic Skill is necessary.</p>"
+      }
+    }
+  },
+  "Ranged Weapons":{
+    "text":"<p>Ranged combat attacks fall into five categories: beam weapons, kinetic weapons, seeker weapons, spray weapons, and weapon systems. Each is described below.</p><p>Most ranged weapons are constructed from lightweight but hardy ceramic hybrids and refractory metals. They are designed for ambidextrous use and equipped with safety systems ▶216, smartlink systems ▶217, and helper ALIs that automatically mesh with the wielder for firing assistance, target recognition, and tactical networking.</p>",
+    "subcategories":{
+      "Ranged Ware":{
+        "text":"<p></p>"
+      },
+      "Beam Weapons":{
+        "text":"<p>Most coherent-energy weapons are deployed for less-lethal purposes, designed to impair rather than kill. They are wielded with Guns skill and resisted with energy armor.</p><p>All beam weapons are equipped with both a standard and nuclear battery ▶317. The standard battery powers the weapon’s shots until depleted (per its Ammo stat). The nuclear battery will recharge a standard battery completely in 4 hours. Standard batteries can be swapped out with a reload complex action. A battery used in one type of beam weapon may not be used in other types.</p>"
+      },
+      "Spray Weapons":{
+        "text":"<p>Spray weapons blast their ammunition in a widening cone, allowing the firer to strike several targets at once (Area Effect ▶218). They are fired using Guns skill.</p><p><b>Ammunition:</b> With the exception of buzzers (which use nanoswarms) and sprayers (which use chemicals/drugs, 3 doses per shot), spray weapons follow the ammunition and reloading rules ▶206.</p>"
+      },
+      "Kinetic Weapons":{
+        "text":"<p>Kinetic weapons fire hard-impact projectiles at high velocities to damage the target. There are two categories of slug-throwers, based on their firing mechanisms: chemical firearms and railguns. Railguns have higher penetration and inflict more damage, offset by battery needs and more limited ammunition choices. Most firearms are equipped with programmable smart bullets by default and have a range of other ammunition choices. Due to their lethality and versatility, they remain in widespread use. Both firearms and railguns work in vacuum. They are wielded with Guns skill and resisted with kinetic armor.</p><p>Modern chemical firearms use caseless smart ammunition that is auto-loaded from a magazine. They are effectively recoilless (thanks to rheological smart fluid mechanisms) and electronically fired (an electric charge vaporizes the propellant, using the expanding steam and plasma to eject and accelerate the projectile).</p>"
+      },
+      "Seeker Weapons":{
+        "text":"<p>Seeker weapons are a combination of automatic grenade launcher, micromissile, coilgun, and smart munitions technology in personal weapon sizes. Seeker rounds are fired at high-velocity via rings of magnetic coils, after which the micromissile or minimissile uses scramjets or solid-fuel rockets to propel itself and maintain high velocities over great distances. Seekers are fired using Guns skill.</p>"
+      },
+      "Weapon Mods":{
+        "text":"<p>The following accessories are available for weapons.</p>"
+      },
+      "Kinetic Ammo":{
+        "text":"<p>Ammunition is defined by its various types (regular, armor-piercing, capsule, etc.) and by the class of gun (light pistol, heavy pistol, SMG, etc.). For simplicity, each gun can trade ammunition with another gun of its class, though ammunition for firearms and railguns is not exchangeable. For example, all railgun SMGs can share ammo. Due to the high speeds at which railguns fire, they can only use railgun ammo; firearms have more options.</p><p>The ammunition’s Damage Value modifiers are added to the weapon’s base DV.</p>"
+      },
+      "Seeker/Grenade Ammo":{
+        "text":"<p>Seekers and grenades are both compact, multi-function, explosive devices. Seekers are packaged in standard missile, minimissile, or micromissile sizes and fired from seeker weapons using Guns skill. Grenades are designed to be thrown using Athletics skill or placed as traps using Hardware: Explosives. Grenades come in standard form or as minigrenades.</p><p>Minigrenades and micromissiles are the baseline for listed effects. Adjust the effects for minimissiles and standard grenades/ missiles as noted on the table. Most are area-effect weapons ▶218. Each can be set for different trigger conditions ▶213 or to adjust the blast radius ▶218. Seekers/grenades that miss or that hit but are not sticky ▶below and are not set for impact or airburst detonation will scatter ▶218. Listed complexity is for 5 grenades/missiles. Each seeker missile can function as either accushot or homing ammunition ▶211.</p>"
+      }
+    }
+  },
+  "Armor":{
+    "text":"<p>Armor technology has kept pace with weapons development, providing unprecedented levels of protection.</p>",
+    "subcategories":{
+      "Armor Ware":{
+        "text":"<p>Armor in ware form for bio- and synthmorphs alike.</p>"
+      },
+      "Armor Gear":{
+        "text":"<p>Modern armor materials in Eclipse Phase include spidersilk weaves, crystalline-grown plates, shock-absorbing fullerenes, diamond coatings, self-repairing ablative materials, and shear-resistant fluids that harden against impacts. These materials protect against (armorpiercing) bullets and kinetic impacts as well as bladed weapons and piercing, sharp objects. They also insulate against both the explosive heating of energy weapons and electrical shocks. While such armor protects against bullets, the layers simply catch the bullet and redistribute its kinetic energy across the body, which can still result in severe blunt force trauma.</p>"
+      },
+      "Armor Mods":{
+        "text":"<p>Armor modifications add extra materials or coatings that either enhance resistance to certain dangers or provide other effects. Listings are for temporary coatings, which can be applied to clothing, armor, or even directly to a morph’s skin or shell with a spray-on nanobot applicator, are easily removed, and last 1 day. Permanent coatings require a specialized hive ▶342. With the exception of chameleon coating, armor mods are visible and easily identified. Only one mod can be applied at a time.</p>"
+      }
+    }
   }
 }
