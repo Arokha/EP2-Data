@@ -80,9 +80,9 @@
     "category":"Tech",
     "subcategory":"Hives",
     "name":"Specialized Hive",
-    "complexity/gp":"Mod/2",
-    "summary":"or Maj/3 Makes/maintains one swarm type.",
-    "description":"<p>Specialized hives are far more common than general hives. Each produces only a single type of swarm (blueprints included). Hives are small sized. complexity is one step above the swarm's complexity.</p>",
+    "complexity/gp":"Mod/2 or Maj/3",
+    "summary":"Makes/maintains one swarm type.",
+    "description":"<p>Specialized hives are far more common than general hives. Each produces only a single type of swarm (blueprints included). Hives are small sized. Complexity is one step above the swarm's complexity.</p>",
     "resource":"Eclipse Phase Second Edition",
     "reference":"",
     "id":"a5bb6cf0-0f2d-4d49-a3f5-06d9bb5f34ce"
