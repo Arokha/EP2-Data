@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "category": "Ware",
     "subcategory": "Combat",
@@ -10,7 +10,7 @@
     "nanoware": false,
     "complexity/gp": "Maj/3",
     "summary": "Supercharged adrenal response. +1 Vigor, ignore 1 wound.",
-    "description": "<p>This gland enhancement supercharges your adrenal response to situations that invoke stress, pain, or strong emotions (fear, anger, lust, hate). When activated (mentally or by stress/emotions), the concentrated burst of norepinephrine accelerates heart rate and blood flow and burns carbohydrates. You receive +1 Vigor pool and ignore the modifiers from 1 wound. Extensive use of this mod without a break can lead to adrenal fatigue (–20 impairment modifier to all actions; GM discretion).</p>",
+    "description": "<p>This gland enhancement supercharges your adrenal response to situations that invoke stress, pain, or strong emotions (fear, anger, lust, hate). When activated (mentally or by stress/emotions), the concentrated burst of norepinephrine accelerates heart rate and blood flow and burns carbohydrates. You receive +1 Vigor pool and ignore the modifiers from 1 wound. Extensive use of this mod without a break can lead to adrenal fatigue (-20 impairment modifier to all actions; GM discretion).</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "56a7da15-fc8a-461b-b175-b8580fa4e515"
@@ -170,7 +170,7 @@
     "nanoware": false,
     "complexity/gp": "Maj/3",
     "summary": "Enhanced synapses and neurotransmitters. +2 Vigor.",
-    "description": "<p>This mod enhances your chemical synapses and juices your neurotransmitters, drastically speeding up your neural connections. Neurachem can be mentally activated or triggered by charged emotions. +2 Vigor Pool while active. Extensive use of neurachem without a break can lead to nervous system fatigue (–20 impairment modifier to all actions; GM discretion).</p>",
+    "description": "<p>This mod enhances your chemical synapses and juices your neurotransmitters, drastically speeding up your neural connections. Neurachem can be mentally activated or triggered by charged emotions. +2 Vigor Pool while active. Extensive use of neurachem without a break can lead to nervous system fatigue (-20 impairment modifier to all actions; GM discretion).</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "e4f87a54-2ab0-4153-87c7-fb77b3a32e5c"
@@ -249,8 +249,8 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Mod/2",
-    "summary": "–30 Perceive using radar/terahertz.",
-    "description": "<p>The shell is rebuilt with materials that pass, absorb, or trap radar and terahertz waves, reducing its sensor signature. Apply a –30 modifier to Perceive Tests to detect the morph using radar/terahertz.</p>",
+    "summary": "-30 Perceive using radar/terahertz.",
+    "description": "<p>The shell is rebuilt with materials that pass, absorb, or trap radar and terahertz waves, reducing its sensor signature. Apply a -30 modifier to Perceive Tests to detect the morph using radar/terahertz.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "b4d9d386-5aa3-49f4-953b-893884363a5d"
@@ -441,8 +441,8 @@
     "meshware": true,
     "nanoware": false,
     "complexity/gp": "Mod/2",
-    "summary": "Ignore the –10 modifier when jamming.",
-    "description": "<p>This simsense augmentation gives you better control when jamming drones (Remote Operations ▶346). You ignore the –10 modifier for jamming.</p>",
+    "summary": "Ignore the -10 modifier when jamming.",
+    "description": "<p>This simsense augmentation gives you better control when jamming drones (Remote Operations ▶346). You ignore the -10 modifier for jamming.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "b14efa53-2c3f-4063-a1dd-7cc338085f81"
@@ -601,7 +601,7 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "summary": "Handle temps as low as –80 C/–112 F.",
+    "summary": "Handle temps as low as -80 C/-112 F.",
     "description": "<p>Your morph’s temperature regulation and circulation are substantially enhanced, allowing you to survive in temperatures as low as −80 C/−112 F without discomfort or ill effects. This mod is common on Mars, allowing you to handle the weather without heavy clothing.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
@@ -617,8 +617,8 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Mod/2",
-    "summary": "Handle temps as low as –120/–200 C (biomorphs) or lower (synthmorphs).",
-    "description": "<p>The morph features special insulation and heating. Biomorphs can withstand −120 C temps, or down to –200 C in environments with 0.1 atmospheres or less. Synthmorphs can handle the coldest temperatures in the Solar System.</p>",
+    "summary": "Handle temps as low as -120/-200 C (biomorphs) or lower (synthmorphs).",
+    "description": "<p>The morph features special insulation and heating. Biomorphs can withstand −120 C temps, or down to -200 C in environments with 0.1 atmospheres or less. Synthmorphs can handle the coldest temperatures in the Solar System.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "c6683320-4aab-44a7-957b-969ac6ec9c82"
@@ -857,8 +857,8 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "summary": "Can use feet as hands. –8 full move.",
-    "description": "<p>You can use your feet like hands. Your feet and leg joints are altered so that your toes are longer and more dexterous. The big toe is transformed into an opposable thumb. Physically, your morph’s feet resemble a longer, narrower hand or a foot with finger-like toes. You can walk normally but must wear specially designed shoes. However, you run slightly slower than a morph with unmodified feet (–8 to your full movement). Your hips are also modified for greater mobility and flexibility. In a properly constructed chair, or floating in zero g, you can use both your hands and feet to manipulate the same object. This mod is common among belters, brinkers, and others living in microgravity.</p>",
+    "summary": "Can use feet as hands. -8 full move.",
+    "description": "<p>You can use your feet like hands. Your feet and leg joints are altered so that your toes are longer and more dexterous. The big toe is transformed into an opposable thumb. Physically, your morph’s feet resemble a longer, narrower hand or a foot with finger-like toes. You can walk normally but must wear specially designed shoes. However, you run slightly slower than a morph with unmodified feet (-8 to your full movement). Your hips are also modified for greater mobility and flexibility. In a properly constructed chair, or floating in zero g, you can use both your hands and feet to manipulate the same object. This mod is common among belters, brinkers, and others living in microgravity.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "dee24833-f7ad-42db-9cdf-e606cfa6cff8"
@@ -1082,7 +1082,7 @@
     "nanoware": false,
     "complexity/gp": "Min/1",
     "summary": "Innate sense of direction and distance.",
-    "description": "<p>You acquire an innate sense of direction and distance using advanced inertial navigation. You can identify north, spinward, etc., keep track of that direction, and know approximately how far you’ve come. You can retrace routes with ease, though you may have trouble with three-dimensional routes lacking navigational markers (such as deep space or undersea; make an INT Check at –30). Since it is trivial to use the mesh for positioning, this augmentation is primarily used by gatecrashers.</p>",
+    "description": "<p>You acquire an innate sense of direction and distance using advanced inertial navigation. You can identify north, spinward, etc., keep track of that direction, and know approximately how far you’ve come. You can retrace routes with ease, though you may have trouble with three-dimensional routes lacking navigational markers (such as deep space or undersea; make an INT Check at -30). Since it is trivial to use the mesh for positioning, this augmentation is primarily used by gatecrashers.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "131fe013-66be-41bf-a006-8e999ecbb8b0"
@@ -1466,7 +1466,7 @@
     "nanoware": false,
     "complexity/gp": "Mod/2",
     "summary": "Faux skin for synthmorph. +30 disguise-based Deceive Tests.",
-    "description": "<p>Your shell is equipped with a realistic faux-skin casing and carefully sculpted to pass as a biomorph (perhaps even a particular person). The morph can cry, spit, have sex, and will even bleed if cut. Only a detailed physical examination at –30 or a radar or x-ray scan will detect the synthmorph’s true nature. If disguised as a particular person, apply a +30 modifier to disguise-based Deceive or Exotic Skill: Disguise Tests.</p>",
+    "description": "<p>Your shell is equipped with a realistic faux-skin casing and carefully sculpted to pass as a biomorph (perhaps even a particular person). The morph can cry, spit, have sex, and will even bleed if cut. Only a detailed physical examination at -30 or a radar or x-ray scan will detect the synthmorph’s true nature. If disguised as a particular person, apply a +30 modifier to disguise-based Deceive or Exotic Skill: Disguise Tests.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "09c84382-9c23-4c4a-bdbd-eadfab90949d"
@@ -1593,8 +1593,8 @@
     "meshware": true,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "summary": "–30 Infosec to remove apps without authorization.",
-    "description": "<p>App-lock makes it more difficult for an installed app to be removed without proper authentication (apply a –30 modifier). This is useful for infomorphs/cyberbrains that are brainhacked and modified against their will. The protected apps must be designated in advance (when app-lock is installed or reconfigured).</p>",
+    "summary": "-30 Infosec to remove apps without authorization.",
+    "description": "<p>App-lock makes it more difficult for an installed app to be removed without proper authentication (apply a -30 modifier). This is useful for infomorphs/cyberbrains that are brainhacked and modified against their will. The protected apps must be designated in advance (when app-lock is installed or reconfigured).</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "8ebe544d-faa2-4b49-b829-4721bfc94b4f"
@@ -1625,8 +1625,8 @@
     "meshware": true,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "summary": "Prevents copying/forking, –30 Infosec to copy.",
-    "description": "<p>Copylock prevents an infomorph (or ego within a cyberbrain) from copying, whether voluntarily or not, without proper authorization. This is used to restrict forks, indentures, and people who don’t trust themselves. It also defends against forknappers: brainhackers that attempt to copy the infomorph suffer –30 to their Infosec Tests. Copylock also prevents an infomorph from moving between devices or sleeving into a morph.</p>",
+    "summary": "Prevents copying/forking, -30 Infosec to copy.",
+    "description": "<p>Copylock prevents an infomorph (or ego within a cyberbrain) from copying, whether voluntarily or not, without proper authorization. This is used to restrict forks, indentures, and people who don’t trust themselves. It also defends against forknappers: brainhackers that attempt to copy the infomorph suffer -30 to their Infosec Tests. Copylock also prevents an infomorph from moving between devices or sleeving into a morph.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "84e9ee59-cb03-479d-a250-ba939d6a94ab"
@@ -1641,8 +1641,8 @@
     "meshware": true,
     "nanoware": false,
     "complexity/gp": "Mod/2",
-    "summary": "–10 Infosec to hack, –30 in defensive mode but no Insight pool and –3 INIT.",
-    "description": "<p>This meshware installs additional firewall and security layers, making the infomorph/cyberbrain harder to hack. Apply a –10 modifier to attempts to brainhack your digital mind.</p><p>You can also use this meshware to enter a heightened state of security — Defensive Mode. When activated with a quick action, the modifier to brainhack you is increased to –30. This lock-down status impairs your functions, however; you cannot use Insight pool while it is active and suffer a –3 Initiative modifier.</p>",
+    "summary": "-10 Infosec to hack, -30 in defensive mode but no Insight pool and -3 INIT.",
+    "description": "<p>This meshware installs additional firewall and security layers, making the infomorph/cyberbrain harder to hack. Apply a -10 modifier to attempts to brainhack your digital mind.</p><p>You can also use this meshware to enter a heightened state of security — Defensive Mode. When activated with a quick action, the modifier to brainhack you is increased to -30. This lock-down status impairs your functions, however; you cannot use Insight pool while it is active and suffer a -3 Initiative modifier.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "daaf9c56-9e29-40f9-b905-4e8001e5a1bf"

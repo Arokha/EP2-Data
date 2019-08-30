@@ -1,27 +1,27 @@
 [
   {
-    "category":"Tech",
-    "subcategory":"Bots",
-    "name":"Guardian Angel",
-    "complexity/gp":"Mod/2",
-    "vigor":0,
-    "vigor2":1,
-    "flex":1,
-    "armor_energy":16,
-    "armor_kinetic":12,
-    "wound_threshold":5,
-    "durability":25,
-    "death_rating":50,
-    "movement_rate":[
+    "category": "Tech",
+    "subcategory": "Bots",
+    "name": "Guardian Angel",
+    "complexity/gp": "Mod/2",
+    "vigor": 0,
+    "vigor2": 1,
+    "flex": 1,
+    "armor_energy": 16,
+    "armor_kinetic": 12,
+    "wound_threshold": 5,
+    "durability": 25,
+    "death_rating": 50,
+    "movement_rate": [
       {
-        "movement_type":"Rotor",
-        "base":8,
-        "full":32
+        "movement_type": "Rotor",
+        "base": 8,
+        "full": 32
       }
     ],
-    "size":"S",
-    "description":"<p>Similar to gnats, guardian angels are larger rotorcraft used for defensive purposes. They hover around their charges, keeping a watchful eye out to protect them from threats.</p>",
-    "ware":[
+    "size": "S",
+    "description": "<p>Similar to gnats, guardian angels are larger rotorcraft used for defensive purposes. They hover around their charges, keeping a watchful eye out to protect them from threats.</p>",
+    "ware": [
       "360-Degree Vision",
       "Access Jacks",
       "Bot AI",
@@ -39,33 +39,33 @@
       "T-Ray Emitter",
       "Weapon Mount (Articulated)"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"3c939ffb-be17-46a4-997e-830cbb493590"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "3c939ffb-be17-46a4-997e-830cbb493590"
   },
   {
-    "category":"Tech",
-    "subcategory":"Bots",
-    "name":"Parisphere",
-    "complexity/gp":"Rare/—",
-    "vigor":3,
-    "vigor2":0,
-    "flex":0,
-    "armor_energy":28,
-    "armor_kinetic":24,
-    "wound_threshold":30,
-    "durability":150,
-    "death_rating":300,
-    "movement_rate":[
+    "category": "Tech",
+    "subcategory": "Bots",
+    "name": "Parisphere",
+    "complexity/gp": "Rare/—",
+    "vigor": 3,
+    "vigor2": 0,
+    "flex": 0,
+    "armor_energy": 28,
+    "armor_kinetic": 24,
+    "wound_threshold": 30,
+    "durability": 150,
+    "death_rating": 300,
+    "movement_rate": [
       {
-        "movement_type":"Thrust Vector",
-        "base":8,
-        "full":40
+        "movement_type": "Thrust Vector",
+        "base": 8,
+        "full": 40
       }
     ],
-    "size":"L",
-    "description":"<p>Named after the Trojan hero Paris, who slew Achilles with an arrow, this orb-like spacecraft is little more than a weapons pod built around a rocket. Lacking a pilot, these fighter drones can pull high-g maneuvers.</p>",
-    "ware":[
+    "size": "L",
+    "description": "<p>Named after the Trojan hero Paris, who slew Achilles with an arrow, this orb-like spacecraft is little more than a weapons pod built around a rocket. Lacking a pilot, these fighter drones can pull high-g maneuvers.</p>",
+    "ware": [
       "360-Degree Vision",
       "Access Jacks",
       "Bot AI",
@@ -79,33 +79,33 @@
       "Weapon Mounts (2 Static",
       "2 Articulated/Concealed)"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"b3eeb005-d870-42fd-9330-ce2d226c6f39"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "b3eeb005-d870-42fd-9330-ce2d226c6f39"
   },
   {
-    "category":"Tech",
-    "subcategory":"Bots",
-    "name":"Sentry",
-    "complexity/gp":"Rare/—",
-    "vigor":1,
-    "vigor2":2,
-    "flex":1,
-    "armor_energy":18,
-    "armor_kinetic":14,
-    "wound_threshold":15,
-    "durability":75,
-    "death_rating":150,
-    "movement_rate":[
+    "category": "Tech",
+    "subcategory": "Bots",
+    "name": "Sentry",
+    "complexity/gp": "Rare/—",
+    "vigor": 1,
+    "vigor2": 2,
+    "flex": 1,
+    "armor_energy": 18,
+    "armor_kinetic": 14,
+    "wound_threshold": 15,
+    "durability": 75,
+    "death_rating": 150,
+    "movement_rate": [
       {
-        "movement_type":"Tracked",
-        "base":4,
-        "full":12
+        "movement_type": "Tracked",
+        "base": 4,
+        "full": 12
       }
     ],
-    "size":"M",
-    "description":"<p>Many varieties of sentry bots exist, but common models maneuver on four multi-directional smart treads. Used throughout the Solar System for policing and security purposes, they are loaded with armor and weapons.</p>",
-    "ware":[
+    "size": "M",
+    "description": "<p>Many varieties of sentry bots exist, but common models maneuver on four multi-directional smart treads. Used throughout the Solar System for policing and security purposes, they are loaded with armor and weapons.</p>",
+    "ware": [
       "360-Degree Vision",
       "Access Jacks",
       "Bot AI",
@@ -121,33 +121,33 @@
       "T-Ray Emitter",
       "Weapon Mounts (2 Articulated/Concealed)"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"54bc5b41-f73f-4072-9a51-44d7bf3d5276"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "54bc5b41-f73f-4072-9a51-44d7bf3d5276"
   },
   {
-    "category":"Tech",
-    "subcategory":"Bots",
-    "name":"Shield Drone",
-    "complexity/gp":"Min/1",
-    "vigor":0,
-    "vigor2":0,
-    "flex":0,
-    "armor_energy":6,
-    "armor_kinetic":12,
-    "wound_threshold":5,
-    "durability":25,
-    "death_rating":50,
-    "movement_rate":[
+    "category": "Tech",
+    "subcategory": "Bots",
+    "name": "Shield Drone",
+    "complexity/gp": "Min/1",
+    "vigor": 0,
+    "vigor2": 0,
+    "flex": 0,
+    "armor_energy": 6,
+    "armor_kinetic": 12,
+    "wound_threshold": 5,
+    "durability": 25,
+    "death_rating": 50,
+    "movement_rate": [
       {
-        "movement_type":"Tracked",
-        "base":4,
-        "full":12
+        "movement_type": "Tracked",
+        "base": 4,
+        "full": 12
       }
     ],
-    "size":"S",
-    "description":"<p>These tracked drones essentially function as large ballistic shields and movable cover for special ops teams. They provide AV +6/+12 to anyone using them for cover. The bot itself is little more than a platform (treat as small size if targeted directly).</p>",
-    "ware":[
+    "size": "S",
+    "description": "<p>These tracked drones essentially function as large ballistic shields and movable cover for special ops teams. They provide AV +6/+12 to anyone using them for cover. The bot itself is little more than a platform (treat as small size if targeted directly).</p>",
+    "ware": [
       "360-Degree Vision",
       "Access Jacks",
       "Bot AI",
@@ -155,38 +155,38 @@
       "Mesh Inserts",
       "Puppet Sock"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"1c7ac51b-2925-4300-b0be-ddb641a76937"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "1c7ac51b-2925-4300-b0be-ddb641a76937"
   },
   {
-    "category":"Tech",
-    "subcategory":"Bots",
-    "name":"Explorenaut",
-    "complexity/gp":"Maj/3",
-    "vigor":1,
-    "vigor2":0,
-    "flex":1,
-    "armor_energy":12,
-    "armor_kinetic":10,
-    "wound_threshold":7,
-    "durability":35,
-    "death_rating":70,
-    "movement_rate":[
+    "category": "Tech",
+    "subcategory": "Bots",
+    "name": "Explorenaut",
+    "complexity/gp": "Maj/3",
+    "vigor": 1,
+    "vigor2": 0,
+    "flex": 1,
+    "armor_energy": 12,
+    "armor_kinetic": 10,
+    "wound_threshold": 7,
+    "durability": 35,
+    "death_rating": 70,
+    "movement_rate": [
       {
-        "movement_type":"Tracked",
-        "base":4,
-        "full":12
+        "movement_type": "Tracked",
+        "base": 4,
+        "full": 12
       },
       {
-        "movement_type":"Thrust Vector",
-        "base":8,
-        "full":40
+        "movement_type": "Thrust Vector",
+        "base": 8,
+        "full": 40
       }
     ],
-    "size":"S",
-    "description":"<p>These small-sized bots travel on smart treads or with thrust-vector jets. They are loaded with sensors and favored for gatecrashing and similar exploration ops. A pair of manipulator arms are used for taking samples.</p>",
-    "ware":[
+    "size": "S",
+    "description": "<p>These small-sized bots travel on smart treads or with thrust-vector jets. They are loaded with sensors and favored for gatecrashing and similar exploration ops. A pair of manipulator arms are used for taking samples.</p>",
+    "ware": [
       "360-Degree Vision",
       "Access Jacks",
       "Bot AI",
@@ -204,38 +204,38 @@
       "T-Ray Emitter",
       "Utilimod"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"13a42a01-4a30-4418-a004-ba997669ec49"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "13a42a01-4a30-4418-a004-ba997669ec49"
   },
   {
-    "category":"Tech",
-    "subcategory":"Bots",
-    "name":"Squishbot",
-    "complexity/gp":"Min/1",
-    "vigor":0,
-    "vigor2":0,
-    "flex":0,
-    "armor_energy":2,
-    "armor_kinetic":2,
-    "wound_threshold":2,
-    "durability":10,
-    "death_rating":20,
-    "movement_rate":[
+    "category": "Tech",
+    "subcategory": "Bots",
+    "name": "Squishbot",
+    "complexity/gp": "Min/1",
+    "vigor": 0,
+    "vigor2": 0,
+    "flex": 0,
+    "armor_energy": 2,
+    "armor_kinetic": 2,
+    "wound_threshold": 2,
+    "durability": 10,
+    "death_rating": 20,
+    "movement_rate": [
       {
-        "movement_type":"Walker",
-        "base":4,
-        "full":12
+        "movement_type": "Walker",
+        "base": 4,
+        "full": 12
       },
       {
-        "movement_type":"Roller",
-        "base":8,
-        "full":40
+        "movement_type": "Roller",
+        "base": 8,
+        "full": 40
       }
     ],
-    "size":"S",
-    "description":"<p>These small, amorphous bots are soft, with a smart-material liquid matrix interior and extensible skin. They can extrude tentacle-like limbs for walking and manipulating, roll as a ball, and squeeze through tight, confining spaces.</p>",
-    "ware":[
+    "size": "S",
+    "description": "<p>These small, amorphous bots are soft, with a smart-material liquid matrix interior and extensible skin. They can extrude tentacle-like limbs for walking and manipulating, roll as a ball, and squeeze through tight, confining spaces.</p>",
+    "ware": [
       "360-Degree Vision",
       "Access Jacks",
       "Bot AI",
@@ -245,33 +245,33 @@
       "Retracting Limbs",
       "Shape Adjusting"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"7ffd36fa-763a-4ddb-ba98-d90a21b40f43"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "7ffd36fa-763a-4ddb-ba98-d90a21b40f43"
   },
   {
-    "category":"Tech",
-    "subcategory":"Bots",
-    "name":"Docbot",
-    "complexity/gp":"Maj/3",
-    "vigor":1,
-    "vigor2":0,
-    "flex":0,
-    "armor_energy":8,
-    "armor_kinetic":6,
-    "wound_threshold":8,
-    "durability":40,
-    "death_rating":80,
-    "movement_rate":[
+    "category": "Tech",
+    "subcategory": "Bots",
+    "name": "Docbot",
+    "complexity/gp": "Maj/3",
+    "vigor": 1,
+    "vigor2": 0,
+    "flex": 0,
+    "armor_energy": 8,
+    "armor_kinetic": 6,
+    "wound_threshold": 8,
+    "durability": 40,
+    "death_rating": 80,
+    "movement_rate": [
       {
-        "movement_type":"Thrust/Wheeled",
-        "base":8,
-        "full":40
+        "movement_type": "Thrust/Wheeled",
+        "base": 8,
+        "full": 40
       }
     ],
-    "size":"M",
-    "description":"<p>These wheeled medical robots are designed to tend to and transport injured or sick people. They carry a fabber for medical supplies and pharmaceuticals, miscellaneous medical gear, a secure container for carrying heads, and 4–8 articulated arms for conducting remote surgery. They are often loaded up with healing spray and meds (acquired separately).</p>",
-    "ware":[
+    "size": "M",
+    "description": "<p>These wheeled medical robots are designed to tend to and transport injured or sick people. They carry a fabber for medical supplies and pharmaceuticals, miscellaneous medical gear, a secure container for carrying heads, and 4-8 articulated arms for conducting remote surgery. They are often loaded up with healing spray and meds (acquired separately).</p>",
+    "ware": [
       "360-Degree Vision",
       "Access Jacks",
       "Bot AI",
@@ -286,38 +286,38 @@
       "Specimen Container",
       "Tool Kit (Medicine: Biotech or Paramedic)"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"965e459f-46ff-49fb-9ee0-84a14fe63562"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "965e459f-46ff-49fb-9ee0-84a14fe63562"
   },
   {
-    "category":"Tech",
-    "subcategory":"Bots",
-    "name":"Retriever",
-    "complexity/gp":"Maj/3",
-    "vigor":1,
-    "vigor2":0,
-    "flex":1,
-    "armor_energy":12,
-    "armor_kinetic":10,
-    "wound_threshold":12,
-    "durability":60,
-    "death_rating":120,
-    "movement_rate":[
+    "category": "Tech",
+    "subcategory": "Bots",
+    "name": "Retriever",
+    "complexity/gp": "Maj/3",
+    "vigor": 1,
+    "vigor2": 0,
+    "flex": 1,
+    "armor_energy": 12,
+    "armor_kinetic": 10,
+    "wound_threshold": 12,
+    "durability": 60,
+    "death_rating": 120,
+    "movement_rate": [
       {
-        "movement_type":"Wheeled",
-        "base":8,
-        "full":40
+        "movement_type": "Wheeled",
+        "base": 8,
+        "full": 40
       },
       {
-        "movement_type":"Rotor",
-        "base":8,
-        "full":32
+        "movement_type": "Rotor",
+        "base": 8,
+        "full": 32
       }
     ],
-    "size":"L",
-    "description":"<p>Designed much like a smaller flying car with a pair of manipulator arms, this bot handles search-and-rescue ops. It tracks down survivors and rescues them from dangers, carrying the injured back to safety. It can hold one mediumsized transhuman.</p>",
-    "ware":[
+    "size": "L",
+    "description": "<p>Designed much like a smaller flying car with a pair of manipulator arms, this bot handles search-and-rescue ops. It tracks down survivors and rescues them from dangers, carrying the injured back to safety. It can hold one mediumsized transhuman.</p>",
+    "ware": [
       "360-Degree Vision",
       "Access Jacks",
       "Bot AI",
@@ -335,33 +335,33 @@
       "Weapon Mount (Articulated/Concealed",
       "Sprayer with NotWater)"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"64c27c92-38a4-4d15-b7b2-d8943fa60767"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "64c27c92-38a4-4d15-b7b2-d8943fa60767"
   },
   {
-    "category":"Tech",
-    "subcategory":"Bots",
-    "name":"Creepy",
-    "complexity/gp":"Min/1",
-    "vigor":0,
-    "vigor2":0,
-    "flex":0,
-    "armor_energy":2,
-    "armor_kinetic":2,
-    "wound_threshold":3,
-    "durability":15,
-    "death_rating":30,
-    "movement_rate":[
+    "category": "Tech",
+    "subcategory": "Bots",
+    "name": "Creepy",
+    "complexity/gp": "Min/1",
+    "vigor": 0,
+    "vigor2": 0,
+    "flex": 0,
+    "armor_energy": 2,
+    "armor_kinetic": 2,
+    "wound_threshold": 3,
+    "durability": 15,
+    "death_rating": 30,
+    "movement_rate": [
       {
-        "movement_type":"Hopper/Walker",
-        "base":4,
-        "full":12
+        "movement_type": "Hopper/Walker",
+        "base": 4,
+        "full": 12
       }
     ],
-    "size":"VS",
-    "description":"<p>Creepies come in an eclectic variety of forms, from robo-squirrels to insectoids to bizarre artsy mechanical creatures. Creepies were originally designed as a robotic pet, but are commonly used as a general-purpose household minion, like a more beloved servitor. Many people wear a creepy on their person, dropping it to handle small tasks for them and letting it crawl up, down, and over their body.</p>",
-    "ware":[
+    "size": "VS",
+    "description": "<p>Creepies come in an eclectic variety of forms, from robo-squirrels to insectoids to bizarre artsy mechanical creatures. Creepies were originally designed as a robotic pet, but are commonly used as a general-purpose household minion, like a more beloved servitor. Many people wear a creepy on their person, dropping it to handle small tasks for them and letting it crawl up, down, and over their body.</p>",
+    "ware": [
       "360-Degree Vision",
       "Access Jacks",
       "Bot AI",
@@ -371,33 +371,33 @@
       "Chameleon Skin",
       "Grip Pads"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"66a2d623-46a4-4f23-8c36-9960fef391fd"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "66a2d623-46a4-4f23-8c36-9960fef391fd"
   },
   {
-    "category":"Tech",
-    "subcategory":"Bots",
-    "name":"Manipulator",
-    "complexity/gp":"Maj/3",
-    "vigor":1,
-    "vigor2":0,
-    "flex":0,
-    "armor_energy":6,
-    "armor_kinetic":4,
-    "wound_threshold":3,
-    "durability":15,
-    "death_rating":30,
-    "movement_rate":[
+    "category": "Tech",
+    "subcategory": "Bots",
+    "name": "Manipulator",
+    "complexity/gp": "Maj/3",
+    "vigor": 1,
+    "vigor2": 0,
+    "flex": 0,
+    "armor_energy": 6,
+    "armor_kinetic": 4,
+    "wound_threshold": 3,
+    "durability": 15,
+    "death_rating": 30,
+    "movement_rate": [
       {
-        "movement_type":"Walker",
-        "base":4,
-        "full":12
+        "movement_type": "Walker",
+        "base": 4,
+        "full": 12
       }
     ],
-    "size":"S",
-    "description":"<p>This bot takes the form of an extra limb and a supportive band, bracing frame, rig, or cuff for wearing it. The manipulator can be meshed and treated as an extension of your body or detached for autonomous operation or remote control. Though human arm designs are common, a variety of limb designs are available, from claws to tentacles. Treat as a cyberlimb plus ▶324 when worn.</p>",
-    "ware":[
+    "size": "S",
+    "description": "<p>This bot takes the form of an extra limb and a supportive band, bracing frame, rig, or cuff for wearing it. The manipulator can be meshed and treated as an extension of your body or detached for autonomous operation or remote control. Though human arm designs are common, a variety of limb designs are available, from claws to tentacles. Treat as a cyberlimb plus ▶324 when worn.</p>",
+    "ware": [
       "360-Degree Vision",
       "Access Jacks",
       "Bot AI",
@@ -409,33 +409,33 @@
       "Telescoping Limb",
       "Utilimod"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"cdcc83da-8eb5-4480-bd3e-53bce17eedb5"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "cdcc83da-8eb5-4480-bd3e-53bce17eedb5"
   },
   {
-    "category":"Tech",
-    "subcategory":"Bots",
-    "name":"Servitor",
-    "complexity/gp":"Min/1",
-    "vigor":0,
-    "vigor2":0,
-    "flex":0,
-    "armor_energy":6,
-    "armor_kinetic":4,
-    "wound_threshold":6,
-    "durability":30,
-    "death_rating":60,
-    "movement_rate":[
+    "category": "Tech",
+    "subcategory": "Bots",
+    "name": "Servitor",
+    "complexity/gp": "Min/1",
+    "vigor": 0,
+    "vigor2": 0,
+    "flex": 0,
+    "armor_energy": 6,
+    "armor_kinetic": 4,
+    "wound_threshold": 6,
+    "durability": 30,
+    "death_rating": 60,
+    "movement_rate": [
       {
-        "movement_type":"Walker",
-        "base":4,
-        "full":20
+        "movement_type": "Walker",
+        "base": 4,
+        "full": 20
       }
     ],
-    "size":"M",
-    "description":"<p>Servitors are the most common robot, acting as cooks, janitors, universal helpers, movers, and personal aides. Every home has one, if not several. They come in a variety of non-humanoid shapes and sizes, though most are medium sized, with 4–8 limbs on average.</p>",
-    "ware":[
+    "size": "M",
+    "description": "<p>Servitors are the most common robot, acting as cooks, janitors, universal helpers, movers, and personal aides. Every home has one, if not several. They come in a variety of non-humanoid shapes and sizes, though most are medium sized, with 4-8 limbs on average.</p>",
+    "ware": [
       "360-Degree Vision",
       "Access Jacks",
       "Bot AI",
@@ -443,33 +443,33 @@
       "Mesh Inserts",
       "Puppet Sock"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"2503b9a6-386a-4533-b59c-eacd56ce1c07"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "2503b9a6-386a-4533-b59c-eacd56ce1c07"
   },
   {
-    "category":"Tech",
-    "subcategory":"Bots",
-    "name":"Spider Hand",
-    "complexity/gp":"Min/1",
-    "vigor":0,
-    "vigor2":0,
-    "flex":0,
-    "armor_energy":2,
-    "armor_kinetic":2,
-    "wound_threshold":2,
-    "durability":10,
-    "death_rating":20,
-    "movement_rate":[
+    "category": "Tech",
+    "subcategory": "Bots",
+    "name": "Spider Hand",
+    "complexity/gp": "Min/1",
+    "vigor": 0,
+    "vigor2": 0,
+    "flex": 0,
+    "armor_energy": 2,
+    "armor_kinetic": 2,
+    "wound_threshold": 2,
+    "durability": 10,
+    "death_rating": 20,
+    "movement_rate": [
       {
-        "movement_type":"Walker",
-        "base":4,
-        "full":12
+        "movement_type": "Walker",
+        "base": 4,
+        "full": 12
       }
     ],
-    "size":"S",
-    "description":"<p>This hand-shaped bot scurries like a spider. It functions as a detachable hand for a cyberarm, though it is sometimes used by uplifts or other morphs who need a hand design for certain tasks. Its “legs” are more articulated than human fingers and can rotate/ bend in any direction. Though this bot does not have the leverage of a full arm/body behind it, it can extend a meter-long brace for stabilization and support.</p>",
-    "ware":[
+    "size": "S",
+    "description": "<p>This hand-shaped bot scurries like a spider. It functions as a detachable hand for a cyberarm, though it is sometimes used by uplifts or other morphs who need a hand design for certain tasks. Its “legs” are more articulated than human fingers and can rotate/ bend in any direction. Though this bot does not have the leverage of a full arm/body behind it, it can extend a meter-long brace for stabilization and support.</p>",
+    "ware": [
       "360-Degree Vision",
       "Access Jacks",
       "Bot AI",
@@ -480,33 +480,33 @@
       "Grip Pads",
       "Magnetic System"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"4a890ff8-48c2-46f6-801a-2380c949b871"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "4a890ff8-48c2-46f6-801a-2380c949b871"
   },
   {
-    "category":"Tech",
-    "subcategory":"Bots",
-    "name":"Aerostat",
-    "complexity/gp":"Mod/2",
-    "vigor":0,
-    "vigor2":0,
-    "flex":0,
-    "armor_energy":6,
-    "armor_kinetic":4,
-    "wound_threshold":4,
-    "durability":20,
-    "death_rating":40,
-    "movement_rate":[
+    "category": "Tech",
+    "subcategory": "Bots",
+    "name": "Aerostat",
+    "complexity/gp": "Mod/2",
+    "vigor": 0,
+    "vigor2": 0,
+    "flex": 0,
+    "armor_energy": 6,
+    "armor_kinetic": 4,
+    "wound_threshold": 4,
+    "durability": 20,
+    "death_rating": 40,
+    "movement_rate": [
       {
-        "movement_type":"Microlight",
-        "base":8,
-        "full":32
+        "movement_type": "Microlight",
+        "base": 8,
+        "full": 32
       }
     ],
-    "size":"L",
-    "description":"<p>Aerostats are balloons, relying on buoyant gases for lift in atmospheres, maneuvering with turbofans. Their low signature and longevity make them ideal for high-altitude surveillance, research, or gas mining.</p>",
-    "ware":[
+    "size": "L",
+    "description": "<p>Aerostats are balloons, relying on buoyant gases for lift in atmospheres, maneuvering with turbofans. Their low signature and longevity make them ideal for high-altitude surveillance, research, or gas mining.</p>",
+    "ware": [
       "360-Degree Vision",
       "Access Jacks",
       "Bot AI",
@@ -519,33 +519,33 @@
       "Radar",
       "T-Ray Emitter"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"e20f4e75-46ba-4459-acdd-da067f065d63"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "e20f4e75-46ba-4459-acdd-da067f065d63"
   },
   {
-    "category":"Tech",
-    "subcategory":"Bots",
-    "name":"Gnat",
-    "complexity/gp":"Min/1",
-    "vigor":0,
-    "vigor2":0,
-    "flex":1,
-    "armor_energy":2,
-    "armor_kinetic":2,
-    "wound_threshold":4,
-    "durability":20,
-    "death_rating":40,
-    "movement_rate":[
+    "category": "Tech",
+    "subcategory": "Bots",
+    "name": "Gnat",
+    "complexity/gp": "Min/1",
+    "vigor": 0,
+    "vigor2": 0,
+    "flex": 1,
+    "armor_energy": 2,
+    "armor_kinetic": 2,
+    "wound_threshold": 4,
+    "durability": 20,
+    "death_rating": 40,
+    "movement_rate": [
       {
-        "movement_type":"Rotor",
-        "base":8,
-        "full":32
+        "movement_type": "Rotor",
+        "base": 8,
+        "full": 32
       }
     ],
-    "size":"S",
-    "description":"<p>Gnats are small rotorcraft camera/surveillance drones. Many people use gnats for personal lifelogging, while socialites and media use them to capture the glamour or hottest news.</p>",
-    "ware":[
+    "size": "S",
+    "description": "<p>Gnats are small rotorcraft camera/surveillance drones. Many people use gnats for personal lifelogging, while socialites and media use them to capture the glamour or hottest news.</p>",
+    "ware": [
       "360-Degree Vision",
       "Access Jacks",
       "Bot AI",
@@ -557,33 +557,33 @@
       "Enhanced Vision",
       "Radar"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"6a44a15d-ab5c-4ced-a888-cc59030985eb"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "6a44a15d-ab5c-4ced-a888-cc59030985eb"
   },
   {
-    "category":"Tech",
-    "subcategory":"Bots",
-    "name":"Saucer",
-    "complexity/gp":"Min/1",
-    "vigor":0,
-    "vigor2":0,
-    "flex":0,
-    "armor_energy":2,
-    "armor_kinetic":2,
-    "wound_threshold":5,
-    "durability":25,
-    "death_rating":50,
-    "movement_rate":[
+    "category": "Tech",
+    "subcategory": "Bots",
+    "name": "Saucer",
+    "complexity/gp": "Min/1",
+    "vigor": 0,
+    "vigor2": 0,
+    "flex": 0,
+    "armor_energy": 2,
+    "armor_kinetic": 2,
+    "wound_threshold": 5,
+    "durability": 25,
+    "death_rating": 50,
+    "movement_rate": [
       {
-        "movement_type":"Ionic",
-        "base":8,
-        "full":40
+        "movement_type": "Ionic",
+        "base": 8,
+        "full": 40
       }
     ],
-    "size":"S",
-    "description":"<p>These disc-shaped drones are lightweight and quiet. They are typically launched by throwing them like a frisbee, after which they propel themselves with an ionic drive ▶231. Saucers make excellent “eye in the sky” monitors and scouts.</p>",
-    "ware":[
+    "size": "S",
+    "description": "<p>These disc-shaped drones are lightweight and quiet. They are typically launched by throwing them like a frisbee, after which they propel themselves with an ionic drive ▶231. Saucers make excellent “eye in the sky” monitors and scouts.</p>",
+    "ware": [
       "360-Degree Vision",
       "Access Jacks",
       "Bot AI",
@@ -595,38 +595,38 @@
       "Enhanced Vision",
       "Radar"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"88b57065-b6dc-4976-a811-319b7cb488bc"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "88b57065-b6dc-4976-a811-319b7cb488bc"
   },
   {
-    "category":"Tech",
-    "subcategory":"Bots",
-    "name":"Speck",
-    "complexity/gp":"Min/1",
-    "vigor":0,
-    "vigor2":0,
-    "flex":0,
-    "armor_energy":2,
-    "armor_kinetic":2,
-    "wound_threshold":1,
-    "durability":5,
-    "death_rating":10,
-    "movement_rate":[
+    "category": "Tech",
+    "subcategory": "Bots",
+    "name": "Speck",
+    "complexity/gp": "Min/1",
+    "vigor": 0,
+    "vigor2": 0,
+    "flex": 0,
+    "armor_energy": 2,
+    "armor_kinetic": 2,
+    "wound_threshold": 1,
+    "durability": 5,
+    "death_rating": 10,
+    "movement_rate": [
       {
-        "movement_type":"Hopper",
-        "base":4,
-        "full":12
+        "movement_type": "Hopper",
+        "base": 4,
+        "full": 12
       },
       {
-        "movement_type":"Winged",
-        "base":8,
-        "full":32
+        "movement_type": "Winged",
+        "base": 8,
+        "full": 32
       }
     ],
-    "size":"VS",
-    "description":"<p>Specks are very small insectoid spy drones, roughly the size of a small fruit fly. They fly with tiny wings and are excellent for surveillance purposes or otherwise being a “speck on a wall.” Specks are difficult to notice (–30 Perceive modifier) and almost impossible to distinguish from an actual insect.</p>",
-    "ware":[
+    "size": "VS",
+    "description": "<p>Specks are very small insectoid spy drones, roughly the size of a small fruit fly. They fly with tiny wings and are excellent for surveillance purposes or otherwise being a “speck on a wall.” Specks are difficult to notice (-30 Perceive modifier) and almost impossible to distinguish from an actual insect.</p>",
+    "ware": [
       "360-Degree Vision",
       "Access Jacks",
       "Bot AI",
@@ -638,33 +638,33 @@
       "Grip Pads",
       "Synthetic Mask"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"89b38c8e-34c8-4f92-ac5b-367302f1890d"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "89b38c8e-34c8-4f92-ac5b-367302f1890d"
   },
   {
-    "category":"Tech",
-    "subcategory":"Bots",
-    "name":"Zephyr",
-    "complexity/gp":"Mod/2",
-    "vigor":0,
-    "vigor2":0,
-    "flex":1,
-    "armor_energy":6,
-    "armor_kinetic":4,
-    "wound_threshold":6,
-    "durability":30,
-    "death_rating":60,
-    "movement_rate":[
+    "category": "Tech",
+    "subcategory": "Bots",
+    "name": "Zephyr",
+    "complexity/gp": "Mod/2",
+    "vigor": 0,
+    "vigor2": 0,
+    "flex": 1,
+    "armor_energy": 6,
+    "armor_kinetic": 4,
+    "wound_threshold": 6,
+    "durability": 30,
+    "death_rating": 60,
+    "movement_rate": [
       {
-        "movement_type":"Winged",
-        "base":8,
-        "full":32
+        "movement_type": "Winged",
+        "base": 8,
+        "full": 32
       }
     ],
-    "size":"M",
-    "description":"<p>Zephyrs are medium-sized but light stealth planes, often thrown to launch, used for long-distance recon or missile strikes.</p>",
-    "ware":[
+    "size": "M",
+    "description": "<p>Zephyrs are medium-sized but light stealth planes, often thrown to launch, used for long-distance recon or missile strikes.</p>",
+    "ware": [
       "360-Degree Vision",
       "Access Jacks",
       "Bot AI",
@@ -679,33 +679,33 @@
       "T-Ray Emitter",
       "Weapon Mount (2 Static)"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"99e207ee-e732-458e-a2ca-74b0fff6009b"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "99e207ee-e732-458e-a2ca-74b0fff6009b"
   },
   {
-    "category":"Tech",
-    "subcategory":"Bots",
-    "name":"Automech",
-    "complexity/gp":"Mod/2",
-    "vigor":1,
-    "vigor2":0,
-    "flex":1,
-    "armor_energy":8,
-    "armor_kinetic":6,
-    "wound_threshold":6,
-    "durability":30,
-    "death_rating":60,
-    "movement_rate":[
+    "category": "Tech",
+    "subcategory": "Bots",
+    "name": "Automech",
+    "complexity/gp": "Mod/2",
+    "vigor": 1,
+    "vigor2": 0,
+    "flex": 1,
+    "armor_energy": 8,
+    "armor_kinetic": 6,
+    "wound_threshold": 6,
+    "durability": 30,
+    "death_rating": 60,
+    "movement_rate": [
       {
-        "movement_type":"Thrust/Wheeled",
-        "base":8,
-        "full":40
+        "movement_type": "Thrust/Wheeled",
+        "base": 8,
+        "full": 40
       }
     ],
-    "size":"M",
-    "description":"<p>Automechs are general-purpose repair drones, found just about everywhere. Each specializes in a particular type of repair work and is equipped with the appropriate tools and ALI skills, whether it be electronics, habitat systems, or spacecraft repair. Standard automechs are wheeled cubes with 4–8 retractable and articulated limbs, though they are also equipped with vectoredthrust drives for zero-g work.</p>",
-    "ware":[
+    "size": "M",
+    "description": "<p>Automechs are general-purpose repair drones, found just about everywhere. Each specializes in a particular type of repair work and is equipped with the appropriate tools and ALI skills, whether it be electronics, habitat systems, or spacecraft repair. Standard automechs are wheeled cubes with 4-8 retractable and articulated limbs, though they are also equipped with vectoredthrust drives for zero-g work.</p>",
+    "ware": [
       "360-Degree Vision",
       "Access Jacks",
       "Bot AI",
@@ -719,33 +719,33 @@
       "Tool Kit",
       "Utilimod"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"bf264cda-5b64-41af-bc71-f4a9f9e07617"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "bf264cda-5b64-41af-bc71-f4a9f9e07617"
   },
   {
-    "category":"Tech",
-    "subcategory":"Bots",
-    "name":"Barracuda",
-    "complexity/gp":"Mod/2",
-    "vigor":1,
-    "vigor2":0,
-    "flex":0,
-    "armor_energy":8,
-    "armor_kinetic":6,
-    "wound_threshold":6,
-    "durability":30,
-    "death_rating":60,
-    "movement_rate":[
+    "category": "Tech",
+    "subcategory": "Bots",
+    "name": "Barracuda",
+    "complexity/gp": "Mod/2",
+    "vigor": 1,
+    "vigor2": 0,
+    "flex": 0,
+    "armor_energy": 8,
+    "armor_kinetic": 6,
+    "wound_threshold": 6,
+    "durability": 30,
+    "death_rating": 60,
+    "movement_rate": [
       {
-        "movement_type":"Submarine",
-        "base":8,
-        "full":32
+        "movement_type": "Submarine",
+        "base": 8,
+        "full": 32
       }
     ],
-    "size":"M",
-    "description":"<p>This undersea utility drone is fielded for exploration, service, and repair functions. It is shaped like a miniature submarine, with a pair of retractable arms.</p>",
-    "ware":[
+    "size": "M",
+    "description": "<p>This undersea utility drone is fielded for exploration, service, and repair functions. It is shaped like a miniature submarine, with a pair of retractable arms.</p>",
+    "ware": [
       "360-Degree Vision",
       "Access Jacks",
       "Bot AI",
@@ -759,33 +759,33 @@
       "Sonar",
       "Utilimod"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"1aeac1c3-9b02-4448-b566-27a39a555329"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "1aeac1c3-9b02-4448-b566-27a39a555329"
   },
   {
-    "category":"Tech",
-    "subcategory":"Bots",
-    "name":"Dwarf",
-    "complexity/gp":"Maj/3",
-    "vigor":3,
-    "vigor2":0,
-    "flex":0,
-    "armor_energy":18,
-    "armor_kinetic":14,
-    "wound_threshold":30,
-    "durability":150,
-    "death_rating":300,
-    "movement_rate":[
+    "category": "Tech",
+    "subcategory": "Bots",
+    "name": "Dwarf",
+    "complexity/gp": "Maj/3",
+    "vigor": 3,
+    "vigor2": 0,
+    "flex": 0,
+    "armor_energy": 18,
+    "armor_kinetic": 14,
+    "wound_threshold": 30,
+    "durability": 150,
+    "death_rating": 300,
+    "movement_rate": [
       {
-        "movement_type":"Walker",
-        "base":4,
-        "full":20
+        "movement_type": "Walker",
+        "base": 4,
+        "full": 20
       }
     ],
-    "size":"L",
-    "description":"<p>These large industrial bots are named not just for their primary use — mining, excavation, tunneling, and construction — but because the default AIs they shipped with had a programmed tendency to happily whistle as they worked. Dwarfs are quadrupedal walkers, equipped with massive modular industrial tools like boring drills, shovels, hydraulic jacks, jackhammers, scooping arms, acid sprays, and so on.</p>",
-    "ware":[
+    "size": "L",
+    "description": "<p>These large industrial bots are named not just for their primary use — mining, excavation, tunneling, and construction — but because the default AIs they shipped with had a programmed tendency to happily whistle as they worked. Dwarfs are quadrupedal walkers, equipped with massive modular industrial tools like boring drills, shovels, hydraulic jacks, jackhammers, scooping arms, acid sprays, and so on.</p>",
+    "ware": [
       "360-Degree Vision",
       "Access Jacks",
       "Bot AI",
@@ -798,38 +798,38 @@
       "Sonar",
       "Tool Kit"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"f8576985-a2e8-44fc-86c3-8ec6b27c120b"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "f8576985-a2e8-44fc-86c3-8ec6b27c120b"
   },
   {
-    "category":"Tech",
-    "subcategory":"Bots",
-    "name":"Robomule",
-    "complexity/gp":"Mod/2",
-    "vigor":0,
-    "vigor2":0,
-    "flex":1,
-    "armor_energy":8,
-    "armor_kinetic":6,
-    "wound_threshold":8,
-    "durability":40,
-    "death_rating":80,
-    "movement_rate":[
+    "category": "Tech",
+    "subcategory": "Bots",
+    "name": "Robomule",
+    "complexity/gp": "Mod/2",
+    "vigor": 0,
+    "vigor2": 0,
+    "flex": 1,
+    "armor_energy": 8,
+    "armor_kinetic": 6,
+    "wound_threshold": 8,
+    "durability": 40,
+    "death_rating": 80,
+    "movement_rate": [
       {
-        "movement_type":"Walker",
-        "base":4,
-        "full":20
+        "movement_type": "Walker",
+        "base": 4,
+        "full": 20
       },
       {
-        "movement_type":"Thrust Vector",
-        "base":8,
-        "full":40
+        "movement_type": "Thrust Vector",
+        "base": 8,
+        "full": 40
       }
     ],
-    "size":"M",
-    "description":"<p>These six-legged cargo drones are designed to carry large, non-portable gear, such as servers, healing vats, tool shops, etc. They also serve as general-purpose supply drones, with smart-material straps and webbing to hold items and an envirosealed pod to protect its load from the environment.</p>",
-    "ware":[
+    "size": "M",
+    "description": "<p>These six-legged cargo drones are designed to carry large, non-portable gear, such as servers, healing vats, tool shops, etc. They also serve as general-purpose supply drones, with smart-material straps and webbing to hold items and an envirosealed pod to protect its load from the environment.</p>",
+    "ware": [
       "360-Degree Vision",
       "Access Jacks",
       "Bot AI",
@@ -838,8 +838,8 @@
       "Puppet Sock",
       "Autocook"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"3337da45-a483-4dea-b937-dc7270db091d"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "3337da45-a483-4dea-b937-dc7270db091d"
   }
 ]

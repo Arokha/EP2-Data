@@ -1,119 +1,115 @@
 [
   {
-    "category":"Vehicles",
-    "subcategory":"Aircraft",
-    "name":"Flying Car",
-    "complexity/gp":"Maj/3",
-    "passengers":4,
-    "vigor":2,
-    "flex":1,
-    "armor_energy":12,
-    "armor_kinetic":10,
-    "wound_threshold":30,
-    "durability":150,
-    "death_rating":300,
-    "movement_rate":[
+    "category": "Vehicles",
+    "subcategory": "Aircraft",
+    "name": "Flying Car",
+    "complexity/gp": "Maj/3",
+    "passengers": 4,
+    "vigor": 2,
+    "flex": 1,
+    "armor_energy": 12,
+    "armor_kinetic": 10,
+    "wound_threshold": 30,
+    "durability": 150,
+    "death_rating": 300,
+    "movement_rate": [
       {
-        "movement_type":"Wheeled/Thrust Vector",
-        "base":8,
-        "full":40
+        "movement_type": "Wheeled/Thrust Vector",
+        "base": 8,
+        "full": 40
       }
     ],
-    "size":"L",
-    "description":"<p>This methane-powered car is equipped with turbo fans that fold out from the body for vectored-thrust flight on Mars and worlds with similar gravities.</p>",
-    "notes":"",
-    "ware":[
+    "size": "L",
+    "description": "<p>This methane-powered car is equipped with turbo fans that fold out from the body for vectored-thrust flight on Mars and worlds with similar gravities.</p>",
+    "notes": "",
+    "ware": [
       "Access Jacks",
       "Mesh Inserts",
       "Puppet Sock",
       "Radar"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"4c2dc58a-aec3-4efa-b700-8b7b36c395de"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "4c2dc58a-aec3-4efa-b700-8b7b36c395de"
   },
   {
-    "category":"Vehicles",
-    "subcategory":"Aircraft",
-    "name":"Microlight",
-    "complexity/gp":"Mod/2",
-    "passengers":1,
-    "vigor":0,
-    "flex":0,
-    "armor_energy":6,
-    "armor_kinetic":4,
-    "wound_threshold":6,
-    "durability":30,
-    "death_rating":60,
-    "movement_rate":[
+    "category": "Vehicles",
+    "subcategory": "Aircraft",
+    "name": "Microlight",
+    "complexity/gp": "Mod/2",
+    "passengers": 1,
+    "vigor": 0,
+    "flex": 0,
+    "armor_energy": 6,
+    "armor_kinetic": 4,
+    "wound_threshold": 6,
+    "durability": 30,
+    "death_rating": 60,
+    "movement_rate": [
       {
-        "movement_type":"Microlight",
-        "base":8,
-        "full":32
+        "movement_type": "Microlight",
+        "base": 8,
+        "full": 32
       }
     ],
-    "size":"L",
-    "description":"<p>This ultra-light personal aircraft is not much more than a strut-based wing, an airframe, and an electric propeller engine. They are ideal for getting around inside large habitats with enclosed airspace.</p>",
-    "notes":"",
-    "ware":[
+    "size": "L",
+    "description": "<p>This ultra-light personal aircraft is not much more than a strut-based wing, an airframe, and an electric propeller engine. They are ideal for getting around inside large habitats with enclosed airspace.</p>",
+    "notes": "",
+    "ware": [
       "Access Jacks",
       "Mesh Inserts",
       "Puppet Sock",
       "Radar"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"f47b57ee-67c9-42b0-abfb-c14d93e47086"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "f47b57ee-67c9-42b0-abfb-c14d93e47086"
   },
   {
-    "category":"Vehicles",
-    "subcategory":"Aircraft",
-    "name":"Portable Plane",
-    "complexity/gp":"Maj/3",
-    "passengers":2,
-    "vigor":0,
-    "flex":0,
-    "armor_energy":6,
-    "armor_kinetic":4,
-    "wound_threshold":10,
-    "durability":50,
-    "death_rating":100,
-    "movement_rate":[
-
-    ],
-    "size":"L",
-    "description":"<p>Made of smart materials, this light but durable propeller plane packs into and self-erects from a large-sized but portable package in 10 minutes. Different models are designed for flight on Mars, Titan, Venus, or elsewhere, with an average wingspan of 10 meters.</p>",
-    "notes":"",
-    "ware":[
+    "category": "Vehicles",
+    "subcategory": "Aircraft",
+    "name": "Portable Plane",
+    "complexity/gp": "Maj/3",
+    "passengers": 2,
+    "vigor": 0,
+    "flex": 0,
+    "armor_energy": 6,
+    "armor_kinetic": 4,
+    "wound_threshold": 10,
+    "durability": 50,
+    "death_rating": 100,
+    "movement_rate": [],
+    "size": "L",
+    "description": "<p>Made of smart materials, this light but durable propeller plane packs into and self-erects from a large-sized but portable package in 10 minutes. Different models are designed for flight on Mars, Titan, Venus, or elsewhere, with an average wingspan of 10 meters.</p>",
+    "notes": "",
+    "ware": [
       "Access Jacks",
       "Mesh Inserts",
       "Puppet Sock",
       "Radar"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"9fff1b0f-b2fc-4a2c-9615-08475300a0c4"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "9fff1b0f-b2fc-4a2c-9615-08475300a0c4"
   },
   {
-    "category":"Vehicles",
-    "subcategory":"Aircraft",
-    "name":"Small Jet",
-    "complexity/gp":"Rare/—",
-    "passengers":6,
-    "vigor":2,
-    "flex":0,
-    "armor_energy":12,
-    "armor_kinetic":10,
-    "wound_threshold":40,
-    "durability":200,
-    "death_rating":400,
-    "movement_rate":[
-
-    ],
-    "size":"",
-    "description":"<p>Methane-powered jet planes are a common form of transport on Mars, Venus, and Titan. Their smart-material wings and frames can adapt to a wide range of speeds, altitudes, and atmospheric conditions.</p>",
-    "notes":"",
-    "ware":[
+    "category": "Vehicles",
+    "subcategory": "Aircraft",
+    "name": "Small Jet",
+    "complexity/gp": "Rare/—",
+    "passengers": 6,
+    "vigor": 2,
+    "flex": 0,
+    "armor_energy": 12,
+    "armor_kinetic": 10,
+    "wound_threshold": 40,
+    "durability": 200,
+    "death_rating": 400,
+    "movement_rate": [],
+    "size": "",
+    "description": "<p>Methane-powered jet planes are a common form of transport on Mars, Venus, and Titan. Their smart-material wings and frames can adapt to a wide range of speeds, altitudes, and atmospheric conditions.</p>",
+    "notes": "",
+    "ware": [
       "Access Jacks",
       "Mesh Inserts",
       "Puppet Sock",
@@ -121,364 +117,364 @@
       "Autocook",
       "Emergency Beacon"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"bade2209-17bc-42c5-a598-834036b22a4e"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "bade2209-17bc-42c5-a598-834036b22a4e"
   },
   {
-    "category":"Vehicles",
-    "subcategory":"Aircraft",
-    "name":"Utility Helicopter",
-    "complexity/gp":"Rare/—",
-    "passengers":8,
-    "vigor":2,
-    "flex":1,
-    "armor_energy":12,
-    "armor_kinetic":10,
-    "wound_threshold":30,
-    "durability":150,
-    "death_rating":300,
-    "movement_rate":[
+    "category": "Vehicles",
+    "subcategory": "Aircraft",
+    "name": "Utility Helicopter",
+    "complexity/gp": "Rare/—",
+    "passengers": 8,
+    "vigor": 2,
+    "flex": 1,
+    "armor_energy": 12,
+    "armor_kinetic": 10,
+    "wound_threshold": 30,
+    "durability": 150,
+    "death_rating": 300,
+    "movement_rate": [
       {
-        "movement_type":"Rotor",
-        "base":8,
-        "full":32
+        "movement_type": "Rotor",
+        "base": 8,
+        "full": 32
       }
     ],
-    "size":"VL",
-    "description":"<p>Common on Venus, Titan, and exoplanets with substantial atmospheres, this standard helo design is used for cargo and personnel transport, medevac, ground/air assault, and command/control.</p>",
-    "notes":"",
-    "ware":[
+    "size": "VL",
+    "description": "<p>Common on Venus, Titan, and exoplanets with substantial atmospheres, this standard helo design is used for cargo and personnel transport, medevac, ground/air assault, and command/control.</p>",
+    "notes": "",
+    "ware": [
       "Access Jacks",
       "Mesh Inserts",
       "Puppet Sock",
       "Radar"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"2c12907f-160c-4b7c-9e51-2f7185ddfb35"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "2c12907f-160c-4b7c-9e51-2f7185ddfb35"
   },
   {
-    "category":"Vehicles",
-    "subcategory":"Exoskeletons",
-    "name":"Atlas Loader",
-    "complexity/gp":"Rare/—",
-    "passengers":1,
-    "vigor":2,
-    "flex":0,
-    "armor_energy":10,
-    "armor_kinetic":12,
-    "wound_threshold":20,
-    "durability":100,
-    "death_rating":200,
-    "movement_rate":[
+    "category": "Vehicles",
+    "subcategory": "Exoskeletons",
+    "name": "Atlas Loader",
+    "complexity/gp": "Rare/—",
+    "passengers": 1,
+    "vigor": 2,
+    "flex": 0,
+    "armor_energy": 10,
+    "armor_kinetic": 12,
+    "wound_threshold": 20,
+    "durability": 100,
+    "death_rating": 200,
+    "movement_rate": [
       {
-        "movement_type":"Walker",
-        "base":4,
-        "full":20
+        "movement_type": "Walker",
+        "base": 4,
+        "full": 20
       }
     ],
-    "size":"VL",
-    "description":"<p>This common example of a heavy-use industrial exoskeleton is large (just over 3 meters tall) and designed for handling heavy/large objects. Though open frame, the wearer is partially protected by a meshed cage. Atlas’s provide a +2 bonus to Vigor pool and increase melee damage by +2d10. Melee damage also becomes armor-piercing.</p>",
-    "notes":"+2 Vigor, +2d10 melee, armor-piercing.",
-    "ware":[
+    "size": "VL",
+    "description": "<p>This common example of a heavy-use industrial exoskeleton is large (just over 3 meters tall) and designed for handling heavy/large objects. Though open frame, the wearer is partially protected by a meshed cage. Atlas’s provide a +2 bonus to Vigor pool and increase melee damage by +2d10. Melee damage also becomes armor-piercing.</p>",
+    "notes": "+2 Vigor, +2d10 melee, armor-piercing.",
+    "ware": [
       "Access Jacks",
       "Mesh Inserts",
       "Puppet Sock",
       "Radar"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"d3b89c4f-cea6-4e25-8f79-a738c3b0ffab"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "d3b89c4f-cea6-4e25-8f79-a738c3b0ffab"
   },
   {
-    "category":"Vehicles",
-    "subcategory":"Exoskeletons",
-    "name":"Exowalker",
-    "complexity/gp":"Maj/3",
-    "passengers":1,
-    "vigor":1,
-    "flex":0,
-    "armor_energy":0,
-    "armor_kinetic":2,
-    "wound_threshold":4,
-    "durability":20,
-    "death_rating":50,
-    "movement_rate":[
+    "category": "Vehicles",
+    "subcategory": "Exoskeletons",
+    "name": "Exowalker",
+    "complexity/gp": "Maj/3",
+    "passengers": 1,
+    "vigor": 1,
+    "flex": 0,
+    "armor_energy": 0,
+    "armor_kinetic": 2,
+    "wound_threshold": 4,
+    "durability": 20,
+    "death_rating": 50,
+    "movement_rate": [
       {
-        "movement_type":"Walker",
-        "base":8,
-        "full":32
+        "movement_type": "Walker",
+        "base": 8,
+        "full": 32
       }
     ],
-    "size":"M",
-    "description":"<p>Exowalkers are minimal framework exoskeletons, primarily designed to bolster the wearer’s strength and movement. They provide a +1 bonus to Vigor pool, increase melee damage by 1d6, increase your walker speed to 8/32 (fast), and double your jumping distance.</p>",
-    "notes":"+1 Vigor, +1d6 melee, double jump distance.",
-    "ware":[
+    "size": "M",
+    "description": "<p>Exowalkers are minimal framework exoskeletons, primarily designed to bolster the wearer’s strength and movement. They provide a +1 bonus to Vigor pool, increase melee damage by 1d6, increase your walker speed to 8/32 (fast), and double your jumping distance.</p>",
+    "notes": "+1 Vigor, +1d6 melee, double jump distance.",
+    "ware": [
       "Access Jacks",
       "Mesh Inserts",
       "Puppet Sock",
       "Radar"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"386c2349-7a7b-4347-b651-0979ffab3a4d"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "386c2349-7a7b-4347-b651-0979ffab3a4d"
   },
   {
-    "category":"Vehicles",
-    "subcategory":"Exoskeletons",
-    "name":"Transporter",
-    "complexity/gp":"Mod/2",
-    "passengers":1,
-    "vigor":0,
-    "flex":0,
-    "armor_energy":0,
-    "armor_kinetic":4,
-    "wound_threshold":10,
-    "durability":50,
-    "death_rating":100,
-    "movement_rate":[
+    "category": "Vehicles",
+    "subcategory": "Exoskeletons",
+    "name": "Transporter",
+    "complexity/gp": "Mod/2",
+    "passengers": 1,
+    "vigor": 0,
+    "flex": 0,
+    "armor_energy": 0,
+    "armor_kinetic": 4,
+    "wound_threshold": 10,
+    "durability": 50,
+    "death_rating": 100,
+    "movement_rate": [
       {
-        "movement_type":"Thrust Vector",
-        "base":8,
-        "full":40
+        "movement_type": "Thrust Vector",
+        "base": 8,
+        "full": 40
       }
     ],
-    "size":"L",
-    "description":"<p>This exoskeleton framework features a pair of vector-thrust turbofan engines, giving you flight capabilities. Use Pilot: Air and a Movement Rate of 8/40 (very fast).</p>",
-    "notes":"",
-    "ware":[
+    "size": "L",
+    "description": "<p>This exoskeleton framework features a pair of vector-thrust turbofan engines, giving you flight capabilities. Use Pilot: Air and a Movement Rate of 8/40 (very fast).</p>",
+    "notes": "",
+    "ware": [
       "Access Jacks",
       "Mesh Inserts",
       "Puppet Sock",
       "Radar"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"93b61a73-9532-4ddc-81c1-de3adf3752ea"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "93b61a73-9532-4ddc-81c1-de3adf3752ea"
   },
   {
-    "category":"Vehicles",
-    "subcategory":"Exoskeletons",
-    "name":"Trike",
-    "complexity/gp":"Mod/2",
-    "passengers":1,
-    "vigor":0,
-    "flex":0,
-    "armor_energy":0,
-    "armor_kinetic":4,
-    "wound_threshold":10,
-    "durability":50,
-    "death_rating":100,
-    "movement_rate":[
+    "category": "Vehicles",
+    "subcategory": "Exoskeletons",
+    "name": "Trike",
+    "complexity/gp": "Mod/2",
+    "passengers": 1,
+    "vigor": 0,
+    "flex": 0,
+    "armor_energy": 0,
+    "armor_kinetic": 4,
+    "wound_threshold": 10,
+    "durability": 50,
+    "death_rating": 100,
+    "movement_rate": [
       {
-        "movement_type":"Wheeled",
-        "base":8,
-        "full":40
+        "movement_type": "Wheeled",
+        "base": 8,
+        "full": 40
       }
     ],
-    "size":"L",
-    "description":"<p>The trike exoskeleton is a three-wheeled personal motorcycle design, rather than a walker. Use Pilot: Ground and a Movement Rate of 8/40 (very fast).</p>",
-    "notes":"",
-    "ware":[
+    "size": "L",
+    "description": "<p>The trike exoskeleton is a three-wheeled personal motorcycle design, rather than a walker. Use Pilot: Ground and a Movement Rate of 8/40 (very fast).</p>",
+    "notes": "",
+    "ware": [
       "Access Jacks",
       "Mesh Inserts",
       "Puppet Sock",
       "Radar"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"9bf0d8ca-2580-4106-adb9-754de5e995e1"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "9bf0d8ca-2580-4106-adb9-754de5e995e1"
   },
   {
-    "category":"Vehicles",
-    "subcategory":"Groundcraft",
-    "name":"Buggy",
-    "complexity/gp":"Maj/3",
-    "passengers":4,
-    "vigor":2,
-    "flex":1,
-    "armor_energy":12,
-    "armor_kinetic":10,
-    "wound_threshold":30,
-    "durability":150,
-    "death_rating":300,
-    "movement_rate":[
+    "category": "Vehicles",
+    "subcategory": "Groundcraft",
+    "name": "Buggy",
+    "complexity/gp": "Maj/3",
+    "passengers": 4,
+    "vigor": 2,
+    "flex": 1,
+    "armor_energy": 12,
+    "armor_kinetic": 10,
+    "wound_threshold": 30,
+    "durability": 150,
+    "death_rating": 300,
+    "movement_rate": [
       {
-        "movement_type":"Wheeled",
-        "base":8,
-        "full":40
+        "movement_type": "Wheeled",
+        "base": 8,
+        "full": 40
       }
     ],
-    "size":"L",
-    "description":"<p>Ubiquitous on Luna, Mars, Mercury, and Titan, this four-wheeler’s large balloon tires are designed for both roads and off-road terrain. Smart materials in both the suspension and the tires reshape themselves to adapt to uneven conditions.</p>",
-    "notes":"",
-    "ware":[
+    "size": "L",
+    "description": "<p>Ubiquitous on Luna, Mars, Mercury, and Titan, this four-wheeler’s large balloon tires are designed for both roads and off-road terrain. Smart materials in both the suspension and the tires reshape themselves to adapt to uneven conditions.</p>",
+    "notes": "",
+    "ware": [
       "Access Jacks",
       "Mesh Inserts",
       "Puppet Sock",
       "Radar"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"8ac6b041-1937-4b8a-80d2-22d6b4e8bcf0"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "8ac6b041-1937-4b8a-80d2-22d6b4e8bcf0"
   },
   {
-    "category":"Vehicles",
-    "subcategory":"Groundcraft",
-    "name":"Cargo Hauler",
-    "complexity/gp":"Rare/—",
-    "passengers":3,
-    "vigor":2,
-    "flex":0,
-    "armor_energy":12,
-    "armor_kinetic":10,
-    "wound_threshold":50,
-    "durability":250,
-    "death_rating":500,
-    "movement_rate":[
+    "category": "Vehicles",
+    "subcategory": "Groundcraft",
+    "name": "Cargo Hauler",
+    "complexity/gp": "Rare/—",
+    "passengers": 3,
+    "vigor": 2,
+    "flex": 0,
+    "armor_energy": 12,
+    "armor_kinetic": 10,
+    "wound_threshold": 50,
+    "durability": 250,
+    "death_rating": 500,
+    "movement_rate": [
       {
-        "movement_type":"Wheeled",
-        "base":8,
-        "full":40
+        "movement_type": "Wheeled",
+        "base": 8,
+        "full": 40
       }
     ],
-    "size":"VL",
-    "description":"<p>These freight trucks are used to carry supplies to isolated habitats and terraforming operations on Mars, Mercury, Titan, and some exoplanets.</p>",
-    "notes":"",
-    "ware":[
+    "size": "VL",
+    "description": "<p>These freight trucks are used to carry supplies to isolated habitats and terraforming operations on Mars, Mercury, Titan, and some exoplanets.</p>",
+    "notes": "",
+    "ware": [
       "Access Jacks",
       "Mesh Inserts",
       "Puppet Sock",
       "Radar"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"c0eda460-9eae-4ba5-b4e6-4a788438e781"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "c0eda460-9eae-4ba5-b4e6-4a788438e781"
   },
   {
-    "category":"Vehicles",
-    "subcategory":"Groundcraft",
-    "name":"Cycle",
-    "complexity/gp":"Mod/2",
-    "passengers":1,
-    "vigor":0,
-    "flex":0,
-    "armor_energy":8,
-    "armor_kinetic":6,
-    "wound_threshold":10,
-    "durability":50,
-    "death_rating":100,
-    "movement_rate":[
+    "category": "Vehicles",
+    "subcategory": "Groundcraft",
+    "name": "Cycle",
+    "complexity/gp": "Mod/2",
+    "passengers": 1,
+    "vigor": 0,
+    "flex": 0,
+    "armor_energy": 8,
+    "armor_kinetic": 6,
+    "wound_threshold": 10,
+    "durability": 50,
+    "death_rating": 100,
+    "movement_rate": [
       {
-        "movement_type":"Wheeled",
-        "base":8,
-        "full":40
+        "movement_type": "Wheeled",
+        "base": 8,
+        "full": 40
       }
     ],
-    "size":"M",
-    "description":"<p>Motorcycles are favored in habitats where space is premium. Open two-seaters remain the most common, but gyro-stabilized one-wheel designs are growing in popularity. Two-wheelers and trikes with enclosed capsules are frequent sights on Mars, Mercury, and Titan.</p>",
-    "notes":"",
-    "ware":[
+    "size": "M",
+    "description": "<p>Motorcycles are favored in habitats where space is premium. Open two-seaters remain the most common, but gyro-stabilized one-wheel designs are growing in popularity. Two-wheelers and trikes with enclosed capsules are frequent sights on Mars, Mercury, and Titan.</p>",
+    "notes": "",
+    "ware": [
       "Access Jacks",
       "Mesh Inserts",
       "Puppet Sock",
       "Radar"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"3687d024-2e5d-4bb6-85ce-b13d97a5401b"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "3687d024-2e5d-4bb6-85ce-b13d97a5401b"
   },
   {
-    "category":"Vehicles",
-    "subcategory":"Groundcraft",
-    "name":"Ground Car",
-    "complexity/gp":"Maj/3",
-    "passengers":4,
-    "vigor":2,
-    "flex":1,
-    "armor_energy":12,
-    "armor_kinetic":10,
-    "wound_threshold":30,
-    "durability":150,
-    "death_rating":300,
-    "movement_rate":[
+    "category": "Vehicles",
+    "subcategory": "Groundcraft",
+    "name": "Ground Car",
+    "complexity/gp": "Maj/3",
+    "passengers": 4,
+    "vigor": 2,
+    "flex": 1,
+    "armor_energy": 12,
+    "armor_kinetic": 10,
+    "wound_threshold": 30,
+    "durability": 150,
+    "death_rating": 300,
+    "movement_rate": [
       {
-        "movement_type":"Wheeled",
-        "base":8,
-        "full":40
+        "movement_type": "Wheeled",
+        "base": 8,
+        "full": 40
       }
     ],
-    "size":"L",
-    "description":"<p>Standard automobiles come in a range of models and sizes.</p>",
-    "notes":"",
-    "ware":[
+    "size": "L",
+    "description": "<p>Standard automobiles come in a range of models and sizes.</p>",
+    "notes": "",
+    "ware": [
       "Access Jacks",
       "Mesh Inserts",
       "Puppet Sock",
       "Radar"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"48dff6a3-39e0-4901-a023-f35a7c7a8266"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "48dff6a3-39e0-4901-a023-f35a7c7a8266"
   },
   {
-    "category":"Vehicles",
-    "subcategory":"Groundcraft",
-    "name":"Microcar",
-    "complexity/gp":"Mod/2",
-    "passengers":1,
-    "vigor":0,
-    "flex":1,
-    "armor_energy":8,
-    "armor_kinetic":6,
-    "wound_threshold":12,
-    "durability":60,
-    "death_rating":120,
-    "movement_rate":[
+    "category": "Vehicles",
+    "subcategory": "Groundcraft",
+    "name": "Microcar",
+    "complexity/gp": "Mod/2",
+    "passengers": 1,
+    "vigor": 0,
+    "flex": 1,
+    "armor_energy": 8,
+    "armor_kinetic": 6,
+    "wound_threshold": 12,
+    "durability": 60,
+    "death_rating": 120,
+    "movement_rate": [
       {
-        "movement_type":"Wheeled",
-        "base":8,
-        "full":40
+        "movement_type": "Wheeled",
+        "base": 8,
+        "full": 40
       }
     ],
-    "size":"L",
-    "description":"<p>Single-person cars are popular in large habitats with limited space. These are little more than passenger pods riding on two large side-placed omni wheels for better handling and lateral movement.</p>",
-    "notes":"",
-    "ware":[
+    "size": "L",
+    "description": "<p>Single-person cars are popular in large habitats with limited space. These are little more than passenger pods riding on two large side-placed omni wheels for better handling and lateral movement.</p>",
+    "notes": "",
+    "ware": [
       "Access Jacks",
       "Mesh Inserts",
       "Puppet Sock",
       "Radar"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"048b521e-bde7-47b8-86f4-8f18b009c963"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "048b521e-bde7-47b8-86f4-8f18b009c963"
   },
   {
-    "category":"Vehicles",
-    "subcategory":"Groundcraft",
-    "name":"Rover",
-    "complexity/gp":"Rare/—",
-    "passengers":6,
-    "vigor":2,
-    "flex":2,
-    "armor_energy":12,
-    "armor_kinetic":10,
-    "wound_threshold":50,
-    "durability":250,
-    "death_rating":500,
-    "movement_rate":[
+    "category": "Vehicles",
+    "subcategory": "Groundcraft",
+    "name": "Rover",
+    "complexity/gp": "Rare/—",
+    "passengers": 6,
+    "vigor": 2,
+    "flex": 2,
+    "armor_energy": 12,
+    "armor_kinetic": 10,
+    "wound_threshold": 50,
+    "durability": 250,
+    "death_rating": 500,
+    "movement_rate": [
       {
-        "movement_type":"Wheeled",
-        "base":8,
-        "full":40
+        "movement_type": "Wheeled",
+        "base": 8,
+        "full": 40
       }
     ],
-    "size":"VL",
-    "description":"<p>Rovers are mobile living units, used by terraformers on Mars, miners on Mercury, and gatecrashers on exoplanets. They feature 8 large smart wheels, a 2-person airlock, cramped living quarters, a smart hitch for trailers, and a drone launching rack.</p>",
-    "notes":"",
-    "ware":[
+    "size": "VL",
+    "description": "<p>Rovers are mobile living units, used by terraformers on Mars, miners on Mercury, and gatecrashers on exoplanets. They feature 8 large smart wheels, a 2-person airlock, cramped living quarters, a smart hitch for trailers, and a drone launching rack.</p>",
+    "notes": "",
+    "ware": [
       "Access Jacks",
       "Mesh Inserts",
       "Puppet Sock",
@@ -487,39 +483,39 @@
       "Large Fabber",
       "Pocket Lab"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"fb4e987b-a0dc-4274-9e3a-620242c70837"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "fb4e987b-a0dc-4274-9e3a-620242c70837"
   },
   {
-    "category":"Vehicles",
-    "subcategory":"Hardsuits",
-    "name":"Battlesuit",
-    "complexity/gp":"Rare/R/—",
-    "passengers":1,
-    "vigor":2,
-    "flex":0,
-    "armor_energy":25,
-    "armor_kinetic":25,
-    "wound_threshold":20,
-    "durability":100,
-    "death_rating":200,
-    "movement_rate":[
+    "category": "Vehicles",
+    "subcategory": "Hardsuits",
+    "name": "Battlesuit",
+    "complexity/gp": "Rare/R/—",
+    "passengers": 1,
+    "vigor": 2,
+    "flex": 0,
+    "armor_energy": 25,
+    "armor_kinetic": 25,
+    "wound_threshold": 20,
+    "durability": 100,
+    "death_rating": 200,
+    "movement_rate": [
       {
-        "movement_type":"Walker",
-        "base":8,
-        "full":32
+        "movement_type": "Walker",
+        "base": 8,
+        "full": 32
       },
       {
-        "movement_type":"Thrust Vector",
-        "base":8,
-        "full":40
+        "movement_type": "Thrust Vector",
+        "base": 8,
+        "full": 40
       }
     ],
-    "size":"L",
-    "description":"<p>This power armor features a military-grade fullerene armor shell with flexible aerogel for thermal insulation and a diamond-hardened exterior designed to resist even potent ballistic and energy-based weapons. It increases Vigor pool by 2, inflicts an extra 1d10 damage in melee, increases your Walker movement rate to 8/32, and doubles your jumping distance.</p>",
-    "notes":"+1d10 melee damage, double jump distance.",
-    "ware":[
+    "size": "L",
+    "description": "<p>This power armor features a military-grade fullerene armor shell with flexible aerogel for thermal insulation and a diamond-hardened exterior designed to resist even potent ballistic and energy-based weapons. It increases Vigor pool by 2, inflicts an extra 1d10 damage in melee, increases your Walker movement rate to 8/32, and doubles your jumping distance.</p>",
+    "notes": "+1d10 melee damage, double jump distance.",
+    "ware": [
       "Access Jacks",
       "Mesh Inserts",
       "Puppet Sock",
@@ -535,39 +531,39 @@
       "Weapon Mounts (2 Articulated/Concealed",
       "2 Static/Concealed)"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"736d024d-691d-4c5c-98b5-ed9fc79e783f"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "736d024d-691d-4c5c-98b5-ed9fc79e783f"
   },
   {
-    "category":"Vehicles",
-    "subcategory":"Hardsuits",
-    "name":"Envirosuit",
-    "complexity/gp":"Major/3",
-    "passengers":1,
-    "vigor":0,
-    "flex":0,
-    "armor_energy":25,
-    "armor_kinetic":16,
-    "wound_threshold":16,
-    "durability":80,
-    "death_rating":160,
-    "movement_rate":[
+    "category": "Vehicles",
+    "subcategory": "Hardsuits",
+    "name": "Envirosuit",
+    "complexity/gp": "Major/3",
+    "passengers": 1,
+    "vigor": 0,
+    "flex": 0,
+    "armor_energy": 25,
+    "armor_kinetic": 16,
+    "wound_threshold": 16,
+    "durability": 80,
+    "death_rating": 160,
+    "movement_rate": [
       {
-        "movement_type":"Walker",
-        "base":4,
-        "full":20
+        "movement_type": "Walker",
+        "base": 4,
+        "full": 20
       },
       {
-        "movement_type":"Submarine",
-        "base":8,
-        "full":32
+        "movement_type": "Submarine",
+        "base": 8,
+        "full": 32
       }
     ],
-    "size":"M",
-    "description":"<p>These shells feature both increased radiation shielding and thermal regulation systems to withstand extreme environments such as deep undersea and the surfaces of Mercury and Venus. They can withstand temperatures from –270 to 1,000 C.</p>",
-    "notes":"+1d6 melee damage.",
-    "ware":[
+    "size": "M",
+    "description": "<p>These shells feature both increased radiation shielding and thermal regulation systems to withstand extreme environments such as deep undersea and the surfaces of Mercury and Venus. They can withstand temperatures from -270 to 1,000 C.</p>",
+    "notes": "+1d6 melee damage.",
+    "ware": [
       "Access Jacks",
       "Mesh Inserts",
       "Puppet Sock",
@@ -583,39 +579,39 @@
       "Thermogenic Protection",
       "Utilimod"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"19b5263b-d12d-451e-85dc-72a0c0654d2d"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "19b5263b-d12d-451e-85dc-72a0c0654d2d"
   },
   {
-    "category":"Vehicles",
-    "subcategory":"Hardsuits",
-    "name":"High-Dive Suit",
-    "complexity/gp":"Major/3",
-    "passengers":1,
-    "vigor":0,
-    "flex":0,
-    "armor_energy":25,
-    "armor_kinetic":8,
-    "wound_threshold":12,
-    "durability":60,
-    "death_rating":120,
-    "movement_rate":[
+    "category": "Vehicles",
+    "subcategory": "Hardsuits",
+    "name": "High-Dive Suit",
+    "complexity/gp": "Major/3",
+    "passengers": 1,
+    "vigor": 0,
+    "flex": 0,
+    "armor_energy": 25,
+    "armor_kinetic": 8,
+    "wound_threshold": 12,
+    "durability": 60,
+    "death_rating": 120,
+    "movement_rate": [
       {
-        "movement_type":"Walker",
-        "base":4,
-        "full":20
+        "movement_type": "Walker",
+        "base": 4,
+        "full": 20
       },
       {
-        "movement_type":"Thrust Vector",
-        "base":8,
-        "full":40
+        "movement_type": "Thrust Vector",
+        "base": 8,
+        "full": 40
       }
     ],
-    "size":"M",
-    "description":"<p>High-dive suits are personal spacesuits designed to withstand atmospheric re-entry. Wearing one of these, you can step out a spacecraft in orbit around a planet, enter the atmosphere without burning up, and safely land using both drogue and conventional parachutes. High-dive suits are meant for unpowered descent only; they do not possess the capability for flight.</p>",
-    "notes":"+1d6 melee damage.",
-    "ware":[
+    "size": "M",
+    "description": "<p>High-dive suits are personal spacesuits designed to withstand atmospheric re-entry. Wearing one of these, you can step out a spacecraft in orbit around a planet, enter the atmosphere without burning up, and safely land using both drogue and conventional parachutes. High-dive suits are meant for unpowered descent only; they do not possess the capability for flight.</p>",
+    "notes": "+1d6 melee damage.",
+    "ware": [
       "Access Jacks",
       "Mesh Inserts",
       "Puppet Sock",
@@ -626,39 +622,39 @@
       "Specs",
       "Thermogenic Protection"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"b66d1285-575d-4d51-b1c6-46383c7dfd95"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "b66d1285-575d-4d51-b1c6-46383c7dfd95"
   },
   {
-    "category":"Vehicles",
-    "subcategory":"Hardsuits",
-    "name":"Standard Hardsuit",
-    "complexity/gp":"Rare/6",
-    "passengers":1,
-    "vigor":1,
-    "flex":0,
-    "armor_energy":20,
-    "armor_kinetic":18,
-    "wound_threshold":12,
-    "durability":60,
-    "death_rating":120,
-    "movement_rate":[
+    "category": "Vehicles",
+    "subcategory": "Hardsuits",
+    "name": "Standard Hardsuit",
+    "complexity/gp": "Rare/6",
+    "passengers": 1,
+    "vigor": 1,
+    "flex": 0,
+    "armor_energy": 20,
+    "armor_kinetic": 18,
+    "wound_threshold": 12,
+    "durability": 60,
+    "death_rating": 120,
+    "movement_rate": [
       {
-        "movement_type":"Walker",
-        "base":4,
-        "full":20
+        "movement_type": "Walker",
+        "base": 4,
+        "full": 20
       },
       {
-        "movement_type":"Thrust Vector",
-        "base":8,
-        "full":40
+        "movement_type": "Thrust Vector",
+        "base": 8,
+        "full": 40
       }
     ],
-    "size":"L",
-    "description":"<p>This heavy-duty suit can almost be considered a miniature spaceship. It appears as a large metallic ovoid with jointed, servo-assisted arms and legs. It increases Vigor pool by 1 and inflicts an extra 1d10 damage in melee. Its miniature plasma thrusters are capable of delivering 0.01 g for 10 hours.</p>",
-    "notes":"+1d10 melee damage.",
-    "ware":[
+    "size": "L",
+    "description": "<p>This heavy-duty suit can almost be considered a miniature spaceship. It appears as a large metallic ovoid with jointed, servo-assisted arms and legs. It increases Vigor pool by 1 and inflicts an extra 1d10 damage in melee. Its miniature plasma thrusters are capable of delivering 0.01 g for 10 hours.</p>",
+    "notes": "+1d10 melee damage.",
+    "ware": [
       "Access Jacks",
       "Mesh Inserts",
       "Puppet Sock",
@@ -672,44 +668,44 @@
       "Radio Booster",
       "Utilimod"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"6912d97f-1490-47ca-992a-9128af7f7631"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "6912d97f-1490-47ca-992a-9128af7f7631"
   },
   {
-    "category":"Vehicles",
-    "subcategory":"Hybrids",
-    "name":"GEV",
-    "complexity/gp":"Rare/—",
-    "passengers":6,
-    "vigor":2,
-    "flex":2,
-    "armor_energy":12,
-    "armor_kinetic":10,
-    "wound_threshold":50,
-    "durability":250,
-    "death_rating":500,
-    "movement_rate":[
+    "category": "Vehicles",
+    "subcategory": "Hybrids",
+    "name": "GEV",
+    "complexity/gp": "Rare/—",
+    "passengers": 6,
+    "vigor": 2,
+    "flex": 2,
+    "armor_energy": 12,
+    "armor_kinetic": 10,
+    "wound_threshold": 50,
+    "durability": 250,
+    "death_rating": 500,
+    "movement_rate": [
       {
-        "movement_type":"Walker",
-        "base":4,
-        "full":20
+        "movement_type": "Walker",
+        "base": 4,
+        "full": 20
       },
       {
-        "movement_type":"Wheeled/Thrust Vector",
-        "base":8,
-        "full":40
+        "movement_type": "Wheeled/Thrust Vector",
+        "base": 8,
+        "full": 40
       },
       {
-        "movement_type":"Submarine",
-        "base":8,
-        "full":32
+        "movement_type": "Submarine",
+        "base": 8,
+        "full": 32
       }
     ],
-    "size":"VL",
-    "description":"<p>A General Exploration Vehicle (GEV) is a boxy exploration vehicle designed to handle almost any environment. Favored for gatecrashing, they feature a smart-matter chassis that can shift between wheels and legs for rough terrain in 1d6 minutes. It can handle vacuum, surface water, and underwater, and carries a small metallic-hydrogen drive and attitude jets for maneuvering in space. It is shielded against radiation, features an extendable airlock, and carries extended life support functions.</p>",
-    "notes":"",
-    "ware":[
+    "size": "VL",
+    "description": "<p>A General Exploration Vehicle (GEV) is a boxy exploration vehicle designed to handle almost any environment. Favored for gatecrashing, they feature a smart-matter chassis that can shift between wheels and legs for rough terrain in 1d6 minutes. It can handle vacuum, surface water, and underwater, and carries a small metallic-hydrogen drive and attitude jets for maneuvering in space. It is shielded against radiation, features an extendable airlock, and carries extended life support functions.</p>",
+    "notes": "",
+    "ware": [
       "Access Jacks",
       "Mesh Inserts",
       "Puppet Sock",
@@ -724,67 +720,67 @@
       "Pressure Adaptation",
       "Portable Sensor (Telescope)"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"993cf388-8a6d-4536-9bb9-39fe5b3242d7"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "993cf388-8a6d-4536-9bb9-39fe5b3242d7"
   },
   {
-    "category":"Vehicles",
-    "subcategory":"Hybrids",
-    "name":"Rocket Buggy",
-    "complexity/gp":"Maj/3",
-    "passengers":4,
-    "vigor":2,
-    "flex":1,
-    "armor_energy":12,
-    "armor_kinetic":10,
-    "wound_threshold":20,
-    "durability":100,
-    "death_rating":200,
-    "movement_rate":[
+    "category": "Vehicles",
+    "subcategory": "Hybrids",
+    "name": "Rocket Buggy",
+    "complexity/gp": "Maj/3",
+    "passengers": 4,
+    "vigor": 2,
+    "flex": 1,
+    "armor_energy": 12,
+    "armor_kinetic": 10,
+    "wound_threshold": 20,
+    "durability": 100,
+    "death_rating": 200,
+    "movement_rate": [
       {
-        "movement_type":"Wheeled",
-        "base":8,
-        "full":40
+        "movement_type": "Wheeled",
+        "base": 8,
+        "full": 40
       }
     ],
-    "size":"Unlisted",
-    "description":"<p>This smart-wheeled buggie is equipped with a metallic-hydrogen rocket. It is ideal for moons and large asteroids, where it can reach orbit and return or take a parabolic path to any destination on that moon in less than an hour. Buggies are also popular on Mars (though unable to reach orbit).</p>",
-    "notes":"",
-    "ware":[
+    "size": "Unlisted",
+    "description": "<p>This smart-wheeled buggie is equipped with a metallic-hydrogen rocket. It is ideal for moons and large asteroids, where it can reach orbit and return or take a parabolic path to any destination on that moon in less than an hour. Buggies are also popular on Mars (though unable to reach orbit).</p>",
+    "notes": "",
+    "ware": [
       "Access Jacks",
       "Mesh Inserts",
       "Puppet Sock",
       "Radar"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"ec539497-9b04-433d-84d8-930e31124965"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "ec539497-9b04-433d-84d8-930e31124965"
   },
   {
-    "category":"Vehicles",
-    "subcategory":"Nautical Craft",
-    "name":"Mini-Sub",
-    "complexity/gp":"Rare/—",
-    "passengers":4,
-    "vigor":1,
-    "flex":0,
-    "armor_energy":12,
-    "armor_kinetic":10,
-    "wound_threshold":50,
-    "durability":250,
-    "death_rating":500,
-    "movement_rate":[
+    "category": "Vehicles",
+    "subcategory": "Nautical Craft",
+    "name": "Mini-Sub",
+    "complexity/gp": "Rare/—",
+    "passengers": 4,
+    "vigor": 1,
+    "flex": 0,
+    "armor_energy": 12,
+    "armor_kinetic": 10,
+    "wound_threshold": 50,
+    "durability": 250,
+    "death_rating": 500,
+    "movement_rate": [
       {
-        "movement_type":"Submarine",
-        "base":8,
-        "full":32
+        "movement_type": "Submarine",
+        "base": 8,
+        "full": 32
       }
     ],
-    "size":"VL",
-    "description":"<p>This submersible is for small groups and cargo.</p>",
-    "notes":"",
-    "ware":[
+    "size": "VL",
+    "description": "<p>This submersible is for small groups and cargo.</p>",
+    "notes": "",
+    "ware": [
       "Access Jacks",
       "Mesh Inserts",
       "Puppet Sock",
@@ -795,404 +791,404 @@
       "Pressure Adaptation",
       "Sonar"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"24e2675e-5be1-49c9-8837-616ba422a135"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "24e2675e-5be1-49c9-8837-616ba422a135"
   },
   {
-    "category":"Vehicles",
-    "subcategory":"Pers Transport",
-    "name":"Rocket Pack",
-    "complexity/gp":"Mod/2",
-    "passengers":1,
-    "vigor":0,
-    "flex":0,
-    "armor_energy":6,
-    "armor_kinetic":4,
-    "wound_threshold":6,
-    "durability":30,
-    "death_rating":60,
-    "movement_rate":[
+    "category": "Vehicles",
+    "subcategory": "Pers Transport",
+    "name": "Rocket Pack",
+    "complexity/gp": "Mod/2",
+    "passengers": 1,
+    "vigor": 0,
+    "flex": 0,
+    "armor_energy": 6,
+    "armor_kinetic": 4,
+    "wound_threshold": 6,
+    "durability": 30,
+    "death_rating": 60,
+    "movement_rate": [
       {
-        "movement_type":"Thrust Vector",
-        "base":8,
-        "full":40
+        "movement_type": "Thrust Vector",
+        "base": 8,
+        "full": 40
       }
     ],
-    "size":"S",
-    "description":"<p>This is a miniature metallic hydrogen rocket that you strap to your back, with two rocket exhausts extending out to either side, away from your body or legs. To prevent burns, a biomorph must be wearing a heat resistant garment such as a vacsuit. Also, to prevent harm, the thrust must be kept sufficiently low that it can only take off on Mars or moons with even lower gravity. A rocket pack can keep you airborne for up to 15 minutes in Mars gravity, or 30 minutes on Luna, Titan, and smaller moons and asteroids. It can be used to reach orbit and land again on Luna, Titan, and other similarly small bodies like the Jovian moons.</p>",
-    "notes":"",
-    "ware":[
+    "size": "S",
+    "description": "<p>This is a miniature metallic hydrogen rocket that you strap to your back, with two rocket exhausts extending out to either side, away from your body or legs. To prevent burns, a biomorph must be wearing a heat resistant garment such as a vacsuit. Also, to prevent harm, the thrust must be kept sufficiently low that it can only take off on Mars or moons with even lower gravity. A rocket pack can keep you airborne for up to 15 minutes in Mars gravity, or 30 minutes on Luna, Titan, and smaller moons and asteroids. It can be used to reach orbit and land again on Luna, Titan, and other similarly small bodies like the Jovian moons.</p>",
+    "notes": "",
+    "ware": [
       "Access Jacks",
       "Mesh Inserts",
       "Puppet Sock",
       "Radar"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"2f348b79-bf95-4657-bfcd-fc9f3fe18439"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "2f348b79-bf95-4657-bfcd-fc9f3fe18439"
   },
   {
-    "category":"Vehicles",
-    "subcategory":"Pers Transport",
-    "name":"Sled",
-    "complexity/gp":"Min/1",
-    "passengers":2,
-    "vigor":0,
-    "flex":0,
-    "armor_energy":6,
-    "armor_kinetic":4,
-    "wound_threshold":8,
-    "durability":40,
-    "death_rating":80,
-    "movement_rate":[
+    "category": "Vehicles",
+    "subcategory": "Pers Transport",
+    "name": "Sled",
+    "complexity/gp": "Min/1",
+    "passengers": 2,
+    "vigor": 0,
+    "flex": 0,
+    "armor_energy": 6,
+    "armor_kinetic": 4,
+    "wound_threshold": 8,
+    "durability": 40,
+    "death_rating": 80,
+    "movement_rate": [
       {
-        "movement_type":"Thrust Vector",
-        "base":8,
-        "full":40
+        "movement_type": "Thrust Vector",
+        "base": 8,
+        "full": 40
       }
     ],
-    "size":"S",
-    "description":"<p>This small sled uses air impellers or nitrogen thrusters to maneuver in microgravity or vacuum, or propellers to move undersea. It is used to carry gear attached with numerous straps and clips. It can also pull along 2 medium-sized morphs.</p>",
-    "notes":"",
-    "ware":[
+    "size": "S",
+    "description": "<p>This small sled uses air impellers or nitrogen thrusters to maneuver in microgravity or vacuum, or propellers to move undersea. It is used to carry gear attached with numerous straps and clips. It can also pull along 2 medium-sized morphs.</p>",
+    "notes": "",
+    "ware": [
       "Access Jacks",
       "Mesh Inserts",
       "Puppet Sock",
       "Radar"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"761e14e5-d5f4-4a29-b446-086665324888"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "761e14e5-d5f4-4a29-b446-086665324888"
   },
   {
-    "category":"Vehicles",
-    "subcategory":"Pers Transport",
-    "name":"Thruster Pack",
-    "complexity/gp":"Min/1",
-    "passengers":1,
-    "vigor":0,
-    "flex":0,
-    "armor_energy":6,
-    "armor_kinetic":4,
-    "wound_threshold":6,
-    "durability":30,
-    "death_rating":60,
-    "movement_rate":[
+    "category": "Vehicles",
+    "subcategory": "Pers Transport",
+    "name": "Thruster Pack",
+    "complexity/gp": "Min/1",
+    "passengers": 1,
+    "vigor": 0,
+    "flex": 0,
+    "armor_energy": 6,
+    "armor_kinetic": 4,
+    "wound_threshold": 6,
+    "durability": 30,
+    "death_rating": 60,
+    "movement_rate": [
       {
-        "movement_type":"Thrust Vector",
-        "base":8,
-        "full":40
+        "movement_type": "Thrust Vector",
+        "base": 8,
+        "full": 40
       }
     ],
-    "size":"S",
-    "description":"<p>Worn for micrograv operations or EVA in vacuum, this thruster pack uses vectored thrust nozzles to maneuver.</p>",
-    "notes":"",
-    "ware":[
+    "size": "S",
+    "description": "<p>Worn for micrograv operations or EVA in vacuum, this thruster pack uses vectored thrust nozzles to maneuver.</p>",
+    "notes": "",
+    "ware": [
       "Access Jacks",
       "Mesh Inserts",
       "Puppet Sock",
       "Radar"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"761659a9-373c-4e0e-b40c-4e6710ed299b"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "761659a9-373c-4e0e-b40c-4e6710ed299b"
   },
   {
-    "category":"Vehicles",
-    "subcategory":"Spacecraft",
-    "name":"Bulk Carrier",
-    "complexity/gp":"Rare/—",
-    "passengers":5,
-    "vigor":0,
-    "flex":0,
-    "armor_energy":40,
-    "armor_kinetic":30,
-    "wound_threshold":150,
-    "durability":750,
-    "death_rating":1500,
-    "movement_rate":[
+    "category": "Vehicles",
+    "subcategory": "Spacecraft",
+    "name": "Bulk Carrier",
+    "complexity/gp": "Rare/—",
+    "passengers": 5,
+    "vigor": 0,
+    "flex": 0,
+    "armor_energy": 40,
+    "armor_kinetic": 30,
+    "wound_threshold": 150,
+    "durability": 750,
+    "death_rating": 1500,
+    "movement_rate": [
       {
-        "movement_type":"Fusion",
-        "base":0,
-        "full":0
+        "movement_type": "Fusion",
+        "base": 0,
+        "full": 0
       }
     ],
-    "size":"Spacecraft",
-    "description":"<p>This vessel is long and thin, with fusion rockets at one end and the cockpit and crew quarters at the other. Freight modules carrying cargo are grappled all along the spine. A pair of airlocked freight elevators move inside the spine. Carriers haul refined ores, ice, and similar large, useful, but low priority cargo at relatively low velocities. They also offer an inexpensive, reliable, and slow method for passengers to travel from one habitat to another and are not infrequently used by individuals who wish to disappear for a while. Bulk carriers lack rotating habitation rings, and are primary crewed by hibernoids, bouncers, and synthmorphs.</p>",
-    "notes":"",
-    "ware":[
+    "size": "Spacecraft",
+    "description": "<p>This vessel is long and thin, with fusion rockets at one end and the cockpit and crew quarters at the other. Freight modules carrying cargo are grappled all along the spine. A pair of airlocked freight elevators move inside the spine. Carriers haul refined ores, ice, and similar large, useful, but low priority cargo at relatively low velocities. They also offer an inexpensive, reliable, and slow method for passengers to travel from one habitat to another and are not infrequently used by individuals who wish to disappear for a while. Bulk carriers lack rotating habitation rings, and are primary crewed by hibernoids, bouncers, and synthmorphs.</p>",
+    "notes": "",
+    "ware": [
       "Access Jacks",
       "Mesh Inserts",
       "Puppet Sock",
       "Radar"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"d180e3c0-0b5c-4c10-995e-d656239ebe75"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "d180e3c0-0b5c-4c10-995e-d656239ebe75"
   },
   {
-    "category":"Vehicles",
-    "subcategory":"Spacecraft",
-    "name":"Courier",
-    "complexity/gp":"Rare/—",
-    "passengers":13,
-    "vigor":0,
-    "flex":0,
-    "armor_energy":30,
-    "armor_kinetic":20,
-    "wound_threshold":100,
-    "durability":500,
-    "death_rating":1000,
-    "movement_rate":[
+    "category": "Vehicles",
+    "subcategory": "Spacecraft",
+    "name": "Courier",
+    "complexity/gp": "Rare/—",
+    "passengers": 13,
+    "vigor": 0,
+    "flex": 0,
+    "armor_energy": 30,
+    "armor_kinetic": 20,
+    "wound_threshold": 100,
+    "durability": 500,
+    "death_rating": 1000,
+    "movement_rate": [
       {
-        "movement_type":"Anti-matter",
-        "base":0,
-        "full":0
+        "movement_type": "Anti-matter",
+        "base": 0,
+        "full": 0
       }
     ],
-    "size":"Spacecraft",
-    "description":"<p>With their anti-matter drives, these fast couriers can cross the Solar System in a matter of days or weeks. They are reserved for high value and critical cargo.</p>",
-    "notes":"",
-    "ware":[
+    "size": "Spacecraft",
+    "description": "<p>With their anti-matter drives, these fast couriers can cross the Solar System in a matter of days or weeks. They are reserved for high value and critical cargo.</p>",
+    "notes": "",
+    "ware": [
       "Access Jacks",
       "Mesh Inserts",
       "Puppet Sock",
       "Radar"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"e88e497c-bd26-4c02-b8dc-2821645af940"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "e88e497c-bd26-4c02-b8dc-2821645af940"
   },
   {
-    "category":"Vehicles",
-    "subcategory":"Spacecraft",
-    "name":"Corvette",
-    "complexity/gp":"Rare/—",
-    "passengers":30,
-    "vigor":0,
-    "flex":0,
-    "armor_energy":50,
-    "armor_kinetic":40,
-    "wound_threshold":150,
-    "durability":750,
-    "death_rating":1500,
-    "movement_rate":[
+    "category": "Vehicles",
+    "subcategory": "Spacecraft",
+    "name": "Corvette",
+    "complexity/gp": "Rare/—",
+    "passengers": 30,
+    "vigor": 0,
+    "flex": 0,
+    "armor_energy": 50,
+    "armor_kinetic": 40,
+    "wound_threshold": 150,
+    "durability": 750,
+    "death_rating": 1500,
+    "movement_rate": [
       {
-        "movement_type":"Fusion/Anti-matter",
-        "base":0,
-        "full":0
+        "movement_type": "Fusion/Anti-matter",
+        "base": 0,
+        "full": 0
       }
     ],
-    "size":"Spacecraft",
-    "description":"<p>Corvettes are light warships and fast-attack craft. They primarily rely on fusion drives but also carry anti-matter for highspeed propulsion and devastating warheads. They are armed with railguns, lasers, drones, and missile systems.</p>",
-    "notes":"",
-    "ware":[
+    "size": "Spacecraft",
+    "description": "<p>Corvettes are light warships and fast-attack craft. They primarily rely on fusion drives but also carry anti-matter for highspeed propulsion and devastating warheads. They are armed with railguns, lasers, drones, and missile systems.</p>",
+    "notes": "",
+    "ware": [
       "Access Jacks",
       "Mesh Inserts",
       "Puppet Sock",
       "Radar"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"31b4dae0-da53-4de8-8dda-df08fe2f9179"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "31b4dae0-da53-4de8-8dda-df08fe2f9179"
   },
   {
-    "category":"Vehicles",
-    "subcategory":"Spacecraft",
-    "name":"Destroyer",
-    "complexity/gp":"Rare/—",
-    "passengers":90,
-    "vigor":0,
-    "flex":0,
-    "armor_energy":50,
-    "armor_kinetic":40,
-    "wound_threshold":400,
-    "durability":2000,
-    "death_rating":4000,
-    "movement_rate":[
+    "category": "Vehicles",
+    "subcategory": "Spacecraft",
+    "name": "Destroyer",
+    "complexity/gp": "Rare/—",
+    "passengers": 90,
+    "vigor": 0,
+    "flex": 0,
+    "armor_energy": 50,
+    "armor_kinetic": 40,
+    "wound_threshold": 400,
+    "durability": 2000,
+    "death_rating": 4000,
+    "movement_rate": [
       {
-        "movement_type":"Fusion/Anti-matter",
-        "base":0,
-        "full":0
+        "movement_type": "Fusion/Anti-matter",
+        "base": 0,
+        "full": 0
       }
     ],
-    "size":"Spacecraft",
-    "description":"<p>The largest military spacecraft in common use, destroyers alternate between fusion and antimatter drives like corvettes. They are armed with railguns, nuclear and high explosive missiles, point-defense lasers, and a contingent of 20 fighters.</p>",
-    "notes":"",
-    "ware":[
+    "size": "Spacecraft",
+    "description": "<p>The largest military spacecraft in common use, destroyers alternate between fusion and antimatter drives like corvettes. They are armed with railguns, nuclear and high explosive missiles, point-defense lasers, and a contingent of 20 fighters.</p>",
+    "notes": "",
+    "ware": [
       "Access Jacks",
       "Mesh Inserts",
       "Puppet Sock",
       "Radar"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"fa097e45-63ca-4aa3-af3c-6eb6dc70e91b"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "fa097e45-63ca-4aa3-af3c-6eb6dc70e91b"
   },
   {
-    "category":"Vehicles",
-    "subcategory":"Spacecraft",
-    "name":"Fighter",
-    "complexity/gp":"Rare/—",
-    "passengers":1,
-    "vigor":3,
-    "flex":2,
-    "armor_energy":30,
-    "armor_kinetic":20,
-    "wound_threshold":50,
-    "durability":250,
-    "death_rating":500,
-    "movement_rate":[
+    "category": "Vehicles",
+    "subcategory": "Spacecraft",
+    "name": "Fighter",
+    "complexity/gp": "Rare/—",
+    "passengers": 1,
+    "vigor": 3,
+    "flex": 2,
+    "armor_energy": 30,
+    "armor_kinetic": 20,
+    "wound_threshold": 50,
+    "durability": 250,
+    "death_rating": 500,
+    "movement_rate": [
       {
-        "movement_type":"Fusion",
-        "base":0,
-        "full":0
+        "movement_type": "Fusion",
+        "base": 0,
+        "full": 0
       }
     ],
-    "size":"Spacecraft",
-    "description":"<p>Most of these short-range military vessels are designed to be crewed by an infomorph/ALI, though some can hold a single pilot (typically a synthmorph or vacuum-adapted biomorph). A typical loadout includes 4–6 laser and railgun turrets that can fire in any direction and a missile launcher carrying high-explosive or even nuclear or anti-matter missiles. Some are also designed (or can change their shape) to handle atmospheric flight.</p>",
-    "notes":"",
-    "ware":[
+    "size": "Spacecraft",
+    "description": "<p>Most of these short-range military vessels are designed to be crewed by an infomorph/ALI, though some can hold a single pilot (typically a synthmorph or vacuum-adapted biomorph). A typical loadout includes 4-6 laser and railgun turrets that can fire in any direction and a missile launcher carrying high-explosive or even nuclear or anti-matter missiles. Some are also designed (or can change their shape) to handle atmospheric flight.</p>",
+    "notes": "",
+    "ware": [
       "Access Jacks",
       "Mesh Inserts",
       "Puppet Sock",
       "Radar"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"e2b501d9-8009-4e6a-bed9-a70198ddb9d9"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "e2b501d9-8009-4e6a-bed9-a70198ddb9d9"
   },
   {
-    "category":"Vehicles",
-    "subcategory":"Spacecraft",
-    "name":"Scum Barge",
-    "complexity/gp":"Rare/—",
-    "passengers":25000,
-    "vigor":0,
-    "flex":0,
-    "armor_energy":40,
-    "armor_kinetic":30,
-    "wound_threshold":300,
-    "durability":1500,
-    "death_rating":3000,
-    "movement_rate":[
+    "category": "Vehicles",
+    "subcategory": "Spacecraft",
+    "name": "Scum Barge",
+    "complexity/gp": "Rare/—",
+    "passengers": 25000,
+    "vigor": 0,
+    "flex": 0,
+    "armor_energy": 40,
+    "armor_kinetic": 30,
+    "wound_threshold": 300,
+    "durability": 1500,
+    "death_rating": 3000,
+    "movement_rate": [
       {
-        "movement_type":"Plasma/Fusion",
-        "base":0,
-        "full":0
+        "movement_type": "Plasma/Fusion",
+        "base": 0,
+        "full": 0
       }
     ],
-    "size":"Spacecraft",
-    "description":"<p>Barges are a catch-all category for a type of mobile habitat common in scum swarms. The original barges were temporary micrograv refugee habitats built in Earth orbit during the Fall. These were designed to support up to 20,000 people in cramped conditions for months or even years. Largely abandoned by authorities, the scum lashed rockets on or began towing them. Other barges have been claimed and made mobile over the years, including everything from remnants of partially destroyed torus habitats to small asteroids. The best use fusion rockets and carry 5–10,000 in relative comfort, sometimes spun for low gravity; the worst use aging plasma rockets or rely on towboat craft and stretch their life support systems and living spaces to the limit with up to 25,000 residents.</p>",
-    "notes":"",
-    "ware":[
+    "size": "Spacecraft",
+    "description": "<p>Barges are a catch-all category for a type of mobile habitat common in scum swarms. The original barges were temporary micrograv refugee habitats built in Earth orbit during the Fall. These were designed to support up to 20,000 people in cramped conditions for months or even years. Largely abandoned by authorities, the scum lashed rockets on or began towing them. Other barges have been claimed and made mobile over the years, including everything from remnants of partially destroyed torus habitats to small asteroids. The best use fusion rockets and carry 5-10,000 in relative comfort, sometimes spun for low gravity; the worst use aging plasma rockets or rely on towboat craft and stretch their life support systems and living spaces to the limit with up to 25,000 residents.</p>",
+    "notes": "",
+    "ware": [
       "Access Jacks",
       "Mesh Inserts",
       "Puppet Sock",
       "Radar"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"c3b21ff3-1832-44cc-af3c-192ca6eb5e9e"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "c3b21ff3-1832-44cc-af3c-192ca6eb5e9e"
   },
   {
-    "category":"Vehicles",
-    "subcategory":"Spacecraft",
-    "name":"Shuttle (Large)",
-    "complexity/gp":"Rare/—",
-    "passengers":300,
-    "vigor":0,
-    "flex":0,
-    "armor_energy":20,
-    "armor_kinetic":15,
-    "wound_threshold":80,
-    "durability":400,
-    "death_rating":800,
-    "movement_rate":[
+    "category": "Vehicles",
+    "subcategory": "Spacecraft",
+    "name": "Shuttle (Large)",
+    "complexity/gp": "Rare/—",
+    "passengers": 300,
+    "vigor": 0,
+    "flex": 0,
+    "armor_energy": 20,
+    "armor_kinetic": 15,
+    "wound_threshold": 80,
+    "durability": 400,
+    "death_rating": 800,
+    "movement_rate": [
       {
-        "movement_type":"Metallic-Hydrogen",
-        "base":0,
-        "full":0
+        "movement_type": "Metallic-Hydrogen",
+        "base": 0,
+        "full": 0
       }
     ],
-    "size":"Spacecraft",
-    "description":"<p>Also known as landers and orbit transfer vehicles (LOTVs), these common vehicles transport passengers and cargo between a planet or moon and orbit and for short distance transfers between habitats less than 100,000 km apart. Those designed for atmospheric entry have conical designs; airless models are blockier. Both use metallic hydrogen drives. Smart-material landing legs and grapples allow it to rest securely on any stable terrain and link up with all forms of docking clamps. Smart-material interiors can be easily and rapidly reconfigured to accommodate different amounts of fuel, passenger seats, and cargo space. Shuttles come in small and large models.</p>",
-    "notes":"",
-    "ware":[
+    "size": "Spacecraft",
+    "description": "<p>Also known as landers and orbit transfer vehicles (LOTVs), these common vehicles transport passengers and cargo between a planet or moon and orbit and for short distance transfers between habitats less than 100,000 km apart. Those designed for atmospheric entry have conical designs; airless models are blockier. Both use metallic hydrogen drives. Smart-material landing legs and grapples allow it to rest securely on any stable terrain and link up with all forms of docking clamps. Smart-material interiors can be easily and rapidly reconfigured to accommodate different amounts of fuel, passenger seats, and cargo space. Shuttles come in small and large models.</p>",
+    "notes": "",
+    "ware": [
       "Access Jacks",
       "Mesh Inserts",
       "Puppet Sock",
       "Radar"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"c6367299-9865-4957-b6fc-079791a39664"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "c6367299-9865-4957-b6fc-079791a39664"
   },
   {
-    "category":"Vehicles",
-    "subcategory":"Spacecraft",
-    "name":"Shuttle (Small)",
-    "complexity/gp":"Rare/—",
-    "passengers":20,
-    "vigor":0,
-    "flex":0,
-    "armor_energy":20,
-    "armor_kinetic":15,
-    "wound_threshold":80,
-    "durability":400,
-    "death_rating":800,
-    "movement_rate":[
+    "category": "Vehicles",
+    "subcategory": "Spacecraft",
+    "name": "Shuttle (Small)",
+    "complexity/gp": "Rare/—",
+    "passengers": 20,
+    "vigor": 0,
+    "flex": 0,
+    "armor_energy": 20,
+    "armor_kinetic": 15,
+    "wound_threshold": 80,
+    "durability": 400,
+    "death_rating": 800,
+    "movement_rate": [
       {
-        "movement_type":"Metallic-Hydrogen",
-        "base":0,
-        "full":0
+        "movement_type": "Metallic-Hydrogen",
+        "base": 0,
+        "full": 0
       }
     ],
-    "size":"Spacecraft",
-    "description":"<p>Also known as landers and orbit transfer vehicles (LOTVs), these common vehicles transport passengers and cargo between a planet or moon and orbit and for short distance transfers between habitats less than 100,000 km apart. Those designed for atmospheric entry have conical designs; airless models are blockier. Both use metallic hydrogen drives. Smart-material landing legs and grapples allow it to rest securely on any stable terrain and link up with all forms of docking clamps. Smart-material interiors can be easily and rapidly reconfigured to accommodate different amounts of fuel, passenger seats, and cargo space. Shuttles come in small and large models.</p>",
-    "notes":"",
-    "ware":[
+    "size": "Spacecraft",
+    "description": "<p>Also known as landers and orbit transfer vehicles (LOTVs), these common vehicles transport passengers and cargo between a planet or moon and orbit and for short distance transfers between habitats less than 100,000 km apart. Those designed for atmospheric entry have conical designs; airless models are blockier. Both use metallic hydrogen drives. Smart-material landing legs and grapples allow it to rest securely on any stable terrain and link up with all forms of docking clamps. Smart-material interiors can be easily and rapidly reconfigured to accommodate different amounts of fuel, passenger seats, and cargo space. Shuttles come in small and large models.</p>",
+    "notes": "",
+    "ware": [
       "Access Jacks",
       "Mesh Inserts",
       "Puppet Sock",
       "Radar"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"83439dce-dabf-4b49-9cea-18f81019151c"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "83439dce-dabf-4b49-9cea-18f81019151c"
   },
   {
-    "category":"Vehicles",
-    "subcategory":"Spacecraft",
-    "name":"Transport",
-    "complexity/gp":"Rare/—",
-    "passengers":100,
-    "vigor":0,
-    "flex":0,
-    "armor_energy":40,
-    "armor_kinetic":30,
-    "wound_threshold":150,
-    "durability":750,
-    "death_rating":1500,
-    "movement_rate":[
+    "category": "Vehicles",
+    "subcategory": "Spacecraft",
+    "name": "Transport",
+    "complexity/gp": "Rare/—",
+    "passengers": 100,
+    "vigor": 0,
+    "flex": 0,
+    "armor_energy": 40,
+    "armor_kinetic": 30,
+    "wound_threshold": 150,
+    "durability": 750,
+    "death_rating": 1500,
+    "movement_rate": [
       {
-        "movement_type":"Fusion",
-        "base":0,
-        "full":0
+        "movement_type": "Fusion",
+        "base": 0,
+        "full": 0
       }
     ],
-    "size":"Spacecraft",
-    "description":"<p>This common freighter and passenger vessel can be found on regular routes between every large habitat and inhabited planet and moon in the Solar System. These are modern fusiondrive ships that offer fast and comfortable travel for passengers and some cargo. Similar in design to bulk carriers, transports trade off cargo module room for multiple passenger compartments mounted on 90-meter-long booms that can extend and rotate at 2 rpm to simulate Mars gravity.</p>",
-    "notes":"",
-    "ware":[
+    "size": "Spacecraft",
+    "description": "<p>This common freighter and passenger vessel can be found on regular routes between every large habitat and inhabited planet and moon in the Solar System. These are modern fusiondrive ships that offer fast and comfortable travel for passengers and some cargo. Similar in design to bulk carriers, transports trade off cargo module room for multiple passenger compartments mounted on 90-meter-long booms that can extend and rotate at 2 rpm to simulate Mars gravity.</p>",
+    "notes": "",
+    "ware": [
       "Access Jacks",
       "Mesh Inserts",
       "Puppet Sock",
       "Radar"
     ],
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"515781f1-94bb-4ee8-9a7f-2cc7a7d01d0d"
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "515781f1-94bb-4ee8-9a7f-2cc7a7d01d0d"
   }
 ]

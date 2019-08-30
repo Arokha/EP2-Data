@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "name": "Flat",
     "book": "EP2E Core",
@@ -314,7 +314,7 @@
     "notes": [],
     "common_shape_adjustments": [],
     "image": "hibernoid.png",
-    "description": "Hibernoids are transgenic-modified humans with heavily altered sleep patterns and metabolic processes. Hibernoids have a decreased need for sleep, requiring only 1–2 hours a day on average. They can also trigger a form of voluntary hibernation, effectively halting their metabolism and need for oxygen. Hibernoids make excellent long-duration space travelers, but these morphs are also favored by personal aides and hypercapitalists with non-stop lifestyles.",
+    "description": "Hibernoids are transgenic-modified humans with heavily altered sleep patterns and metabolic processes. Hibernoids have a decreased need for sleep, requiring only 1-2 hours a day on average. They can also trigger a form of voluntary hibernation, effectively halting their metabolism and need for oxygen. Hibernoids make excellent long-duration space travelers, but these morphs are also favored by personal aides and hypercapitalists with non-stop lifestyles.",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "691d46b9-725d-45bc-afd4-76e82453894e"
@@ -1928,33 +1928,33 @@
     "id": "f53351aa-6d11-43f2-8911-ec9b1a85cecb"
   },
   {
-    "name":"All Flexbots",
-    "book":"EP2E Core",
-    "type":"Flexbot",
-    "cost":0,
-    "availability":0,
-    "wound_threshold":0,
-    "durability":0,
-    "death_rating":0,
-    "pools":{
-      "insight":0,
-      "moxie":0,
-      "vigor":0,
-      "flex":0
+    "name": "All Flexbots",
+    "book": "EP2E Core",
+    "type": "Flexbot",
+    "cost": 0,
+    "availability": 0,
+    "wound_threshold": 0,
+    "durability": 0,
+    "death_rating": 0,
+    "pools": {
+      "insight": 0,
+      "moxie": 0,
+      "vigor": 0,
+      "flex": 0
     },
-    "movement_rate":[
+    "movement_rate": [
       {
-        "movement_type":"Thrust Vector",
-        "base":8,
-        "full":40
+        "movement_type": "Thrust Vector",
+        "base": 8,
+        "full": 40
       },
       {
-        "movement_type":"Walker",
-        "base":4,
-        "full":12
+        "movement_type": "Walker",
+        "base": 4,
+        "full": 12
       }
     ],
-    "ware":[
+    "ware": [
       "Access Jacks",
       "Cortical Stack",
       "Cyberbrain",
@@ -1965,60 +1965,48 @@
       "Puppet Sock",
       "Shape Adjusting"
     ],
-    "morph_traits":[
+    "morph_traits": [
       {
         "name": "Exotic Morphology",
         "level": 3
       }
     ],
-    "common_extras":[
-
-    ],
-    "notes":[
+    "common_extras": [],
+    "notes": [
       "Light Frame (Armor 6/4)",
       "Small size"
     ],
-    "common_shape_adjustments":[
-
-    ],
-    "image":"flexbot.png",
-    "description":"All flexbots have the following stats, plus the stats for their module type:",
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"5e7bca93-5125-4e22-a288-a8956b6ea500"
+    "common_shape_adjustments": [],
+    "image": "flexbot.png",
+    "description": "All flexbots have the following stats, plus the stats for their module type:",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "5e7bca93-5125-4e22-a288-a8956b6ea500"
   },
   {
-    "name":"Crafter Module",
-    "book":"EP2E Core",
-    "type":"Flexbot",
-    "cost":2,
-    "availability":60,
-    "wound_threshold":4,
-    "durability":20,
-    "death_rating":40,
-    "pools":{
-      "insight":1,
-      "moxie":0,
-      "vigor":0,
-      "flex":0
+    "name": "Crafter Module",
+    "book": "EP2E Core",
+    "type": "Flexbot",
+    "cost": 2,
+    "availability": 60,
+    "wound_threshold": 4,
+    "durability": 20,
+    "death_rating": 40,
+    "pools": {
+      "insight": 1,
+      "moxie": 0,
+      "vigor": 0,
+      "flex": 0
     },
-    "movement_rate":[
-
-    ],
-    "ware":[
+    "movement_rate": [],
+    "ware": [
       "Engineer Swarm Hive",
       "Fixer Swarm Hive"
     ],
-    "morph_traits":[
-
-    ],
-    "common_extras":[
-
-    ],
-    "notes":[
-
-    ],
-    "common_shape_adjustments":[
+    "morph_traits": [],
+    "common_extras": [],
+    "notes": [],
+    "common_shape_adjustments": [
       "Enhanced Vision",
       "Disassembly Tools",
       "Fractal Digits",
@@ -2027,88 +2015,72 @@
       "T-Ray Emitter",
       "Utilimod"
     ],
-    "image":"flexbot_module.png",
-    "description":"Crafters are engineer modules, specialized in construction and fabrication.",
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"30580d87-edfc-43df-8b89-2ec99da543df"
+    "image": "flexbot_module.png",
+    "description": "Crafters are engineer modules, specialized in construction and fabrication.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "30580d87-edfc-43df-8b89-2ec99da543df"
   },
   {
-    "name":"Fighter Module",
-    "book":"EP2E Core",
-    "type":"Flexbot",
-    "cost":3,
-    "availability":60,
-    "wound_threshold":6,
-    "durability":30,
-    "death_rating":60,
-    "pools":{
-      "insight":0,
-      "moxie":0,
-      "vigor":1,
-      "flex":0
+    "name": "Fighter Module",
+    "book": "EP2E Core",
+    "type": "Flexbot",
+    "cost": 3,
+    "availability": 60,
+    "wound_threshold": 6,
+    "durability": 30,
+    "death_rating": 60,
+    "pools": {
+      "insight": 0,
+      "moxie": 0,
+      "vigor": 1,
+      "flex": 0
     },
-    "movement_rate":[
-
-    ],
-    "ware":[
+    "movement_rate": [],
+    "ware": [
       "Pneumatics",
       "Weapon Mount (2)"
     ],
-    "morph_traits":[
-
-    ],
-    "common_extras":[
-
-    ],
-    "notes":[
-
-    ],
-    "common_shape_adjustments":[
+    "morph_traits": [],
+    "common_extras": [],
+    "notes": [],
+    "common_shape_adjustments": [
       "Enhanced Vision",
       "Light Combat Armor",
       "Radar",
       "T-Ray Emitter",
       "Ranged Weapons"
     ],
-    "image":"flexbot_module.png",
-    "description":"These modules are combat-oriented.",
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"d975bab3-2cd2-4d46-b967-bc38e6ddfc3e"
+    "image": "flexbot_module.png",
+    "description": "These modules are combat-oriented.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "d975bab3-2cd2-4d46-b967-bc38e6ddfc3e"
   },
   {
-    "name":"Rogue Module",
-    "book":"EP2E Core",
-    "type":"Flexbot",
-    "cost":2,
-    "availability":60,
-    "wound_threshold":4,
-    "durability":20,
-    "death_rating":40,
-    "pools":{
-      "insight":0,
-      "moxie":0,
-      "vigor":1,
-      "flex":0
+    "name": "Rogue Module",
+    "book": "EP2E Core",
+    "type": "Flexbot",
+    "cost": 2,
+    "availability": 60,
+    "wound_threshold": 4,
+    "durability": 20,
+    "death_rating": 40,
+    "pools": {
+      "insight": 0,
+      "moxie": 0,
+      "vigor": 1,
+      "flex": 0
     },
-    "movement_rate":[
-
-    ],
-    "ware":[
+    "movement_rate": [],
+    "ware": [
       "Chameleon Skin",
       "Radar Absorbent"
     ],
-    "morph_traits":[
-
-    ],
-    "common_extras":[
-
-    ],
-    "notes":[
-
-    ],
-    "common_shape_adjustments":[
+    "morph_traits": [],
+    "common_extras": [],
+    "notes": [],
+    "common_shape_adjustments": [
       "Dazzler",
       "Enhanced Vision",
       "Fiber Eye",
@@ -2118,45 +2090,37 @@
       "T-Ray Emitter",
       "Weapon Mount"
     ],
-    "image":"flexbot_module.png",
-    "description":"Rogues are optimized for stealth and covert activities.",
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"59457cea-b623-4d3d-9681-1393443ee955"
+    "image": "flexbot_module.png",
+    "description": "Rogues are optimized for stealth and covert activities.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "59457cea-b623-4d3d-9681-1393443ee955"
   },
   {
-    "name":"Wizard Module",
-    "book":"EP2E Core",
-    "type":"Flexbot",
-    "cost":2,
-    "availability":60,
-    "wound_threshold":4,
-    "durability":20,
-    "death_rating":40,
-    "pools":{
-      "insight":1,
-      "moxie":0,
-      "vigor":0,
-      "flex":0
+    "name": "Wizard Module",
+    "book": "EP2E Core",
+    "type": "Flexbot",
+    "cost": 2,
+    "availability": 60,
+    "wound_threshold": 4,
+    "durability": 20,
+    "death_rating": 40,
+    "pools": {
+      "insight": 1,
+      "moxie": 0,
+      "vigor": 0,
+      "flex": 0
     },
-    "movement_rate":[
-
-    ],
-    "ware":[
+    "movement_rate": [],
+    "ware": [
       "Radio Booster",
       "Sniffer App",
       "Tracker App"
     ],
-    "morph_traits":[
-
-    ],
-    "common_extras":[
-
-    ],
-    "notes":[
-
-    ],
-    "common_shape_adjustments":[
+    "morph_traits": [],
+    "common_extras": [],
+    "notes": [],
+    "common_shape_adjustments": [
       "Electrical Sense",
       "Enhanced Vision",
       "Laser Link",
@@ -2164,10 +2128,10 @@
       "Skinlink",
       "Utilitool"
     ],
-    "image":"flexbot_module.png",
-    "description":"Wizard modules specialize in infosec and communications tasks.",
-    "resource":"Eclipse Phase Second Edition",
-    "reference":"",
-    "id":"0738c2cd-063b-4d70-be5f-04802dcfc378"
+    "image": "flexbot_module.png",
+    "description": "Wizard modules specialize in infosec and communications tasks.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "0738c2cd-063b-4d70-be5f-04802dcfc378"
   }
 ]

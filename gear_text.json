@@ -1,263 +1,263 @@
 {
-  "Comms":{
-    "text":"<p>In a networked world, keeping in touch is key.</p>",
-    "subcategories":{
-      "Communication Gear":{
-        "text":"<p>A variety of technologies are useful for keeping communication lines open, even on alien worlds.</p>"
+  "Comms": {
+    "text": "<p>In a networked world, keeping in touch is key.</p>",
+    "subcategories": {
+      "Communication Gear": {
+        "text": "<p>A variety of technologies are useful for keeping communication lines open, even on alien worlds.</p>"
       },
-      "Neutrino Comms Gear":{
-        "text":"<p>Neutrino particles pass through solid matter with ease and are impossible to block. As a result, they make an ideal medium for communications. Unfortunately, they are also easy to intercept. Even a tight beam of neutrinos sent between two locations can be intercepted simply by placing another receiver behind the location the broadcaster is sending to. Neutrino communicators require a large power plant to power the high energy particle interactions required to generate the neutrino broadcast. Neutrino communicators usually broadcast neutrinos in all directions, though tight-beam transmissions are also possible. Quite often neutrino communications take advantage of quantum farcasting for security.</p>"
+      "Neutrino Comms Gear": {
+        "text": "<p>Neutrino particles pass through solid matter with ease and are impossible to block. As a result, they make an ideal medium for communications. Unfortunately, they are also easy to intercept. Even a tight beam of neutrinos sent between two locations can be intercepted simply by placing another receiver behind the location the broadcaster is sending to. Neutrino communicators require a large power plant to power the high energy particle interactions required to generate the neutrino broadcast. Neutrino communicators usually broadcast neutrinos in all directions, though tight-beam transmissions are also possible. Quite often neutrino communications take advantage of quantum farcasting for security.</p>"
       },
-      "Quantum Farcasters":{
-        "text":"<p>Quantum farcasters are special computers designed to protect a communications channel with unbreakable encryption. To function, two or more quantum farcaster computers must first be entangled together (on a quantum level) in the same physical location. The farcasters are then separated, at which point they may continue to exchange encrypted data via quantum teleportation. This data exchange requires a standard communications link (i.e., fiberoptic, radio, laser/microwave, or neutrino), and so is limited by the speed of light, but it is a high bandwidth form of communication.The quantum encryption used by these entangled farcasters is unbreakable, and any attempted interception is immediately detected and neutralized. A quantum farcaster cannot be used to securely communicate with any farcasters other than the ones it is entangled with.</p>"
+      "Quantum Farcasters": {
+        "text": "<p>Quantum farcasters are special computers designed to protect a communications channel with unbreakable encryption. To function, two or more quantum farcaster computers must first be entangled together (on a quantum level) in the same physical location. The farcasters are then separated, at which point they may continue to exchange encrypted data via quantum teleportation. This data exchange requires a standard communications link (i.e., fiberoptic, radio, laser/microwave, or neutrino), and so is limited by the speed of light, but it is a high bandwidth form of communication.The quantum encryption used by these entangled farcasters is unbreakable, and any attempted interception is immediately detected and neutralized. A quantum farcaster cannot be used to securely communicate with any farcasters other than the ones it is entangled with.</p>"
       },
-      "QE Comms Gear":{
-        "text":"<p>QE communication is instantaneous and works over any distance, even hundreds of light years away, but is also very limited. QE communication requires pairs of entangled particles known as qubits. To use QE, large numbers of qubit pairs are created and then separated from each other. Millions of these separated particles are stored in special containers known as qubit reservoirs. If two QE communicators each have a qubit reservoir containing qubits that are each entangled with qubits in the other communicator’s qubit reservoir, then you can use the two QE communicators to commutate with one another instantaneously.</p><p> Each bit of data transmitted between QE comms uses up one qubit. Once all of the qubits are used up, the two QE comms can no longer communicate until they each get a new batch of entangled qubits. Qubits are expensive to produce, contain, and transport, making this a rare and expensive form of communication. As a result, extremely high bandwidth communications like full sensory XP and egocasting are avoided.</p><p> Because the entanglement process requires special equipment, QE comms gear cannot be nanofabricated.</p>"
+      "QE Comms Gear": {
+        "text": "<p>QE communication is instantaneous and works over any distance, even hundreds of light years away, but is also very limited. QE communication requires pairs of entangled particles known as qubits. To use QE, large numbers of qubit pairs are created and then separated from each other. Millions of these separated particles are stored in special containers known as qubit reservoirs. If two QE communicators each have a qubit reservoir containing qubits that are each entangled with qubits in the other communicator’s qubit reservoir, then you can use the two QE communicators to commutate with one another instantaneously.</p><p> Each bit of data transmitted between QE comms uses up one qubit. Once all of the qubits are used up, the two QE comms can no longer communicate until they each get a new batch of entangled qubits. Qubits are expensive to produce, contain, and transport, making this a rare and expensive form of communication. As a result, extremely high bandwidth communications like full sensory XP and egocasting are avoided.</p><p> Because the entanglement process requires special equipment, QE comms gear cannot be nanofabricated.</p>"
       },
-      "Mesh Hardware":{
-        "text":"<p>This gear forms the fundamental components of the mesh (Devices, Apps, & Links ▶244).</p>"
+      "Mesh Hardware": {
+        "text": "<p>This gear forms the fundamental components of the mesh (Devices, Apps, & Links ▶244).</p>"
       }
     }
   },
-  "Creatures":{
-    "text":"<p>Living creatures cannot be nanofabricated, they must be acquired via Resources trait or rep.</p><p> Training and commanding creatures is handled with Exotic Skill: Animal Handling.</p>",
-    "subcategories":{
-      "GMOs":{
-        "text":"<p>A variety of transgenic, genehacked, and neogenetic creatures have become common in transhuman habitats.</p>"
+  "Creatures": {
+    "text": "<p>Living creatures cannot be nanofabricated, they must be acquired via Resources trait or rep.</p><p> Training and commanding creatures is handled with Exotic Skill: Animal Handling.</p>",
+    "subcategories": {
+      "GMOs": {
+        "text": "<p>A variety of transgenic, genehacked, and neogenetic creatures have become common in transhuman habitats.</p>"
       },
-      "Smart Animals":{
-        "text":"<p>Smart animals are partially uplifted and bio-engineered. These have rudimentary intelligence and limited communication skills, roughly equivalent to a human toddler with a minor vocabulary. They make for fine companions and helpers.</p>"
+      "Smart Animals": {
+        "text": "<p>Smart animals are partially uplifted and bio-engineered. These have rudimentary intelligence and limited communication skills, roughly equivalent to a human toddler with a minor vocabulary. They make for fine companions and helpers.</p>"
       },
-      "Xenofauna":{
-        "text":"<p>A few creatures discovered on exoplanets have been finding their way into private collections and transhuman habitats.</p>"
+      "Xenofauna": {
+        "text": "<p>A few creatures discovered on exoplanets have been finding their way into private collections and transhuman habitats.</p>"
       }
     }
   },
-  "Drugs":{
-    "text":"<p>The transhuman desire to enhance the body and mind melds neatly with our species' history of recreational substance abuse. Drugs of all kinds — chemical, nano, or electronic — are not only popular but widespread. Advances in biotechnology have eliminated many of the side effects, but transhuman bodies are complicated environments, so they remain a factor, especially with long-term use.</p><p> Drugs are available in a variety of forms: pills, slap patches, inhalers, disposable injectors, liquids, powders, etc. The drugs here are just a representative sampling. There are thousands if not millions of drugs in circulation in Eclipse Phase — GMs are encouraged to introduce their own, using these as guidelines.</p><p> Note that some drugs may have different effects on morphs with the Non-Human Biochemistry trait (GM discretion).</p><p> <b>Complexity:</b> The listed Complexity is for 5 doses/applications of the chemical, drug, or toxin.</p> <h3>Drug and Toxin Rules</h3> <p>Every substance has a type (determining what it can affect), an application method (how it is deployed), and an effect (what it does).</p> <h4>Types</h4> There are three classifications: <ul> <li>Biochem: These are natural biological substances and compounds produced by chemical synthesis, nanofab, or enzymatic biosynthesis. Biochem drugs and toxins only affect biomorphs.</li> <li>Nano: Nanodrugs and -toxins are temporary nanobot colonies designed to operate within biological hosts and programmed to create a certain effect. Nanodrugs and -toxins only affect biomorphs.</li> <li>Electronic: These reproduce drug-like effects for infomorphs and egos residing in cyberbrains. E-drugs are sold on the black market as single-use or self-erasing downloads, just like blueprints.</li> </ul> <h4>Application Methods</h4> <p>The application method determines how quickly the substance is absorbed into the body, as noted on the Onset Times table. An onset time of immediate means the effect kicks in at the end of an action turn, an onset time of 1 action turn kicks in at the end of the next turn.</p> <ul> <li>App: Electronic substances are run like other software.</li> <li>Dermal (D): This drug/toxin is absorbed via the skin as either a gas, liquid, or solid (e.g., paste). Slap patches or splash weapons are commonly used, loaded with the chemical DMSO, which transfers the drug through the skin. Slap patches can be applied to others in melee combat with a touch-only (+20) attack. Melee weapons may also be coated (Coated Weapons ▶219).</li> <li>Inhalation (Inh): This is a gas that is breathed into the lungs or snorted nasally. Used for inhalers, aerosols, powders, and gas grenades/seekers.</li> <li>Injected (Inj): This liquid is applied via either an intramuscular or intravenous injection. Used for needles and piercing weapons (Coated Weapons ▶219).</li> <li>Oral (O): This is a liquid or solid that is absorbed through the stomach or oral cavity (eating or drinking). Used with pills and liquids.</li> </ul> <h5>Onset Times</h5> <ul> <li>Dermal - 1 action turn</li> <li>Inhalation - Immediate</li> <li>Injection - 1 action turn</li> <li>Oral - 15 minutes</li> </ul> <h4>Effects</h4> <p>If you are exposed to a drug or toxin via its method of application — for example, you pop a pill, slap on a dermal patch, are soaked with a splash grenade, breathe in gas, or get stabbed with a coated weapon — then you are automatically subject to the substance’s effects. The duration determines how long they last.</p><p> There is no resistance test to ignore a drug or toxin’s effects, but some may call for an aptitude check to determine the effect severity. Defensive Ware: Toxin ﬁlters ▶323 allow a SOM Check to ignore a biochem drug or toxin’s effects outright (they have no effect on nanodrugs or nanotoxins). If an effect calls for an aptitude check, toxin filters apply a +30 modifier. Both toxin filters and medichines will reduce the effects of a biochem drug or toxin (damage, modifiers, etc.) and duration by half; together they nullify the effects entirely. Nanophages reduce the effects/duration of nanodrugs and nanotoxins by half.</p> <h4>Addiction and Abuse</h4> <p>If you over-use a drug, you may find yourself addicted to it. Drugs can be physically addictive (affecting the morph), mentally addictive (affecting the ego), or both. If the GM decides that you are overusing (such as more than once a day, or several times in a week), you must make a WIL Check modified by the drug’s Addiction Modifier. If you fail, you acquire the Addiction Addiction (Level 1) negative trait ▶76. Once addicted, you must take the drug regularly (according to the trait level) or face withdrawal (–10 modifier per level).</p> <p>At the GM’s discretion, heavy or extended drug use may require you to make a WIL Check modified by the Addiction Modifier to avoid increasing your Addiction trait’s level. Drug abuse may also result in other physiological or psychological effects.</p>",
-    "subcategories":{
-      "Cognitive Drugs":{
-        "text":"<p>Nootropics and similar drugs boost the user’s mental faculties.</p>"
+  "Drugs": {
+    "text": "<p>The transhuman desire to enhance the body and mind melds neatly with our species' history of recreational substance abuse. Drugs of all kinds — chemical, nano, or electronic — are not only popular but widespread. Advances in biotechnology have eliminated many of the side effects, but transhuman bodies are complicated environments, so they remain a factor, especially with long-term use.</p><p> Drugs are available in a variety of forms: pills, slap patches, inhalers, disposable injectors, liquids, powders, etc. The drugs here are just a representative sampling. There are thousands if not millions of drugs in circulation in Eclipse Phase — GMs are encouraged to introduce their own, using these as guidelines.</p><p> Note that some drugs may have different effects on morphs with the Non-Human Biochemistry trait (GM discretion).</p><p> <b>Complexity:</b> The listed Complexity is for 5 doses/applications of the chemical, drug, or toxin.</p> <h3>Drug and Toxin Rules</h3> <p>Every substance has a type (determining what it can affect), an application method (how it is deployed), and an effect (what it does).</p> <h4>Types</h4> There are three classifications: <ul> <li>Biochem: These are natural biological substances and compounds produced by chemical synthesis, nanofab, or enzymatic biosynthesis. Biochem drugs and toxins only affect biomorphs.</li> <li>Nano: Nanodrugs and -toxins are temporary nanobot colonies designed to operate within biological hosts and programmed to create a certain effect. Nanodrugs and -toxins only affect biomorphs.</li> <li>Electronic: These reproduce drug-like effects for infomorphs and egos residing in cyberbrains. E-drugs are sold on the black market as single-use or self-erasing downloads, just like blueprints.</li> </ul> <h4>Application Methods</h4> <p>The application method determines how quickly the substance is absorbed into the body, as noted on the Onset Times table. An onset time of immediate means the effect kicks in at the end of an action turn, an onset time of 1 action turn kicks in at the end of the next turn.</p> <ul> <li>App: Electronic substances are run like other software.</li> <li>Dermal (D): This drug/toxin is absorbed via the skin as either a gas, liquid, or solid (e.g., paste). Slap patches or splash weapons are commonly used, loaded with the chemical DMSO, which transfers the drug through the skin. Slap patches can be applied to others in melee combat with a touch-only (+20) attack. Melee weapons may also be coated (Coated Weapons ▶219).</li> <li>Inhalation (Inh): This is a gas that is breathed into the lungs or snorted nasally. Used for inhalers, aerosols, powders, and gas grenades/seekers.</li> <li>Injected (Inj): This liquid is applied via either an intramuscular or intravenous injection. Used for needles and piercing weapons (Coated Weapons ▶219).</li> <li>Oral (O): This is a liquid or solid that is absorbed through the stomach or oral cavity (eating or drinking). Used with pills and liquids.</li> </ul> <h5>Onset Times</h5> <ul> <li>Dermal - 1 action turn</li> <li>Inhalation - Immediate</li> <li>Injection - 1 action turn</li> <li>Oral - 15 minutes</li> </ul> <h4>Effects</h4> <p>If you are exposed to a drug or toxin via its method of application — for example, you pop a pill, slap on a dermal patch, are soaked with a splash grenade, breathe in gas, or get stabbed with a coated weapon — then you are automatically subject to the substance’s effects. The duration determines how long they last.</p><p> There is no resistance test to ignore a drug or toxin’s effects, but some may call for an aptitude check to determine the effect severity. Defensive Ware: Toxin ﬁlters ▶323 allow a SOM Check to ignore a biochem drug or toxin’s effects outright (they have no effect on nanodrugs or nanotoxins). If an effect calls for an aptitude check, toxin filters apply a +30 modifier. Both toxin filters and medichines will reduce the effects of a biochem drug or toxin (damage, modifiers, etc.) and duration by half; together they nullify the effects entirely. Nanophages reduce the effects/duration of nanodrugs and nanotoxins by half.</p> <h4>Addiction and Abuse</h4> <p>If you over-use a drug, you may find yourself addicted to it. Drugs can be physically addictive (affecting the morph), mentally addictive (affecting the ego), or both. If the GM decides that you are overusing (such as more than once a day, or several times in a week), you must make a WIL Check modified by the drug’s Addiction Modifier. If you fail, you acquire the Addiction Addiction (Level 1) negative trait ▶76. Once addicted, you must take the drug regularly (according to the trait level) or face withdrawal (-10 modifier per level).</p> <p>At the GM’s discretion, heavy or extended drug use may require you to make a WIL Check modified by the Addiction Modifier to avoid increasing your Addiction trait’s level. Drug abuse may also result in other physiological or psychological effects.</p>",
+    "subcategories": {
+      "Cognitive Drugs": {
+        "text": "<p>Nootropics and similar drugs boost the user’s mental faculties.</p>"
       },
-      "Combat Drugs":{
-        "text":"<p>Combat drugs are an easy way of evening the odds in a fight.</p>"
+      "Combat Drugs": {
+        "text": "<p>Combat drugs are an easy way of evening the odds in a fight.</p>"
       },
-      "Health Drugs":{
-        "text":"<p>Pharma-foods that boost the consumer’s health and physical state.</p>"
+      "Health Drugs": {
+        "text": "<p>Pharma-foods that boost the consumer’s health and physical state.</p>"
       },
-      "Nanodrugs":{
-        "text":"<p>Nanodrugs are temporary nanobot infestations that apply a specific effect. They can make fundamental changes to a body’s biochemistry and mental state. GMs should consider including nanodrugs that temporarily apply certain traits, such as Direction Sense, Psi Chameleon, Psi Defense, Situational Awareness, or Superior Numeracy — experiment with different possibilities and effects!</p>"
+      "Nanodrugs": {
+        "text": "<p>Nanodrugs are temporary nanobot infestations that apply a specific effect. They can make fundamental changes to a body’s biochemistry and mental state. GMs should consider including nanodrugs that temporarily apply certain traits, such as Direction Sense, Psi Chameleon, Psi Defense, Situational Awareness, or Superior Numeracy — experiment with different possibilities and effects!</p>"
       },
-      "Narcoalgorithms":{
-        "text":"<p>Known colloquially as dopeware, narcos, and zapps, narcoalgorithms are programs that simulate the effects of drugs for infomorphs and egos in cyberbrains. Almost all biochem and nano drugs can be replicated as narcoalgorithms, with corresponding effect (GM discretion). Addiction to narcoalgorithms is considered mental, no matter the simulated drug. One positive side to narcoalgorithms is that the effect can be immediately stopped by pausing the app.</p>"
+      "Narcoalgorithms": {
+        "text": "<p>Known colloquially as dopeware, narcos, and zapps, narcoalgorithms are programs that simulate the effects of drugs for infomorphs and egos in cyberbrains. Almost all biochem and nano drugs can be replicated as narcoalgorithms, with corresponding effect (GM discretion). Addiction to narcoalgorithms is considered mental, no matter the simulated drug. One positive side to narcoalgorithms is that the effect can be immediately stopped by pausing the app.</p>"
       },
-      "Petals":{
-        "text":"<p>Petals are a narrative hallucinogen, a nanodrug that hijacks your senses and takes you on a game-like, highly immersive trip. They are post-Fall society’s heroin — the drug of choice for the desperate and fucked. Petals are made in the form of nanopharmaceutical flowers, potted or with a nutrient pack attached to the stem. Plucking and swallowing the petals from the flower triggers the effects. Each flower has 1d6 + 4 petals. Multiple users may share the experience if they take the petals within 1 minute of the first one being plucked; after this all petals remaining on the flower fade to translucent white and become inert.</p><p> Petal experiences are entire scenarios in and of themselves. Some access your mesh inserts (you must enable access to your implants voluntarily; if not, the drug has no effect other than low-intensity LSD-like visual hallucinations), take control of your entoptic displays, link to secretive mesh servers and other trippers, and invade your sensorium with AR “hallucinations.” Others put you into a near-comatose state during which you go on a head trip. Normally there is a well-developed theme or plot to a petal experience, though others are just streams of thematicallylinked images.</p><p> Though illegal and suppressed in many polities, new petals appear constantly, fueled by a persistent subculture of makers and users. Petalcrafters view their work as an art form. The best petals are lovingly designed, hauntingly beautiful experiences — or sometimes terrifying. The subculture of petal use ranges from casual users who occasionally do an easy, short-duration flower to hardcore addicts who spend any time not on petals trying to hunt down the most intense and esoteric varieties. Because petals combine custom nanobots with tailored chemical payloads and access codes to mesh servers, duplicating them using fabricators is impossible, leading to an active market of crafters, dealers, and traders.</p><p> Petals sometimes contain easter eggs and rewards, called “sweets” by petal users. Getting the sweets usually requires fulfilling certain conditions within the trip, such as correctly answering questions or reaching goals. Typical sweets include skillsofts, new clothing or product designs, and custom infomorph avatars.</p><p> On the negative side, some petal trips go bad, inflicting SV 1d10 or worse. Some petals are also loaded with malware that invades your mesh inserts and exploits your data and accounts while you are high. Firewall has even heard accounts of petals carrying strains of the exsurgent virus.</p>"
+      "Petals": {
+        "text": "<p>Petals are a narrative hallucinogen, a nanodrug that hijacks your senses and takes you on a game-like, highly immersive trip. They are post-Fall society’s heroin — the drug of choice for the desperate and fucked. Petals are made in the form of nanopharmaceutical flowers, potted or with a nutrient pack attached to the stem. Plucking and swallowing the petals from the flower triggers the effects. Each flower has 1d6 + 4 petals. Multiple users may share the experience if they take the petals within 1 minute of the first one being plucked; after this all petals remaining on the flower fade to translucent white and become inert.</p><p> Petal experiences are entire scenarios in and of themselves. Some access your mesh inserts (you must enable access to your implants voluntarily; if not, the drug has no effect other than low-intensity LSD-like visual hallucinations), take control of your entoptic displays, link to secretive mesh servers and other trippers, and invade your sensorium with AR “hallucinations.” Others put you into a near-comatose state during which you go on a head trip. Normally there is a well-developed theme or plot to a petal experience, though others are just streams of thematicallylinked images.</p><p> Though illegal and suppressed in many polities, new petals appear constantly, fueled by a persistent subculture of makers and users. Petalcrafters view their work as an art form. The best petals are lovingly designed, hauntingly beautiful experiences — or sometimes terrifying. The subculture of petal use ranges from casual users who occasionally do an easy, short-duration flower to hardcore addicts who spend any time not on petals trying to hunt down the most intense and esoteric varieties. Because petals combine custom nanobots with tailored chemical payloads and access codes to mesh servers, duplicating them using fabricators is impossible, leading to an active market of crafters, dealers, and traders.</p><p> Petals sometimes contain easter eggs and rewards, called “sweets” by petal users. Getting the sweets usually requires fulfilling certain conditions within the trip, such as correctly answering questions or reaching goals. Typical sweets include skillsofts, new clothing or product designs, and custom infomorph avatars.</p><p> On the negative side, some petal trips go bad, inflicting SV 1d10 or worse. Some petals are also loaded with malware that invades your mesh inserts and exploits your data and accounts while you are high. Firewall has even heard accounts of petals carrying strains of the exsurgent virus.</p>"
       },
-      "Psi Drugs":{
-        "text":"<p>Research into the Watts-MacLeod strain has resulted in several exceptional breakthroughs with psi-impacting drugs. Each of these drugs is in the experimental stage, but they are already finding some use among Firewall and similar secretive groupings.</p>"
+      "Psi Drugs": {
+        "text": "<p>Research into the Watts-MacLeod strain has resulted in several exceptional breakthroughs with psi-impacting drugs. Each of these drugs is in the experimental stage, but they are already finding some use among Firewall and similar secretive groupings.</p>"
       },
-      "Recreational":{
-        "text":"<p>These drugs compete with petals and XP as popular pastimes.</p>"
+      "Recreational": {
+        "text": "<p>These drugs compete with petals and XP as popular pastimes.</p>"
       },
-      "Social Drugs":{
-        "text":"<p>These social lubricants modify your interactions with others.</p>"
+      "Social Drugs": {
+        "text": "<p>These social lubricants modify your interactions with others.</p>"
       },
-      "Toxins":{
-        "text":"<p>The toxic properties of biological and chemical substances can be used to kill, incapacitate, or impair an enemy.</p>"
+      "Toxins": {
+        "text": "<p>The toxic properties of biological and chemical substances can be used to kill, incapacitate, or impair an enemy.</p>"
       },
-      "Nanotoxins":{
-        "text":"<p>These temporary nanobot infestations damage or impair.</p>"
+      "Nanotoxins": {
+        "text": "<p>These temporary nanobot infestations damage or impair.</p>"
       }
     }
   },
-  "Services":{
-    "text":"<p>Credit and mutual aid can get you many things in Eclipse Phase.</p>",
-    "subcategories":{
-      "Mesh Services":{
-        "text":"<p>These software services are available as a per-month subscription from cloud-based servers. All apps are also available as mesh services.</p>"
+  "Services": {
+    "text": "<p>Credit and mutual aid can get you many things in Eclipse Phase.</p>",
+    "subcategories": {
+      "Mesh Services": {
+        "text": "<p>These software services are available as a per-month subscription from cloud-based servers. All apps are also available as mesh services.</p>"
       },
-      "Physical Services":{
-        "text":"<p>These services are available on some habitats.</p>"
+      "Physical Services": {
+        "text": "<p>These services are available on some habitats.</p>"
       }
     }
   },
-  "Software":{
-    "text":"<p>Neither software nor services are tangible goods, so they cannot be nanofabricated.</p>",
-    "subcategories":{
-      "Skillsoft":{
-        "text":"<p>Skillsofts are used with skillware implants.</p>"
+  "Software": {
+    "text": "<p>Neither software nor services are tangible goods, so they cannot be nanofabricated.</p>",
+    "subcategories": {
+      "Skillsoft": {
+        "text": "<p>Skillsofts are used with skillware implants.</p>"
       },
-      "Apps":{
-        "text":"<p>This software can be run on any computerized device.</p>"
+      "Apps": {
+        "text": "<p>This software can be run on any computerized device.</p>"
       },
-      "ALIs":{
-        "text":"<p>Everyone has a muse, and every device has a built-in ALI (AIs & Muses ▶250). All ALI infomorphs have Wound Threshold 4, Durability 20, and Death Rating 40 for mesh combat.</p>"
+      "ALIs": {
+        "text": "<p>Everyone has a muse, and every device has a built-in ALI (AIs & Muses ▶250). All ALI infomorphs have Wound Threshold 4, Durability 20, and Death Rating 40 for mesh combat.</p>"
       },
-      "Scorchers":{
-        "text":"<p>Scorchers are damaging neurofeedback apps used against infomorphs and cyberbrains.</p>"
+      "Scorchers": {
+        "text": "<p>Scorchers are damaging neurofeedback apps used against infomorphs and cyberbrains.</p>"
       },
-      "TacNet":{
-        "text":"<p>See item description.</p>"
+      "TacNet": {
+        "text": "<p>See item description.</p>"
       }
     }
   },
-  "Tech":{
-    "text":"<p>Various items, but mostly portable technology that's fairly available.</p>",
-    "subcategories":{
-      "Bots":{
-        "text":"<p>Robots are a common sight and accepted fact of daily life within Eclipse Phase. Numerous varieties exist, from robopets to mechanical workers to warbots. If a job can be done more cheaply (and sometimes safely) by a bot, it usually is. The robots listed here are not generally used as synthetic shells by transhuman egos, often for cultural reasons (sleeving a case is bad enough, sleeving a creepy is just … weird), and they are not equipped to be sleeved into, though they can be remotely operated ▶below. Any of these bots can be modified for use as a synthetic morph, however, by adding a cyberbrain system ▶316.</p><p> Most robots are intentionally built in non-humanoid forms so as not to confuse them with common synthmorphs and to defuse subconscious guilt transhumans might have at ordering anthropomorphic entities around. However, they all have some form of abstract “face” to interact with, so as not to be too machine-like.</p>"
+  "Tech": {
+    "text": "<p>Various items, but mostly portable technology that's fairly available.</p>",
+    "subcategories": {
+      "Bots": {
+        "text": "<p>Robots are a common sight and accepted fact of daily life within Eclipse Phase. Numerous varieties exist, from robopets to mechanical workers to warbots. If a job can be done more cheaply (and sometimes safely) by a bot, it usually is. The robots listed here are not generally used as synthetic shells by transhuman egos, often for cultural reasons (sleeving a case is bad enough, sleeving a creepy is just … weird), and they are not equipped to be sleeved into, though they can be remotely operated ▶below. Any of these bots can be modified for use as a synthetic morph, however, by adding a cyberbrain system ▶316.</p><p> Most robots are intentionally built in non-humanoid forms so as not to confuse them with common synthmorphs and to defuse subconscious guilt transhumans might have at ordering anthropomorphic entities around. However, they all have some form of abstract “face” to interact with, so as not to be too machine-like.</p>"
       },
-      "Everyday":{
-        "text":"<p>These devices are easily available in almost all habitats.</p>"
+      "Everyday": {
+        "text": "<p>These devices are easily available in almost all habitats.</p>"
       },
-      "Chemicals":{
-        "text":"<p>Just a few of the chemicals with interesting uses in Eclipse Phase:</p>"
+      "Chemicals": {
+        "text": "<p>Just a few of the chemicals with interesting uses in Eclipse Phase:</p>"
       },
-      "Exploration Tools":{
-        "text":"<p>Gatecrashers and other explorers rely on these.</p>"
+      "Exploration Tools": {
+        "text": "<p>Gatecrashers and other explorers rely on these.</p>"
       },
-      "Salvage Tools":{
-        "text":"<p>This technology is often employed by gatecrashers, space scavengers, and Firewall teams during missions.</p>"
+      "Salvage Tools": {
+        "text": "<p>This technology is often employed by gatecrashers, space scavengers, and Firewall teams during missions.</p>"
       },
-      "Science Tools":{
-        "text":"<p>When scientists take to the field, this is what they use.</p>"
+      "Science Tools": {
+        "text": "<p>When scientists take to the field, this is what they use.</p>"
       },
-      "Survival Tools":{
-        "text":"<p>The following gear is often critical to the survival of soldiers, spies, criminals, gatecrashers, emergency service personnel, and others who regularly venture into unsafe or unfamiliar regions.</p>"
+      "Survival Tools": {
+        "text": "<p>The following gear is often critical to the survival of soldiers, spies, criminals, gatecrashers, emergency service personnel, and others who regularly venture into unsafe or unfamiliar regions.</p>"
       },
-      "Vacsuits":{
-        "text":"<p>Vacsuits are a requirement in sealed habitats and spacecraft. They come in a variety of forms, from newer smart-fabric to older, retro models, both in light and standard designs.</p><p> In a breathable atmosphere, modern vacsuits are loose smartfabric garments that can be worn as ordinary clothing and easily put on or taken off. When activated — either manually or automatically if the suit detects a loss of air pressure — the suit becomes skin-tight and resistant to vacuum over 3 action turns. The hood stiffens and transforms into a transparent helmet.</p><p> Older vacsuit models lack the smart fabrics and are made of stiffer and bulkier materials. Donning one is a REF Check task action with a timeframe of 1 minute (20 action turns). Quick-release functions allow them to be removed in 3 action turns.</p><p> Unless specifically noted, assume characters have newer models; older dumb-fabric designs are typically kept around as backups in older habitats and ships.</p>"
+      "Vacsuits": {
+        "text": "<p>Vacsuits are a requirement in sealed habitats and spacecraft. They come in a variety of forms, from newer smart-fabric to older, retro models, both in light and standard designs.</p><p> In a breathable atmosphere, modern vacsuits are loose smartfabric garments that can be worn as ordinary clothing and easily put on or taken off. When activated — either manually or automatically if the suit detects a loss of air pressure — the suit becomes skin-tight and resistant to vacuum over 3 action turns. The hood stiffens and transforms into a transparent helmet.</p><p> Older vacsuit models lack the smart fabrics and are made of stiffer and bulkier materials. Donning one is a REF Check task action with a timeframe of 1 minute (20 action turns). Quick-release functions allow them to be removed in 3 action turns.</p><p> Unless specifically noted, assume characters have newer models; older dumb-fabric designs are typically kept around as backups in older habitats and ships.</p>"
       },
-      "Nanotech Gear":{
-        "text":"<p>Nanotechnology is widespread throughout the Solar System, with the exception of the Jovian Republic and similar bioconservative habitats. For decades, nanofabrication has been the primary manufacturing method. Though the technology is advancing, most nanobots used for manufacturing/replication require specially maintained environments like the insides of cornucopia machines or healing vats and cannot operate elsewhere.</p>"
+      "Nanotech Gear": {
+        "text": "<p>Nanotechnology is widespread throughout the Solar System, with the exception of the Jovian Republic and similar bioconservative habitats. For decades, nanofabrication has been the primary manufacturing method. Though the technology is advancing, most nanobots used for manufacturing/replication require specially maintained environments like the insides of cornucopia machines or healing vats and cannot operate elsewhere.</p>"
       },
-      "Hives":{
-        "text":"<p>Hives are specialized devices that manufacture and maintain nanoswarms and microswarms ▶344. A hive can fabricate and store thousands of nanobots or microbots (enough for a standard 10-cubic-meter swarm). It can manufacture a new swarm from scratch in hours (according to complexity, Acquisition Time table ▶312). A swarm that is depleted can be restored; hives 'heal' 10 damage an hour to swarms in the form of replenished mites. Swarms are typically slaved to the hive they are launched from, for ease of control. Hives must be loaded with feedstock or they will eventually run out of raw materials (Nanofabrication ▶314).</p>"
+      "Hives": {
+        "text": "<p>Hives are specialized devices that manufacture and maintain nanoswarms and microswarms ▶344. A hive can fabricate and store thousands of nanobots or microbots (enough for a standard 10-cubic-meter swarm). It can manufacture a new swarm from scratch in hours (according to complexity, Acquisition Time table ▶312). A swarm that is depleted can be restored; hives 'heal' 10 damage an hour to swarms in the form of replenished mites. Swarms are typically slaved to the hive they are launched from, for ease of control. Hives must be loaded with feedstock or they will eventually run out of raw materials (Nanofabrication ▶314).</p>"
       },
-      "Nanofabricators":{
-        "text":"<p>Nanofabrication machines are universal assemblers. They can manufacture almost anything from the molecular level up, from a weapon to an ultralight plane to a hot and delicious dinner. You simply need raw materials (“feedstock”) and electronic plans (“blueprints”). Feedstock is readily available in most circumstances, distributed in blocks or by habitat utility feedlines, though it may be an issue in remote outposts or if your design requires exotic materials (Nanofabrication ▶314). Most fabricators are equipped with disassemblers for turning unwanted matter into feedstock. Disassemblers are programmed not to disassemble living tissue.</p><p> Nanofabricators come equipped with a library of free common-use blueprints: basic foods, standard clothing, common tools, emergency gear, etc. Other blueprints must either be purchased online, self-programmed, or acquired through some other method. In capitalist economies, blueprints are licensed and protected by copyright laws. Pre-programmed restrictions will prevent you from using unlicensed blueprints or from manufacturing weapons, explosives, or other restricted items. Among the autonomists of the outer system, however, nanofabricators are commonly accessible, shared by everyone, and unrestricted, with entire libraries of open-source blueprints (many of them reverse-engineered from proprietary designs).</p><p> Many different terms are used to describe nanofabricators: makers, compilers, forges, cornucopia machines, printers, and replicators, though fabbers remains the most commonplace. Fabbers are categorized by their size; each can make items of any smaller size. At the GM’s discretion, nanofabricators can create items of their size category or larger, but in pieces that must be assembled (possibly requiring an appropriate Hardware or other skill test to assemble).</p>"
+      "Nanofabricators": {
+        "text": "<p>Nanofabrication machines are universal assemblers. They can manufacture almost anything from the molecular level up, from a weapon to an ultralight plane to a hot and delicious dinner. You simply need raw materials (“feedstock”) and electronic plans (“blueprints”). Feedstock is readily available in most circumstances, distributed in blocks or by habitat utility feedlines, though it may be an issue in remote outposts or if your design requires exotic materials (Nanofabrication ▶314). Most fabricators are equipped with disassemblers for turning unwanted matter into feedstock. Disassemblers are programmed not to disassemble living tissue.</p><p> Nanofabricators come equipped with a library of free common-use blueprints: basic foods, standard clothing, common tools, emergency gear, etc. Other blueprints must either be purchased online, self-programmed, or acquired through some other method. In capitalist economies, blueprints are licensed and protected by copyright laws. Pre-programmed restrictions will prevent you from using unlicensed blueprints or from manufacturing weapons, explosives, or other restricted items. Among the autonomists of the outer system, however, nanofabricators are commonly accessible, shared by everyone, and unrestricted, with entire libraries of open-source blueprints (many of them reverse-engineered from proprietary designs).</p><p> Many different terms are used to describe nanofabricators: makers, compilers, forges, cornucopia machines, printers, and replicators, though fabbers remains the most commonplace. Fabbers are categorized by their size; each can make items of any smaller size. At the GM’s discretion, nanofabricators can create items of their size category or larger, but in pieces that must be assembled (possibly requiring an appropriate Hardware or other skill test to assemble).</p>"
       },
-      "Specialized Fabbers":{
-        "text":"<p>These nanofabricators are restricted in what they can print.</p>"
+      "Specialized Fabbers": {
+        "text": "<p>These nanofabricators are restricted in what they can print.</p>"
       },
-      "Espionage/Security":{
-        "text":"<p>This technology has many applications for Firewall agents.</p>"
+      "Espionage/Security": {
+        "text": "<p>This technology has many applications for Firewall agents.</p>"
       },
-      "Swarms":{
-        "text":"<p>Swarms are colonies of nanobots or larger microbots created in a hive, programmed with specific instructions, and then set free to perform a set task. Swarms range from thousands of microbots the size of a small insect to millions of nanobots each no bigger than a microbe. Nanobots are invisible to the naked eye, though they can be detected with a nanodetector or nanoscopic vision. A concentrated presence of nanoswarms creates a visible hazy effect in the air. Likewise, mass amounts of expired nanobots leave a toner-like dust residue on nearby surfaces. Microbots are visible but still quite small, the size of a grain of sand or a dust mote, or occasionally as big as a flea.</p><p> Individual “mites” in a swarm are directed by nanocomputers, with behavioral routines modeled on biological insect and animal swarms. They are powered by tiny batteries or solar cells. Swarms stick together and work as a whole, communicating by radio or laser link. They can be tasked with specific instructions or set to follow pre-set routines. They can also be teleoperated or reprogrammed after they are released.</p><p>Swarms are released directly from a hive or from pre-packaged programmable canisters.</p>"
+      "Swarms": {
+        "text": "<p>Swarms are colonies of nanobots or larger microbots created in a hive, programmed with specific instructions, and then set free to perform a set task. Swarms range from thousands of microbots the size of a small insect to millions of nanobots each no bigger than a microbe. Nanobots are invisible to the naked eye, though they can be detected with a nanodetector or nanoscopic vision. A concentrated presence of nanoswarms creates a visible hazy effect in the air. Likewise, mass amounts of expired nanobots leave a toner-like dust residue on nearby surfaces. Microbots are visible but still quite small, the size of a grain of sand or a dust mote, or occasionally as big as a flea.</p><p> Individual “mites” in a swarm are directed by nanocomputers, with behavioral routines modeled on biological insect and animal swarms. They are powered by tiny batteries or solar cells. Swarms stick together and work as a whole, communicating by radio or laser link. They can be tasked with specific instructions or set to follow pre-set routines. They can also be teleoperated or reprogrammed after they are released.</p><p>Swarms are released directly from a hive or from pre-packaged programmable canisters.</p>"
       }
     }
   },
-  "Vehicles":{
-    "text":"<p>In Eclipse Phase, most vehicles are piloted by ALI. You simply get in the vehicle and tell it where to go. Manual piloting is for emergencies, control freaks, and people who don’t like machines. Like robots, vehicles can be remotely operated. They are not equipped for sleeving into, however, unless you add a cyberbrain system.</p>",
-    "subcategories":{
-      "Aircraft":{
-        "text":"<p>On Mars, Venus, Titan, many exoplanets, and within large openspace cylinder habitats, aircraft of various kinds see regular use. This includes modern versions of rotorcraft (helicopters, autogyros, tilt-rotors), fixed-wing planes, zeppelins, and other lighter-than-air craft. These are typically propelled by turbofan or jet engines, rotors, or vectored thrust. Aircraft are flown with Pilot: Air and repaired with Hardware: Aerospace.</p>"
+  "Vehicles": {
+    "text": "<p>In Eclipse Phase, most vehicles are piloted by ALI. You simply get in the vehicle and tell it where to go. Manual piloting is for emergencies, control freaks, and people who don’t like machines. Like robots, vehicles can be remotely operated. They are not equipped for sleeving into, however, unless you add a cyberbrain system.</p>",
+    "subcategories": {
+      "Aircraft": {
+        "text": "<p>On Mars, Venus, Titan, many exoplanets, and within large openspace cylinder habitats, aircraft of various kinds see regular use. This includes modern versions of rotorcraft (helicopters, autogyros, tilt-rotors), fixed-wing planes, zeppelins, and other lighter-than-air craft. These are typically propelled by turbofan or jet engines, rotors, or vectored thrust. Aircraft are flown with Pilot: Air and repaired with Hardware: Aerospace.</p>"
       },
-      "Exoskeletons":{
-        "text":"<p>Exoskeletons are worn powered mechatronic frames that enhance your physical capabilities. The exoskeleton’s servo-hydraulic joints mimic your movements, like an extension of your own body. They can also be remotely operated. The exoskeletons listed here are open frameworks, meaning you are exposed; hardsuits are enclosed. Most exoskeletons are designed for use by medium-sized characters, but some alternate-sized designs exist. Use your normal physical skills while wearing or remotely operating an exoskeleton, and Hardware: Groundcraft to repair.</p>"
+      "Exoskeletons": {
+        "text": "<p>Exoskeletons are worn powered mechatronic frames that enhance your physical capabilities. The exoskeleton’s servo-hydraulic joints mimic your movements, like an extension of your own body. They can also be remotely operated. The exoskeletons listed here are open frameworks, meaning you are exposed; hardsuits are enclosed. Most exoskeletons are designed for use by medium-sized characters, but some alternate-sized designs exist. Use your normal physical skills while wearing or remotely operating an exoskeleton, and Hardware: Groundcraft to repair.</p>"
       },
-      "Groundcraft":{
-        "text":"<p>While trains and bicycles remain the most common form of ground transportation in most habitats, cars and cycles are common on larger habitats, moons, and planets. Drive them with Pilot: Ground and repair them with Hardware: Groundcraft.</p>"
+      "Groundcraft": {
+        "text": "<p>While trains and bicycles remain the most common form of ground transportation in most habitats, cars and cycles are common on larger habitats, moons, and planets. Drive them with Pilot: Ground and repair them with Hardware: Groundcraft.</p>"
       },
-      "Hardsuits":{
-        "text":"<p>Hardsuits are solid, enclosed-shell, powered exoskeletons. Like standard vacsuits, they are environmentally sealed, protecting you from vacuum, radiation, and temperatures from –175 to 140 C. They also self-seal any punctures that inflict less than 30 points of damage. Hardsuits are used for extreme environments and dangerous conditions, from the upper atmosphere of a gas giant to the acid-scorched hellscape of Venus’s surface. Hardsuits are equipped to be worn for days at a time, if necessary. Occupants can only wear armor with an Armor Value (either energy or kinetic) of 4 or less inside the hardsuit; this worn armor is cumulative without layering penalties.</p>"
+      "Hardsuits": {
+        "text": "<p>Hardsuits are solid, enclosed-shell, powered exoskeletons. Like standard vacsuits, they are environmentally sealed, protecting you from vacuum, radiation, and temperatures from -175 to 140 C. They also self-seal any punctures that inflict less than 30 points of damage. Hardsuits are used for extreme environments and dangerous conditions, from the upper atmosphere of a gas giant to the acid-scorched hellscape of Venus’s surface. Hardsuits are equipped to be worn for days at a time, if necessary. Occupants can only wear armor with an Armor Value (either energy or kinetic) of 4 or less inside the hardsuit; this worn armor is cumulative without layering penalties.</p>"
       },
-      "Hybrids":{
-        "text":"<p>These vehicles defy classification as they are designed to handle multiple environments. Use with Pilot: Ground, Pilot: Nautical, or Pilot: Space as apppropriate to the environment and repair with Hardware: Groundcraft, Hardware: Nautical, or Hardware: Aerospace.</p>"
+      "Hybrids": {
+        "text": "<p>These vehicles defy classification as they are designed to handle multiple environments. Use with Pilot: Ground, Pilot: Nautical, or Pilot: Space as apppropriate to the environment and repair with Hardware: Groundcraft, Hardware: Nautical, or Hardware: Aerospace.</p>"
       },
-      "Nautical Craft":{
-        "text":"<p>Within the Solar System, nautical craft are used for the methane seas of Titan and the subcrustal oceans of Ceres and Europa. They are driven with Pilot: Nautical and repaired with Hardware: Nautical.</p>"
+      "Nautical Craft": {
+        "text": "<p>Within the Solar System, nautical craft are used for the methane seas of Titan and the subcrustal oceans of Ceres and Europa. They are driven with Pilot: Nautical and repaired with Hardware: Nautical.</p>"
       },
-      "Pers Transport":{
-        "text":"<p>These one-person movement aids are primarily used in space or undersea. Use with Pilot: Nautical or Pilot: Space as appropriate and repair with Hardware: Nautical or Hardware: Aerospace.</p>"
+      "Pers Transport": {
+        "text": "<p>These one-person movement aids are primarily used in space or undersea. Use with Pilot: Nautical or Pilot: Space as appropriate and repair with Hardware: Nautical or Hardware: Aerospace.</p>"
       },
-      "Spacecraft":{
-        "text":"<p>Though egocasting and nanofabrication have reduced the need, spacecraft continue to play an important role in transporting goods and people around the Solar System. Both in terms of materials and propulsion, spacecraft in the post-Fall era are far superior to the primitive vessels used in the 20th and early 21st centuries, but they are still based on the same principles.</p><p> Spacecraft are flown with Pilot: Space skill and repaired with Hardware: Aerospace.</p><p> Spacecraft have few stats in Eclipse Phase, as they are primarily handled as setting rather than vehicles. Note also that no stats are given for spacecraft weaponry. It is highly recommended that space combat be handled as a plot device rather than a combat scene, given the extreme lethality and danger involved. If you must know the DV of a spacecraft weapon, treat it as a standard weapon with a DV multiplier of x3 for small craft (fighters and shuttles), x5 for medium craft, and x10 for larger craft.</p>"
+      "Spacecraft": {
+        "text": "<p>Though egocasting and nanofabrication have reduced the need, spacecraft continue to play an important role in transporting goods and people around the Solar System. Both in terms of materials and propulsion, spacecraft in the post-Fall era are far superior to the primitive vessels used in the 20th and early 21st centuries, but they are still based on the same principles.</p><p> Spacecraft are flown with Pilot: Space skill and repaired with Hardware: Aerospace.</p><p> Spacecraft have few stats in Eclipse Phase, as they are primarily handled as setting rather than vehicles. Note also that no stats are given for spacecraft weaponry. It is highly recommended that space combat be handled as a plot device rather than a combat scene, given the extreme lethality and danger involved. If you must know the DV of a spacecraft weapon, treat it as a standard weapon with a DV multiplier of x3 for small craft (fighters and shuttles), x5 for medium craft, and x10 for larger craft.</p>"
       }
     }
   },
-  "Ware":{
-    "text":"<p>Ware is a catch-all category for augmentations of different kinds:</p><ul><li>Bioware (B) includes genetic modifications, nanosurgical tissue alterations, and implantation of bio-engineered organs. It is only available for biomorphs (including pods and uplifts). Because of its organic nature, bioware is hard to detect in scans; genetic testing or other bio-sampling is required. Use Medicine: Biotech to diagnose, implant, or repair.</li><li>Cyberware (C) is synthetic devices either implanted within a biological body or “grown” within using nanobots. It is only available for biomorphs (including pods and uplifts). Cyberware is detectable with x-ray and radar scans. It can also be hacked like other electronics. Use Medicine: Biotech to implant, Hardware: Electronics to repair the ware itself.</li><li>Hardware (H) includes add-ons to synthetic shells. It is only available for synthmorphs, bots, and vehicles. It can be hacked. Use Hardware: Robotics or an appropriate field for vehicles to install, diagnose, and repair. Many non-ware gear items can be mounted on or incorporated into a shell’s frame as hardware (GM discretion).</li><li>Meshware (M) refers to plug-in apps that enhance infomorphs. These may also be installed with cyberbrains. They are vulnerable to mesh combat. Use Program to install, diagnose, or repair.</li><li>Nanoware (N) refers to internal nanobot systems active within a body or shell. Nanoware includes an implanted hive that maintains and refreshes the nanobots. It is available for morphs of all types. Nanoware hives are detectable like cyberware, but the bots are only detectable with nanodetectors or detailed biological sampling. Nanoware can be hacked like other electronics. Use Medicine: Biotech or Hardware: Robotics to implant/repair.</li></ul> <p>Unless otherwise noted, each ware item can only be installed in the same morph once, no matter if it is available in different forms.</p>",
-    "subcategories":{
-      "Combat":{
-        "text":"<p>The following augmentations have specific applications for combat and dangerous circumstances, in addition to non-combat uses. Weapon/armor ware is listed with the combat rules▶204–217.</p>"
+  "Ware": {
+    "text": "<p>Ware is a catch-all category for augmentations of different kinds:</p><ul><li>Bioware (B) includes genetic modifications, nanosurgical tissue alterations, and implantation of bio-engineered organs. It is only available for biomorphs (including pods and uplifts). Because of its organic nature, bioware is hard to detect in scans; genetic testing or other bio-sampling is required. Use Medicine: Biotech to diagnose, implant, or repair.</li><li>Cyberware (C) is synthetic devices either implanted within a biological body or “grown” within using nanobots. It is only available for biomorphs (including pods and uplifts). Cyberware is detectable with x-ray and radar scans. It can also be hacked like other electronics. Use Medicine: Biotech to implant, Hardware: Electronics to repair the ware itself.</li><li>Hardware (H) includes add-ons to synthetic shells. It is only available for synthmorphs, bots, and vehicles. It can be hacked. Use Hardware: Robotics or an appropriate field for vehicles to install, diagnose, and repair. Many non-ware gear items can be mounted on or incorporated into a shell’s frame as hardware (GM discretion).</li><li>Meshware (M) refers to plug-in apps that enhance infomorphs. These may also be installed with cyberbrains. They are vulnerable to mesh combat. Use Program to install, diagnose, or repair.</li><li>Nanoware (N) refers to internal nanobot systems active within a body or shell. Nanoware includes an implanted hive that maintains and refreshes the nanobots. It is available for morphs of all types. Nanoware hives are detectable like cyberware, but the bots are only detectable with nanodetectors or detailed biological sampling. Nanoware can be hacked like other electronics. Use Medicine: Biotech or Hardware: Robotics to implant/repair.</li></ul> <p>Unless otherwise noted, each ware item can only be installed in the same morph once, no matter if it is available in different forms.</p>",
+    "subcategories": {
+      "Combat": {
+        "text": "<p>The following augmentations have specific applications for combat and dangerous circumstances, in addition to non-combat uses. Weapon/armor ware is listed with the combat rules▶204-217.</p>"
       },
-      "Mental":{
-        "text":"<p>Most headware augmentations enhance the brain and mental functions.</p>"
+      "Mental": {
+        "text": "<p>Most headware augmentations enhance the brain and mental functions.</p>"
       },
-      "Physical":{
-        "text":"<p>Less combat-oriented, but no less useful, these body mods increase capabilities and provide new abilities. Note that many other pieces of equipment can be attached to a synthmorph’s shell and linked to their power systems and mesh inserts (GM discretion).</p>"
+      "Physical": {
+        "text": "<p>Less combat-oriented, but no less useful, these body mods increase capabilities and provide new abilities. Note that many other pieces of equipment can be attached to a synthmorph’s shell and linked to their power systems and mesh inserts (GM discretion).</p>"
       },
-      "Sensory":{
-        "text":"<p>This ware improves your morph’s sensory capabilities.</p>"
+      "Sensory": {
+        "text": "<p>This ware improves your morph’s sensory capabilities.</p>"
       },
-      "Social":{
-        "text":"<p>Social ware, including cosmetic mods impacts your interactions with others and also includes cosmetic modifications.</p>"
+      "Social": {
+        "text": "<p>Social ware, including cosmetic mods impacts your interactions with others and also includes cosmetic modifications.</p>"
       },
-      "Standard":{
-        "text":"<p>Most morphs include the following augmentations.</p>"
+      "Standard": {
+        "text": "<p>Most morphs include the following augmentations.</p>"
       },
-      "Meshware":{
-        "text":"<p>Meshware refers to plug-in apps that enhance an infomorph’s capabilities, much like the bioware and hardware for physical morphs. Meshware takes only a complex action to install or uninstall. Once installed, meshware remains with the infomorph when it moves or copies. Meshware can also be installed within cyberbrains. Other apps can also be installed as meshware, so they are embedded within the infomorph. Unlike other apps, meshware cannot be used by non-infomorph/cyberbrained users.</p>"
+      "Meshware": {
+        "text": "<p>Meshware refers to plug-in apps that enhance an infomorph’s capabilities, much like the bioware and hardware for physical morphs. Meshware takes only a complex action to install or uninstall. Once installed, meshware remains with the infomorph when it moves or copies. Meshware can also be installed within cyberbrains. Other apps can also be installed as meshware, so they are embedded within the infomorph. Unlike other apps, meshware cannot be used by non-infomorph/cyberbrained users.</p>"
       }
     }
   },
-  "Melee Weapons":{
-    "text":"<p>In an era of lethal and incapacitating ranged weaponry, someone equipped for close combat is often at a disadvantage. However, even hardened fighters are wary of getting within reach of certain synthmorphs or heavily augmented biomorphs.</p><p>Except as noted, all melee implements are wielded with Melee skill. Melee ware and weapons may be coated with drugs or toxins (Coated Weapons ▶219) such as poison or nanotoxins secreted from a poison gland ▶322 or implanted nanotoxins ▶335.</p>",
-    "subcategories":{
-      "Melee Ware":{
-        "text":"<p>Implanted weaponry can be combined with eelware to deliver electric shocks.</p>"
+  "Melee Weapons": {
+    "text": "<p>In an era of lethal and incapacitating ranged weaponry, someone equipped for close combat is often at a disadvantage. However, even hardened fighters are wary of getting within reach of certain synthmorphs or heavily augmented biomorphs.</p><p>Except as noted, all melee implements are wielded with Melee skill. Melee ware and weapons may be coated with drugs or toxins (Coated Weapons ▶219) such as poison or nanotoxins secreted from a poison gland ▶322 or implanted nanotoxins ▶335.</p>",
+    "subcategories": {
+      "Melee Ware": {
+        "text": "<p>Implanted weaponry can be combined with eelware to deliver electric shocks.</p>"
       },
-      "Melee Weapons":{
-        "text":"<p>Melee weapons range from the archaic to high tech:</p>"
+      "Melee Weapons": {
+        "text": "<p>Melee weapons range from the archaic to high tech:</p>"
       },
-      "Improvised Melee":{
-        "text":"<p>hand — or maybe you just think you look cool whaling on someone with a meter of chain. The Improvised Weapons table offers statistics for a few likely ad-hoc items. GMs can use these as guidelines for handling items that aren’t listed. These weapons are wielded with Melee skill, though the GM may rule in some cases that an Exotic Skill is necessary.</p>"
+      "Improvised Melee": {
+        "text": "<p>hand — or maybe you just think you look cool whaling on someone with a meter of chain. The Improvised Weapons table offers statistics for a few likely ad-hoc items. GMs can use these as guidelines for handling items that aren’t listed. These weapons are wielded with Melee skill, though the GM may rule in some cases that an Exotic Skill is necessary.</p>"
       }
     }
   },
-  "Ranged Weapons":{
-    "text":"<p>Ranged combat attacks fall into five categories: beam weapons, kinetic weapons, seeker weapons, spray weapons, and weapon systems. Each is described below.</p><p>Most ranged weapons are constructed from lightweight but hardy ceramic hybrids and refractory metals. They are designed for ambidextrous use and equipped with safety systems ▶216, smartlink systems ▶217, and helper ALIs that automatically mesh with the wielder for firing assistance, target recognition, and tactical networking.</p>",
-    "subcategories":{
-      "Ranged Ware":{
-        "text":"<p></p>"
+  "Ranged Weapons": {
+    "text": "<p>Ranged combat attacks fall into five categories: beam weapons, kinetic weapons, seeker weapons, spray weapons, and weapon systems. Each is described below.</p><p>Most ranged weapons are constructed from lightweight but hardy ceramic hybrids and refractory metals. They are designed for ambidextrous use and equipped with safety systems ▶216, smartlink systems ▶217, and helper ALIs that automatically mesh with the wielder for firing assistance, target recognition, and tactical networking.</p>",
+    "subcategories": {
+      "Ranged Ware": {
+        "text": "<p></p>"
       },
-      "Beam Weapons":{
-        "text":"<p>Most coherent-energy weapons are deployed for less-lethal purposes, designed to impair rather than kill. They are wielded with Guns skill and resisted with energy armor.</p><p>All beam weapons are equipped with both a standard and nuclear battery ▶317. The standard battery powers the weapon’s shots until depleted (per its Ammo stat). The nuclear battery will recharge a standard battery completely in 4 hours. Standard batteries can be swapped out with a reload complex action. A battery used in one type of beam weapon may not be used in other types.</p>"
+      "Beam Weapons": {
+        "text": "<p>Most coherent-energy weapons are deployed for less-lethal purposes, designed to impair rather than kill. They are wielded with Guns skill and resisted with energy armor.</p><p>All beam weapons are equipped with both a standard and nuclear battery ▶317. The standard battery powers the weapon’s shots until depleted (per its Ammo stat). The nuclear battery will recharge a standard battery completely in 4 hours. Standard batteries can be swapped out with a reload complex action. A battery used in one type of beam weapon may not be used in other types.</p>"
       },
-      "Spray Weapons":{
-        "text":"<p>Spray weapons blast their ammunition in a widening cone, allowing the firer to strike several targets at once (Area Effect ▶218). They are fired using Guns skill.</p><p><b>Ammunition:</b> With the exception of buzzers (which use nanoswarms) and sprayers (which use chemicals/drugs, 3 doses per shot), spray weapons follow the ammunition and reloading rules ▶206.</p>"
+      "Spray Weapons": {
+        "text": "<p>Spray weapons blast their ammunition in a widening cone, allowing the firer to strike several targets at once (Area Effect ▶218). They are fired using Guns skill.</p><p><b>Ammunition:</b> With the exception of buzzers (which use nanoswarms) and sprayers (which use chemicals/drugs, 3 doses per shot), spray weapons follow the ammunition and reloading rules ▶206.</p>"
       },
-      "Kinetic Weapons":{
-        "text":"<p>Kinetic weapons fire hard-impact projectiles at high velocities to damage the target. There are two categories of slug-throwers, based on their firing mechanisms: chemical firearms and railguns. Railguns have higher penetration and inflict more damage, offset by battery needs and more limited ammunition choices. Most firearms are equipped with programmable smart bullets by default and have a range of other ammunition choices. Due to their lethality and versatility, they remain in widespread use. Both firearms and railguns work in vacuum. They are wielded with Guns skill and resisted with kinetic armor.</p><p>Modern chemical firearms use caseless smart ammunition that is auto-loaded from a magazine. They are effectively recoilless (thanks to rheological smart fluid mechanisms) and electronically fired (an electric charge vaporizes the propellant, using the expanding steam and plasma to eject and accelerate the projectile).</p>"
+      "Kinetic Weapons": {
+        "text": "<p>Kinetic weapons fire hard-impact projectiles at high velocities to damage the target. There are two categories of slug-throwers, based on their firing mechanisms: chemical firearms and railguns. Railguns have higher penetration and inflict more damage, offset by battery needs and more limited ammunition choices. Most firearms are equipped with programmable smart bullets by default and have a range of other ammunition choices. Due to their lethality and versatility, they remain in widespread use. Both firearms and railguns work in vacuum. They are wielded with Guns skill and resisted with kinetic armor.</p><p>Modern chemical firearms use caseless smart ammunition that is auto-loaded from a magazine. They are effectively recoilless (thanks to rheological smart fluid mechanisms) and electronically fired (an electric charge vaporizes the propellant, using the expanding steam and plasma to eject and accelerate the projectile).</p>"
       },
-      "Seeker Weapons":{
-        "text":"<p>Seeker weapons are a combination of automatic grenade launcher, micromissile, coilgun, and smart munitions technology in personal weapon sizes. Seeker rounds are fired at high-velocity via rings of magnetic coils, after which the micromissile or minimissile uses scramjets or solid-fuel rockets to propel itself and maintain high velocities over great distances. Seekers are fired using Guns skill.</p>"
+      "Seeker Weapons": {
+        "text": "<p>Seeker weapons are a combination of automatic grenade launcher, micromissile, coilgun, and smart munitions technology in personal weapon sizes. Seeker rounds are fired at high-velocity via rings of magnetic coils, after which the micromissile or minimissile uses scramjets or solid-fuel rockets to propel itself and maintain high velocities over great distances. Seekers are fired using Guns skill.</p>"
       },
-      "Weapon Mods":{
-        "text":"<p>The following accessories are available for weapons.</p>"
+      "Weapon Mods": {
+        "text": "<p>The following accessories are available for weapons.</p>"
       },
-      "Kinetic Ammo":{
-        "text":"<p>Ammunition is defined by its various types (regular, armor-piercing, capsule, etc.) and by the class of gun (light pistol, heavy pistol, SMG, etc.). For simplicity, each gun can trade ammunition with another gun of its class, though ammunition for firearms and railguns is not exchangeable. For example, all railgun SMGs can share ammo. Due to the high speeds at which railguns fire, they can only use railgun ammo; firearms have more options.</p><p>The ammunition’s Damage Value modifiers are added to the weapon’s base DV.</p>"
+      "Kinetic Ammo": {
+        "text": "<p>Ammunition is defined by its various types (regular, armor-piercing, capsule, etc.) and by the class of gun (light pistol, heavy pistol, SMG, etc.). For simplicity, each gun can trade ammunition with another gun of its class, though ammunition for firearms and railguns is not exchangeable. For example, all railgun SMGs can share ammo. Due to the high speeds at which railguns fire, they can only use railgun ammo; firearms have more options.</p><p>The ammunition’s Damage Value modifiers are added to the weapon’s base DV.</p>"
       },
-      "Seeker/Grenade Ammo":{
-        "text":"<p>Seekers and grenades are both compact, multi-function, explosive devices. Seekers are packaged in standard missile, minimissile, or micromissile sizes and fired from seeker weapons using Guns skill. Grenades are designed to be thrown using Athletics skill or placed as traps using Hardware: Explosives. Grenades come in standard form or as minigrenades.</p><p>Minigrenades and micromissiles are the baseline for listed effects. Adjust the effects for minimissiles and standard grenades/ missiles as noted on the table. Most are area-effect weapons ▶218. Each can be set for different trigger conditions ▶213 or to adjust the blast radius ▶218. Seekers/grenades that miss or that hit but are not sticky ▶below and are not set for impact or airburst detonation will scatter ▶218. Listed complexity is for 5 grenades/missiles. Each seeker missile can function as either accushot or homing ammunition ▶211.</p>"
+      "Seeker/Grenade Ammo": {
+        "text": "<p>Seekers and grenades are both compact, multi-function, explosive devices. Seekers are packaged in standard missile, minimissile, or micromissile sizes and fired from seeker weapons using Guns skill. Grenades are designed to be thrown using Athletics skill or placed as traps using Hardware: Explosives. Grenades come in standard form or as minigrenades.</p><p>Minigrenades and micromissiles are the baseline for listed effects. Adjust the effects for minimissiles and standard grenades/ missiles as noted on the table. Most are area-effect weapons ▶218. Each can be set for different trigger conditions ▶213 or to adjust the blast radius ▶218. Seekers/grenades that miss or that hit but are not sticky ▶below and are not set for impact or airburst detonation will scatter ▶218. Listed complexity is for 5 grenades/missiles. Each seeker missile can function as either accushot or homing ammunition ▶211.</p>"
       }
     }
   },
-  "Armor":{
-    "text":"<p>Armor technology has kept pace with weapons development, providing unprecedented levels of protection.</p>",
-    "subcategories":{
-      "Armor Ware":{
-        "text":"<p>Armor in ware form for bio- and synthmorphs alike.</p>"
+  "Armor": {
+    "text": "<p>Armor technology has kept pace with weapons development, providing unprecedented levels of protection.</p>",
+    "subcategories": {
+      "Armor Ware": {
+        "text": "<p>Armor in ware form for bio- and synthmorphs alike.</p>"
       },
-      "Armor Gear":{
-        "text":"<p>Modern armor materials in Eclipse Phase include spidersilk weaves, crystalline-grown plates, shock-absorbing fullerenes, diamond coatings, self-repairing ablative materials, and shear-resistant fluids that harden against impacts. These materials protect against (armorpiercing) bullets and kinetic impacts as well as bladed weapons and piercing, sharp objects. They also insulate against both the explosive heating of energy weapons and electrical shocks. While such armor protects against bullets, the layers simply catch the bullet and redistribute its kinetic energy across the body, which can still result in severe blunt force trauma.</p>"
+      "Armor Gear": {
+        "text": "<p>Modern armor materials in Eclipse Phase include spidersilk weaves, crystalline-grown plates, shock-absorbing fullerenes, diamond coatings, self-repairing ablative materials, and shear-resistant fluids that harden against impacts. These materials protect against (armorpiercing) bullets and kinetic impacts as well as bladed weapons and piercing, sharp objects. They also insulate against both the explosive heating of energy weapons and electrical shocks. While such armor protects against bullets, the layers simply catch the bullet and redistribute its kinetic energy across the body, which can still result in severe blunt force trauma.</p>"
       },
-      "Armor Mods":{
-        "text":"<p>Armor modifications add extra materials or coatings that either enhance resistance to certain dangers or provide other effects. Listings are for temporary coatings, which can be applied to clothing, armor, or even directly to a morph’s skin or shell with a spray-on nanobot applicator, are easily removed, and last 1 day. Permanent coatings require a specialized hive ▶342. With the exception of chameleon coating, armor mods are visible and easily identified. Only one mod can be applied at a time.</p>"
+      "Armor Mods": {
+        "text": "<p>Armor modifications add extra materials or coatings that either enhance resistance to certain dangers or provide other effects. Listings are for temporary coatings, which can be applied to clothing, armor, or even directly to a morph’s skin or shell with a spray-on nanobot applicator, are easily removed, and last 1 day. Permanent coatings require a specialized hive ▶342. With the exception of chameleon coating, armor mods are visible and easily identified. Only one mod can be applied at a time.</p>"
       }
     }
   }
