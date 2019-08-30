@@ -20,7 +20,7 @@
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "e8cce0ad-5da2-4396-9ec1-1f455cf6fa23"
-  },  
+  },
   {
     "category": "Software",
     "subcategory": "Apps",
@@ -31,7 +31,7 @@
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "406af176-90aa-4061-baeb-7236041b88f2"
-  },  
+  },
   {
     "category": "Software",
     "subcategory": "Apps",
@@ -42,7 +42,7 @@
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "a4a36edd-d879-4a99-a91c-ab923df3262b"
-  },  
+  },
   {
     "category": "Software",
     "subcategory": "Apps",
@@ -53,7 +53,7 @@
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "a68393db-a9c1-46f8-a9cf-8524531c0910"
-  },  
+  },
   {
     "category": "Software",
     "subcategory": "Apps",
@@ -64,7 +64,7 @@
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "6dfdfcfb-4782-4ae2-98ce-8d47fc5c4bcb"
-  },  
+  },
   {
     "category": "Software",
     "subcategory": "Apps",
@@ -75,7 +75,7 @@
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "f3f84ddc-5ed0-46bf-ab7b-a9997da0d0e6"
-  },  
+  },
   {
     "category": "Software",
     "subcategory": "Apps",
@@ -86,7 +86,7 @@
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "39eb1c9e-14d3-46af-99d3-20823c486ac4"
-  },  
+  },
   {
     "category": "Software",
     "subcategory": "Apps",
@@ -97,7 +97,7 @@
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "d6925208-7fae-46d1-b904-0d8327000655"
-  },  
+  },
   {
     "category": "Software",
     "subcategory": "Apps",
@@ -108,18 +108,18 @@
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "3bcacf63-9d82-4668-8c3f-3f2708bc2bbb"
-  },  
+  },
   {
     "category": "Software",
     "subcategory": "Apps",
     "name": "VPN",
     "complexity/gp": "Min/1",
     "summary": "Creates virtual private network.",
-    "description": "<p>This app enables you to communicate over a virtual private network (VPNs ▶241). VPNs provide a –30 modifier to sniffing attacks (Sniffing ▶245).</p>",
+    "description": "<p>This app enables you to communicate over a virtual private network (VPNs ▶241). VPNs provide a -30 modifier to sniffing attacks (Sniffing ▶245).</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "9bbbfc56-0bc0-4346-b539-c60105c703ec"
-  },  
+  },
   {
     "category": "Software",
     "subcategory": "Apps",
@@ -130,7 +130,7 @@
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "7a4577e4-27d0-41ea-a3ab-8d24b62c043c"
-  },  
+  },
   {
     "category": "Software",
     "subcategory": "ALIs",
@@ -152,7 +152,7 @@
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "477bb0bc-8959-4b1a-b547-5c290256466b"
-  },  
+  },
   {
     "category": "Software",
     "subcategory": "ALIs",
@@ -174,7 +174,7 @@
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "66d43195-52ef-44d2-93bd-2a83d19482b5"
-  },    
+  },
   {
     "category": "Software",
     "subcategory": "ALIs",
@@ -185,7 +185,7 @@
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "c21f9072-0ff4-436b-b925-0c1d75a8b3db"
-  },  
+  },
   {
     "category": "Software",
     "subcategory": "ALIs",
@@ -196,7 +196,7 @@
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "92c3dcf5-c673-4616-9c3e-c7d0cbadfff9"
-  },  
+  },
   {
     "category": "Software",
     "subcategory": "Scorchers",
@@ -207,7 +207,7 @@
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "879cff94-1956-4dd6-80ab-9d2333834a4a"
-  },  
+  },
   {
     "category": "Software",
     "subcategory": "Scorchers",
@@ -218,18 +218,18 @@
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "d61911ad-ee92-463a-b7ae-5f61e2794382"
-  },  
+  },
   {
     "category": "Software",
     "subcategory": "Scorchers",
     "name": "Nightmare",
     "complexity/gp": "Mod/R/2",
     "summary": "Trigger anxiety/panic, WIL Check or SV 1d6 and acute stress response for 1d6 minutes.",
-    "description": "<p>Nightmares trigger anxiety and panic attacks within the victim by stimulating the neural circuitry representing the amygdala and hippocampus. The target ego must make a WIL Check. If they succeed, they are shaken, suffering a –10 impairment modifier to all actions until the end of the next action turn. If they fail, they suffer SV 1d6 and suffer an acute stress response ▶222 lasting for 1d6 minutes, +1 per superior failure.</p>",
+    "description": "<p>Nightmares trigger anxiety and panic attacks within the victim by stimulating the neural circuitry representing the amygdala and hippocampus. The target ego must make a WIL Check. If they succeed, they are shaken, suffering a -10 impairment modifier to all actions until the end of the next action turn. If they fail, they suffer SV 1d6 and suffer an acute stress response ▶222 lasting for 1d6 minutes, +1 per superior failure.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "8540ab6a-ce7b-4a73-8d35-8c0438f8fbf8"
-  },  
+  },
   {
     "category": "Software",
     "subcategory": "Scorchers",
@@ -240,7 +240,7 @@
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "24b6d620-d66a-49c3-bce1-b250fa67837f"
-  },  
+  },
   {
     "category": "Software",
     "subcategory": "TacNet",

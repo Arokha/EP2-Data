@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "sleight": "Charisma",
     "level": "Chi",
@@ -16,7 +16,7 @@
     "duration": "Constant",
     "action": "Automatic",
     "summary": "Apply/reduce an Enhanced Behavior or Restricted Behavior (Level 2) trait.",
-    "description": "<p>You can fine-tune your emotional state. Apply an Enhanced Behavior or Restricted Behavior (Level 2) trait ▶80 of your choice at will. You may not change it again until you have taken a recharge action. At the GM's discretion, this trait may apply a +/–10 modifier in some situations. Alternatively, use this to reduce an Enhanced/Restricted Behavior trait imposed on you by up to two levels. You can push this sleight to raise the effect to Level 3 (or three levels of reduction).</p>",
+    "description": "<p>You can fine-tune your emotional state. Apply an Enhanced Behavior or Restricted Behavior (Level 2) trait ▶80 of your choice at will. You may not change it again until you have taken a recharge action. At the GM's discretion, this trait may apply a +/-10 modifier in some situations. Alternatively, use this to reduce an Enhanced/Restricted Behavior trait imposed on you by up to two levels. You can push this sleight to raise the effect to Level 3 (or three levels of reduction).</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "732f56b5-c7b0-4fd7-9878-2f18b9b24f13"
@@ -158,8 +158,8 @@
     "level": "Chi",
     "duration": "Constant",
     "action": "Automatic",
-    "summary": "Hide from ego sense sleight; –30 modifier.",
-    "description": "<p>Scramble helps you to hide from another async using the ego sense sleight ▶284. Apply a –30 modifier to the async’s Psi Test.</p>",
+    "summary": "Hide from ego sense sleight; -30 modifier.",
+    "description": "<p>Scramble helps you to hide from another async using the ego sense sleight ▶284. Apply a -30 modifier to the async’s Psi Test.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "b99e7fdc-cff9-4098-9b05-f932fa5c6191"
@@ -262,7 +262,7 @@
     "action": "Task",
     "modifier": 6,
     "summary": "Target cannot break eye contact with async, both are immobilized.",
-    "description": "<p>You make eye contact with the target and immobilize them. As long as you keep your gaze locked on them (minor blinking aside), they cannot move, avert their eyes, or undertake any action (including mesh and mental actions). You must also limit your movement, though you may move at half your base move and/or take quick physical actions, but you must make a REF Check to keep your eyes locked, and actions requiring a test and visual coordination suffer a –30 modifier. Likewise, if the target is attacked, moved, or otherwise jostled, eye contact is lost.</p><p>You may not affect extra targets with this sleight, unless you have more than one set of eyes.</p>",
+    "description": "<p>You make eye contact with the target and immobilize them. As long as you keep your gaze locked on them (minor blinking aside), they cannot move, avert their eyes, or undertake any action (including mesh and mental actions). You must also limit your movement, though you may move at half your base move and/or take quick physical actions, but you must make a REF Check to keep your eyes locked, and actions requiring a test and visual coordination suffer a -30 modifier. Likewise, if the target is attacked, moved, or otherwise jostled, eye contact is lost.</p><p>You may not affect extra targets with this sleight, unless you have more than one set of eyes.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "baa915b4-e962-426c-ad92-bb591335614b"
@@ -286,7 +286,7 @@
     "action": "Complex",
     "modifier": 4,
     "summary": "Negates one of the target’s senses (hearing, sight, smell, taste, touch).",
-    "description": "<p>You short-circuit and temporary disable one of the target’s sensory cortices (your choice). For WIL ÷ 5 action turns, the target loses that type of sensory input. The senses that may be negated include sight, hearing, touch, smell, taste, hunger, balance, direction, proprioception, facial recognition, and augmented senses such as electrical sense and radiation sense. Any actions that rely on the impaired sense require a test with a minimum –30 modifier.</p>",
+    "description": "<p>You short-circuit and temporary disable one of the target’s sensory cortices (your choice). For WIL ÷ 5 action turns, the target loses that type of sensory input. The senses that may be negated include sight, hearing, touch, smell, taste, hunger, balance, direction, proprioception, facial recognition, and augmented senses such as electrical sense and radiation sense. Any actions that rely on the impaired sense require a test with a minimum -30 modifier.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "97dcd062-f13c-4839-b916-977ce0d28432"
@@ -381,8 +381,8 @@
     "duration": "Minutes",
     "action": "Complex",
     "modifier": 8,
-    "summary": "The target is forced to repeat their actions of the past 15–30 seconds.",
-    "description": "<p>Your force the target’s mind into recursive loop. They will repeat their actions from the previous 15–30 seconds (5–10 action turns) for the next WIL ÷ 5 minutes. They will repeat their actions as closely as possible, even if their environment and circumstances change. If someone actively interrupts or restrains the target, or otherwise disrupts the loop, they may make a WIL Check to break out of the loop, ending the sleight.</p>",
+    "summary": "The target is forced to repeat their actions of the past 15-30 seconds.",
+    "description": "<p>Your force the target’s mind into recursive loop. They will repeat their actions from the previous 15-30 seconds (5-10 action turns) for the next WIL ÷ 5 minutes. They will repeat their actions as closely as possible, even if their environment and circumstances change. If someone actively interrupts or restrains the target, or otherwise disrupts the loop, they may make a WIL Check to break out of the loop, ending the sleight.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "3b373b91-c0f0-40c1-ba05-39227d884f1f"
@@ -621,8 +621,8 @@
     "duration": "Action Turns",
     "action": "Complex",
     "modifier": 6,
-    "summary": "Target overwhelmed by sensory input, –10 to all actions, with additional –10 per superior success.",
-    "description": "<p>You overload and flood the target’s sensory cortices, spamming them with confusing and distracting sensory input. The target is impaired, suffering –10 to all actions, plus an extra –10 per superior success, for WIL ÷ 5 action turns.</p>",
+    "summary": "Target overwhelmed by sensory input, -10 to all actions, with additional -10 per superior success.",
+    "description": "<p>You overload and flood the target’s sensory cortices, spamming them with confusing and distracting sensory input. The target is impaired, suffering -10 to all actions, plus an extra -10 per superior success, for WIL ÷ 5 action turns.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "f76c0e83-316b-47b5-9120-ff49fcbd1b50"
@@ -633,8 +633,8 @@
     "duration": "Sustained",
     "action": "Complex",
     "modifier": 4,
-    "summary": "–30 to all sleights within close range.",
-    "description": "<p>You generate an anti-psi jamming field, impeding the use of ranged sleights within Close range by –30. This sleight has no effect on self or Touch-range sleights.</p>",
+    "summary": "-30 to all sleights within close range.",
+    "description": "<p>You generate an anti-psi jamming field, impeding the use of ranged sleights within Close range by -30. This sleight has no effect on self or Touch-range sleights.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "88117208-95c1-48fb-a643-d8b2c6079d88"
@@ -730,7 +730,7 @@
     "action": "Complex",
     "modifier": "–",
     "summary": "Diffuse light/radio within Close range, reduce range/DV by half.",
-    "description": "<p>This sleight diffuses light, laser, microwave, radio, and particle beams. This hinders communication (reduce range by half) and vision/sensors (–30). It also impairs beam weapons, reducing their DV by half (–25% per superior success) and negating other effects such as shock. Any light or beam passing within Close range (10 meters) is affected.</p>",
+    "description": "<p>This sleight diffuses light, laser, microwave, radio, and particle beams. This hinders communication (reduce range by half) and vision/sensors (-30). It also impairs beam weapons, reducing their DV by half (-25% per superior success) and negating other effects such as shock. Any light or beam passing within Close range (10 meters) is affected.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "d4725d2a-41c0-4de6-bf9c-c26b92a2833a"
@@ -742,7 +742,7 @@
     "action": "Complex",
     "modifier": "–",
     "summary": "Increases friction within Close range, halve kinetic DV.",
-    "description": "<p>The exsurgent increases the friction of kinetic actions within Close range (10 meters). This has a negligible effect on most activities, but climbing is easier (+30) and high-velocity projectiles like firearms and railguns are significantly slowed, decreasing their DV by half (–25% per superior success).</p>",
+    "description": "<p>The exsurgent increases the friction of kinetic actions within Close range (10 meters). This has a negligible effect on most activities, but climbing is easier (+30) and high-velocity projectiles like firearms and railguns are significantly slowed, decreasing their DV by half (-25% per superior success).</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "02b8c5c6-e88b-4034-bab2-ac78c8e176db"

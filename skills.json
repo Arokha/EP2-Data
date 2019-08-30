@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "name": "Athletics",
     "aptitude": "Somatics",
@@ -189,7 +189,7 @@
     "name": "Kinesics",
     "aptitude": "Savvy",
     "type": "Active, Social",
-    "description": "<p>Kinesics is the art of empathy and nonverbal communication.</p><p>Use Kinesics to read someone’s emotional state, gauge their intentions, detect lies, identify mannerisms and tells, and use body language to emote and convey information. Kinesics is used to oppose Deceive skill.</p><p>Though synthmorphs are designed to emote, reading them is more difficult; apply a –30 modifier. The same modifier also applies to ALIs that are operating pods, bots, or synthmorphs. At the GM’s discretion, similar modifiers may apply to morphs that lack anthropomorphic characteristics or that are sleeved by egos accustomed to much different physiologies (such as a neo-octopi in a neo-avian morph).</p>",
+    "description": "<p>Kinesics is the art of empathy and nonverbal communication.</p><p>Use Kinesics to read someone’s emotional state, gauge their intentions, detect lies, identify mannerisms and tells, and use body language to emote and convey information. Kinesics is used to oppose Deceive skill.</p><p>Though synthmorphs are designed to emote, reading them is more difficult; apply a -30 modifier. The same modifier also applies to ALIs that are operating pods, bots, or synthmorphs. At the GM’s discretion, similar modifiers may apply to morphs that lack anthropomorphic characteristics or that are sleeved by egos accustomed to much different physiologies (such as a neo-octopi in a neo-avian morph).</p>",
     "sample_fields": [],
     "specializations": [
       "Detect Deception",
@@ -416,7 +416,7 @@
     "name": "Perceive",
     "aptitude": "Intuition",
     "type": "Active, Mental",
-    "description": "<p>Perceive skill is awareness and use of your physical senses.</p><p>Use Perceive to spot an intruder, find a clue, locate a trap, search a room, or scrounge up something useful. You start with a base Perceive of INT × 2. Perceive is opposed by Infiltrate skill.</p><p>Basic perception is an automatic action, with a –20 distraction modifier as your attention is elsewhere. Detailed perception, without modifiers, is a quick action. Thorough investigation is a task action.</p>",
+    "description": "<p>Perceive skill is awareness and use of your physical senses.</p><p>Use Perceive to spot an intruder, find a clue, locate a trap, search a room, or scrounge up something useful. You start with a base Perceive of INT × 2. Perceive is opposed by Infiltrate skill.</p><p>Basic perception is an automatic action, with a -20 distraction modifier as your attention is elsewhere. Detailed perception, without modifiers, is a quick action. Thorough investigation is a task action.</p>",
     "sample_fields": [],
     "specializations": [
       "Hear",
