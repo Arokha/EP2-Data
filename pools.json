@@ -1,0 +1,41 @@
+[
+  {
+    "name": "insight",
+    "effects": [
+      "Take the Initiative: Go first in an action turn if you are only taking mental or mesh actions and no physical movement. If multiple characters choose this option, they go in Initiative order before everyone else.",
+      "Extra Action: Take an extra complex mental or mesh action (or 2 quick actions) in an action turn. These actions may only be taken after everyone else has gone. If multiple characters choose this option, they go in Initiative order after everyone else has taken their turn.",
+      "Acquire a Clue: Gain a hint or lead through investigation, research, or analysis of the facts at hand, without needing to make a test."
+    ],
+    "checks": ["cognition", "intuition"]
+  },
+  {
+    "name": "moxie",
+    "effects": [
+      "Ignore Trauma: Ignore the effects of 1 trauma for 24 hours or until your next recharge.",
+      "Refresh Rep: Restore rep network favors at a cost of 1 point for a Minor favor and 2 points for a Moderate favor. Major favors cannot be refreshed this way.",
+      "Acquire a Clue: Get a tip or lead by gathering information via social interactions without needing to make a test.",
+      "Control Your Infection: Avoid making an Infection Test when using a psi sleight (asyncs only).",
+      "Negate Gaffe: Ignore a player’s social gaffe that the character wouldn’t make."
+    ],
+    "checks": ["savvy", "willpower", "rep", "infection"]
+  },
+  {
+    "name": "vigor",
+    "effects": [
+      "Take the Initiative: Go first in an action turn if you are only taking mental or mesh actions and no physical movement. If multiple characters choose this option, they go in Initiative order before everyone else.",
+      "Extra Action: Take an extra complex mental or mesh action (or 2 quick actions) in an action turn. These actions may only be taken after everyone else has gone. If multiple characters choose this option, they go in Initiative order after everyone else has taken their turn.",
+      "Ignore Wound: Ignore the effects of 1 wound for 24 hours or until your next recharge."
+    ],
+    "checks": ["reflexes", "somatics"]
+  },
+  {
+    "name": "flex",
+    "effects": [
+       "Introduce NPC: A new or existing NPC joins the scene. Their presence must be plausible. You may define one aspect of this NPC: their morph, factional allegiance, a noteworthy skill, a specific trait, etc. The GM determines the other details.",
+       "Introduce an Item: A previously unnoticed item is added to the scene. Its presence must be plausible. The item cannot be offensive (no weapons) and it must be of Minor (not Rare or Restricted) Complexity. It can be a useful tool, a necessary piece of gear, or even a clue. The GM determines its placement within the scene and the nature of any clues.",
+       "Define the Environment: You may introduce an environmental factor to a scene. Its presence must be plausible. It should provide a new detail that does not drastically alter the scene. Examples include hiding spots, cover, distractions, shelter, or exploitable elements such as a ladder or window.",
+       "Define a Relationship: You may introduce a new, plausible relationship between your character and an existing NPC. This should be a loose/minor connection rather than a close/serious tie. For example, you may have a common friend, shared history, or old but mild rivalry. You may define the rough basics, but the GM determines the finer points and the NPC’s attitude towards your character."
+    ],
+    "checks": []
+  }
+]

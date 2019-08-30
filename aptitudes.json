@@ -1,0 +1,32 @@
+[
+  {
+    "name": "cognition",
+    "description": "represents your intelligence, problem-solving talent, and capacity for logical analysis.",
+    "short_name": "COG"
+  },
+  {
+    "name": "intuition",
+    "description": "is your gut instinct and ability to evaluate on the fly.  It includes physical awareness, creativity, cleverness, and cunning.",
+    "short_name": "INT"
+  },
+  {
+    "name": "reflexes",
+    "description": "is your coordination, manual dexterity, nimbleness, balance, and reaction speed.",
+    "short_name": "REF"
+  },
+  {
+    "name": "savvy",
+    "description": "represents your social awareness, adaptability, empathy, and ability to influence others.",
+    "short_name": "SAV"
+  },
+  {
+    "name": "somatics",
+    "description": "is how well you can exploit your morph’s physical capabilities, including strength, stamina, and sustained positioning and motion.",
+    "short_name": "SOM"
+  },
+  {
+    "name": "willpower",
+    "description": "is your self-control, mental fortitude, and strength of personality.",
+    "short_name": "WIL"
+  }
+]
