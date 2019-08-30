@@ -204,9 +204,7 @@
     "name": "Know: [Field]",
     "aptitude": "Cognition/Intuition",
     "type": "Field, Know",
-    "description": [
-      "Know skill represents your accumulated knowledge in a field of work, study, or interest. Know skills are loosely grouped into four types: academics, arts, interests, and professional training."
-    ],
+    "description": "<p>Know skill represents your accumulated knowledge in a field of work, study, or interest. Know skills are loosely grouped into four types: academics, arts, interests, and professional training.</p>",
     "sample_fields": [
       "Academics",
       "Arts",
