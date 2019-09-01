@@ -144,7 +144,7 @@
       },
       {
         "heading": "Specializations",
-        "text": "<p>Skill specializations cost 1 CP. They give a +10 bonus to that skill when that specialization applies. (This specialization bonus towards the skill maximum of 80.)</p>"
+        "text": "<p>Skill specializations cost 1 CP. They give a +10 bonus to that skill when that specialization applies. (This specialization bonus does not count towards the skill maximum of 80.)</p>"
       }
     ],
     "resource": "Eclipse Phase Second Edition",
