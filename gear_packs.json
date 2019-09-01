@@ -234,7 +234,7 @@
       "Docbot",
       "Healing Spray",
       "Healing Vat",
-      "Meds",
+      "Meds (5 doses)",
       "Med Scanner"
     ],
     "options": [],
@@ -268,7 +268,7 @@
       "Disassembly Tools",
       "Guardian Swarm",
       "Nanodetector",
-      "Orbital Hash",
+      "Orbital Hash (5 doses)",
       "Robomule"
     ],
     "options": [],
@@ -298,14 +298,14 @@
     "gear": [
       "Assault Rifle Railgun",
       "Enhanced Vision",
-      "Grin",
+      "Grin (5 doses)",
       "Neurachem"
     ],
     "options": [
       {
         "name": "Default",
         "gear": [
-          "Meds"
+          "Meds (5 doses)"
         ]
       },
       {
