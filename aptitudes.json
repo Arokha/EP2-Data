@@ -2,31 +2,49 @@
   {
     "name": "cognition",
     "description": "represents your intelligence, problem-solving talent, and capacity for logical analysis.",
-    "short_name": "COG"
+    "short_name": "COG",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "0418079e-2e71-4863-b6f3-bf48c5b787b6"
   },
   {
     "name": "intuition",
     "description": "is your gut instinct and ability to evaluate on the fly.  It includes physical awareness, creativity, cleverness, and cunning.",
-    "short_name": "INT"
+    "short_name": "INT",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "db418f01-4e3f-4006-8fd0-324a07239bb1"
   },
   {
     "name": "reflexes",
     "description": "is your coordination, manual dexterity, nimbleness, balance, and reaction speed.",
-    "short_name": "REF"
+    "short_name": "REF",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "21caa481-ba04-494d-b656-bb81c384c991"
   },
   {
     "name": "savvy",
     "description": "represents your social awareness, adaptability, empathy, and ability to influence others.",
-    "short_name": "SAV"
+    "short_name": "SAV",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "4e30e2fa-01b1-4602-8fe9-5266d3e43f13"
   },
   {
     "name": "somatics",
     "description": "is how well you can exploit your morph’s physical capabilities, including strength, stamina, and sustained positioning and motion.",
-    "short_name": "SOM"
+    "short_name": "SOM",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "182669f7-5780-4e4e-9720-33ea286f4ba9"
   },
   {
     "name": "willpower",
     "description": "is your self-control, mental fortitude, and strength of personality.",
-    "short_name": "WIL"
+    "short_name": "WIL",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "c784602e-1792-4ac9-8d64-8f7d33d7a43a"
   }
 ]

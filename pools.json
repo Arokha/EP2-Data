@@ -9,7 +9,10 @@
     "checks": [
       "cognition",
       "intuition"
-    ]
+    ],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "7800682a-d8b9-471d-a6fe-63c161e73cb9"
   },
   {
     "name": "moxie",
@@ -25,7 +28,10 @@
       "willpower",
       "rep",
       "infection"
-    ]
+    ],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "646e9ec0-de95-4b3b-8ea8-12cdda5b34e6"
   },
   {
     "name": "vigor",
@@ -37,7 +43,10 @@
     "checks": [
       "reflexes",
       "somatics"
-    ]
+    ],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "aafaf749-c960-4855-ab9f-acf8005798c7"
   },
   {
     "name": "flex",
@@ -47,6 +56,9 @@
       "Define the Environment: You may introduce an environmental factor to a scene. Its presence must be plausible. It should provide a new detail that does not drastically alter the scene. Examples include hiding spots, cover, distractions, shelter, or exploitable elements such as a ladder or window.",
       "Define a Relationship: You may introduce a new, plausible relationship between your character and an existing NPC. This should be a loose/minor connection rather than a close/serious tie. For example, you may have a common friend, shared history, or old but mild rivalry. You may define the rough basics, but the GM determines the finer points and the NPC’s attitude towards your character."
     ],
-    "checks": []
+    "checks": [],
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "ab0387d4-f69a-4e4c-b5de-35770c38629d"
   }
 ]
