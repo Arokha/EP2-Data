@@ -61,7 +61,7 @@
   },
   {
     "name": "Async",
-    "description": "You are a musician, performer, celebrity, or other type of creative or public figure.",
+    "description": "You are infected with the Watts-MacLeod strain of the exsurgent virus ▶273, which gives you a number of unique mental talents and disadvantages. You must purchase the Psi trait in Step 10.",
     "skills": {
       "Deceive": {
         "rating": 40,
@@ -142,7 +142,7 @@
   },
   {
     "name": "Forensics Specialist",
-    "description": "You’ve picked up some self-defense and offensive capabilities along the way.",
+    "description": "You’ve trained to analyze crime scenes and perform autopsies.",
     "skills": {
       "Medicine": {
         "rating": 40,
@@ -409,7 +409,7 @@
   },
   {
     "name": "Student",
-    "description": "You’ve spent your fair share of time in ships and smaller habitats.",
+    "description": "You are in the process of learning.",
     "skills": {
       "Interface": {
         "rating": 40,

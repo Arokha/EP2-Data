@@ -446,7 +446,7 @@
   },
   {
     "name": "Scientist",
-    "description": "You scrounge through wrecks and ruins of the Fall, seeking value in the destruction.",
+    "description": "You seek to understand how the universe works — or at least certain elements of it.",
     "skills": {
       "Hardware": {
         "rating": 40,
