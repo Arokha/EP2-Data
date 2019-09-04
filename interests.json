@@ -3,23 +3,23 @@
     "name": "Animal Handler",
     "description": "You’ve learned to raise, train, and care for animals, particularly partially uplifted smart animals.",
     "skills": {
-      "Exotic Skill": {
+      "exotic skill": {
         "rating": 40,
         "options": [
           "Animal Handling"
         ]
       },
-      "Medicine": {
+      "medicine": {
         "rating": 40,
         "options": [
           "Veterinary"
         ]
       },
-      "Provoke": {
+      "provoke": {
         "rating": 20,
         "options": []
       },
-      "Know": {
+      "know": {
         "rating": 40,
         "options": [
           "Smart Animals"
@@ -34,19 +34,19 @@
     "name": "Artist/Icon",
     "description": "You are a musician, performer, celebrity, or other type of creative or public figure.",
     "skills": {
-      "Deceive": {
+      "deceive": {
         "rating": 40,
         "options": []
       },
-      "Kinesics": {
+      "kinesics": {
         "rating": 20,
         "options": []
       },
-      "Provoke": {
+      "provoke": {
         "rating": 40,
         "options": []
       },
-      "Know": {
+      "know": {
         "rating": 40,
         "options": [
           "Dance",
@@ -63,19 +63,19 @@
     "name": "Async",
     "description": "You are infected with the Watts-MacLeod strain of the exsurgent virus ▶273, which gives you a number of unique mental talents and disadvantages. You must purchase the Psi trait in Step 10.",
     "skills": {
-      "Deceive": {
+      "deceive": {
         "rating": 40,
         "options": []
       },
-      "Perceive": {
+      "perceive": {
         "rating": 20,
         "options": []
       },
-      "Psi": {
+      "psi": {
         "rating": 40,
         "options": []
       },
-      "Know": {
+      "know": {
         "rating": 40,
         "options": [
           "Any"
@@ -90,19 +90,19 @@
     "name": "Commander",
     "description": "You are accustomed to leadership roles as an executive, officer, elected official, or autonomist organizer.",
     "skills": {
-      "Interface": {
+      "interface": {
         "rating": 20,
         "options": []
       },
-      "Persuade": {
+      "persuade": {
         "rating": 40,
         "options": []
       },
-      "Provoke": {
+      "provoke": {
         "rating": 40,
         "options": []
       },
-      "Know": {
+      "know": {
         "rating": 40,
         "options": [
           "Administration"
@@ -117,19 +117,19 @@
     "name": "Fighter",
     "description": "You’ve picked up some self-defense and offensive capabilities along the way.",
     "skills": {
-      "Fray": {
+      "fray": {
         "rating": 20,
         "options": []
       },
-      "Guns": {
+      "guns": {
         "rating": 40,
         "options": []
       },
-      "Melee": {
+      "melee": {
         "rating": 40,
         "options": []
       },
-      "Know": {
+      "know": {
         "rating": 40,
         "options": [
           "Security Ops"
@@ -144,21 +144,21 @@
     "name": "Forensics Specialist",
     "description": "You’ve trained to analyze crime scenes and perform autopsies.",
     "skills": {
-      "Medicine": {
+      "medicine": {
         "rating": 40,
         "options": [
           "Forensics"
         ]
       },
-      "Perceive": {
+      "perceive": {
         "rating": 40,
         "options": []
       },
-      "Research": {
+      "research": {
         "rating": 20,
         "options": []
       },
-      "Know": {
+      "know": {
         "rating": 40,
         "options": [
           "Physiology"
@@ -173,23 +173,23 @@
     "name": "Jack-of-all-Trades",
     "description": "You’ve seen and done a little bit of everything.",
     "skills": {
-      "Guns": {
+      "guns": {
         "rating": 25,
         "options": []
       },
-      "Infosec": {
+      "infosec": {
         "rating": 25,
         "options": []
       },
-      "Persuade": {
+      "persuade": {
         "rating": 25,
         "options": []
       },
-      "Research": {
+      "research": {
         "rating": 25,
         "options": []
       },
-      "Know": {
+      "know": {
         "rating": 40,
         "options": [
           "Any"
@@ -204,23 +204,23 @@
     "name": "Jammer",
     "description": "You’re a drone operator, with a talent for manipulating machines.",
     "skills": {
-      "Hardware": {
+      "hardware": {
         "rating": 40,
         "options": [
           "Robotics"
         ]
       },
-      "Interface": {
+      "interface": {
         "rating": 20,
         "options": []
       },
-      "Pilot": {
+      "pilot": {
         "rating": 40,
         "options": [
           "Any"
         ]
       },
-      "Know": {
+      "know": {
         "rating": 40,
         "options": [
           "Bot Models"
@@ -235,19 +235,19 @@
     "name": "Networker",
     "description": "You know how to engage and connect with people.",
     "skills": {
-      "Deceive": {
+      "deceive": {
         "rating": 30,
         "options": []
       },
-      "Persuade": {
+      "persuade": {
         "rating": 40,
         "options": []
       },
-      "Provoke": {
+      "provoke": {
         "rating": 30,
         "options": []
       },
-      "Know": {
+      "know": {
         "rating": 40,
         "options": [
           "Rep Nets"
@@ -262,21 +262,21 @@
     "name": "Paramedic",
     "description": "You have picked up some first aid training.",
     "skills": {
-      "Fray": {
+      "fray": {
         "rating": 20,
         "options": []
       },
-      "Kinesics": {
+      "kinesics": {
         "rating": 40,
         "options": []
       },
-      "Medicine": {
+      "medicine": {
         "rating": 40,
         "options": [
           "Paramedic"
         ]
       },
-      "Know": {
+      "know": {
         "rating": 40,
         "options": [
           "Emergency Services"
@@ -291,25 +291,25 @@
     "name": "Pilot",
     "description": "You prefer to do the driving yourself, no matter how skilled the AI is.",
     "skills": {
-      "Hardware": {
+      "hardware": {
         "rating": 30,
         "options": [
           "Any"
         ]
       },
-      "Pilot": {
+      "pilot": {
         "rating": 30,
         "options": [
           "Any"
         ]
       },
-      "Pilot2": {
+      "pilot2": {
         "rating": 40,
         "options": [
           "Any"
         ]
       },
-      "Know": {
+      "know": {
         "rating": 40,
         "options": [
           "Flight Crew Ops"
@@ -324,19 +324,19 @@
     "name": "Rogue",
     "description": "You are as shifty as you need to be.",
     "skills": {
-      "Deceive": {
+      "deceive": {
         "rating": 40,
         "options": []
       },
-      "Fray": {
+      "fray": {
         "rating": 20,
         "options": []
       },
-      "Infiltrate": {
+      "infiltrate": {
         "rating": 40,
         "options": []
       },
-      "Know": {
+      "know": {
         "rating": 40,
         "options": [
           "Any"
@@ -351,19 +351,19 @@
     "name": "Slacker",
     "description": "You prefer to enjoy the good things in life.",
     "skills": {
-      "Interface": {
+      "interface": {
         "rating": 40,
         "options": []
       },
-      "Persuade": {
+      "persuade": {
         "rating": 30,
         "options": []
       },
-      "Research": {
+      "research": {
         "rating": 30,
         "options": []
       },
-      "Know": {
+      "know": {
         "rating": 40,
         "options": [
           "Any"
@@ -378,11 +378,11 @@
     "name": "Spacer",
     "description": "You’ve spent your fair share of time in ships and smaller habitats.",
     "skills": {
-      "Free Fall": {
+      "free fall": {
         "rating": 40,
         "options": []
       },
-      "Hardware": {
+      "hardware": {
         "rating": 40,
         "options": [
           "Electronics",
@@ -390,11 +390,11 @@
           "Robotics"
         ]
       },
-      "Interface": {
+      "interface": {
         "rating": 20,
         "options": []
       },
-      "Know": {
+      "know": {
         "rating": 40,
         "options": [
           "Astronomy",
@@ -411,19 +411,19 @@
     "name": "Student",
     "description": "You are in the process of learning.",
     "skills": {
-      "Interface": {
+      "interface": {
         "rating": 40,
         "options": []
       },
-      "Program": {
+      "program": {
         "rating": 20,
         "options": []
       },
-      "Research": {
+      "research": {
         "rating": 40,
         "options": []
       },
-      "Know": {
+      "know": {
         "rating": 40,
         "options": [
           "Any"
@@ -438,21 +438,21 @@
     "name": "Survivalist",
     "description": "The Fall reinforced the notion that you need to be prepared.",
     "skills": {
-      "Guns": {
+      "guns": {
         "rating": 40,
         "options": []
       },
-      "Medicine": {
+      "medicine": {
         "rating": 30,
         "options": [
           "Paramedic"
         ]
       },
-      "Survival": {
+      "survival": {
         "rating": 30,
         "options": []
       },
-      "Know": {
+      "know": {
         "rating": 40,
         "options": [
           "Any"

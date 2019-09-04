@@ -3,27 +3,27 @@
     "name": "Academic",
     "description": "You devote your efforts to the pursuit of knowledge.",
     "skills": {
-      "Interface": {
+      "interface": {
         "rating": 30,
         "options": []
       },
-      "Research": {
+      "research": {
         "rating": 60,
         "options": []
       },
-      "Know": {
+      "know": {
         "rating": 60,
         "options": [
           "Any"
         ]
       },
-      "Know2": {
+      "know2": {
         "rating": 40,
         "options": [
           "Any"
         ]
       },
-      "Know3": {
+      "know3": {
         "rating": 30,
         "options": [
           "Administration",
@@ -40,19 +40,19 @@
     "name": "Covert Operative",
     "description": "You are a spy, infiltrator, thief, or undercover agent, skilled at accessing places you don’t belong.",
     "skills": {
-      "Deceive": {
+      "deceive": {
         "rating": 40,
         "options": []
       },
-      "Infiltrate": {
+      "infiltrate": {
         "rating": 60,
         "options": []
       },
-      "Infosec": {
+      "infosec": {
         "rating": 30,
         "options": []
       },
-      "Know": {
+      "know": {
         "rating": 60,
         "options": [
           "Security Ops",
@@ -60,7 +60,7 @@
           "Spycraft"
         ]
       },
-      "Know2": {
+      "know2": {
         "rating": 30,
         "options": [
           "Black Markets",
@@ -77,23 +77,23 @@
     "name": "Enforcer",
     "description": "You’re a thug, whether you’re wielding force for a hypercorp, cartel, habitat overseer, or autonomist militia.",
     "skills": {
-      "Fray": {
+      "fray": {
         "rating": 30,
         "options": []
       },
-      "Guns": {
+      "guns": {
         "rating": 20,
         "options": []
       },
-      "Melee": {
+      "melee": {
         "rating": 50,
         "options": []
       },
-      "Provoke": {
+      "provoke": {
         "rating": 30,
         "options": []
       },
-      "Know": {
+      "know": {
         "rating": 60,
         "options": [
           "Bodyguarding",
@@ -101,7 +101,7 @@
           "Security Ops"
         ]
       },
-      "Know2": {
+      "know2": {
         "rating": 30,
         "options": [
           "Cartel Politics",
@@ -118,17 +118,17 @@
     "name": "Explorer",
     "description": "You’ve walked on alien worlds and seen things with your own eyes that others wouldn’t believe.",
     "skills": {
-      "Athletics": {
+      "athletics": {
         "rating": 30,
         "options": []
       },
-      "Medicine": {
+      "medicine": {
         "rating": 20,
         "options": [
           "Paramedic"
         ]
       },
-      "Pilot": {
+      "pilot": {
         "rating": 20,
         "options": [
           "Air",
@@ -137,11 +137,11 @@
           "Space"
         ]
       },
-      "Survival": {
+      "survival": {
         "rating": 60,
         "options": []
       },
-      "Know": {
+      "know": {
         "rating": 60,
         "options": [
           "First-Contact Ops",
@@ -149,7 +149,7 @@
           "Surveying"
         ]
       },
-      "Know2": {
+      "know2": {
         "rating": 30,
         "options": [
           "Astrobiology",
@@ -166,19 +166,19 @@
     "name": "Face",
     "description": "You excel at convincing others, even when it’s not in their best interest.",
     "skills": {
-      "Deceive": {
+      "deceive": {
         "rating": 40,
         "options": []
       },
-      "Kinesics": {
+      "kinesics": {
         "rating": 30,
         "options": []
       },
-      "Persuade": {
+      "persuade": {
         "rating": 60,
         "options": []
       },
-      "Know": {
+      "know": {
         "rating": 60,
         "options": [
           "Fencing",
@@ -186,7 +186,7 @@
           "Smuggling"
         ]
       },
-      "Know2": {
+      "know2": {
         "rating": 30,
         "options": [
           "Black Markets",
@@ -203,23 +203,23 @@
     "name": "Genehacker",
     "description": "DNA is your artistic medium, proteins your weapon of choice.",
     "skills": {
-      "Medicine": {
+      "medicine": {
         "rating": 60,
         "options": [
           "Biotech"
         ]
       },
-      "Medicine2": {
+      "medicine2": {
         "rating": 40,
         "options": [
           "Pharmacology"
         ]
       },
-      "Program": {
+      "program": {
         "rating": 30,
         "options": []
       },
-      "Know": {
+      "know": {
         "rating": 60,
         "options": [
           "Biology",
@@ -227,7 +227,7 @@
           "Physiology"
         ]
       },
-      "Know2": {
+      "know2": {
         "rating": 30,
         "options": [
           "Lab Ops",
@@ -244,19 +244,19 @@
     "name": "Hacker",
     "description": "Software heeds your beck and call, whether you seek to exploit systems or protect them.",
     "skills": {
-      "Infosec": {
+      "infosec": {
         "rating": 60,
         "options": []
       },
-      "Interface": {
+      "interface": {
         "rating": 40,
         "options": []
       },
-      "Program": {
+      "program": {
         "rating": 30,
         "options": []
       },
-      "Know": {
+      "know": {
         "rating": 60,
         "options": [
           "Computer Science",
@@ -264,7 +264,7 @@
           "Mathematics"
         ]
       },
-      "Know2": {
+      "know2": {
         "rating": 30,
         "options": [
           "Data Processing",
@@ -281,19 +281,19 @@
     "name": "Investigator",
     "description": "Few details escape your scrutiny, whether you are a journalist, private investigator, detective, or insurance claims investigator.",
     "skills": {
-      "Kinesics": {
+      "kinesics": {
         "rating": 30,
         "options": []
       },
-      "Perceive": {
+      "perceive": {
         "rating": 40,
         "options": []
       },
-      "Research": {
+      "research": {
         "rating": 60,
         "options": []
       },
-      "Know": {
+      "know": {
         "rating": 60,
         "options": [
           "Ego Hunting",
@@ -301,7 +301,7 @@
           "Journalism"
         ]
       },
-      "Know2": {
+      "know2": {
         "rating": 30,
         "options": [
           "Black Markets",
@@ -318,23 +318,23 @@
     "name": "Medic",
     "description": "You have a background in medicine and experience as a physician, surgeon, paramedic, body bank tech, or other type of medical specialist.",
     "skills": {
-      "Kinesics": {
+      "kinesics": {
         "rating": 30,
         "options": []
       },
-      "Medicine": {
+      "medicine": {
         "rating": 60,
         "options": [
           "Paramedic"
         ]
       },
-      "Medicine2": {
+      "medicine2": {
         "rating": 40,
         "options": [
           "Biotech"
         ]
       },
-      "Know": {
+      "know": {
         "rating": 60,
         "options": [
           "Biology",
@@ -342,7 +342,7 @@
           "Psychology"
         ]
       },
-      "Know2": {
+      "know2": {
         "rating": 30,
         "options": [
           "Body Bank Ops",
@@ -359,23 +359,23 @@
     "name": "Mindhacker",
     "description": "You meld and shape minds and memories. You might be a therapist, memeticist, or psychosurgeon pushing the bounds of cognition.",
     "skills": {
-      "Infosec": {
+      "infosec": {
         "rating": 30,
         "options": []
       },
-      "Medicine": {
+      "medicine": {
         "rating": 40,
         "options": [
           "Pharmacology"
         ]
       },
-      "Medicine2": {
+      "medicine2": {
         "rating": 60,
         "options": [
           "Psychosurgery"
         ]
       },
-      "Know": {
+      "know": {
         "rating": 60,
         "options": [
           "Cognitive Science",
@@ -383,7 +383,7 @@
           "Psychology"
         ]
       },
-      "Know2": {
+      "know2": {
         "rating": 30,
         "options": [
           "Body Bank Ops",
@@ -400,7 +400,7 @@
     "name": "Scavenger",
     "description": "You scrounge through wrecks and ruins of the Fall, seeking value in the destruction.",
     "skills": {
-      "Hardware": {
+      "hardware": {
         "rating": 60,
         "options": [
           "Electronics",
@@ -408,13 +408,13 @@
           "Robotics"
         ]
       },
-      "Hardware2": {
+      "hardware2": {
         "rating": 40,
         "options": [
           "Demolitions"
         ]
       },
-      "Pilot": {
+      "pilot": {
         "rating": 30,
         "options": [
           "Air",
@@ -423,7 +423,7 @@
           "Space"
         ]
       },
-      "Know": {
+      "know": {
         "rating": 60,
         "options": [
           "Flight Crew Ops",
@@ -431,7 +431,7 @@
           "Smuggling"
         ]
       },
-      "Know2": {
+      "know2": {
         "rating": 30,
         "options": [
           "Black Markets",
@@ -448,22 +448,22 @@
     "name": "Scientist",
     "description": "You seek to understand how the universe works — or at least certain elements of it.",
     "skills": {
-      "Hardware": {
+      "hardware": {
         "rating": 40,
         "options": [
           "Electronics",
           "Robotics"
         ]
       },
-      "Program": {
+      "program": {
         "rating": 30,
         "options": []
       },
-      "Research": {
+      "research": {
         "rating": 60,
         "options": []
       },
-      "Know": {
+      "know": {
         "rating": 60,
         "options": [
           "Astrobiology",
@@ -471,7 +471,7 @@
           "Physics"
         ]
       },
-      "Know2": {
+      "know2": {
         "rating": 30,
         "options": [
           "Field Science",
@@ -488,19 +488,19 @@
     "name": "Soldier",
     "description": "You serve a habitat polity, hypercorp, or mercenary outfit.",
     "skills": {
-      "Fray": {
+      "fray": {
         "rating": 40,
         "options": []
       },
-      "Guns": {
+      "guns": {
         "rating": 60,
         "options": []
       },
-      "Melee": {
+      "melee": {
         "rating": 30,
         "options": []
       },
-      "Know": {
+      "know": {
         "rating": 60,
         "options": [
           "Bodyguarding",
@@ -508,7 +508,7 @@
           "Security Ops"
         ]
       },
-      "Know2": {
+      "know2": {
         "rating": 30,
         "options": [
           "Conflict Zones",
@@ -525,7 +525,7 @@
     "name": "Techie",
     "description": "You make and fix things. You might be a roboticist, habitat tech, or artifex nano-engineer.",
     "skills": {
-      "Hardware": {
+      "hardware": {
         "rating": 60,
         "options": [
           "Electronics",
@@ -533,15 +533,15 @@
           "Robotics"
         ]
       },
-      "Infosec": {
+      "infosec": {
         "rating": 40,
         "options": []
       },
-      "Program": {
+      "program": {
         "rating": 30,
         "options": []
       },
-      "Know": {
+      "know": {
         "rating": 60,
         "options": [
           "Construction",
@@ -550,7 +550,7 @@
           "Nanofacturing"
         ]
       },
-      "Know2": {
+      "know2": {
         "rating": 30,
         "options": [
           "Computer Science",

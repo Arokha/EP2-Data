@@ -3,11 +3,11 @@
     "name": "Colonist",
     "description": "You were an original settler of Earth orbit, Luna, Mars, or a smaller outpost elsewhere, before the Fall.",
     "skills": {
-      "Free Fall": {
+      "free fall": {
         "rating": 40,
         "options": []
       },
-      "Hardware": {
+      "hardware": {
         "rating": 40,
         "options": [
           "Aerospace",
@@ -15,11 +15,11 @@
           "Industrial"
         ]
       },
-      "Interface": {
+      "interface": {
         "rating": 30,
         "options": []
       },
-      "Pilot": {
+      "pilot": {
         "rating": 30,
         "options": [
           "Air",
@@ -28,11 +28,11 @@
           "Space"
         ]
       },
-      "Survival": {
+      "survival": {
         "rating": 30,
         "options": []
       },
-      "Know": {
+      "know": {
         "rating": 60,
         "options": [
           "Administration",
@@ -40,7 +40,7 @@
           "Habitat Ops"
         ]
       },
-      "Know2": {
+      "know2": {
         "rating": 30,
         "options": [
           "Botany",
@@ -58,33 +58,33 @@
     "name": "Enclaver",
     "description": "On Earth, you lived a life of precarious but protected stability in a defended enclave.",
     "skills": {
-      "Athletics": {
+      "athletics": {
         "rating": 40,
         "options": []
       },
-      "Interface": {
+      "interface": {
         "rating": 40,
         "options": []
       },
-      "Kinesics": {
+      "kinesics": {
         "rating": 30,
         "options": []
       },
-      "Persuade": {
+      "persuade": {
         "rating": 20,
         "options": []
       },
-      "Pilot": {
+      "pilot": {
         "rating": 20,
         "options": [
           "Ground"
         ]
       },
-      "Program": {
+      "program": {
         "rating": 20,
         "options": []
       },
-      "Know": {
+      "know": {
         "rating": 60,
         "options": [
           "Celebrity Gossip",
@@ -92,7 +92,7 @@
           "Sports"
         ]
       },
-      "Know2": {
+      "know2": {
         "rating": 30,
         "options": [
           "Economics",
@@ -109,27 +109,27 @@
     "name": "Freelancer",
     "description": "You were a cog in the wheels of hypercapitalism, taking whatever gigs came your way.",
     "skills": {
-      "Interface": {
+      "interface": {
         "rating": 40,
         "options": []
       },
-      "Kinesics": {
+      "kinesics": {
         "rating": 20,
         "options": []
       },
-      "Persuade": {
+      "persuade": {
         "rating": 40,
         "options": []
       },
-      "Program": {
+      "program": {
         "rating": 30,
         "options": []
       },
-      "Research": {
+      "research": {
         "rating": 40,
         "options": []
       },
-      "Know": {
+      "know": {
         "rating": 60,
         "options": [
           "Accounting",
@@ -137,7 +137,7 @@
           "Freelancing"
         ]
       },
-      "Know2": {
+      "know2": {
         "rating": 30,
         "options": [
           "Craft Beers",
@@ -154,27 +154,27 @@
     "name": "Hyperelite",
     "description": "You lived in the top percent, with abundant wealth and resources.",
     "skills": {
-      "Athletics": {
+      "athletics": {
         "rating": 30,
         "options": []
       },
-      "Deceive": {
+      "deceive": {
         "rating": 30,
         "options": []
       },
-      "Kinesics": {
+      "kinesics": {
         "rating": 50,
         "options": []
       },
-      "Persuade": {
+      "persuade": {
         "rating": 30,
         "options": []
       },
-      "Provoke": {
+      "provoke": {
         "rating": 30,
         "options": []
       },
-      "Know": {
+      "know": {
         "rating": 60,
         "options": [
           "Fine Art",
@@ -182,7 +182,7 @@
           "Stock Market"
         ]
       },
-      "Know2": {
+      "know2": {
         "rating": 30,
         "options": [
           "Economics",
@@ -199,15 +199,15 @@
     "name": "Indenture",
     "description": "With nothing to lose, you sold yourself into a work contract for the off-world hypercorps.",
     "skills": {
-      "Fray or Melee": {
+      "fray or melee": {
         "rating": 20,
         "options": []
       },
-      "Free Fall": {
+      "free fall": {
         "rating": 40,
         "options": []
       },
-      "Hardware": {
+      "hardware": {
         "rating": 50,
         "options": [
           "Groundcraft",
@@ -215,15 +215,15 @@
           "Robotics"
         ]
       },
-      "Interface": {
+      "interface": {
         "rating": 40,
         "options": []
       },
-      "Perceive": {
+      "perceive": {
         "rating": 20,
         "options": []
       },
-      "Know": {
+      "know": {
         "rating": 60,
         "options": [
           "Asteroid Mining",
@@ -231,7 +231,7 @@
           "Terraforming"
         ]
       },
-      "Know2": {
+      "know2": {
         "rating": 30,
         "options": [
           "Black Markets",
@@ -248,15 +248,15 @@
     "name": "Infolife",
     "description": "You are an AGI, a digital consciousness born of software code.",
     "skills": {
-      "Infosec": {
+      "infosec": {
         "rating": 50,
         "options": []
       },
-      "Interface": {
+      "interface": {
         "rating": 50,
         "options": []
       },
-      "Program": {
+      "program": {
         "rating": 50,
         "options": [
           "Groundcraft",
@@ -264,11 +264,11 @@
           "Robotics"
         ]
       },
-      "Research": {
+      "research": {
         "rating": 20,
         "options": []
       },
-      "Know": {
+      "know": {
         "rating": 60,
         "options": [
           "Accounting",
@@ -276,7 +276,7 @@
           "System Administration"
         ]
       },
-      "Know2": {
+      "know2": {
         "rating": 30,
         "options": [
           "Computer Science",
@@ -293,15 +293,15 @@
     "name": "Isolate",
     "description": "You eked out a self-exiled existence in a remote habitat or ship on the fringes of occupied space.",
     "skills": {
-      "Free Fall": {
+      "free fall": {
         "rating": 40,
         "options": []
       },
-      "Guns": {
+      "guns": {
         "rating": 20,
         "options": []
       },
-      "Hardware": {
+      "hardware": {
         "rating": 40,
         "options": [
           "Aerospace",
@@ -309,13 +309,13 @@
           "Robotics"
         ]
       },
-      "Medicine": {
+      "medicine": {
         "rating": 20,
         "options": [
           "Paramedic"
         ]
       },
-      "Pilot": {
+      "pilot": {
         "rating": 30,
         "options": [
           "Air",
@@ -324,11 +324,11 @@
           "Space"
         ]
       },
-      "Survival": {
+      "survival": {
         "rating": 20,
         "options": []
       },
-      "Know": {
+      "know": {
         "rating": 60,
         "options": [
           "Flight Crew Ops",
@@ -336,7 +336,7 @@
           "Habitat Ops"
         ]
       },
-      "Know2": {
+      "know2": {
         "rating": 30,
         "options": [
           "Bioconservativism",
@@ -353,27 +353,27 @@
     "name": "Lost",
     "description": "You are a legacy of the doomed Lost Generation, undergoing an accelerated-growth childhood that left most others sociopathic or insane. You must purchase the Psi trait in Step 10.",
     "skills": {
-      "Deceive": {
+      "deceive": {
         "rating": 40,
         "options": []
       },
-      "Infiltrate": {
+      "infiltrate": {
         "rating": 20,
         "options": []
       },
-      "Kinesics": {
+      "kinesics": {
         "rating": 40,
         "options": []
       },
-      "Perceive": {
+      "perceive": {
         "rating": 20,
         "options": []
       },
-      "Psi": {
+      "psi": {
         "rating": 50,
         "options": []
       },
-      "Know": {
+      "know": {
         "rating": 60,
         "options": [
           "Biology",
@@ -381,7 +381,7 @@
           "Sociology"
         ]
       },
-      "Know2": {
+      "know2": {
         "rating": 30,
         "options": [
           "Privacy",
@@ -398,31 +398,31 @@
     "name": "Underclass",
     "description": "You are a veteran of the slums, favelas, ghettoes, and flooded cities of Earth. You used whatever means necessary to get by.",
     "skills": {
-      "Deceive": {
+      "deceive": {
         "rating": 30,
         "options": []
       },
-      "Fray": {
+      "fray": {
         "rating": 20,
         "options": []
       },
-      "Guns or Melee": {
+      "guns or melee": {
         "rating": 40,
         "options": []
       },
-      "Kinesics": {
+      "kinesics": {
         "rating": 40,
         "options": []
       },
-      "Perceive": {
+      "perceive": {
         "rating": 20,
         "options": []
       },
-      "Persuade": {
+      "persuade": {
         "rating": 20,
         "options": []
       },
-      "Know": {
+      "know": {
         "rating": 60,
         "options": [
           "Black Markets",
@@ -430,7 +430,7 @@
           "Triads"
         ]
       },
-      "Know2": {
+      "know2": {
         "rating": 30,
         "options": [
           "Con Artistry",
@@ -447,38 +447,38 @@
     "name": "Uplift",
     "description": "You are an uplift: the latest generation of bonobo, cetacean, chim- panzee, corvid, gorilla, neanderthal, octopus, orangutan, or parrot raised to human levels of intelligence.",
     "skills": {
-      "Athletics": {
+      "athletics": {
         "rating": 40,
         "options": []
       },
-      "Fray": {
+      "fray": {
         "rating": 20,
         "options": []
       },
-      "Kinesics": {
+      "kinesics": {
         "rating": 30,
         "options": []
       },
-      "Perceive": {
+      "perceive": {
         "rating": 40,
         "options": []
       },
-      "Provoke": {
+      "provoke": {
         "rating": 20,
         "options": []
       },
-      "Survival": {
+      "survival": {
         "rating": 20,
         "options": []
       },
-      "Know": {
+      "know": {
         "rating": 60,
         "options": [
           "Uplift Culture",
           "Uplife Rights"
         ]
       },
-      "Know2": {
+      "know2": {
         "rating": 30,
         "options": [
           "Genetics",
