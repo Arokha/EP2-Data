@@ -21,14 +21,14 @@
         ]
       },
       {
-        "name": "know2",
+        "name": "know",
         "rating": 40,
         "options": [
           "Any"
         ]
       },
       {
-        "name": "know3",
+        "name": "know",
         "rating": 30,
         "options": [
           "Administration",
@@ -70,7 +70,7 @@
         ]
       },
       {
-        "name": "know2",
+        "name": "know",
         "rating": 30,
         "options": [
           "Black Markets",
@@ -117,7 +117,7 @@
         ]
       },
       {
-        "name": "know2",
+        "name": "know",
         "rating": 30,
         "options": [
           "Cartel Politics",
@@ -171,7 +171,7 @@
         ]
       },
       {
-        "name": "know2",
+        "name": "know",
         "rating": 30,
         "options": [
           "Astrobiology",
@@ -213,7 +213,7 @@
         ]
       },
       {
-        "name": "know2",
+        "name": "know",
         "rating": 30,
         "options": [
           "Black Markets",
@@ -259,7 +259,7 @@
         ]
       },
       {
-        "name": "know2",
+        "name": "know",
         "rating": 30,
         "options": [
           "Lab Ops",
@@ -301,7 +301,7 @@
         ]
       },
       {
-        "name": "know2",
+        "name": "know",
         "rating": 30,
         "options": [
           "Data Processing",
@@ -343,7 +343,7 @@
         ]
       },
       {
-        "name": "know2",
+        "name": "know",
         "rating": 30,
         "options": [
           "Black Markets",
@@ -389,7 +389,7 @@
         ]
       },
       {
-        "name": "know2",
+        "name": "know",
         "rating": 30,
         "options": [
           "Body Bank Ops",
@@ -435,7 +435,7 @@
         ]
       },
       {
-        "name": "know2",
+        "name": "know",
         "rating": 30,
         "options": [
           "Body Bank Ops",
@@ -488,7 +488,7 @@
         ]
       },
       {
-        "name": "know2",
+        "name": "know",
         "rating": 30,
         "options": [
           "Black Markets",
@@ -533,7 +533,7 @@
         ]
       },
       {
-        "name": "know2",
+        "name": "know",
         "rating": 30,
         "options": [
           "Field Science",
@@ -575,7 +575,7 @@
         ]
       },
       {
-        "name": "know2",
+        "name": "know",
         "rating": 30,
         "options": [
           "Conflict Zones",
@@ -622,7 +622,7 @@
         ]
       },
       {
-        "name": "know2",
+        "name": "know",
         "rating": 30,
         "options": [
           "Computer Science",
