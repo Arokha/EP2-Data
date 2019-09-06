@@ -2,28 +2,33 @@
   {
     "name": "Academic",
     "description": "You devote your efforts to the pursuit of knowledge.",
-    "skills": {
-      "interface": {
+    "skills": [
+      {
+        "name": "interface",
         "rating": 30,
         "options": []
       },
-      "research": {
+      {
+        "name": "research",
         "rating": 60,
         "options": []
       },
-      "know": {
+      {
+        "name": "know",
         "rating": 60,
         "options": [
           "Any"
         ]
       },
-      "know2": {
+      {
+        "name": "know2",
         "rating": 40,
         "options": [
           "Any"
         ]
       },
-      "know3": {
+      {
+        "name": "know3",
         "rating": 30,
         "options": [
           "Administration",
@@ -31,7 +36,7 @@
           "Lab Ops"
         ]
       }
-    },
+    ],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "bfa6c88c-1512-425d-8b6d-fb4a3b789953"
@@ -39,20 +44,24 @@
   {
     "name": "Covert Operative",
     "description": "You are a spy, infiltrator, thief, or undercover agent, skilled at accessing places you don’t belong.",
-    "skills": {
-      "deceive": {
+    "skills": [
+      {
+        "name": "deceive",
         "rating": 40,
         "options": []
       },
-      "infiltrate": {
+      {
+        "name": "infiltrate",
         "rating": 60,
         "options": []
       },
-      "infosec": {
+      {
+        "name": "infosec",
         "rating": 30,
         "options": []
       },
-      "know": {
+      {
+        "name": "know",
         "rating": 60,
         "options": [
           "Security Ops",
@@ -60,7 +69,8 @@
           "Spycraft"
         ]
       },
-      "know2": {
+      {
+        "name": "know2",
         "rating": 30,
         "options": [
           "Black Markets",
@@ -68,7 +78,7 @@
           "Politics"
         ]
       }
-    },
+    ],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "66608922-41af-4009-8e24-6d80a96f936f"
@@ -76,24 +86,29 @@
   {
     "name": "Enforcer",
     "description": "You’re a thug, whether you’re wielding force for a hypercorp, cartel, habitat overseer, or autonomist militia.",
-    "skills": {
-      "fray": {
+    "skills": [
+      {
+        "name": "fray",
         "rating": 30,
         "options": []
       },
-      "guns": {
+      {
+        "name": "guns",
         "rating": 20,
         "options": []
       },
-      "melee": {
+      {
+        "name": "melee",
         "rating": 50,
         "options": []
       },
-      "provoke": {
+      {
+        "name": "provoke",
         "rating": 30,
         "options": []
       },
-      "know": {
+      {
+        "name": "know",
         "rating": 60,
         "options": [
           "Bodyguarding",
@@ -101,7 +116,8 @@
           "Security Ops"
         ]
       },
-      "know2": {
+      {
+        "name": "know2",
         "rating": 30,
         "options": [
           "Cartel Politics",
@@ -109,7 +125,7 @@
           "Night Clubs"
         ]
       }
-    },
+    ],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "1e7bad83-6ba7-4886-9f84-6861648081ba"
@@ -117,18 +133,21 @@
   {
     "name": "Explorer",
     "description": "You’ve walked on alien worlds and seen things with your own eyes that others wouldn’t believe.",
-    "skills": {
-      "athletics": {
+    "skills": [
+      {
+        "name": "athletics",
         "rating": 30,
         "options": []
       },
-      "medicine": {
+      {
+        "name": "medicine",
         "rating": 20,
         "options": [
           "Paramedic"
         ]
       },
-      "pilot": {
+      {
+        "name": "pilot",
         "rating": 20,
         "options": [
           "Air",
@@ -137,11 +156,13 @@
           "Space"
         ]
       },
-      "survival": {
+      {
+        "name": "survival",
         "rating": 60,
         "options": []
       },
-      "know": {
+      {
+        "name": "know",
         "rating": 60,
         "options": [
           "First-Contact Ops",
@@ -149,7 +170,8 @@
           "Surveying"
         ]
       },
-      "know2": {
+      {
+        "name": "know2",
         "rating": 30,
         "options": [
           "Astrobiology",
@@ -157,7 +179,7 @@
           "Xenoarcheology"
         ]
       }
-    },
+    ],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "7b084a76-23e7-4be3-804c-ae8768e8ebab"
@@ -165,20 +187,24 @@
   {
     "name": "Face",
     "description": "You excel at convincing others, even when it’s not in their best interest.",
-    "skills": {
-      "deceive": {
+    "skills": [
+      {
+        "name": "deceive",
         "rating": 40,
         "options": []
       },
-      "kinesics": {
+      {
+        "name": "kinesics",
         "rating": 30,
         "options": []
       },
-      "persuade": {
+      {
+        "name": "persuade",
         "rating": 60,
         "options": []
       },
-      "know": {
+      {
+        "name": "know",
         "rating": 60,
         "options": [
           "Fencing",
@@ -186,7 +212,8 @@
           "Smuggling"
         ]
       },
-      "know2": {
+      {
+        "name": "know2",
         "rating": 30,
         "options": [
           "Black Markets",
@@ -194,7 +221,7 @@
           "Underground XP"
         ]
       }
-    },
+    ],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "d7ebc86c-ef68-455d-b20b-d9d7bb7306f4"
@@ -202,24 +229,28 @@
   {
     "name": "Genehacker",
     "description": "DNA is your artistic medium, proteins your weapon of choice.",
-    "skills": {
-      "medicine": {
+    "skills": [
+      {
+        "name": "medicine",
         "rating": 60,
         "options": [
           "Biotech"
         ]
       },
-      "medicine2": {
+      {
+        "name": "medicine2",
         "rating": 40,
         "options": [
           "Pharmacology"
         ]
       },
-      "program": {
+      {
+        "name": "program",
         "rating": 30,
         "options": []
       },
-      "know": {
+      {
+        "name": "know",
         "rating": 60,
         "options": [
           "Biology",
@@ -227,7 +258,8 @@
           "Physiology"
         ]
       },
-      "know2": {
+      {
+        "name": "know2",
         "rating": 30,
         "options": [
           "Lab Ops",
@@ -235,7 +267,7 @@
           "Morph Design"
         ]
       }
-    },
+    ],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "a7853865-93bf-4f27-babc-374a0dc76f4c"
@@ -243,20 +275,24 @@
   {
     "name": "Hacker",
     "description": "Software heeds your beck and call, whether you seek to exploit systems or protect them.",
-    "skills": {
-      "infosec": {
+    "skills": [
+      {
+        "name": "infosec",
         "rating": 60,
         "options": []
       },
-      "interface": {
+      {
+        "name": "interface",
         "rating": 40,
         "options": []
       },
-      "program": {
+      {
+        "name": "program",
         "rating": 30,
         "options": []
       },
-      "know": {
+      {
+        "name": "know",
         "rating": 60,
         "options": [
           "Computer Science",
@@ -264,7 +300,8 @@
           "Mathematics"
         ]
       },
-      "know2": {
+      {
+        "name": "know2",
         "rating": 30,
         "options": [
           "Data Processing",
@@ -272,7 +309,7 @@
           "System Administration"
         ]
       }
-    },
+    ],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "b55b8371-56f7-47d3-9fb2-d0fa9460ce6d"
@@ -280,20 +317,24 @@
   {
     "name": "Investigator",
     "description": "Few details escape your scrutiny, whether you are a journalist, private investigator, detective, or insurance claims investigator.",
-    "skills": {
-      "kinesics": {
+    "skills": [
+      {
+        "name": "kinesics",
         "rating": 30,
         "options": []
       },
-      "perceive": {
+      {
+        "name": "perceive",
         "rating": 40,
         "options": []
       },
-      "research": {
+      {
+        "name": "research",
         "rating": 60,
         "options": []
       },
-      "know": {
+      {
+        "name": "know",
         "rating": 60,
         "options": [
           "Ego Hunting",
@@ -301,7 +342,8 @@
           "Journalism"
         ]
       },
-      "know2": {
+      {
+        "name": "know2",
         "rating": 30,
         "options": [
           "Black Markets",
@@ -309,7 +351,7 @@
           "Cartels"
         ]
       }
-    },
+    ],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "46496c7a-d252-4102-b711-506526bd0603"
@@ -317,24 +359,28 @@
   {
     "name": "Medic",
     "description": "You have a background in medicine and experience as a physician, surgeon, paramedic, body bank tech, or other type of medical specialist.",
-    "skills": {
-      "kinesics": {
+    "skills": [
+      {
+        "name": "kinesics",
         "rating": 30,
         "options": []
       },
-      "medicine": {
+      {
+        "name": "medicine",
         "rating": 60,
         "options": [
           "Paramedic"
         ]
       },
-      "medicine2": {
+      {
+        "name": "medicine2",
         "rating": 40,
         "options": [
           "Biotech"
         ]
       },
-      "know": {
+      {
+        "name": "know",
         "rating": 60,
         "options": [
           "Biology",
@@ -342,7 +388,8 @@
           "Psychology"
         ]
       },
-      "know2": {
+      {
+        "name": "know2",
         "rating": 30,
         "options": [
           "Body Bank Ops",
@@ -350,7 +397,7 @@
           "Surgical Ops"
         ]
       }
-    },
+    ],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "8906030f-f454-453d-a4d3-08060fd519a6"
@@ -358,24 +405,28 @@
   {
     "name": "Mindhacker",
     "description": "You meld and shape minds and memories. You might be a therapist, memeticist, or psychosurgeon pushing the bounds of cognition.",
-    "skills": {
-      "infosec": {
+    "skills": [
+      {
+        "name": "infosec",
         "rating": 30,
         "options": []
       },
-      "medicine": {
+      {
+        "name": "medicine",
         "rating": 40,
         "options": [
           "Pharmacology"
         ]
       },
-      "medicine2": {
+      {
+        "name": "medicine2",
         "rating": 60,
         "options": [
           "Psychosurgery"
         ]
       },
-      "know": {
+      {
+        "name": "know",
         "rating": 60,
         "options": [
           "Cognitive Science",
@@ -383,7 +434,8 @@
           "Psychology"
         ]
       },
-      "know2": {
+      {
+        "name": "know2",
         "rating": 30,
         "options": [
           "Body Bank Ops",
@@ -391,7 +443,7 @@
           "Social Services"
         ]
       }
-    },
+    ],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "ce343295-fe60-4c19-bf55-5664243054d7"
@@ -399,8 +451,9 @@
   {
     "name": "Scavenger",
     "description": "You scrounge through wrecks and ruins of the Fall, seeking value in the destruction.",
-    "skills": {
-      "hardware": {
+    "skills": [
+      {
+        "name": "hardware",
         "rating": 60,
         "options": [
           "Electronics",
@@ -408,13 +461,15 @@
           "Robotics"
         ]
       },
-      "hardware2": {
+      {
+        "name": "hardware2",
         "rating": 40,
         "options": [
           "Demolitions"
         ]
       },
-      "pilot": {
+      {
+        "name": "pilot",
         "rating": 30,
         "options": [
           "Air",
@@ -423,7 +478,8 @@
           "Space"
         ]
       },
-      "know": {
+      {
+        "name": "know",
         "rating": 60,
         "options": [
           "Flight Crew Ops",
@@ -431,7 +487,8 @@
           "Smuggling"
         ]
       },
-      "know2": {
+      {
+        "name": "know2",
         "rating": 30,
         "options": [
           "Black Markets",
@@ -439,7 +496,7 @@
           "TITAN Machines"
         ]
       }
-    },
+    ],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "400b2800-81d5-4682-b714-9ef92c2e4bb5"
@@ -447,23 +504,27 @@
   {
     "name": "Scientist",
     "description": "You seek to understand how the universe works — or at least certain elements of it.",
-    "skills": {
-      "hardware": {
+    "skills": [
+      {
+        "name": "hardware",
         "rating": 40,
         "options": [
           "Electronics",
           "Robotics"
         ]
       },
-      "program": {
+      {
+        "name": "program",
         "rating": 30,
         "options": []
       },
-      "research": {
+      {
+        "name": "research",
         "rating": 60,
         "options": []
       },
-      "know": {
+      {
+        "name": "know",
         "rating": 60,
         "options": [
           "Astrobiology",
@@ -471,7 +532,8 @@
           "Physics"
         ]
       },
-      "know2": {
+      {
+        "name": "know2",
         "rating": 30,
         "options": [
           "Field Science",
@@ -479,7 +541,7 @@
           "Lab Ops"
         ]
       }
-    },
+    ],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "744801e5-98b7-47a1-842f-efc291506818"
@@ -487,20 +549,24 @@
   {
     "name": "Soldier",
     "description": "You serve a habitat polity, hypercorp, or mercenary outfit.",
-    "skills": {
-      "fray": {
+    "skills": [
+      {
+        "name": "fray",
         "rating": 40,
         "options": []
       },
-      "guns": {
+      {
+        "name": "guns",
         "rating": 60,
         "options": []
       },
-      "melee": {
+      {
+        "name": "melee",
         "rating": 30,
         "options": []
       },
-      "know": {
+      {
+        "name": "know",
         "rating": 60,
         "options": [
           "Bodyguarding",
@@ -508,7 +574,8 @@
           "Security Ops"
         ]
       },
-      "know2": {
+      {
+        "name": "know2",
         "rating": 30,
         "options": [
           "Conflict Zones",
@@ -516,7 +583,7 @@
           "Mercenary Groups"
         ]
       }
-    },
+    ],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "6110818a-5946-4fd2-9744-9a29c6b4156e"
@@ -524,8 +591,9 @@
   {
     "name": "Techie",
     "description": "You make and fix things. You might be a roboticist, habitat tech, or artifex nano-engineer.",
-    "skills": {
-      "hardware": {
+    "skills": [
+      {
+        "name": "hardware",
         "rating": 60,
         "options": [
           "Electronics",
@@ -533,15 +601,18 @@
           "Robotics"
         ]
       },
-      "infosec": {
+      {
+        "name": "infosec",
         "rating": 40,
         "options": []
       },
-      "program": {
+      {
+        "name": "program",
         "rating": 30,
         "options": []
       },
-      "know": {
+      {
+        "name": "know",
         "rating": 60,
         "options": [
           "Construction",
@@ -550,7 +621,8 @@
           "Nanofacturing"
         ]
       },
-      "know2": {
+      {
+        "name": "know2",
         "rating": 30,
         "options": [
           "Computer Science",
@@ -558,7 +630,7 @@
           "Nanotechnology"
         ]
       }
-    },
+    ],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "5f6cff77-1778-4c40-b4eb-62bfc6c38d63"
