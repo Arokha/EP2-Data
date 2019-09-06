@@ -1,6 +1,6 @@
 [
   {
-    "sleight": "Charisma",
+    "name": "Charisma",
     "level": "Chi",
     "duration": "Constant",
     "action": "Automatic",
@@ -11,7 +11,7 @@
     "id": "df1f6a37-45d4-4589-a1e7-d185f0021556"
   },
   {
-    "sleight": "Control Behavior",
+    "name": "Control Behavior",
     "level": "Chi",
     "duration": "Constant",
     "action": "Automatic",
@@ -22,7 +22,7 @@
     "id": "732f56b5-c7b0-4fd7-9878-2f18b9b24f13"
   },
   {
-    "sleight": "Eco-Empathy",
+    "name": "Eco-Empathy",
     "level": "Chi",
     "duration": "Constant",
     "action": "Automatic",
@@ -33,7 +33,7 @@
     "id": "586b6db9-7173-494d-8b44-5a886f24d761"
   },
   {
-    "sleight": "Enhanced Creativity",
+    "name": "Enhanced Creativity",
     "level": "Chi",
     "duration": "Constant",
     "action": "Automatic",
@@ -44,7 +44,7 @@
     "id": "371db343-e290-4956-a82a-e270a1b962a7"
   },
   {
-    "sleight": "Enhanced Memory",
+    "name": "Enhanced Memory",
     "level": "Chi",
     "duration": "Constant",
     "action": "Automatic",
@@ -55,7 +55,7 @@
     "id": "919d336f-7162-46fe-bae2-e2840e9e009a"
   },
   {
-    "sleight": "Grok",
+    "name": "Grok",
     "level": "Chi",
     "duration": "Constant",
     "action": "Automatic",
@@ -66,7 +66,7 @@
     "id": "0d46e865-37e3-4ec0-b0be-d2f8d8a0b514"
   },
   {
-    "sleight": "Heightened Awareness",
+    "name": "Heightened Awareness",
     "level": "Chi",
     "duration": "Constant",
     "action": "Automatic",
@@ -77,7 +77,7 @@
     "id": "6f6d9941-340a-4340-9957-c9f354e8ed54"
   },
   {
-    "sleight": "High Pain Threshold",
+    "name": "High Pain Threshold",
     "level": "Chi",
     "duration": "Constant",
     "action": "Automatic",
@@ -88,7 +88,7 @@
     "id": "17f084ab-b2f4-407a-a0e3-d234a0df4995"
   },
   {
-    "sleight": "Inner Spark",
+    "name": "Inner Spark",
     "level": "Chi",
     "duration": "Constant",
     "action": "Automatic",
@@ -99,7 +99,7 @@
     "id": "2102c7c9-0211-46a4-b8e3-776d1156b471"
   },
   {
-    "sleight": "Pattern Recognition",
+    "name": "Pattern Recognition",
     "level": "Chi",
     "duration": "Constant",
     "action": "Automatic",
@@ -110,7 +110,7 @@
     "id": "4162f747-8935-490e-9710-990e4abdf8b9"
   },
   {
-    "sleight": "Predictive Boost",
+    "name": "Predictive Boost",
     "level": "Chi",
     "duration": "Constant",
     "action": "Automatic",
@@ -121,7 +121,7 @@
     "id": "e8e1532d-d4e1-4582-86eb-057064c93f13"
   },
   {
-    "sleight": "Psi Armor",
+    "name": "Psi Armor",
     "level": "Chi",
     "duration": "Constant",
     "action": "Automatic",
@@ -132,7 +132,7 @@
     "id": "3bd0a30b-9e3a-4e02-ad64-cb2a7b453d59"
   },
   {
-    "sleight": "Qualia",
+    "name": "Qualia",
     "level": "Chi",
     "duration": "Constant",
     "action": "Automatic",
@@ -143,7 +143,7 @@
     "id": "f81a89f5-2558-4ec6-974b-740f4f376d2d"
   },
   {
-    "sleight": "Savant Calculation",
+    "name": "Savant Calculation",
     "level": "Chi",
     "duration": "Constant",
     "action": "Automatic",
@@ -154,7 +154,7 @@
     "id": "bd11a0e2-8af3-4e79-96bd-fff0f52b7ec1"
   },
   {
-    "sleight": "Scramble",
+    "name": "Scramble",
     "level": "Chi",
     "duration": "Constant",
     "action": "Automatic",
@@ -165,7 +165,7 @@
     "id": "b99e7fdc-cff9-4098-9b05-f932fa5c6191"
   },
   {
-    "sleight": "Self Control",
+    "name": "Self Control",
     "level": "Chi",
     "duration": "Constant",
     "action": "Automatic",
@@ -176,7 +176,7 @@
     "id": "ee12f865-7026-471e-b76f-84d22a6a1d2d"
   },
   {
-    "sleight": "Social Cunning",
+    "name": "Social Cunning",
     "level": "Chi",
     "duration": "Constant",
     "action": "Automatic",
@@ -187,7 +187,7 @@
     "id": "eac1eda1-ab04-4fbb-96bb-7b4eddd8073e"
   },
   {
-    "sleight": "Somatic Control",
+    "name": "Somatic Control",
     "level": "Chi",
     "duration": "Constant",
     "action": "Automatic",
@@ -198,7 +198,7 @@
     "id": "7d00d94c-fd44-4a4a-8484-e8a8e4b92162"
   },
   {
-    "sleight": "Superior Kinesics",
+    "name": "Superior Kinesics",
     "level": "Chi",
     "duration": "Constant",
     "action": "Automatic",
@@ -209,7 +209,7 @@
     "id": "642b3944-8c4d-4909-a414-6bbb94cf5c82"
   },
   {
-    "sleight": "Xeno-Empathy",
+    "name": "Xeno-Empathy",
     "level": "Chi",
     "duration": "Constant",
     "action": "Automatic",
@@ -220,7 +220,7 @@
     "id": "a081157c-9a08-458a-a76b-e1d2bd6a5b07"
   },
   {
-    "sleight": "Alter Effect",
+    "name": "Alter Effect",
     "level": "Gamma",
     "duration": "Instant",
     "action": "Complex",
@@ -232,7 +232,7 @@
     "id": "1c5e7b38-0282-420b-bfde-1b5885b55f45"
   },
   {
-    "sleight": "Animal Control",
+    "name": "Animal Control",
     "level": "Gamma",
     "duration": "Sustained",
     "action": "Complex",
@@ -244,7 +244,7 @@
     "id": "4c511445-1d4d-4f7f-afa3-071c26317974"
   },
   {
-    "sleight": "Aphasia",
+    "name": "Aphasia",
     "level": "Gamma",
     "duration": "Minutes",
     "action": "Complex",
@@ -256,7 +256,7 @@
     "id": "cdea46ec-a512-44c2-9dcb-147042f8f152"
   },
   {
-    "sleight": "Basilisk Stare",
+    "name": "Basilisk Stare",
     "level": "Gamma",
     "duration": "Sustained",
     "action": "Task",
@@ -268,7 +268,7 @@
     "id": "baa915b4-e962-426c-ad92-bb591335614b"
   },
   {
-    "sleight": "Block Pain",
+    "name": "Block Pain",
     "level": "Gamma",
     "duration": "Minutes",
     "action": "Complex",
@@ -280,7 +280,7 @@
     "id": "357ba397-ab4b-4417-8eb4-2f3a24f7e5c7"
   },
   {
-    "sleight": "Block Sense",
+    "name": "Block Sense",
     "level": "Gamma",
     "duration": "Action Turns",
     "action": "Complex",
@@ -292,7 +292,7 @@
     "id": "97dcd062-f13c-4839-b916-977ce0d28432"
   },
   {
-    "sleight": "Block Skill",
+    "name": "Block Skill",
     "level": "Gamma",
     "duration": "Minutes",
     "action": "Complex",
@@ -304,7 +304,7 @@
     "id": "8ca1eb1d-e08b-42ab-af08-18ffbe3ed04f"
   },
   {
-    "sleight": "Browse Thoughts",
+    "name": "Browse Thoughts",
     "level": "Gamma",
     "duration": "Sustained",
     "action": "Complex",
@@ -316,7 +316,7 @@
     "id": "a56bb377-8a1f-4d23-8abb-c94e6bc3c823"
   },
   {
-    "sleight": "Burst of Adrenaline",
+    "name": "Burst of Adrenaline",
     "level": "Gamma",
     "duration": "Minutes",
     "action": "Complex",
@@ -328,7 +328,7 @@
     "id": "07292e0c-cfe2-4cee-8578-7a493270f98c"
   },
   {
-    "sleight": "Burst of Clarity",
+    "name": "Burst of Clarity",
     "level": "Gamma",
     "duration": "Minutes",
     "action": "Complex",
@@ -340,7 +340,7 @@
     "id": "dc3c9b7e-4c6c-4e7b-a80b-de985596778a"
   },
   {
-    "sleight": "Burst of Confidence",
+    "name": "Burst of Confidence",
     "level": "Gamma",
     "duration": "Minutes",
     "action": "Complex",
@@ -352,7 +352,7 @@
     "id": "5bdc65da-495f-4989-85db-5c5e59a06201"
   },
   {
-    "sleight": "Cloud Memory",
+    "name": "Cloud Memory",
     "level": "Gamma",
     "duration": "Minutes",
     "action": "Complex",
@@ -364,7 +364,7 @@
     "id": "7f6f6bc6-8907-4586-ba3a-8143bec00615"
   },
   {
-    "sleight": "Deep Scan",
+    "name": "Deep Scan",
     "level": "Gamma",
     "duration": "Sustaine",
     "action": "Complex",
@@ -376,7 +376,7 @@
     "id": "7d00e7b0-b850-4207-999b-ea63f014f5fd"
   },
   {
-    "sleight": "Deja Vu",
+    "name": "Deja Vu",
     "level": "Gamma",
     "duration": "Minutes",
     "action": "Complex",
@@ -388,7 +388,7 @@
     "id": "3b373b91-c0f0-40c1-ba05-39227d884f1f"
   },
   {
-    "sleight": "Downtime",
+    "name": "Downtime",
     "level": "Gamma",
     "duration": "Sustained",
     "action": "Task",
@@ -400,7 +400,7 @@
     "id": "46c96bbc-8eb0-46db-9cb1-16e5eea42463"
   },
   {
-    "sleight": "Ego Sense",
+    "name": "Ego Sense",
     "level": "Gamma",
     "duration": "Action Turns",
     "action": "Complex",
@@ -412,7 +412,7 @@
     "id": "88f008e8-4285-43d3-9831-e972e34c0105"
   },
   {
-    "sleight": "Empathic Scan",
+    "name": "Empathic Scan",
     "level": "Gamma",
     "duration": "Action Turns",
     "action": "Complex",
@@ -424,7 +424,7 @@
     "id": "0ed82f55-3987-4fcb-b2ea-89575a6b6d7b"
   },
   {
-    "sleight": "Illusion",
+    "name": "Illusion",
     "level": "Gamma",
     "duration": "Sustained",
     "action": "Complex",
@@ -436,7 +436,7 @@
     "id": "ef053517-fcb1-47ca-b155-02629661cbbd"
   },
   {
-    "sleight": "Implant Memory",
+    "name": "Implant Memory",
     "level": "Gamma",
     "duration": "Instant",
     "action": "Complex",
@@ -448,7 +448,7 @@
     "id": "a50d3d98-5bf4-4f13-9b86-dc28e3f9337b"
   },
   {
-    "sleight": "Implant Skill",
+    "name": "Implant Skill",
     "level": "Gamma",
     "duration": "Hours",
     "action": "Complex",
@@ -460,7 +460,7 @@
     "id": "102fb73f-13e5-4fdc-a7e5-92d23cd325a8"
   },
   {
-    "sleight": "Induce Error",
+    "name": "Induce Error",
     "level": "Gamma",
     "duration": "Minutes",
     "action": "Complex",
@@ -472,7 +472,7 @@
     "id": "8004d59e-c5ce-4ccf-9682-8e8f654becb0"
   },
   {
-    "sleight": "Infectious Mind",
+    "name": "Infectious Mind",
     "level": "Gamma",
     "duration": "Sustained",
     "action": "Complex",
@@ -484,7 +484,7 @@
     "id": "2f753b67-dd23-4985-be96-85b0d4bda5d4"
   },
   {
-    "sleight": "Influence",
+    "name": "Influence",
     "level": "Gamma",
     "duration": "Action Turns",
     "action": "Complex",
@@ -496,7 +496,7 @@
     "id": "2df766f7-9fa8-4168-8011-3672d91b78ea"
   },
   {
-    "sleight": "Invigorate",
+    "name": "Invigorate",
     "level": "Gamma",
     "duration": "Instant",
     "action": "Complex",
@@ -508,7 +508,7 @@
     "id": "a3460bd6-f739-4e1f-98c4-0cdbe62dc845"
   },
   {
-    "sleight": "Mimic",
+    "name": "Mimic",
     "level": "Gamma",
     "duration": "Instant",
     "action": "Quick",
@@ -520,7 +520,7 @@
     "id": "ce606eb4-8316-4f6d-8b03-8e2139b60b57"
   },
   {
-    "sleight": "Mindlink",
+    "name": "Mindlink",
     "level": "Gamma",
     "duration": "Sustained",
     "action": "Quick",
@@ -532,7 +532,7 @@
     "id": "54671885-ecbf-4faf-90de-453d064735e1"
   },
   {
-    "sleight": "Neural Hardening",
+    "name": "Neural Hardening",
     "level": "Gamma",
     "duration": "Minutes",
     "action": "Complex",
@@ -544,7 +544,7 @@
     "id": "cbb0f393-abbc-42b1-b83b-dd62f6ebe93a"
   },
   {
-    "sleight": "Nightmare",
+    "name": "Nightmare",
     "level": "Gamma",
     "duration": "Instant",
     "action": "Complex",
@@ -556,7 +556,7 @@
     "id": "65d63a0c-c39e-4c7c-bf49-7f6e799d58eb"
   },
   {
-    "sleight": "Pain",
+    "name": "Pain",
     "level": "Gamma",
     "duration": "Instant",
     "action": "Complex",
@@ -568,7 +568,7 @@
     "id": "d083900d-3208-4dac-bcb9-ae89a6794ef7"
   },
   {
-    "sleight": "Psi Shield",
+    "name": "Psi Shield",
     "level": "Gamma",
     "duration": "Sustained",
     "action": "Complex",
@@ -580,7 +580,7 @@
     "id": "dcc6dc31-7670-4417-9008-475b3c51a367"
   },
   {
-    "sleight": "Psychic Stab",
+    "name": "Psychic Stab",
     "level": "Gamma",
     "duration": "Instant",
     "action": "Complex",
@@ -592,7 +592,7 @@
     "id": "5e009fa5-65d6-4f66-805a-77564e1386c9"
   },
   {
-    "sleight": "Sense Infection",
+    "name": "Sense Infection",
     "level": "Gamma",
     "duration": "Instant",
     "action": "Complex",
@@ -604,7 +604,7 @@
     "id": "14279301-b959-48e3-9c8a-6ff69aa43e55"
   },
   {
-    "sleight": "Short Circuit",
+    "name": "Short Circuit",
     "level": "Gamma",
     "duration": "Instant",
     "action": "Complex",
@@ -616,7 +616,7 @@
     "id": "5126e823-fc1f-48cb-bd05-0422adad2211"
   },
   {
-    "sleight": "Spam",
+    "name": "Spam",
     "level": "Gamma",
     "duration": "Action Turns",
     "action": "Complex",
@@ -628,7 +628,7 @@
     "id": "f76c0e83-316b-47b5-9120-ff49fcbd1b50"
   },
   {
-    "sleight": "Static",
+    "name": "Static",
     "level": "Gamma",
     "duration": "Sustained",
     "action": "Complex",
@@ -640,7 +640,7 @@
     "id": "88117208-95c1-48fb-a643-d8b2c6079d88"
   },
   {
-    "sleight": "Subliminal",
+    "name": "Subliminal",
     "level": "Gamma",
     "duration": "Hours",
     "action": "Complex",
@@ -652,7 +652,7 @@
     "id": "38bdbcaa-e616-4d6d-82ce-50852c2bb331"
   },
   {
-    "sleight": "Tranqulity",
+    "name": "Tranqulity",
     "level": "Gamma",
     "duration": "Minutes",
     "action": "Complex",
@@ -664,7 +664,7 @@
     "id": "d19fccb2-d27a-49c3-8511-95085c0a949f"
   },
   {
-    "sleight": "Anti-Electronics Field",
+    "name": "Anti-Electronics Field",
     "level": "Epsilon",
     "duration": "Sustained",
     "action": "Complex",
@@ -676,7 +676,7 @@
     "id": "a0a0cd6e-4f23-4490-b14b-05ae270abf63"
   },
   {
-    "sleight": "Basilisk Aura",
+    "name": "Basilisk Aura",
     "level": "Epsilon",
     "duration": "Sustained",
     "action": "Complex",
@@ -688,7 +688,7 @@
     "id": "75ecd95b-165b-458c-b223-c77ff10b0faa"
   },
   {
-    "sleight": "Casimir Force Repulsion",
+    "name": "Casimir Force Repulsion",
     "level": "Epsilon",
     "duration": "Sustained",
     "action": "Complex",
@@ -700,7 +700,7 @@
     "id": "eb57b94b-9155-4eb3-a197-5ab728204771"
   },
   {
-    "sleight": "Cryokinesis",
+    "name": "Cryokinesis",
     "level": "Epsilon",
     "duration": "Sustained",
     "action": "Complex",
@@ -712,7 +712,7 @@
     "id": "ee5a0176-ba0d-4ec6-8371-e412909ab1b8"
   },
   {
-    "sleight": "Decerebration",
+    "name": "Decerebration",
     "level": "Epsilon",
     "duration": "Sustained",
     "action": "Complex",
@@ -724,7 +724,7 @@
     "id": "3eeab9c8-914d-4c2f-9e45-3cd305decc13"
   },
   {
-    "sleight": "Diffusion",
+    "name": "Diffusion",
     "level": "Epsilon",
     "duration": "Sustained",
     "action": "Complex",
@@ -736,7 +736,7 @@
     "id": "d4725d2a-41c0-4de6-bf9c-c26b92a2833a"
   },
   {
-    "sleight": "Kenetic Friction",
+    "name": "Kenetic Friction",
     "level": "Epsilon",
     "duration": "Sustained",
     "action": "Complex",
@@ -748,7 +748,7 @@
     "id": "02b8c5c6-e88b-4034-bab2-ac78c8e176db"
   },
   {
-    "sleight": "Negative Refraction",
+    "name": "Negative Refraction",
     "level": "Epsilon",
     "duration": "Sustained",
     "action": "Complex",
@@ -760,7 +760,7 @@
     "id": "435dd4cb-e4fc-4c6f-b8a7-888091f6e78c"
   },
   {
-    "sleight": "Puppeteer",
+    "name": "Puppeteer",
     "level": "Epsilon",
     "duration": "Sustained",
     "action": "Complex",
@@ -772,7 +772,7 @@
     "id": "3292f5fd-20b9-4c53-9e3c-ed0d3f8690e9"
   },
   {
-    "sleight": "Pryokinesis",
+    "name": "Pryokinesis",
     "level": "Epsilon",
     "duration": "Sustained",
     "action": "Complex",
@@ -784,7 +784,7 @@
     "id": "9f4d4196-fdf7-4cf0-b4d5-0ca9926d9ea3"
   },
   {
-    "sleight": "Strip Memory",
+    "name": "Strip Memory",
     "level": "Epsilon",
     "duration": "Days",
     "action": "Complex",

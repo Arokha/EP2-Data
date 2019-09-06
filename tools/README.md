@@ -14,3 +14,7 @@ Various little scripts to make our lives easier
 - Rewrite json files with proper 2 space indentations
 - Remove any illegal UTF8 BOM
 - Replace wrong minus sign encoding with the ascii minus sign to allow easy integer conversion
+- lowercase keys of top level objects
+- add `uuids` v4 when missing
+- add `resource`, and `reference` attributes.
+
