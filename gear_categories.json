@@ -12,7 +12,7 @@
       "quantum farcasters": {
         "text": "<p>Quantum farcasters are special computers designed to protect a communications channel with unbreakable encryption. To function, two or more quantum farcaster computers must first be entangled together (on a quantum level) in the same physical location. The farcasters are then separated, at which point they may continue to exchange encrypted data via quantum teleportation. This data exchange requires a standard communications link (i.e., fiberoptic, radio, laser/microwave, or neutrino), and so is limited by the speed of light, but it is a high bandwidth form of communication.The quantum encryption used by these entangled farcasters is unbreakable, and any attempted interception is immediately detected and neutralized. A quantum farcaster cannot be used to securely communicate with any farcasters other than the ones it is entangled with.</p>"
       },
-      "qe comms gear": {
+      "q.e. comms gear": {
         "text": "<p>QE communication is instantaneous and works over any distance, even hundreds of light years away, but is also very limited. QE communication requires pairs of entangled particles known as qubits. To use QE, large numbers of qubit pairs are created and then separated from each other. Millions of these separated particles are stored in special containers known as qubit reservoirs. If two QE communicators each have a qubit reservoir containing qubits that are each entangled with qubits in the other communicator’s qubit reservoir, then you can use the two QE communicators to commutate with one another instantaneously.</p><p> Each bit of data transmitted between QE comms uses up one qubit. Once all of the qubits are used up, the two QE comms can no longer communicate until they each get a new batch of entangled qubits. Qubits are expensive to produce, contain, and transport, making this a rare and expensive form of communication. As a result, extremely high bandwidth communications like full sensory XP and egocasting are avoided.</p><p> Because the entanglement process requires special equipment, QE comms gear cannot be nanofabricated.</p>"
       },
       "mesh hardware": {
@@ -27,7 +27,7 @@
     "name": "Creatures",
     "text": "<p>Living creatures cannot be nanofabricated, they must be acquired via Resources trait or rep.</p><p> Training and commanding creatures is handled with Exotic Skill: Animal Handling.</p>",
     "subcategories": {
-      "gmos": {
+      "g.m.o.s": {
         "text": "<p>A variety of transgenic, genehacked, and neogenetic creatures have become common in transhuman habitats.</p>"
       },
       "smart animals": {
