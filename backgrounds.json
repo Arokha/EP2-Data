@@ -2,12 +2,14 @@
   {
     "name": "Colonist",
     "description": "You were an original settler of Earth orbit, Luna, Mars, or a smaller outpost elsewhere, before the Fall.",
-    "skills": {
-      "free fall": {
+    "skills": [
+      {
+        "name": "free fall",
         "rating": 40,
         "options": []
       },
-      "hardware": {
+      {
+        "name": "hardware",
         "rating": 40,
         "options": [
           "Aerospace",
@@ -15,11 +17,13 @@
           "Industrial"
         ]
       },
-      "interface": {
+      {
+        "name": "interface",
         "rating": 30,
         "options": []
       },
-      "pilot": {
+      {
+        "name": "pilot",
         "rating": 30,
         "options": [
           "Air",
@@ -28,11 +32,13 @@
           "Space"
         ]
       },
-      "survival": {
+      {
+        "name": "survival",
         "rating": 30,
         "options": []
       },
-      "know": {
+      {
+        "name": "know",
         "rating": 60,
         "options": [
           "Administration",
@@ -40,7 +46,8 @@
           "Habitat Ops"
         ]
       },
-      "know2": {
+      {
+        "name": "know",
         "rating": 30,
         "options": [
           "Botany",
@@ -49,7 +56,7 @@
           "Physics"
         ]
       }
-    },
+    ],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "d6cae208-390c-4a8a-8558-78f402083d58"
@@ -57,34 +64,41 @@
   {
     "name": "Enclaver",
     "description": "On Earth, you lived a life of precarious but protected stability in a defended enclave.",
-    "skills": {
-      "athletics": {
+    "skills": [
+      {
+        "name": "athletics",
         "rating": 40,
         "options": []
       },
-      "interface": {
+      {
+        "name": "interface",
         "rating": 40,
         "options": []
       },
-      "kinesics": {
+      {
+        "name": "kinesics",
         "rating": 30,
         "options": []
       },
-      "persuade": {
+      {
+        "name": "persuade",
         "rating": 20,
         "options": []
       },
-      "pilot": {
+      {
+        "name": "pilot",
         "rating": 20,
         "options": [
           "Ground"
         ]
       },
-      "program": {
+      {
+        "name": "program",
         "rating": 20,
         "options": []
       },
-      "know": {
+      {
+        "name": "know",
         "rating": 60,
         "options": [
           "Celebrity Gossip",
@@ -92,7 +106,8 @@
           "Sports"
         ]
       },
-      "know2": {
+      {
+        "name": "know",
         "rating": 30,
         "options": [
           "Economics",
@@ -100,7 +115,7 @@
           "Psychology"
         ]
       }
-    },
+    ],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "b556b246-be0e-4e7d-9a42-81d2256441a1"
@@ -108,28 +123,34 @@
   {
     "name": "Freelancer",
     "description": "You were a cog in the wheels of hypercapitalism, taking whatever gigs came your way.",
-    "skills": {
-      "interface": {
+    "skills": [
+      {
+        "name": "interface",
         "rating": 40,
         "options": []
       },
-      "kinesics": {
+      {
+        "name": "kinesics",
         "rating": 20,
         "options": []
       },
-      "persuade": {
+      {
+        "name": "persuade",
         "rating": 40,
         "options": []
       },
-      "program": {
+      {
+        "name": "program",
         "rating": 30,
         "options": []
       },
-      "research": {
+      {
+        "name": "research",
         "rating": 40,
         "options": []
       },
-      "know": {
+      {
+        "name": "know",
         "rating": 60,
         "options": [
           "Accounting",
@@ -137,7 +158,8 @@
           "Freelancing"
         ]
       },
-      "know2": {
+      {
+        "name": "know",
         "rating": 30,
         "options": [
           "Craft Beers",
@@ -145,7 +167,7 @@
           "Sports"
         ]
       }
-    },
+    ],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "dbe12c5b-0b73-4952-97cc-c7e16552c02f"
@@ -153,28 +175,34 @@
   {
     "name": "Hyperelite",
     "description": "You lived in the top percent, with abundant wealth and resources.",
-    "skills": {
-      "athletics": {
+    "skills": [
+      {
+        "name": "athletics",
         "rating": 30,
         "options": []
       },
-      "deceive": {
+      {
+        "name": "deceive",
         "rating": 30,
         "options": []
       },
-      "kinesics": {
+      {
+        "name": "kinesics",
         "rating": 50,
         "options": []
       },
-      "persuade": {
+      {
+        "name": "persuade",
         "rating": 30,
         "options": []
       },
-      "provoke": {
+      {
+        "name": "provoke",
         "rating": 30,
         "options": []
       },
-      "know": {
+      {
+        "name": "know",
         "rating": 60,
         "options": [
           "Fine Art",
@@ -182,7 +210,8 @@
           "Stock Market"
         ]
       },
-      "know2": {
+      {
+        "name": "know",
         "rating": 30,
         "options": [
           "Economics",
@@ -190,7 +219,7 @@
           "Political Science"
         ]
       }
-    },
+    ],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "f120b2c5-e26d-44f1-80c4-4d75f8ac7669"
@@ -198,16 +227,19 @@
   {
     "name": "Indenture",
     "description": "With nothing to lose, you sold yourself into a work contract for the off-world hypercorps.",
-    "skills": {
-      "fray or melee": {
+    "skills": [
+      {
+        "name": "fray or melee",
         "rating": 20,
         "options": []
       },
-      "free fall": {
+      {
+        "name": "free fall",
         "rating": 40,
         "options": []
       },
-      "hardware": {
+      {
+        "name": "hardware",
         "rating": 50,
         "options": [
           "Groundcraft",
@@ -215,15 +247,18 @@
           "Robotics"
         ]
       },
-      "interface": {
+      {
+        "name": "interface",
         "rating": 40,
         "options": []
       },
-      "perceive": {
+      {
+        "name": "perceive",
         "rating": 20,
         "options": []
       },
-      "know": {
+      {
+        "name": "know",
         "rating": 60,
         "options": [
           "Asteroid Mining",
@@ -231,7 +266,8 @@
           "Terraforming"
         ]
       },
-      "know2": {
+      {
+        "name": "know",
         "rating": 30,
         "options": [
           "Black Markets",
@@ -239,7 +275,7 @@
           "XP Dealers"
         ]
       }
-    },
+    ],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "f742fa49-a748-467a-ba7e-c2b43488635a"
@@ -247,16 +283,19 @@
   {
     "name": "Infolife",
     "description": "You are an AGI, a digital consciousness born of software code.",
-    "skills": {
-      "infosec": {
+    "skills": [
+      {
+        "name": "infosec",
         "rating": 50,
         "options": []
       },
-      "interface": {
+      {
+        "name": "interface",
         "rating": 50,
         "options": []
       },
-      "program": {
+      {
+        "name": "program",
         "rating": 50,
         "options": [
           "Groundcraft",
@@ -264,11 +303,13 @@
           "Robotics"
         ]
       },
-      "research": {
+      {
+        "name": "research",
         "rating": 20,
         "options": []
       },
-      "know": {
+      {
+        "name": "know",
         "rating": 60,
         "options": [
           "Accounting",
@@ -276,7 +317,8 @@
           "System Administration"
         ]
       },
-      "know2": {
+      {
+        "name": "know",
         "rating": 30,
         "options": [
           "Computer Science",
@@ -284,7 +326,7 @@
           "Psychometrics"
         ]
       }
-    },
+    ],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "36c9d6d9-26ff-47df-a23f-8a608c0caf7a"
@@ -292,16 +334,19 @@
   {
     "name": "Isolate",
     "description": "You eked out a self-exiled existence in a remote habitat or ship on the fringes of occupied space.",
-    "skills": {
-      "free fall": {
+    "skills": [
+      {
+        "name": "free fall",
         "rating": 40,
         "options": []
       },
-      "guns": {
+      {
+        "name": "guns",
         "rating": 20,
         "options": []
       },
-      "hardware": {
+      {
+        "name": "hardware",
         "rating": 40,
         "options": [
           "Aerospace",
@@ -309,13 +354,15 @@
           "Robotics"
         ]
       },
-      "medicine": {
+      {
+        "name": "medicine",
         "rating": 20,
         "options": [
           "Paramedic"
         ]
       },
-      "pilot": {
+      {
+        "name": "pilot",
         "rating": 30,
         "options": [
           "Air",
@@ -324,11 +371,13 @@
           "Space"
         ]
       },
-      "survival": {
+      {
+        "name": "survival",
         "rating": 20,
         "options": []
       },
-      "know": {
+      {
+        "name": "know",
         "rating": 60,
         "options": [
           "Flight Crew Ops",
@@ -336,7 +385,8 @@
           "Habitat Ops"
         ]
       },
-      "know2": {
+      {
+        "name": "know",
         "rating": 30,
         "options": [
           "Bioconservativism",
@@ -344,7 +394,7 @@
           "Religion"
         ]
       }
-    },
+    ],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "3da139c9-2326-4074-b1cd-d592da3b6f46"
@@ -352,28 +402,34 @@
   {
     "name": "Lost",
     "description": "You are a legacy of the doomed Lost Generation, undergoing an accelerated-growth childhood that left most others sociopathic or insane. You must purchase the Psi trait in Step 10.",
-    "skills": {
-      "deceive": {
+    "skills": [
+      {
+        "name": "deceive",
         "rating": 40,
         "options": []
       },
-      "infiltrate": {
+      {
+        "name": "infiltrate",
         "rating": 20,
         "options": []
       },
-      "kinesics": {
+      {
+        "name": "kinesics",
         "rating": 40,
         "options": []
       },
-      "perceive": {
+      {
+        "name": "perceive",
         "rating": 20,
         "options": []
       },
-      "psi": {
+      {
+        "name": "psi",
         "rating": 50,
         "options": []
       },
-      "know": {
+      {
+        "name": "know",
         "rating": 60,
         "options": [
           "Biology",
@@ -381,7 +437,8 @@
           "Sociology"
         ]
       },
-      "know2": {
+      {
+        "name": "know",
         "rating": 30,
         "options": [
           "Privacy",
@@ -389,7 +446,7 @@
           "Mind Hacks"
         ]
       }
-    },
+    ],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "cfbf1fc6-9e0d-47eb-893c-d1ef4f54dc42"
@@ -397,32 +454,39 @@
   {
     "name": "Underclass",
     "description": "You are a veteran of the slums, favelas, ghettoes, and flooded cities of Earth. You used whatever means necessary to get by.",
-    "skills": {
-      "deceive": {
+    "skills": [
+      {
+        "name": "deceive",
         "rating": 30,
         "options": []
       },
-      "fray": {
+      {
+        "name": "fray",
         "rating": 20,
         "options": []
       },
-      "guns or melee": {
+      {
+        "name": "guns or melee",
         "rating": 40,
         "options": []
       },
-      "kinesics": {
+      {
+        "name": "kinesics",
         "rating": 40,
         "options": []
       },
-      "perceive": {
+      {
+        "name": "perceive",
         "rating": 20,
         "options": []
       },
-      "persuade": {
+      {
+        "name": "persuade",
         "rating": 20,
         "options": []
       },
-      "know": {
+      {
+        "name": "know",
         "rating": 60,
         "options": [
           "Black Markets",
@@ -430,7 +494,8 @@
           "Triads"
         ]
       },
-      "know2": {
+      {
+        "name": "know",
         "rating": 30,
         "options": [
           "Con Artistry",
@@ -438,7 +503,7 @@
           "Smuggling"
         ]
       }
-    },
+    ],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "eec5efa1-3e64-413d-b339-bbf2916f77a8"
@@ -446,39 +511,47 @@
   {
     "name": "Uplift",
     "description": "You are an uplift: the latest generation of bonobo, cetacean, chim- panzee, corvid, gorilla, neanderthal, octopus, orangutan, or parrot raised to human levels of intelligence.",
-    "skills": {
-      "athletics": {
+    "skills": [
+      {
+        "name": "athletics",
         "rating": 40,
         "options": []
       },
-      "fray": {
+      {
+        "name": "fray",
         "rating": 20,
         "options": []
       },
-      "kinesics": {
+      {
+        "name": "kinesics",
         "rating": 30,
         "options": []
       },
-      "perceive": {
+      {
+        "name": "perceive",
         "rating": 40,
         "options": []
       },
-      "provoke": {
+      {
+        "name": "provoke",
         "rating": 20,
         "options": []
       },
-      "survival": {
+      {
+        "name": "survival",
         "rating": 20,
         "options": []
       },
-      "know": {
+      {
+        "name": "know",
         "rating": 60,
         "options": [
           "Uplift Culture",
           "Uplife Rights"
         ]
       },
-      "know2": {
+      {
+        "name": "know",
         "rating": 30,
         "options": [
           "Genetics",
@@ -486,7 +559,7 @@
           "Zoology"
         ]
       }
-    },
+    ],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "49007793-96b0-46a4-8dfd-ebd9b2389a49"
