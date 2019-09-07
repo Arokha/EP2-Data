@@ -6,6 +6,7 @@
 */
 const assert = require('assert');
 const fs = require('fs');
+const UUID_REGEX = /^[0-9a-fA-F]{8}(?:-[0-9a-fA-F]{4}){3}-[0-9a-fA-F]{12}$/;
 
 // NOTE: Mocha supports dynamically generated "parameterzied" tests, but not when the test cases are obtained dynamically.
 // Therefore we must fetch the list of files to test on synchronously before we begin. Ah well.
@@ -42,6 +43,7 @@ describe("JSON Data Files", function() {
 					fileData.forEach((dataItem, i) => {
 						("id" in dataItem) || assert.fail(`Item ${i} in ${fileName} missing id`);
 						(dataItem.id != '') || assert.fail(`Item ${i} in ${fileName} has blank id`);
+						(UUID_REGEX.test(dataItem.id)) || assert.fail(`Item ${i} in ${fileName} is not a UUID`);
 					});
 				}
 			});
