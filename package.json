@@ -1,0 +1,23 @@
+{
+  "name": "ep2-data",
+  "version": "1.0.0",
+  "description": "Eclipse Phase Second Edition Data",
+  "license": "CC-BY-NC-SA-4.0",
+  "homepage": "https://github.com/Arokha/EP2-Data#readme",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arokha/EP2-Data.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Arokha/EP2-Data/issues"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  }
+}
