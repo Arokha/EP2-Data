@@ -2,6 +2,7 @@
   {
     "name": "Biomorph",
     "description": "Biomorphs are fully biological sleeves (often genetically modified and equipped with implants), birthed naturally or from an exowomb, and grown to adulthood either naturally or at a slightly accelerated rate.",
+    "biological": true,
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "0d6fbd0c-9148-4d1e-90ed-d221f2495fb5"
@@ -9,6 +10,7 @@
   {
     "name": "Pod",
     "description": "Pods (a colloquialism derived from “pod people”) were originally designed as biological androids. Their parts are vat-grown separately using accelerated-growth processes and assembled with a number of cybernetic system “short-cuts;” this entire process producing a functional body in a fraction of the time it takes to clone a standard biomorph. Cyberbrains replace their undeveloped gray matter. The first generations of pods were operated by ALIs and primarily used in service industries where a biological aesthetic was preferred to robots, in hazardous labor industries, and for sex work. They were visually distinguished from normal humans by stylized seamlined patterns in their skin, a designation that remains common today. In the wake of the Fall and the subsequent demand for more biomorphs, pods are now commonly sleeved by transhumans, especially indentures, but they still often suffer a classist stigma. Pods lack reproductive functions and are usually neuter. Non-human pods are increasingly common.",
+    "biological": true,
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "daf73ae3-a7ec-4b63-9c32-d16026edcc92"
@@ -16,6 +18,7 @@
   {
     "name": "Uplift",
     "description": "These biomorphs are the original bodies of various sapient non-humans. Though uncommon and sometimes stigmatized, they are also sleeved by non-uplifts.",
+    "biological": true,
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "f671e07a-85ca-433d-a626-19986ce7075a"
@@ -23,6 +26,7 @@
   {
     "name": "Synthmorph",
     "description": "Most synthmorph designs were originally intended to be robots, piloted by ALIs. Robot forms are optimized to suit their function, and so a wide variety of body plans exist. Robots designed to interact with transhumans often have biped or quadruped walker frames, to better navigate transhuman dwellings and spaces, but were often distinctly non-human in appearance. Many feature a sort of symbolic “face,” to give transhumans something to look at and interact with, but these were rarely realistic, so as to avoid uncanny-valley creepiness. Since the Fall, more synthmorphs have been designed specifically for transhuman egos, as they are cheaper and quicker to make than biomorphs. Without specialized robotic functions in mind, many of these synthmorph designs feature anthropomorphic frames (androids and gynoids) specifically tailored for egos used to human forms, including heads and distinctive (though still non-realistic) faces. As transhumanity grows accustomed to synthmorphs and more creative, however, innovative and unusual synthmorph designs become more common-place.<br>Synthmorphs — as well as bots, vehicles, and similar shells — share the following capabilities: <ul><li><b>Lack of Biological Functions - </b>Shells need not be bothered with trivialities like breathing, eating, defecating, aging, sleeping, or any similar minor but crucial aspects of biological life. They are also immune to toxins and pathogens. Synthmorphs are powered by nuclear and standard batteries, and sometimes solar power; for game purposes, power is not an issue for them.</li><li><b>Pain Filter - </b>Synthmorphs can filter out their pain receptors so that they are unhampered by wounds or physical damage. This allows them to ignore the −10 modifier from 1 wound (Wound Effects ▶220 ), but they suffer −30 on any tactile-based Perceive Tests and will not even notice they have been damaged unless they succeed in a (modified) Perceive Test.</li><li><b>Immunity to Shock - </b>Synthmorphs have no nervous system to disrupt, and their optical electronics are carefully shielded from interference. Shock attacks temporarily disrupt wireless radio communications, however, impeding all mesh actions until the end of the next action turn.</li><li><b>Environmental Durability - </b>Synthmorphs are built to withstand a wide range of environments, from dusty Mars to the oceans of Europa to the vacuum of space. They are unaffected by any but the most extreme temperatures and atmospheric pressures. Treat as cold tolerance ▶324 and vacuum sealing ▶325.</li><li><b>Toughness - </b> Synthetic shells are made to last — a fact reflected in their higher Durability and built-in Armor ratings. Their composition also makes their physical strikes more damaging; unarmed strikes by shells inflict DV 2d6.</li></ul>",
+    "biological": false,
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "93dcac18-8206-40c4-8f4f-4b4772eedd52"
@@ -30,6 +34,7 @@
   {
     "name": "Infomorph",
     "description": "Infomorphs are digital-only forms — they lack a physical body. They are software mind-states on which living egos are run, though they may be limited by the capabilities of the hardware that supports them. Rules for infomorphs can be found on ▶252.",
+    "biological": false,
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "c157e7ec-a2bd-4399-ab40-d15d701496af"
@@ -37,6 +42,7 @@
   {
     "name": "Flexbot",
     "description": "<p>Flexbots are modular and customizable, each composed of one or more modules that interlock in various shapes and configurations. Individual modules are specialized towards specific functions and also capable of transforming into a variety of shapes and mechanisms. They have 4 limbs in their default configurations. Independent modules are only the size of a large dog, but multiple flexbots can join together for larger mass operations, even taking on heavy-duty tasks such as demolition, excavation, manufacturing, construction, or robotics assembly. Flexbots can also incorporate any robot with Modular Design ware as modules.</p><p>Each flexbot is considered a single entity for rules purposes, no matter how many modules it has. Though the full range of flexbot possibilities is beyond the scope of this book, apply the following rules and keep an eye on past and future Eclipse Phase supplements:</p><ul><li>Choose one module to hold the ego — this module controls the others.</li><li>(Dis)connecting a module is a complex action and requires an Integration Test ▶288 . Modules not physically connected are handled as remote operation ▶346 .</li><li>When modules are combined, use their combined pools.</li><li>Modules must all be using the same mobility system or Movement Rate is halved.</li><li>A flexbot with 3-4 modules is medium- sized; 5-9 large; 10 or more very large.</li><li>A flexbot’s Armor Value equals the average of its modules’ AVs.</li><li>A flexbot’s DUR equals the combined DUR of its modules.</li><li>Wound Threshold equals DUR ÷ 5 and Death Rating equals DUR × 2.</li><li>Damage is applied evenly among modules. If a detached module has damage exceeding its Wound Threshold, a wound can be assigned to it. Distinct modules can be targeted with called shots.</li><li>Robots of varying sizes may be integrated as modules. Small bots count as full modules. Treat 5 very small bots as 1 module; only apply a pool bonus (equal to one bot’s pools) if there are at least five of the same type. A medium bot counts as 3 modules, a large bot as 5 modules, and a very large bot as 10 modules. Average their AV scores (taking into account the bots count as multiple modules) and combine DUR as defined above.</li><li>Bonuses from some traits and ware only apply if every module in the flexbot has them (e.g., chameleon skin); use common sense.</li></ul>",
+    "biological": false,
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "7eda9676-d8dc-40a5-9f14-1d8e3936ab56"
