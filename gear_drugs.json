@@ -230,11 +230,11 @@
     "name": "Meds",
     "type": "Nano",
     "application": "Inj, O",
-    "duration": "4 days",
+    "duration": "1 day",
     "addiction": "—",
     "complexity/gp": "Mod/2",
     "summary": "Heals 1d10 damage per hour or 1 wound per day.",
-    "description": "<p>Also known as yào or healing potions, this temporary infusion of medical nanobots spurs recovery from injury for biomorphs. For 4 days, you heal 1d10 damage per hour. If all damage is removed, you heal 1 wound per day. Certain injuries (shattered bones, severed limbs) may require further medical care.</p>",
+    "description": "<p>Also known as yào or healing potions, this temporary infusion of medical nanobots spurs recovery from injury for biomorphs. For 1 day, you heal 1d10 damage per hour. If all damage is removed, you instead heal 1 wound. Certain injuries (shattered bones, severed limbs) may require further medical care.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "ac883d5f-0a3f-4ed3-a964-e973adf31a5e"

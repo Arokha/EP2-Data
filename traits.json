@@ -1113,7 +1113,8 @@
     "type": "Negative",
     "cost": [
       1,
-      2
+      2,
+      3
     ],
     "ego": true,
     "morph": true,

@@ -841,7 +841,7 @@
     "meshware": false,
     "nanoware": false,
     "complexity/gp": "Min/1",
-    "summary": "Oxygen tank/rebreather with 3 hours of air.",
+    "summary": "Oxygen tank/rebreather with 4 hours of air.",
     "description": "<p>A miniature oxygen tank and rebreather is installed in your torso. When activated, it overrides your breathing reflex, feeding oxygen directly into your blood stream. This provides you with air for 4 hours and avoids problems with pressure changes. Implanted sensors automatically activate the implant if they detect poisonous or insufficient atmosphere (Know: Chemistry 80). This mod does not protect from vacuum exposure, but it will keep you conscious and active for longer, giving you time to find a vacsuit or help. Once the reserve is expended, it recovers one hour of oxygen for every hour you spend in a breathable atmosphere (or 15 minutes in a high-oxygen environment).</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
