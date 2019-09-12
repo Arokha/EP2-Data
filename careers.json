@@ -238,7 +238,7 @@
         ]
       },
       {
-        "name": "medicine2",
+        "name": "medicine",
         "rating": 40,
         "options": [
           "Pharmacology"
@@ -373,7 +373,7 @@
         ]
       },
       {
-        "name": "medicine2",
+        "name": "medicine",
         "rating": 40,
         "options": [
           "Biotech"
@@ -419,7 +419,7 @@
         ]
       },
       {
-        "name": "medicine2",
+        "name": "medicine",
         "rating": 60,
         "options": [
           "Psychosurgery"
@@ -462,7 +462,7 @@
         ]
       },
       {
-        "name": "hardware2",
+        "name": "hardware",
         "rating": 40,
         "options": [
           "Demolitions"
