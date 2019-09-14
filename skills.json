@@ -55,7 +55,7 @@
     "id": "ff6171e6-635f-4490-8e43-6a6e4196d6be"
   },
   {
-    "name": "Exotic Skill: [Field]",
+    "name": "Exotic Skill",
     "aptitude": "—",
     "active": true,
     "combat": false,
@@ -162,7 +162,7 @@
     "id": "c7c2fe78-b613-4603-be3d-d7d9c0f4f226"
   },
   {
-    "name": "Hardware: [Field]",
+    "name": "Hardware",
     "aptitude": "Cognition",
     "active": true,
     "combat": false,
@@ -300,7 +300,7 @@
     "id": "3450d624-dee2-4fc3-9f63-cc47ca26ecc4"
   },
   {
-    "name": "Know: [Field]",
+    "name": "Know",
     "aptitude": "Cognition/Intuition",
     "active": false,
     "combat": false,
@@ -333,7 +333,7 @@
     "technical": false,
     "social": false,
     "know": true,
-    "field": true,
+    "field": false,
     "mental": false,
     "psi": false,
     "vehicle": false,
@@ -383,7 +383,7 @@
     "technical": false,
     "social": false,
     "know": true,
-    "field": true,
+    "field": false,
     "mental": false,
     "psi": false,
     "vehicle": false,
@@ -420,7 +420,7 @@
     "technical": false,
     "social": false,
     "know": true,
-    "field": true,
+    "field": false,
     "mental": false,
     "psi": false,
     "vehicle": false,
@@ -462,7 +462,7 @@
     "technical": false,
     "social": false,
     "know": true,
-    "field": true,
+    "field": false,
     "mental": false,
     "psi": false,
     "vehicle": false,
@@ -517,7 +517,7 @@
     "id": "3ddf631f-85f1-4229-9b2f-44eafd6c9832"
   },
   {
-    "name": "Medicine: [Field]",
+    "name": "Medicine",
     "aptitude": "Cognition",
     "active": true,
     "combat": false,
@@ -623,7 +623,7 @@
     "id": "6c41efbd-b596-45ef-a187-4e2f6906578b"
   },
   {
-    "name": "Pilot: [Field]",
+    "name": "Pilot",
     "aptitude": "Reflexes",
     "active": true,
     "combat": false,
