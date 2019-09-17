@@ -285,7 +285,7 @@
     "name": "Morph Familiarity",
     "type": "Positive",
     "cost": [
-      6
+      1
     ],
     "ego": true,
     "morph": false,
