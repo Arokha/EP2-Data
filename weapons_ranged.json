@@ -299,7 +299,7 @@
     "range": "30",
     "complexity/gp": "Min/R/1",
     "notes": "",
-    "description": "<p>SMGs are designed in bullpup configurations for close-quarters operations and are ideal for tactical and strike teams.</p>",
+    "description": "<p>Holdout pistols sacrifice penetrating ability for concealability. Heavy pistols focus on stopping power, with medium pistols occupying a middle ground. Machine pistols use smaller caliber rounds but provide larger magazines for automatic firing.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "0221162b-179b-4906-9fa3-cda3a62af760"
