@@ -1810,15 +1810,20 @@
       "vigor": 0,
       "flex": 0
     },
-    "movement_rate": [
+    "movement_rate": [],
+    "ware": [
+      "Mnemonics"
+    ],
+    "morph_traits": [
       {
-        "movement_type": "Walker",
-        "base": 4,
-        "full": 20
+        "name": "Digital Speed",
+        "level": 0
+      },
+      {
+        "name": "Exotic Morphology",
+        "level": 3
       }
     ],
-    "ware": [],
-    "morph_traits": [],
     "common_extras": [],
     "notes": [],
     "common_shape_adjustments": [],
@@ -1838,20 +1843,27 @@
     "durability": 30,
     "death_rating": 0,
     "pools": {
-      "insight": 0,
-      "moxie": 0,
+      "insight": 1,
+      "moxie": 3,
       "vigor": 0,
       "flex": 0
     },
-    "movement_rate": [
+    "movement_rate": [],
+    "ware": [
+      "Copylock",
+      "Memory Lock",
+      "Mnemonics"
+    ],
+    "morph_traits": [
       {
-        "movement_type": "Walker",
-        "base": 4,
-        "full": 20
+        "name": "Digital Speed",
+        "level": 0
+      },
+      {
+        "name": "Exotic Morphology",
+        "level": 3
       }
     ],
-    "ware": [],
-    "morph_traits": [],
     "common_extras": [],
     "notes": [],
     "common_shape_adjustments": [],
@@ -1871,20 +1883,27 @@
     "durability": 40,
     "death_rating": 0,
     "pools": {
-      "insight": 0,
+      "insight": 4,
       "moxie": 0,
       "vigor": 0,
       "flex": 0
     },
-    "movement_rate": [
+    "movement_rate": [],
+    "ware": [
+      "Enhanced Security",
+      "E-Veil",
+      "Mnemonics"
+    ],
+    "morph_traits": [
       {
-        "movement_type": "Walker",
-        "base": 4,
-        "full": 20
+        "name": "Digital Speed",
+        "level": 0
+      },
+      {
+        "name": "Exotic Morphology",
+        "level": 3
       }
     ],
-    "ware": [],
-    "morph_traits": [],
     "common_extras": [],
     "notes": [],
     "common_shape_adjustments": [],
@@ -1904,20 +1923,27 @@
     "durability": 35,
     "death_rating": 0,
     "pools": {
-      "insight": 0,
+      "insight": 3,
       "moxie": 0,
       "vigor": 0,
-      "flex": 0
+      "flex": 1
     },
-    "movement_rate": [
+    "movement_rate": [],
+    "ware": [
+      "Drone Rig",
+      "Mnemonics",
+      "Oracles"
+    ],
+    "morph_traits": [
       {
-        "movement_type": "Walker",
-        "base": 4,
-        "full": 20
+        "name": "Digital Speed",
+        "level": 0
+      },
+      {
+        "name": "Exotic Morphology",
+        "level": 3
       }
     ],
-    "ware": [],
-    "morph_traits": [],
     "common_extras": [],
     "notes": [],
     "common_shape_adjustments": [],
