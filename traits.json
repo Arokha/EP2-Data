@@ -250,8 +250,7 @@
     "name": "Hardening",
     "type": "Positive",
     "cost": [
-      2,
-      4
+      1
     ],
     "ego": true,
     "morph": false,
