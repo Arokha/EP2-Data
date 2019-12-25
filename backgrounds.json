@@ -510,7 +510,7 @@
   },
   {
     "name": "Uplift",
-    "description": "You are an uplift: the latest generation of bonobo, cetacean, chim- panzee, corvid, gorilla, neanderthal, octopus, orangutan, or parrot raised to human levels of intelligence.",
+    "description": "You are an uplift: the latest generation of bonobo, cetacean, chimpanzee, corvid, gorilla, neanderthal, octopus, orangutan, or parrot raised to human levels of intelligence.",
     "skills": [
       {
         "name": "athletics",
