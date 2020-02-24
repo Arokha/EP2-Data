@@ -372,7 +372,7 @@
   {
     "category": "Armor",
     "subcategory": "Armor Gear",
-    "name": "Vacsuit (Light)",
+    "name": "Light Vacsuit",
     "energy": 5,
     "kinetic": 2,
     "stackable": false,
@@ -386,7 +386,7 @@
   {
     "category": "Armor",
     "subcategory": "Armor Gear",
-    "name": "Vacsuit (Standard)",
+    "name": "Standard Vacsuit",
     "energy": 8,
     "kinetic": 6,
     "stackable": false,
