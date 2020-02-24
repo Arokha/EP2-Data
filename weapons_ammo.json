@@ -134,7 +134,7 @@
   {
     "category": "Ranged Weapons",
     "subcategory": "Kinetic Ammo",
-    "name": "Railgun",
+    "name": "Rail (Railgun Ammo)",
     "damage": "—",
     "complexity/gp": "Min/R/1",
     "notes": "",
@@ -158,7 +158,7 @@
   {
     "category": "Ranged Weapons",
     "subcategory": "Kinetic Ammo",
-    "name": "Splash",
+    "name": "Splash Rounds",
     "damage": "No damage",
     "complexity/gp": "Min/1",
     "notes": "",
@@ -269,7 +269,7 @@
   {
     "category": "Ranged Weapons",
     "subcategory": "Seeker/Grenade Ammo",
-    "name": "Splash",
+    "name": "Splash Munitions",
     "areaeffect": "Uniform (10 m)",
     "damage": "—",
     "damage_avg": "—",
