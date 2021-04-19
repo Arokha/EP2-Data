@@ -451,7 +451,7 @@
   {
     "category": "Ranged Weapons",
     "subcategory": "Kinetic Weapons",
-    "name": "Railguns",
+    "name": "Railgun",
     "damage": "As Above",
     "damage_avg": "As Above",
     "firemodes": "As Above",
@@ -509,7 +509,7 @@
   {
     "category": "Ranged Weapons",
     "subcategory": "Seeker Weapons",
-    "name": "Seeker Rifle",
+    "name": "Seeker Rifle (Micromissile)",
     "firemodes": "SA",
     "ammo": "12 Micro",
     "range": "75",
@@ -523,12 +523,12 @@
   {
     "category": "Ranged Weapons",
     "subcategory": "Seeker Weapons",
-    "name": "Seeker Rifle",
+    "name": "Seeker Rifle (Minimissile)",
     "firemodes": "SA",
     "ammo": "6 Mini",
     "range": "150",
     "complexity/gp": "Maj/R/3",
-    "notes": "As above, just different ammo",
+    "notes": "No Close, Long, Two-Handed",
     "description": "<p>The seeker rifle comes in a bullpup configuration and fires either micromissiles or minimissiles.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",

@@ -109,7 +109,7 @@
   {
     "category": "Creatures",
     "subcategory": "GMOs",
-    "name": "Gardener Swarm",
+    "name": "Gardener Swarm (Creature)",
     "complexity/gp": "Min/1",
     "attributes": {
       "cognition": 1,

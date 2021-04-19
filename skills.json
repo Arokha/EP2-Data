@@ -181,9 +181,7 @@
       "Demolitions (explosives)",
       "Electronics",
       "Groundcraft",
-      "Industrial (factory",
-      "habitat",
-      "and life support systems)",
+      "Industrial (factory, habitat, and life support systems)",
       "Nautical (watercraft and submarines)",
       "Robotics (bots and synthmorphs)"
     ],
@@ -387,7 +385,7 @@
     "mental": false,
     "psi": false,
     "vehicle": false,
-    "description": "<p>Art fields include various modes of artistic expression and evaluation. This is a particularly useful skill in economies and clades where creativity and vision can be a key component of your reputation.</p><p>Use Art fields to bring your imagination to life, create a work of art, critique an artist’s style or performance, or appraise an artistic project’s worth.</p><p>Note that Art fields should not be used in place of Active skills to directly deceive, influence, or sway others. Crafting a realistic augmented reality illusion requires Program skill, incorporatinga hidden message within a public song or speech would rely on Deceive skill, making a speech to convince a panel or rally a crowd requires Persuade or Provoke. However, Art fields may be used as complementary skills ▶53 in such cases.</p>",
+    "description": "<p>Art fields include various modes of artistic expression and evaluation. This is a particularly useful skill in economies and clades where creativity and vision can be a key component of your reputation.</p><p>Use Art fields to bring your imagination to life, create a work of art, critique an artist’s style or performance, or appraise an artistic project’s worth.</p><p>Note that Art fields should not be used in place of Active skills to directly deceive, influence, or sway others. Crafting a realistic augmented reality illusion requires Program skill, incorporating a hidden message within a public song or speech would rely on Deceive skill, making a speech to convince a panel or rally a crowd requires Persuade or Provoke. However, Art fields may be used as complementary skills ▶53 in such cases.</p>",
     "sample_fields": [
       "Architecture",
       "AR Design",

@@ -190,7 +190,7 @@
   {
     "category": "Vehicles",
     "subcategory": "Exoskeletons",
-    "name": "Exowalker",
+    "name": "Exowalker Frame",
     "complexity/gp": "Maj/3",
     "passengers": 1,
     "vigor": 1,
@@ -223,7 +223,7 @@
   {
     "category": "Vehicles",
     "subcategory": "Exoskeletons",
-    "name": "Transporter",
+    "name": "Transporter Exoskeleton",
     "complexity/gp": "Mod/2",
     "passengers": 1,
     "vigor": 0,
@@ -256,7 +256,7 @@
   {
     "category": "Vehicles",
     "subcategory": "Exoskeletons",
-    "name": "Trike",
+    "name": "Trike Exoskeleton",
     "complexity/gp": "Mod/2",
     "passengers": 1,
     "vigor": 0,
@@ -629,7 +629,7 @@
   {
     "category": "Vehicles",
     "subcategory": "Hardsuits",
-    "name": "Standard Hardsuit",
+    "name": "Hardsuit",
     "complexity/gp": "Rare/6",
     "passengers": 1,
     "vigor": 1,
