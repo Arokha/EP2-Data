@@ -794,5 +794,89 @@
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
     "id": "f0f96e01-79a8-406f-885d-b8d1bc4adaf7"
+  },
+  {
+    "name": "Conjoin",
+    "level": "Chi",
+    "duration": "–",
+    "action": "–",
+    "modifier": "–",
+    "summary": "–",
+    "description": "<p>When you are within 40 meters of a fork of yourself in a biomorph who also has this sleight, your minds automatically merge with each other, sharing memories and experiences. Treat this as merging (▶ 292 EP2), but use WIL Check at +10 in place of Medicine: Psychosurgery and the process timeframe is 1 action turn per month apart. You can actively choose not to sync up your mind with a fork, but otherwise the process is automatic.</p>",
+    "resource": "Eclipse Phase: Multiplicity and Synthesis",
+    "reference": "",
+    "id": "7e885c47-a5ba-408f-874a-3b64219a8f51"
+  },
+  {
+    "name": "Possess",
+    "level": "Gamma",
+    "duration": "Sustained",
+    "action": "Complex",
+    "modifier": "6",
+    "summary": "–",
+    "description": "<p>This sleight is only available to asyncs with the Swarm sub-strain. You may possess the body of any async you are linked to with the Swarm Mind sleight. You control this body the same as if jamming a drone (▶ 346, EP2). You may use your own sleights, but you do not have access to the possessed async’s skills or sleights.</p>",
+    "resource": "Eclipse Phase: Multiplicity and Synthesis",
+    "reference": "",
+    "id": "cc970a15-0749-47c0-a4de-101a2e6507c4"
+  },
+  {
+    "name": "Remote Targeting",
+    "level": "Chi",
+    "duration": "–",
+    "action": "–",
+    "modifier": "–",
+    "summary": "–",
+    "description": "<p>This sleight is only available to asyncs with the Swarm sub-strain and Swarm Mind sleight. You may target others with your sleights via the mind and senses of an async you are currently linked to with the Swarm Mind sleight. The remote async may not take any other actions using Psi skill that turn. Make the Psi Test as normal, but use the distance between the remote async and the target for range purposes. If attempting to use the sleight at Touch range (▶ 276, EP2), the remote async must make the Melee Test to make contact with the target.</p>",
+    "resource": "Eclipse Phase: Multiplicity and Synthesis",
+    "reference": "",
+    "id": "26828e6f-09b8-422e-82f0-626e9b3d36b0"
+  },
+  {
+    "name": "Swarm Aid",
+    "level": "Chi",
+    "duration": "–",
+    "action": "–",
+    "modifier": "–",
+    "summary": "–",
+    "description": "<p>This sleight is only available to asyncs with the Swarm sub-strain and Swarm Mind sleight. You subconsciously draw upon the minds of others in the Swarm to aid your efforts. For every async you are currently linked to with the Swarm Mind sleight, you gain 1 addi- tional Flex pool, to a maximum of +3.</p>",
+    "resource": "Eclipse Phase: Multiplicity and Synthesis",
+    "reference": "",
+    "id": "cf0f70a8-5fe3-4b9c-a057-4c38003219d7"
+  },
+  {
+    "name": "Swarm Mind",
+    "level": "Chi",
+    "duration": "–",
+    "action": "–",
+    "modifier": "–",
+    "summary": "–",
+    "description": "<p>This sleight is only available to asyncs with the Swarm sub-strain. Whenever another async with this sleight is within 40 meters, your minds become interlinked. You may telepathically communicate with them and anyone else they are linked to. Language is a factor, but sounds, images, emotions, and other sensations may be trans- mitted. You can also experience via their senses in real-time and share memories. You can detect changes in the mental/emotional states of those you are linked to with a Perceive Test.</p>",
+    "resource": "Eclipse Phase: Multiplicity and Synthesis",
+    "reference": "",
+    "id": "a0f49900-f3b3-47c4-a9e9-cd7939b9fc4c"
+  },
+  {
+    "name": "Swarm Power",
+    "level": "Chi",
+    "duration": "–",
+    "action": "–",
+    "modifier": "–",
+    "summary": "–",
+    "description": "<p>This sleight is only available to asyncs with the Swarm sub-strain and Swarm Mind sleight. You may spend a Flex point to use a sleight known by another async to which you are currently linked via your Swarm Mind sleight, for as long as you remain connected. Assume that NPC asyncs have 1d6 randomly selected sleights, evenly split between psi-chi and psi-gamma.</p>",
+    "resource": "Eclipse Phase: Multiplicity and Synthesis",
+    "reference": "",
+    "id": "dba8b9c7-e47a-4fc7-9230-089fbf0f3e6e"
+  },
+  {
+    "name": "Synchroneity",
+    "level": "Chi",
+    "duration": "–",
+    "action": "–",
+    "modifier": "–",
+    "summary": "–",
+    "description": "<p>When you are within 40 meters of a fork of yourself in a biomorph who also has this sleight, you become subconsciously attuned and may synchronize your actions with perfect timing and coordination. You both act on the same Initiative. In situations where timing and coordination are a factor — including simultaneous attacks against the same opponent(s), hacking the same target, choreographed Athletics or Pilot maneuvers, etc. —you each receive a +10 modifier.</p><p>Asyncs with the Swarm Mind sleight may use this sleight to synchronize with any other async they are linked to who also has this sleight.</p>",
+    "resource": "Eclipse Phase: Multiplicity and Synthesis",
+    "reference": "",
+    "id": "a6f59ed3-de70-40da-96be-aea63f5c9e83"
   }
 ]

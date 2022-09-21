@@ -482,6 +482,22 @@
   {
     "category": "Ware",
     "subcategory": "Mental",
+    "name": "Hypermesh Link",
+    "bioware": false,
+    "cyberware": true,
+    "hardware": true,
+    "meshware": false,
+    "nanoware": false,
+    "complexity/gp": "Maj/3/R",
+    "summary": "Group mind-state, +1 Insight, can use Insight to borrow skills.",
+    "description": "<p>This ware was developed by the Neo-Synergists to create a group mind-state. Hypermeshed egos automatically share their real-time emotions, thoughts, and experiences with each other and also their memories and skills. These broadcasts can be tuned out to a low-level emotional “hum,” where changes in an emotional state can be picked up with a Perceive Test.</p><p>Hypermesh links are not for everyone — many find them too invasive or overwhelming. When first joining a group mind-state, you must make a SAV Check or suffer SV 1d10 from alienation. If you fail, you must make the test again in 24 hours.</p><p>Hypermeshed egos receive +1 Insight pool. You also gain a special use of Insight pool: you may spend an Insight point to makea test using the skill of another hypermeshed ego. For NPCs with this ware, treat this as being able to make any test with skill 50. At the GM's discretion, certain specialized skills may not be available.</p><p>The intimacy of the group mind-state means that hypermeshed egos cannot deceive or withhold secrets from each other. Egos in the group are also subject to personality bleed: attempts to identify you using Kinesics suffer a -30 modifier and you receive a +30 modifier to impersonate other hypermeshed egos.</p><p>Egos may voluntarily leave the group mind-state and sometimes do for privacy (though their memories are accessible later when they return). However, the hypermesh creates a dependency for everyone part of it for more than a week. If cut off from the hypermesh for 2 hours, you suffer a -10 modifier to all actions. If cut off for more than a day, you must make a WIL Check against SV 1d10/half. At the GM's discretion, you may continue to suffer stress if cut off for an extended period.</p><p>Forks of the same ego in the same hypermesh automatically merge in real-time (no tests necessary) as long as they remain linked.</p>",
+    "resource": "Eclipse Phase: Multiplicity and Synthesis",
+    "reference": "",
+    "id": "9a480750-339d-4e43-9ebf-9faf574279ef"
+  },
+  {
+    "category": "Ware",
+    "subcategory": "Mental",
     "name": "Memory Lock",
     "bioware": false,
     "cyberware": true,
@@ -527,6 +543,22 @@
     "reference": "",
     "id": "1c1fea81-e830-47d6-8539-72a0619b3139"
   },
+  {
+    "category": "Ware",
+    "subcategory": "Mental",
+    "name": "Multi-Ego Controls",
+    "bioware": false,
+    "cyberware": false,
+    "hardware": true,
+    "meshware": true,
+    "nanoware": false,
+    "complexity/gp": "Maj/3",
+    "summary": "Multiple egos may control the same morph simultaneously.",
+    "description": "<p>This cyberbrain enhancement allows more than one ego to control a single morph simultaneously. Up to 5 other egos in ghostrider modules can be linked to the primary cyberbrain. Each ego goes on their own Initiative order, allowing the morph to act multiple times during the action turn. Each ego must be assigned a specific function of the morph to control: movement, perception, specific weapons, or other capabilities. Only one ego may control a specific function each action turn, though other egos may access data from systems controlled by others. Switching control of a system is a free action, but the other ego may not use the system until the next turn. The morph's pools are shared by all linked egos. Modifiers applied to the morph affect each linked ego.</p><p>For hacking and control purposes, the ego in the primary cyberbrain is considered the controller node, with each ghostrider module puppeted to it.</p>",
+    "resource": "Eclipse Phase: Multiplicity and Synthesis",
+    "reference": "",
+    "id": "de4a71b0-31aa-4c88-8159-b5a49581f45b"
+  }, 
   {
     "category": "Ware",
     "subcategory": "Mental",
